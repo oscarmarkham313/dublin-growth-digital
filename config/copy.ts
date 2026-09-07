@@ -16,13 +16,15 @@ export const site = {
   formspree: "https://formspree.io/f/meendppv",
   whopCheckout: "https://whop.com/checkout/plan_EeyocfGbLALyC/",
   metaDescription:
-    "Dublin Growth Digital gets Irish businesses more customers — web design, Google Ads, Meta ads and SEO, built and run from Dublin.",
+    "Dublin Growth Digital is a lead generation and digital marketing agency for Irish businesses: Meta ads, Google Ads, SEO and web design for estate agents, solar installers, roofers and trades, run from Dublin for every county in Ireland.",
 };
 
 export const nav = {
   links: [
     { label: "Services", href: "/services" },
+    { label: "Industries", href: "/industries" },
     { label: "Results", href: "/results" },
+    { label: "Blog", href: "/blog" },
     { label: "About", href: "/about" },
     { label: "Contact", href: "/contact" },
   ],
@@ -35,7 +37,7 @@ export const home = {
     words: ["We", "get", "you", "customers"],
     // After the load-in, the last word rolls through these.
     rotating: ["customers", "enquiries", "bookings", "clients"],
-    sub: "Web design, Google Ads, Meta ads and SEO for Irish businesses that want the phone to ring. Built and run from Dublin.",
+    sub: "Lead generation for Irish estate agents, solar installers, roofers and trades: Meta ads, Google Ads, SEO and web design, run from Dublin for every county in Ireland and reported in enquiries, not impressions.",
     trust: { text: "Rated 4.9 by Irish businesses" },
     cta: { label: "Get your free growth audit", href: "#audit" },
     secondary: { label: "See the results", href: "/results" },
@@ -54,6 +56,8 @@ export const home = {
   services: {
     eyebrow: "What we do",
     heading: "Five ways in.",
+    intro:
+      "Dublin Growth Digital is a digital marketing agency for Irish businesses that want the phone to ring: lead generation for estate agents, solar installers, roofers, landscapers and renovation trades, with Meta ads, Google Ads, SEO, social media and web design run from Dublin for every county in Ireland. One number a week: enquiries, cost per enquiry and booked work.",
     items: [
       {
         number: "01",
@@ -369,6 +373,6 @@ export const leadModal = {
 };
 
 export const footer = {
-  line: "Dublin Growth Digital — web design, ads and SEO for Irish businesses.",
+  line: "Dublin Growth Digital: lead generation, Meta ads, Google Ads, SEO and web design for Irish businesses. Based in Dublin, working in every county in Ireland.",
   legal: [{ label: "Terms", href: "/terms" }],
 };

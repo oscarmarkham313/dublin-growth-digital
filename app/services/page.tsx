@@ -4,9 +4,10 @@ import Reveal from "@/components/Reveal";
 import MagneticButton from "@/components/MagneticButton";
 
 export const metadata: Metadata = {
-  title: "Services",
+  title: "Services: Meta Ads, Google Ads, SEO, Web Design & Social Media",
   description:
-    "Web design, Google Ads, Meta ads, SEO and social — done properly for Irish businesses.",
+    "Digital marketing services for Irish businesses: Meta ads and Google Ads management, SEO, web design and social media, run from Dublin and reported in enquiries. From €1,500 a month, no setup fee.",
+  alternates: { canonical: "/services/" },
 };
 
 export default function ServicesPage() {

@@ -97,6 +97,9 @@ export default function Home() {
             <h2 className="mt-4 text-4xl font-extrabold leading-[0.98] tracking-display md:text-6xl">
               {services.heading}
             </h2>
+            <p className="mt-6 max-w-2xl text-[15px] leading-relaxed text-text-2">
+              {services.intro}
+            </p>
           </Reveal>
 
           <div className="mt-14 border-t border-hairline">

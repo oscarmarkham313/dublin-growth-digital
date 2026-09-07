@@ -4,9 +4,10 @@ import ContactForm from "@/components/ContactForm";
 import Reveal from "@/components/Reveal";
 
 export const metadata: Metadata = {
-  title: "Contact",
+  title: "Contact Dublin Growth Digital: Book a 15-Minute Call",
   description:
-    "Talk to Dublin Growth Digital. We reply within one working day — usually faster.",
+    "Talk to Dublin Growth Digital about lead generation, Meta ads, Google Ads, SEO or a new website. We reply within one working day, usually faster.",
+  alternates: { canonical: "/contact/" },
 };
 
 const directHref = {
