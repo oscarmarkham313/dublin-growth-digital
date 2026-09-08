@@ -3,7 +3,7 @@ import { site } from "@/config/copy";
 import { industries } from "@/config/industries";
 import { counties } from "@/config/counties";
 import { posts } from "@/config/posts";
-import { servicePages } from "@/config/county-services";
+import { servicePages, isCountyIndexable } from "@/config/county-services";
 
 export const dynamic = "force-static";
 
@@ -27,12 +27,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.9,
   }));
 
-  const countyUrls: MetadataRoute.Sitemap = counties.map((c) => ({
-    url: `${site.domain}/locations/${c.slug}/`,
-    lastModified: now,
-    changeFrequency: "monthly",
-    priority: 0.7,
-  }));
+  // Only counties we actually let Google index belong in the sitemap;
+  // listing a noindex URL is a contradictory signal.
+  const countyUrls: MetadataRoute.Sitemap = counties
+    .filter((c) => isCountyIndexable(c.slug))
+    .map((c) => ({
+      url: `${site.domain}/locations/${c.slug}/`,
+      lastModified: now,
+      changeFrequency: "monthly",
+      priority: 0.85,
+    }));
 
   const postUrls: MetadataRoute.Sitemap = posts.map((p) => ({
     url: `${site.domain}/blog/${p.slug}/`,

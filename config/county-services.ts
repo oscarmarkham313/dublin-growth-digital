@@ -433,3 +433,24 @@ export const servicePageBy = (countySlug: string, serviceSlug: string) =>
 
 export const servicePagesForCounty = (countySlug: string) =>
   servicePages.filter((p) => p.countySlug === countySlug);
+
+/**
+ * Which county pages Google is allowed to index.
+ *
+ * The 26 county pages share one template and are ~62% identical to each other
+ * — the doorway pattern Google suppresses, and the most likely reason the
+ * Limerick page sits indexed but unranked. Rather than delete pages that are
+ * still useful to humans and to ad landing traffic, we let only the counties
+ * with genuine depth compete in search: Limerick (which now has three deep
+ * service pages beneath it) and Dublin (the home market, named in the brand).
+ *
+ * The rest stay live, linked and usable — just noindex, and out of the
+ * sitemap. Reversible: add a slug here the moment that county earns real
+ * content of its own.
+ */
+export const indexableCounties = new Set<string>([
+  "dublin",
+  ...servicePages.map((p) => p.countySlug),
+]);
+
+export const isCountyIndexable = (slug: string) => indexableCounties.has(slug);

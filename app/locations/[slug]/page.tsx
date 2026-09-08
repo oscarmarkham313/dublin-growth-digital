@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { counties, countyBySlug } from "@/config/counties";
-import { servicePagesForCounty } from "@/config/county-services";
+import { servicePagesForCounty, isCountyIndexable } from "@/config/county-services";
 import { industries, industryBySlug } from "@/config/industries";
 import { site } from "@/config/copy";
 import Reveal from "@/components/Reveal";
@@ -29,6 +29,9 @@ export async function generateMetadata({
     title: { absolute: `${title} | Dublin Growth Digital` },
     description,
     alternates: { canonical: `/locations/${c.slug}/` },
+    // Thin templated county pages are kept out of search — see
+    // indexableCounties in config/county-services.ts for why.
+    ...(isCountyIndexable(c.slug) ? {} : { robots: { index: false, follow: true } }),
     openGraph: {
       title,
       description,
