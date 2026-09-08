@@ -4,7 +4,8 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import { AnimatePresence, motion, useReducedMotion } from "framer-motion";
-import { nav } from "@/config/copy";
+import { nav, site } from "@/config/copy";
+import { offer } from "@/config/offer";
 import { ease } from "@/lib/tokens";
 
 export default function Nav() {
@@ -22,6 +23,47 @@ export default function Nav() {
       document.documentElement.style.overflow = "";
     };
   }, [open]);
+
+  // Conversion routes get a stripped header: logo, phone, one action.
+  // Nothing else on it can take a buyer away from the page.
+  if (pathname.startsWith("/offer")) {
+    return (
+      <header className="fixed inset-x-0 top-0 z-50 border-b border-hairline bg-bg/95 backdrop-blur">
+        <nav
+          className="mx-auto flex h-16 max-w-container items-center justify-between px-5 md:px-10"
+          aria-label="Main"
+        >
+          <Link href="/" aria-label="Dublin Growth Digital — home">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src="/logo.svg"
+              alt="Dublin Growth Digital"
+              className="h-9 w-auto"
+            />
+          </Link>
+
+          <div className="flex items-center gap-6">
+            <a
+              href={`tel:${site.phone}`}
+              className="text-[13px] text-text-2 transition-colors hover:text-ink"
+            >
+              {site.phoneDisplay}
+            </a>
+            {/* startsWith, not equality: trailingSlash is on, so the
+                route is "/offer/checkout/" */}
+            {!pathname.startsWith("/offer/checkout") && (
+              <Link
+                href={offer.close.cta.href}
+                className="hidden bg-ink px-5 py-2.5 text-[13px] font-semibold text-inverse transition-colors duration-200 hover:bg-accent sm:inline-block"
+              >
+                {offer.close.cta.label} — {offer.priceLabel}
+              </Link>
+            )}
+          </div>
+        </nav>
+      </header>
+    );
+  }
 
   return (
     <>

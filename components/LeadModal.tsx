@@ -61,7 +61,9 @@ export default function LeadModal() {
 
   /* ————— trigger logic ————— */
   useEffect(() => {
-    if (pathname.startsWith("/thank-you")) return;
+    // Never on conversion routes: a lead-magnet popup over a sales page
+    // competes with the thing we actually want them to do.
+    if (pathname.startsWith("/thank-you") || pathname.startsWith("/offer")) return;
 
     // owner/test override: ?leadmodal=1 opens immediately AND clears any
     // stored suppression, so normal visits behave fresh again afterwards
