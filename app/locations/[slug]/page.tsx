@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { counties, countyBySlug } from "@/config/counties";
+import { servicePagesForCounty } from "@/config/county-services";
 import { industries, industryBySlug } from "@/config/industries";
 import { site } from "@/config/copy";
 import Reveal from "@/components/Reveal";
@@ -51,6 +52,7 @@ export default async function CountyPage({
     .filter((x): x is NonNullable<typeof x> => Boolean(x));
   const others = industries.filter((i) => !c.focus.includes(i.slug));
   const neighbours = counties.filter((x) => x.province === c.province && x.slug !== c.slug);
+  const deepServices = servicePagesForCounty(c.slug);
 
   const faqs = [
     {
@@ -141,6 +143,33 @@ export default async function CountyPage({
           </div>
         </div>
       </section>
+
+      {/* Deep service pages for this county, where they exist. These carry the
+          detail the shared county template cannot, so link them prominently
+          rather than burying them in the footer. */}
+      {deepServices.length > 0 && (
+        <section className="border-b border-hairline bg-bg-alt py-16 md:py-20">
+          <div className="mx-auto max-w-container px-5 md:px-10">
+            <span className="eyebrow">Services in {c.name}</span>
+            <div className="mt-8 border-t border-hairline">
+              {deepServices.map((s) => (
+                <Link
+                  key={s.serviceSlug}
+                  href={`/locations/${s.countySlug}/${s.serviceSlug}/`}
+                  className="group flex flex-wrap items-baseline justify-between gap-x-8 gap-y-2 border-b border-hairline py-6 transition-colors hover:bg-ink md:py-7"
+                >
+                  <span className="text-2xl font-extrabold tracking-display transition-colors group-hover:text-inverse md:text-3xl">
+                    {s.service} in {c.name}
+                  </span>
+                  <span className="max-w-xl text-sm leading-relaxed text-text-3 transition-colors group-hover:text-inverse/70">
+                    {s.description}
+                  </span>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       <section className="border-b border-hairline bg-bg py-20 md:py-28">
         <div className="mx-auto grid max-w-container gap-12 px-5 md:grid-cols-2 md:gap-20 md:px-10">

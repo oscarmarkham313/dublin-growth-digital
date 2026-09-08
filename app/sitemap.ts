@@ -3,6 +3,7 @@ import { site } from "@/config/copy";
 import { industries } from "@/config/industries";
 import { counties } from "@/config/counties";
 import { posts } from "@/config/posts";
+import { servicePages } from "@/config/county-services";
 
 export const dynamic = "force-static";
 
@@ -11,7 +12,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const core: MetadataRoute.Sitemap = [
     { url: `${site.domain}/`, lastModified: now, changeFrequency: "weekly", priority: 1 },
     { url: `${site.domain}/services/`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
-    { url: `${site.domain}/offer/`, lastModified: now, changeFrequency: "monthly", priority: 0.9 },
     { url: `${site.domain}/results/`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
     { url: `${site.domain}/industries/`, lastModified: now, changeFrequency: "monthly", priority: 0.8 },
     { url: `${site.domain}/locations/`, lastModified: now, changeFrequency: "monthly", priority: 0.7 },
@@ -41,5 +41,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  return [...core, ...industryUrls, ...countyUrls, ...postUrls];
+  // Deep service x county pages — highest priority after the homepage:
+  // these are the pages built to rank for "<service> <county>".
+  const serviceUrls: MetadataRoute.Sitemap = servicePages.map((p) => ({
+    url: `${site.domain}/locations/${p.countySlug}/${p.serviceSlug}/`,
+    lastModified: now,
+    changeFrequency: "monthly",
+    priority: 0.95,
+  }));
+
+  return [...core, ...serviceUrls, ...industryUrls, ...countyUrls, ...postUrls];
 }

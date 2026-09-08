@@ -13,6 +13,12 @@ export const metadata: Metadata = {
   title: offer.meta.title,
   description: offer.meta.description,
   alternates: { canonical: "/offer/" },
+  // TEMPORARY: config/copy.ts still points whopCheckout at plan_EeyocfGbLALyC,
+  // which is the previous offer's plan (EUR750 deposit), not the EUR1,500
+  // one-time plan. Until that link is swapped, this page stays out of search
+  // and out of the sitemap so nobody can be sent to the wrong price.
+  // Remove this robots block and restore the sitemap entry when the plan is live.
+  robots: { index: false, follow: true },
   openGraph: {
     title: offer.meta.title,
     description: offer.meta.description,
