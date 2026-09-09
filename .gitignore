@@ -25,3 +25,7 @@ Thumbs.db
 .claude/
 skills-lock.json
 ad1-preview.html
+
+# Another session's work in progress — has a REPLACE_ME Calendly URL.
+# Remove this line once the real booking URL is in.
+/app/book/
