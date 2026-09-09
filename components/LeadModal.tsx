@@ -16,6 +16,7 @@
 import { usePathname } from "next/navigation";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { leadModal, site } from "@/config/copy";
+import { CONSENT_EVENT, readConsent } from "@/components/ConsentBanner";
 
 const SUPPRESS_KEY = "dgd-lead-suppressed-until";
 const EMAIL_VISITOR_KEY = "dgd-lead-email-visitor";
@@ -58,12 +59,28 @@ export default function LeadModal() {
   const panelRef = useRef<HTMLDivElement>(null);
   const previousFocus = useRef<HTMLElement | null>(null);
   const firedRef = useRef(false);
+  // Re-runs the trigger effect once the visitor answers the cookie banner.
+  const [consentAnswered, setConsentAnswered] = useState(
+    () => typeof window === "undefined" || readConsent() !== null,
+  );
+
+  useEffect(() => {
+    const onChange = () => setConsentAnswered(readConsent() !== null);
+    onChange();
+    window.addEventListener(CONSENT_EVENT, onChange);
+    return () => window.removeEventListener(CONSENT_EVENT, onChange);
+  }, []);
 
   /* ————— trigger logic ————— */
   useEffect(() => {
     // Never on conversion routes: a lead-magnet popup over a sales page
     // competes with the thing we actually want them to do.
-    if (pathname.startsWith("/thank-you") || pathname.startsWith("/offer")) return;
+    // Conversion routes: a lead-magnet popup competes with the thing we
+    // actually want them to do. Legal routes: interrupting someone reading
+    // about how we handle their data, with a form asking for their data,
+    // is not a good look.
+    const noModalOn = ["/thank-you", "/offer", "/privacy", "/terms"];
+    if (noModalOn.some((r) => pathname.startsWith(r))) return;
 
     // owner/test override: ?leadmodal=1 opens immediately AND clears any
     // stored suppression, so normal visits behave fresh again afterwards
@@ -91,6 +108,11 @@ export default function LeadModal() {
 
     if (suppressed()) return;
 
+    // Wait for the cookie banner to be answered. Stacking this modal on top
+    // of it buries the consent choice, which is both bad manners and bad
+    // compliance — the choice has to be freely made, not talked over.
+    if (!consentAnswered) return;
+
     const fire = () => {
       if (!firedRef.current && !suppressed()) {
         firedRef.current = true;
@@ -111,7 +133,7 @@ export default function LeadModal() {
       window.clearTimeout(t);
       window.removeEventListener("scroll", onScroll);
     };
-  }, [pathname]);
+  }, [pathname, consentAnswered]);
 
   /* any CTA linking to "#audit" opens the form directly — suppression
      never blocks an explicit click */

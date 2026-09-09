@@ -20,11 +20,16 @@ interface Props {
 
 export default function HeroVideo({ webm, mp4, poster }: Props) {
   const reduced = useReducedMotion();
+  // No files supplied — render nothing rather than requesting assets that
+  // do not exist. public/hero/ was empty, which cost every homepage visit
+  // three 404s before this guard existed.
+  const hasAssets = Boolean(poster) && Boolean(mp4 || webm);
   const [mode, setMode] = useState<"none" | "video" | "poster">("none");
   const [visible, setVisible] = useState(false);
   const [failed, setFailed] = useState(false);
 
   useEffect(() => {
+    if (!hasAssets) return;
     const desktop = window.matchMedia("(min-width: 768px)").matches;
     if (!desktop) {
       setMode("poster");
@@ -52,9 +57,9 @@ export default function HeroVideo({ webm, mp4, poster }: Props) {
       cancelled = true;
       window.removeEventListener("load", start);
     };
-  }, [reduced]);
+  }, [reduced, hasAssets]);
 
-  if (failed) return null;
+  if (failed || !hasAssets) return null;
 
   return (
     <div className="absolute inset-0 -z-10 overflow-hidden" aria-hidden="true">

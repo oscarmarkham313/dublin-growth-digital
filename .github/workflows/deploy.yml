@@ -28,6 +28,22 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run build
+        env:
+          # Without these, components/Analytics.tsx falls back to empty
+          # strings and BOTH trackers are silently skipped — which is
+          # exactly what happened from launch until 9 Sep 2026, so the
+          # site ran with no measurement at all while ads were spending.
+          #
+          # The pixel id is public (it appears in the page source), so it
+          # lives here rather than in a secret. GA4 comes from a repo
+          # variable: add NEXT_PUBLIC_GA4_ID under Settings -> Secrets and
+          # variables -> Actions -> Variables and it starts working on the
+          # next deploy, with no code change.
+          #
+          # Both are still gated behind consent at runtime — see
+          # components/ConsentBanner.tsx.
+          NEXT_PUBLIC_META_PIXEL_ID: "1618086275952154"
+          NEXT_PUBLIC_GA4_ID: ${{ vars.NEXT_PUBLIC_GA4_ID }}
       - uses: actions/upload-pages-artifact@v3
         with:
           path: out

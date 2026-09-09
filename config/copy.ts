@@ -41,10 +41,14 @@ export const home = {
     trust: { text: "Rated 4.9 by Irish businesses" },
     cta: { label: "Get your free growth audit", href: "#audit" },
     secondary: { label: "See the results", href: "/results" },
+    // Empty on purpose: public/hero/ has no files, and pointing at them
+    // made every homepage visit fire three 404s. HeroVideo renders nothing
+    // when a path is blank. Drop real files into public/hero/ and restore
+    // the paths here to turn the background video back on.
     video: {
-      webm: "/hero/hero.webm",
-      mp4: "/hero/hero.mp4",
-      poster: "/hero/poster.jpg",
+      webm: "",
+      mp4: "",
+      poster: "",
     },
   },
   proof: [
@@ -374,5 +378,8 @@ export const leadModal = {
 
 export const footer = {
   line: "Dublin Growth Digital: lead generation, Meta ads, Google Ads, SEO and web design for Irish businesses. Based in Dublin, working in every county in Ireland.",
-  legal: [{ label: "Terms", href: "/terms" }],
+  legal: [
+    { label: "Terms", href: "/terms" },
+    { label: "Privacy", href: "/privacy" },
+  ],
 };

@@ -10,6 +10,7 @@ import ChromeSwitch from "@/components/ChromeSwitch";
 import Analytics from "@/components/Analytics";
 import LeadModal from "@/components/LeadModal";
 import OfferStickyCta from "@/components/OfferStickyCta";
+import ConsentBanner from "@/components/ConsentBanner";
 
 const archivo = Archivo({
   subsets: ["latin"],
@@ -168,6 +169,7 @@ export default function RootLayout({
         <LeadModal />
         <OfferStickyCta />
         <Analytics />
+        <ConsentBanner />
       </body>
     </html>
   );
