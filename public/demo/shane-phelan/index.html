@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Shane Phelan Landscapes &mdash; Garden design and landscaping in Kilkenny</title>
+<meta name="description" content="Landscape gardeners based in Danesfort, Co. Kilkenny. Garden design, paving, planting and lawns for new and established homes across Kilkenny and the south east.">
+<meta name="robots" content="noindex,nofollow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>:root{--accent:#3f6b46;--dark:#2d4f33;--ink:#131a14;--wash:#f5f8f4}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+  color:var(--ink);background:#fff;line-height:1.6;overflow-x:hidden;
+  -webkit-font-smoothing:antialiased}
+img{display:block;max-width:100%}
+a{color:inherit;text-decoration:none}
+h1,h2,h3{font-family:'Fraunces','Georgia',serif;font-weight:600;line-height:1.15;
+  letter-spacing:-.015em}
+.wrap{width:min(1120px,calc(100% - 2.5rem));margin-inline:auto}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:.5rem;
+  padding:.95rem 1.6rem;border-radius:6px;font-weight:600;font-size:.97rem;
+  transition:transform .15s ease,background .15s ease;border:0;cursor:pointer}
+.btn:active{transform:translateY(1px)}
+.btn-primary{background:var(--accent);color:#fff}
+.btn-primary:hover{background:var(--dark)}
+.btn-ghost{background:transparent;color:#fff;border:1.5px solid rgba(255,255,255,.45)}
+.btn-ghost:hover{background:rgba(255,255,255,.12)}
+
+/* header */
+.hdr{position:sticky;top:0;z-index:60;background:rgba(255,255,255,.94);
+  backdrop-filter:blur(12px);border-bottom:1px solid #e9e6e1}
+.hdr-in{display:flex;align-items:center;justify-content:space-between;
+  gap:1rem;padding:.85rem 0}
+.brand{font-family:'Fraunces',serif;font-weight:600;font-size:1.12rem;
+  letter-spacing:-.02em;line-height:1.2}
+.brand small{display:block;font-family:'Inter',sans-serif;font-weight:500;
+  font-size:.66rem;letter-spacing:.14em;text-transform:uppercase;color:#8a8580}
+.hdr-cta{display:flex;align-items:center;gap:.6rem}
+.tel{font-weight:700;font-size:1.02rem;white-space:nowrap;color:var(--accent)}
+@media(max-width:720px){.tel span{display:none}.hdr-cta .btn{padding:.8rem 1.1rem;font-size:.9rem}}
+
+/* hero */
+.hero{position:relative;background:var(--ink);color:#fff;overflow:hidden;
+  padding:5.5rem 0 5rem}
+.hero::after{content:'';position:absolute;inset:0;
+  background:radial-gradient(1100px 520px at 78% 8%,rgba(255,255,255,.11),transparent 62%)}
+.hero-in{position:relative;z-index:2;max-width:700px}
+.eyebrow{display:inline-block;font-size:.72rem;font-weight:600;letter-spacing:.15em;
+  text-transform:uppercase;color:var(--accent);background:rgba(255,255,255,.07);
+  border:1px solid rgba(255,255,255,.14);padding:.42rem .85rem;border-radius:100px;
+  margin-bottom:1.5rem}
+.hero h1{font-size:clamp(2.2rem,5.6vw,3.9rem);margin-bottom:1.2rem}
+.hero p{font-size:clamp(1.02rem,2vw,1.2rem);color:rgba(255,255,255,.8);
+  max-width:37rem;margin-bottom:2.2rem}
+.hero-btns{display:flex;flex-wrap:wrap;gap:.8rem}
+
+/* trust strip */
+.trust{background:var(--wash);border-bottom:1px solid #e9e6e1;padding:1.6rem 0}
+.trust-in{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:1.4rem}
+.trust-item strong{display:block;font-family:'Fraunces',serif;font-size:1.5rem;
+  color:var(--accent);line-height:1.1}
+.trust-item span{font-size:.83rem;color:#6b6560}
+
+/* sections */
+section{padding:4.6rem 0}
+.sec-head{max-width:38rem;margin-bottom:2.8rem}
+.sec-head h2{font-size:clamp(1.7rem,3.6vw,2.5rem);margin-bottom:.7rem}
+.sec-head p{color:#6b6560}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(255px,1fr));gap:1.1rem}
+.card{border:1px solid #e9e6e1;border-radius:10px;padding:1.7rem;background:#fff;
+  transition:border-color .18s ease,transform .18s ease}
+.card:hover{border-color:var(--accent);transform:translateY(-2px)}
+.card h3{font-size:1.14rem;margin-bottom:.5rem}
+.card p{font-size:.93rem;color:#6b6560}
+.card-ic{width:38px;height:38px;border-radius:8px;background:var(--wash);
+  display:flex;align-items:center;justify-content:center;margin-bottom:1rem;
+  color:var(--accent)}
+.card-ic svg{width:20px;height:20px;stroke:currentColor;fill:none;stroke-width:1.7}
+
+/* areas */
+.areas{background:var(--wash)}
+.chips{display:flex;flex-wrap:wrap;gap:.5rem}
+.chip{background:#fff;border:1px solid #e2ded8;border-radius:100px;
+  padding:.48rem 1rem;font-size:.88rem;color:#4a4540}
+
+/* reviews */
+.rev{border-left:2.5px solid var(--accent);padding:.3rem 0 .3rem 1.4rem;
+  margin-bottom:1.8rem}
+.rev p{font-family:'Fraunces',serif;font-size:1.06rem;font-style:italic;
+  color:#2c2823;margin-bottom:.5rem}
+.rev cite{font-size:.85rem;color:#8a8580;font-style:normal;font-weight:500}
+.rev-note{font-size:.82rem;color:#8a8580;margin-top:1rem}
+.placeholder{border:1.5px dashed #c9c3bb;border-radius:10px;padding:1.8rem;
+  background:var(--wash);color:#6b6560;font-size:.93rem}
+.placeholder strong{display:block;color:var(--ink);margin-bottom:.4rem;
+  font-family:'Fraunces',serif;font-size:1.05rem}
+
+/* quote */
+.quote{background:var(--ink);color:#fff}
+.quote .sec-head h2{color:#fff}
+.quote .sec-head p{color:rgba(255,255,255,.72)}
+.qgrid{display:grid;grid-template-columns:1fr 1fr;gap:3rem;align-items:start}
+@media(max-width:840px){.qgrid{grid-template-columns:1fr;gap:2.2rem}}
+.field{margin-bottom:1rem}
+.field label{display:block;font-size:.82rem;font-weight:600;margin-bottom:.38rem;
+  color:rgba(255,255,255,.82)}
+.field input,.field textarea,.field select{width:100%;padding:.85rem .95rem;
+  border-radius:6px;border:1px solid rgba(255,255,255,.2);
+  background:rgba(255,255,255,.07);color:#fff;font-family:inherit;font-size:.95rem}
+.field input::placeholder,.field textarea::placeholder{color:rgba(255,255,255,.38)}
+.field input:focus,.field textarea:focus,.field select:focus{outline:0;
+  border-color:var(--accent);background:rgba(255,255,255,.11)}
+.field select option{background:var(--ink);color:#fff}
+.qside li{list-style:none;display:flex;gap:.75rem;margin-bottom:1.05rem;
+  color:rgba(255,255,255,.82);font-size:.95rem}
+.qside li svg{width:19px;height:19px;flex-shrink:0;margin-top:.22rem;
+  stroke:var(--accent);fill:none;stroke-width:2}
+.qcall{margin-top:1.8rem;padding-top:1.8rem;border-top:1px solid rgba(255,255,255,.14)}
+.qcall span{font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;
+  color:rgba(255,255,255,.5);display:block;margin-bottom:.3rem}
+.qcall a{font-family:'Fraunces',serif;font-size:1.85rem;color:#fff}
+
+/* footer */
+footer{background:#0c0a08;color:rgba(255,255,255,.6);padding:3rem 0 2rem;font-size:.89rem}
+.f-in{display:flex;flex-wrap:wrap;gap:2rem;justify-content:space-between;
+  padding-bottom:2rem;border-bottom:1px solid rgba(255,255,255,.1)}
+.f-in a{color:rgba(255,255,255,.85)}
+.f-bot{padding-top:1.4rem;font-size:.8rem;color:rgba(255,255,255,.4);
+  display:flex;flex-wrap:wrap;gap:.6rem;justify-content:space-between}
+
+/* spec-work banner. These pages carry a real company's name and sit at a
+   public URL, so they must never read as that company's official site. */
+.demo{background:#1c1a17;color:#f3efe9;font-size:.82rem;padding:.62rem 0;
+  border-bottom:1px solid rgba(255,255,255,.13);text-align:center;line-height:1.45}
+.demo b{color:#fff}
+.demo a{text-decoration:underline;color:#cbbfae}
+
+/* sticky mobile call bar */
+.callbar{display:none}
+@media(max-width:720px){
+  .callbar{display:flex;position:fixed;bottom:0;left:0;right:0;z-index:70;
+    border-top:1px solid #e2ded8;background:rgba(255,255,255,.97);
+    backdrop-filter:blur(10px);padding:.6rem;gap:.55rem}
+  .callbar .btn{flex:1;padding:.85rem}
+  body{padding-bottom:4.2rem}
+  section{padding:3.4rem 0}
+  .hero{padding:3.6rem 0 3.4rem}
+}
+</style>
+</head>
+<body>
+
+<div class="demo"><div class="wrap">
+  <b>Design concept, not an official website.</b> This page was built on spec by
+  Dublin Growth Digital to show Shane Phelan Landscapes what their site could look like. It is not
+  affiliated with or authorised by Shane Phelan Landscapes, and the enquiry form is not monitored.
+  <a href="https://dublingrowthdigital.com">Who made this?</a>
+</div></div>
+
+<header class="hdr"><div class="wrap hdr-in">
+  <div class="brand">Shane Phelan Landscapes<small>Landscape gardeners &middot; Co. Kilkenny</small></div>
+  <div class="hdr-cta">
+    <a class="tel" href="tel:0567700848"><span>Call </span>056 770 0848</a>
+    <a class="btn btn-primary" href="#quote">Get a quote</a>
+  </div>
+</div></header>
+
+<div class="hero"><div class="wrap hero-in">
+  <span class="eyebrow">Danesfort, Co. Kilkenny</span>
+  <h1>Gardens built properly, by people who trained to do it</h1>
+  <p>Shane Phelan Landscapes has been building gardens across Kilkenny and the south east since the mid-nineties — from full garden builds for new homes to paving, planting and lawns for houses that deserve better outside than in.</p>
+  <div class="hero-btns">
+    <a class="btn btn-primary" href="#quote">Get a free quote</a>
+    <a class="btn btn-ghost" href="tel:0567700848">056 770 0848</a>
+  </div>
+</div></div>
+
+<div class="trust"><div class="wrap trust-in"><div class="trust-item"><strong>Since 1994</strong><span>Trading over 30 years</span></div>
+<div class="trust-item"><strong>Kildalton</strong><span>Horticulture trained</span></div>
+<div class="trust-item"><strong>Kilkenny</strong><span>Based in Danesfort</span></div>
+<div class="trust-item"><strong>Free</strong><span>Quotes and site visits</span></div></div></div>
+
+<section><div class="wrap">
+  <div class="sec-head"><h2>What we do</h2><p>Domestic and commercial landscaping, start to finish. If it is outside the house, we will price it.</p></div>
+  <div class="grid"><div class="card"><div class="card-ic"><svg viewBox="0 0 24 24"><path d="M14.7 6.3a4 4 0 01 5.3 5.3l-1.4-1.4M14.7 6.3L3 18v3h3L17.7 9.3"/></svg></div>
+        <h3>Full garden builds</h3><p>New-build gardens taken from bare ground to finished space — levels, drainage, hard landscaping, planting and lawn.</p></div>
+<div class="card"><div class="card-ic"><svg viewBox="0 0 24 24"><path d="M14.7 6.3a4 4 0 01 5.3 5.3l-1.4-1.4M14.7 6.3L3 18v3h3L17.7 9.3"/></svg></div>
+        <h3>Paving and patios</h3><p>Patios, paths and kerbing laid on proper foundations so they stay flat and stay put through Irish winters.</p></div>
+<div class="card"><div class="card-ic"><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg></div>
+        <h3>Planting and lawns</h3><p>Planting schemes chosen for the site and the soil, plus seeded and turfed lawns that establish properly.</p></div>
+<div class="card"><div class="card-ic"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg></div>
+        <h3>Garden maintenance</h3><p>Ongoing upkeep for gardens we have built and gardens we have not — cutting, pruning, feeding and seasonal tidy-ups.</p></div>
+<div class="card"><div class="card-ic"><svg viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
+        <h3>Fencing and boundaries</h3><p>Fencing, screening and boundary work built to last, finished to the same standard as the rest of the garden.</p></div>
+<div class="card"><div class="card-ic"><svg viewBox="0 0 24 24"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"/><circle cx="12" cy="10" r="3"/></svg></div>
+        <h3>Commercial grounds</h3><p>Grounds and landscaping for businesses, estates and developments across the south east.</p></div></div>
+</div></section>
+
+<section class="areas"><div class="wrap">
+  <div class="sec-head"><h2>Where we work</h2><p>Based in Danesfort, just outside Kilkenny city, and working across Kilkenny and the surrounding counties.</p></div>
+  <div class="chips"><span class="chip">Kilkenny City</span>
+<span class="chip">Danesfort</span>
+<span class="chip">Bennettsbridge</span>
+<span class="chip">Thomastown</span>
+<span class="chip">Callan</span>
+<span class="chip">Castlecomer</span>
+<span class="chip">Graiguenamanagh</span>
+<span class="chip">Carlow</span>
+<span class="chip">Waterford</span>
+<span class="chip">Tipperary</span>
+<span class="chip">Laois</span>
+<span class="chip">Wexford</span></div>
+</div></section>
+
+<section><div class="wrap">
+  <div class="sec-head"><h2>What customers say</h2></div>
+  <div class="placeholder"><strong>Your reviews go here</strong>
+        This space is built and styled, ready for real customer reviews from Shane Phelan Landscapes.
+        Nothing has been invented to fill it &mdash; send over your Google reviews or a few
+        customer quotes and they drop straight in.</div>
+</div></section>
+
+<section class="quote" id="quote"><div class="wrap">
+  <div class="sec-head"><h2>Get a free quote</h2><p>Tell us what you are thinking and we will come out, look at the site and price it properly. No charge for the visit.</p></div>
+  <div class="qgrid">
+    <form action="https://formspree.io/f/REPLACE_ME" method="POST">
+      <div class="field"><label for="n">Your name</label>
+        <input id="n" name="name" required placeholder="Jane Murphy"></div>
+      <div class="field"><label for="p">Phone</label>
+        <input id="p" name="phone" type="tel" required placeholder="087 123 4567"></div>
+      <div class="field"><label for="e">Email</label>
+        <input id="e" name="email" type="email" placeholder="jane@example.ie"></div>
+      <div class="field"><label for="s">What do you need?</label>
+        <select id="s" name="service"><option>Full garden builds</option>
+<option>Paving and patios</option>
+<option>Planting and lawns</option>
+<option>Garden maintenance</option>
+<option>Fencing and boundaries</option>
+<option>Commercial grounds</option><option>Something else</option></select></div>
+      <div class="field"><label for="m">Tell us about the job</label>
+        <textarea id="m" name="message" rows="4" placeholder="Rough size, location, and when you'd like it done."></textarea></div>
+      <button class="btn btn-primary" type="submit" style="width:100%">Send my request</button>
+    </form>
+    <div class="qside">
+      <ul><li><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg><span>A real person out to see the site before any price is given</span></li><li><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg><span>A written quote you can hold us to, not a rough figure over the phone</span></li><li><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg><span>Over thirty years of gardens across the south east behind the work</span></li><li><svg viewBox="0 0 24 24"><path d="M20 6L9 17l-5-5"/></svg><span>Domestic and commercial jobs of any size</span></li></ul>
+      <div class="qcall"><span>Prefer to talk?</span>
+        <a href="tel:0567700848">056 770 0848</a></div>
+    </div>
+  </div>
+</div></section>
+
+<footer><div class="wrap">
+  <div class="f-in">
+    <div><strong style="color:#fff;font-family:Fraunces,serif;font-size:1.05rem">Shane Phelan Landscapes</strong><br>
+      Landscape gardeners &middot; Co. Kilkenny</div>
+    <div><a href="tel:0567700848">056 770 0848</a></div>
+    <div style="max-width:22rem">Based in Danesfort, just outside Kilkenny city, and working across Kilkenny and the surrounding counties.</div>
+  </div>
+  <div class="f-bot">
+    <span>&copy; 2026 Shane Phelan Landscapes. All rights reserved.</span>
+    <span>Design concept by Dublin Growth Digital</span>
+  </div>
+</div></footer>
+
+<div class="callbar">
+  <a class="btn btn-primary" href="tel:0567700848">Call now</a>
+  <a class="btn btn-primary" href="#quote" style="background:var(--ink)">Get a quote</a>
+</div>
+
+</body></html>
