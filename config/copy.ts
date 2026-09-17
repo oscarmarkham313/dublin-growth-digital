@@ -53,7 +53,7 @@ export const home = {
   ],
   services: {
     eyebrow: "What we do",
-    heading: "Five ways in.",
+    heading: "Six ways in.",
     items: [
       {
         number: "01",
@@ -84,6 +84,12 @@ export const home = {
         name: "Social Media",
         outcome: "A feed that looks like the business you actually run — managed for you.",
         href: "/services#social",
+      },
+      {
+        number: "06",
+        name: "Ads for Agencies",
+        outcome: "You grow everyone else — we grow you. Campaigns that fill your agency's pipeline with qualified client leads.",
+        href: "/services#ads-for-agencies",
       },
     ],
   },
@@ -156,7 +162,7 @@ export const home = {
 export const services = {
   hero: {
     title: "What we do, properly.",
-    sub: "One channel done well beats five done half. These are the five we do well.",
+    sub: "One channel done well beats five done half. These are the ones we do well.",
   },
   items: [
     {
@@ -226,6 +232,21 @@ export const services = {
         "Content planning and creation",
         "Posting and community management",
         "Monthly growth reporting",
+      ],
+    },
+    {
+      id: "ads-for-agencies",
+      number: "06",
+      name: "Ads for Agencies",
+      outcome:
+        "Agencies are brilliant at winning clients for everyone but themselves. We fix that — done-for-you campaigns that put qualified client opportunities in your pipeline every month, so you stay focused on the work.",
+      deliverables: [
+        "Client-acquisition campaigns on Meta and Google",
+        "Your positioning and offer sharpened to stand out",
+        "Pre-qualified leads — decision-makers, not tyre-kickers",
+        "A booking flow that turns interest into sales calls",
+        "Simple monthly subscription — cancel anytime",
+        "You own the ad accounts, pixel and every lead",
       ],
     },
   ],
