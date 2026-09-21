@@ -420,10 +420,404 @@ const limerickWeb: ServicePage = {
   ],
 };
 
+/* ────────────────────────────────────────────────────────────────
+   KILDARE — written 21 Sep 2026 on measured performance, not a hunch.
+   Search Console put /locations/kildare/ at 260 impressions (more than
+   any other page on the site) and ranked "google ads kildare" 20.9 and
+   "digital marketing kildare" 24.7 — page two, the closest this site
+   gets to page one anywhere. These three pages are the push.
+   ──────────────────────────────────────────────────────────────── */
+
+const kildareDigitalMarketing: ServicePage = {
+  county: "Kildare",
+  countySlug: "kildare",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Kildare | Agency for Kildare Businesses",
+  description:
+    "A digital marketing agency working with Kildare businesses: Google Ads, Meta ads, SEO, web design and social, from Naas and Newbridge to Maynooth, Celbridge and Athy. Reported in enquiries, not impressions.",
+  h1: "Digital marketing in Kildare, measured in enquiries.",
+  intro: [
+    "Kildare is a commuter county, and that one fact changes how a business here gets found. Leixlip, Celbridge, Maynooth, Naas and Sallins run on Dublin salaries and Dublin hours. The people you want as customers leave before eight and get home after six, and they do their looking on a phone somewhere in between — on a platform, in a car park, at a kitchen table at half nine at night. They are not browsing at leisure on a laptop on a Tuesday afternoon.",
+    "It also means your competition is not only local. Dublin firms advertise down the M4 and the M7 and take work in Maynooth and Naas without ever setting foot in the county. A Kildare business that is hard to find online is usually not losing to the firm in the next town. It is losing to one in Lucan that simply turns up first.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Kildare businesses",
+      body: [
+        "Five services, and most Kildare clients need two of them rather than all five. One channel run properly beats a small budget spread thin across everything and nothing working.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "The fastest route to the phone ringing, because you reach people at the moment they search. In Kildare that usually means splitting the county in two: the Dublin-facing north around Leixlip, Celbridge and Maynooth, where you are bidding against Dublin firms and clicks cost more, and the rest of the county where the same keyword is materially cheaper.",
+        },
+        {
+          title: "Meta ads",
+          body: "Facebook and Instagram do the heavy lifting for anything visual or discretionary — home improvement, hospitality, anything with a before and after. Kildare town and estate community pages are unusually well followed, and a job done well in one estate is seen by the rest of it.",
+        },
+        {
+          title: "SEO",
+          body: "The compounding one. For Kildare this means the service-plus-town searches people actually type — plumber Naas, not plumbing services County Kildare — plus the on-page foundations most local sites never had, and a Google Business Profile filled in properly.",
+        },
+        {
+          title: "Web design",
+          body: "Most Kildare businesses we speak to have a conversion problem rather than a traffic problem. People are already finding them and leaving. A site that loads fast, works one-handed on a phone and asks for the enquiry usually lifts results more than adding budget.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, in the voice of the business you actually are. It matters here because a commuter checks whether you are still trading and still busy before they ring, usually at night, usually on a phone.",
+        },
+      ],
+    },
+    {
+      heading: "Why Kildare businesses lose work to Dublin firms",
+      body: [
+        "This is the pattern in nearly every Kildare account we take over, and none of it is complicated to fix.",
+      ],
+      list: [
+        {
+          title: "The campaign is aimed at the county, not the commute",
+          body: "A circle drawn on Naas reaches Newbridge, Sallins and Clane and stops. But a Leixlip household will happily use a Lucan firm, and a Maynooth household will use one in Celbridge. Targeting has to follow how people actually move, which in Kildare is along the motorway, not around a compass point.",
+        },
+        {
+          title: "Nobody is bidding on the towns",
+          body: "Businesses bid on county Kildare and get expensive, vague traffic. The money is in the town names. Naas, Newbridge, Maynooth, Celbridge, Athy and Leixlip each behave like their own market, and the cost per click between them can differ by half.",
+        },
+        {
+          title: "Maynooth University is not filtered out",
+          body: "Maynooth generates a large volume of student and course searches that look commercial and are not. If you advertise in north Kildare without negative keywords for courses, jobs and student terms, you will pay for clicks that were never going to buy.",
+        },
+        {
+          title: "The new estates are being ignored",
+          body: "Kildare has absorbed an enormous amount of new housing. A new estate in Naas, Sallins or Newbridge is several hundred households who all need the same things within eighteen months of moving in — driveways, landscaping, flooring, blinds, an electrician. Almost nobody targets them deliberately.",
+        },
+      ],
+    },
+    {
+      heading: "How we work",
+      body: [
+        "No office visit, no retainer dressed up as a partnership, no quarterly strategy deck. You deal directly with the person running your account.",
+        "Week one we take access, fix what is obviously broken and set up tracking so the numbers from week two are real. After that you get one short report a week — enquiries, cost per enquiry, and what we changed — in plain English. If something is not working you hear it from us before you notice it.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Kildare we work",
+    body: "Campaigns are built around the towns you actually serve and the roads your customers actually travel, rather than the county as a whole. These are the areas that come up most often for Kildare clients.",
+    towns: [
+      "Naas",
+      "Newbridge",
+      "Maynooth",
+      "Celbridge",
+      "Leixlip",
+      "Kildare town",
+      "Athy",
+      "Monasterevin",
+      "Kilcock",
+      "Clane",
+      "Sallins",
+      "Rathangan",
+      "Prosperous",
+      "Kill",
+      "Straffan",
+      "Ballymore Eustace",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. €2,500 a month covers both channels, a new website, and everything in the first package.",
+      "Month to month, cancel any time, no setup fee. Advertising spend is separate and paid by you directly to Google or Meta from your own account, so you keep control of the budget and you own the ad account when you leave.",
+      "If a website is the only thing you need, that is a one-off €1,500 with no monthly fee at all.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Are you based in Kildare?",
+      a: "No. Dublin Growth Digital is based in Dublin and works with businesses in every county, Kildare included — which for this county is close enough that we know the market properly and far enough that we are not competing with you for it. Everything runs remotely and by phone. If you specifically want someone who can call to your unit, hire a Kildare agency; that is a fair reason to choose one.",
+    },
+    {
+      q: "Will I show up in the Google map results for Naas or Newbridge?",
+      a: "Only if you have a verified address there. Google's map pack is driven by physical location and proximity to the searcher, which is why every business in it has a street address in the town. If you have premises we will get your Google Business Profile into shape to compete. If you work from a van across the county, we focus on the ordinary search results and on paid, where location is not a barrier.",
+    },
+    {
+      q: "Is Kildare more expensive to advertise in than the rest of the country?",
+      a: "The north of the county is, because you are bidding against Dublin firms whose budgets are set for Dublin. Leixlip, Celbridge and Maynooth clicks cost noticeably more than Athy or Monasterevin. That is exactly why we split the county rather than running one campaign across it.",
+    },
+    {
+      q: "How quickly will I see something?",
+      a: "Paid channels produce enquiries in days, usually inside a week of Google Ads going live. SEO is measured in months, and anyone telling you otherwise is selling you something. We are explicit about which one you are buying before you commit.",
+    },
+    {
+      q: "Can you target a specific new estate?",
+      a: "Yes, and in Kildare it is one of the better things you can do. Paid social lets us draw an audience tightly around a development and speak to the thing those households actually need in their first two years. It works far better than advertising to the county and hoping.",
+    },
+    {
+      q: "Can I see what you would do before paying anything?",
+      a: "Yes. Ask for the free growth audit and we will check where you appear in Kildare search results, who is outranking you, what your competitors are advertising and what your website does to visitors when they land. It comes back as a PDF within 24 hours with no call attached.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Kildare", href: "/locations/kildare/social-media-marketing/" },
+    { label: "Web design in Kildare", href: "/locations/kildare/web-design/" },
+    { label: "All Kildare services", href: "/locations/kildare/" },
+  ],
+};
+
+const kildareSocial: ServicePage = {
+  county: "Kildare",
+  countySlug: "kildare",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Kildare | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Kildare businesses: Facebook and Instagram content and paid campaigns, managed end to end. Naas, Newbridge, Maynooth, Celbridge, Leixlip and across the county.",
+  h1: "Social media marketing in Kildare that produces customers, not followers.",
+  intro: [
+    "Kildare has an unusual amount of community online. Estate pages, town pages, parish and GAA club pages, buy-and-sell groups for Naas and Newbridge and Maynooth — they are large, active and genuinely read. A recommendation in one of them still travels further than anything you can buy.",
+    "That is the opportunity and the trap at once. Reach here is cheap and almost meaningless on its own. Plenty of Kildare businesses have three thousand followers and no idea whether a single customer ever came from them. What we run is built the other way round: the content exists to produce enquiries, and the enquiries are what we report.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "Two halves, and you need both. Content alone builds an audience slowly and unpredictably. Paid alone reaches people who look you up, find a page last posted to in 2023, and quietly decide against you.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule across Facebook and Instagram in the voice of the business you actually run. Work you have finished, the people who did it, the questions customers keep asking, prices and availability where it helps. You send photos; we do the rest.",
+        },
+        {
+          title: "Paid campaigns behind the content",
+          body: "The posts that earn a genuine response get budget behind them and go out to a tightly drawn Kildare audience. This is the part that turns a page into a channel, and it is where most self-managed social stops.",
+        },
+        {
+          title: "Estate and town-level targeting",
+          body: "Kildare's new developments are the single most targetable thing in the county. A few hundred households who moved in together need the same work at roughly the same time, and they can be reached as a group.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured inside Facebook and Instagram rather than sent off to a website to get lost. On a phone this roughly doubles the number of people who finish an enquiry.",
+        },
+        {
+          title: "Replies handled",
+          body: "Comments and messages answered within the working day. In a commuter county most social enquiries arrive in the evening, and an unanswered message overnight is a lost customer by morning.",
+        },
+      ],
+    },
+    {
+      heading: "Which Kildare businesses this suits",
+      body: [
+        "Social is not the right first channel for everyone and we will say so if it is not. It works hardest where the work is visual, the decision is discretionary, and the customer is local.",
+        "That means home improvement and trades where a before-and-after does the selling. Salons, barbers, clinics, gyms and studios where people want to see the room and the staff before booking. Restaurants and cafés in Naas, Newbridge and Maynooth where a Thursday post fills a Saturday. Retailers who need people to know what has just come in.",
+        "It works far less well for emergency work. If somebody's drains are backing up they are on Google, not Instagram — and for those businesses we would put you on search first and social second.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send us photographs. That is genuinely the whole of it.",
+        "The single reason managed social fails is that the agency runs out of real material and falls back on stock images and motivational quotes, which every customer can spot instantly. A few phone photos a week of actual work, actual staff and actual premises will outperform anything we could buy. We handle the writing, scheduling, design, budget and replies.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Kildare areas we target",
+    body: "Paid social lets us draw the audience tightly around where your customers actually are, which in a county split between the Dublin commuter belt and the towns further south matters a great deal.",
+    towns: [
+      "Naas",
+      "Newbridge",
+      "Maynooth",
+      "Celbridge",
+      "Leixlip",
+      "Sallins",
+      "Clane",
+      "Kilcock",
+      "Kildare town",
+      "Athy",
+      "Monasterevin",
+      "Rathangan",
+      "Prosperous",
+      "Kill",
+      "Straffan",
+      "Ballymore Eustace",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. It is not sold separately, because a page being posted to with no budget behind it rarely earns its keep.",
+      "€2,500 a month adds the second advertising channel and a new website.",
+      "Month to month, cancel any time. Ad spend is paid by you directly to Meta from your own account, and the account stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can you post into the local Kildare community groups?",
+      a: "Not directly, and you should be wary of anyone who says they will. Those groups belong to their admins and most have firm rules about businesses posting. What we do instead is make your own page worth following and put paid budget behind the posts that work, so you reach the same people without irritating the group that would otherwise recommend you.",
+    },
+    {
+      q: "Do I need to be on TikTok?",
+      a: "Probably not. For most Kildare businesses Facebook still holds the buying audience, with Instagram second, and doing those two properly beats spreading across four platforms. If your customers are genuinely under thirty we will tell you and plan for it, but we will not sell you a TikTok strategy to look modern.",
+    },
+    {
+      q: "How many posts a week?",
+      a: "Three to five, which keeps you visible without becoming noise. Frequency matters far less than whether the posts are real. One genuine photo of a finished job in Naas beats seven designed graphics.",
+    },
+    {
+      q: "Can you use my existing Facebook page?",
+      a: "Yes, and usually we should — an existing page carries followers, reviews and history that a new one throws away. We want editor access rather than ownership. The page stays yours and you can remove our access the day you decide to stop.",
+    },
+    {
+      q: "What if I have no photos?",
+      a: "Then we fix that first, because it is the constraint on everything else. In practice it means five minutes on a job with a phone camera and a short list from us of what to capture. It is not a reason to delay starting, but it is the one part nobody can do for you.",
+    },
+    {
+      q: "Do you guarantee a number of followers?",
+      a: "No. Follower counts can be bought and are worth nothing, and we have no interest in selling you a number that does not turn into work. What we report is how many people enquired and what each enquiry cost.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Kildare", href: "/locations/kildare/digital-marketing/" },
+    { label: "Web design in Kildare", href: "/locations/kildare/web-design/" },
+    { label: "All Kildare services", href: "/locations/kildare/" },
+  ],
+};
+
+const kildareWeb: ServicePage = {
+  county: "Kildare",
+  countySlug: "kildare",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Kildare | Website Design & Development, €1,500",
+  description:
+    "Web design and development for Kildare businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500. No monthly fee and you own every file.",
+  h1: "Web design and development for Kildare businesses.",
+  intro: [
+    "Most Kildare businesses that come to us do not have a traffic problem. People are already finding them — through search, through a recommendation in an estate group, through a Facebook page — and then leaving without getting in touch. The site loads slowly, it is awkward one-handed on a phone, the number is three taps away, and it describes the business at length without ever asking anyone to do anything.",
+    "That is a conversion problem, and it is far cheaper to fix than a traffic problem. Doubling the share of visitors who make contact costs a fraction of doubling the visitors, and it makes every other channel you run worth more at the same time.",
+  ],
+  sections: [
+    {
+      heading: "What you get",
+      body: [
+        "One fixed price of €1,500, paid once, for a site designed and written from scratch for your business. No monthly fee, no contract, no retainer at the end of it.",
+      ],
+      list: [
+        {
+          title: "Designed for you, not assembled from a template",
+          body: "Up to seven pages, laid out around what your customers need to see before they pick up the phone — not a stock theme with your logo dropped into the corner.",
+        },
+        {
+          title: "Every word written for you",
+          body: "Headlines, service pages, the about page, calls to action. You do not write a sentence. We read your reviews, your competitors and your existing site first.",
+        },
+        {
+          title: "Built for the phone, and for the commute",
+          body: "Designed on mobile and scaled up. In a commuter county a large share of your visitors are on a phone, often with one hand, often somewhere with poor signal. The site is built to still work there.",
+        },
+        {
+          title: "Technical SEO from day one",
+          body: "Page titles, meta descriptions, heading structure, schema markup, sitemap and robots.txt, plus Google Search Console and Analytics set up in your name. The foundations that decide whether a site can rank at all.",
+        },
+        {
+          title: "Your Google Business Profile rebuilt",
+          body: "Categories, services and description rewritten around the searches you want to win in your towns. For a local Kildare business this is often the fastest single improvement available.",
+        },
+        {
+          title: "Hosting, SSL and your domain connected",
+          body: "The first twelve months included. We connect the domain you already own or register a new one for you.",
+        },
+      ],
+    },
+    {
+      heading: "Ten working days, and about forty minutes of your time",
+      body: [
+        "Website projects normally drag on for months because they are run as a conversation. This one is run as a build with a finish date.",
+        "You answer six short questions and send your logo. We research and write, then design and build, and you get a preview link halfway through so nothing is a surprise. On day eight you send one list of everything you want changed, however long that list is. We make the changes, connect the domain and launch. Then you get thirty days of unlimited further changes at no charge.",
+        "Your site does not go live until you have looked at it and said it is right. Unlimited revision rounds, no cut-off date.",
+      ],
+    },
+    {
+      heading: "Web development, and where the line is",
+      body: [
+        "This covers business websites: service pages, galleries, contact and quote forms, click-to-call, maps, and connections to booking or payment tools you already use such as Stripe, Calendly, Square or Fresha.",
+        "It does not cover custom software. A large e-commerce store with live stock control, a client portal, a booking engine built from scratch or a mobile app are different jobs with different prices. Tell us before you pay and we will either quote it properly or tell you we are not the right people for it.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Working with Kildare businesses",
+    body: "The whole process runs by email, WhatsApp and one optional twenty-minute call, so it makes no difference to the price or the timeline where in the county you are.",
+    towns: [
+      "Naas",
+      "Newbridge",
+      "Maynooth",
+      "Celbridge",
+      "Leixlip",
+      "Sallins",
+      "Clane",
+      "Kilcock",
+      "Kildare town",
+      "Athy",
+      "Monasterevin",
+      "Rathangan",
+      "Prosperous",
+      "Kill",
+      "Straffan",
+      "Ballymore Eustace",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500, paid once. That covers the design, the writing, the build, the launch, the SEO foundations, the analytics setup, the Google Business Profile work, the first twelve months of hosting and thirty days of unlimited changes after launch.",
+      "There is no monthly fee and no contract. Every file, login and account is created in your name from the start, so you can take the site elsewhere whenever you want.",
+      "If you also want advertising run afterwards, that is a separate decision made after the site is live, and nobody has to buy it.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is €1,500 really the whole price for a Kildare business?",
+      a: "Yes — the price is the same wherever you are in Ireland. It covers everything listed above including the first twelve months of hosting and the thirty days of free changes after launch. No setup fee, and no invoice at the end for work that turned out to be out of scope.",
+    },
+    {
+      q: "Who owns the website when it is finished?",
+      a: "You do, entirely. The domain, the files, the hosting account, the analytics and the Search Console property are all in your name from the beginning. There is no situation where you have to ask our permission, or buy your own site back — which is not true of every web designer.",
+    },
+    {
+      q: "Will the new site actually rank in Kildare?",
+      a: "The build gives it the foundations — proper titles, structure, schema, speed and a Google Business Profile in order — and for a business with little local competition that is often enough on its own. For a competitive Kildare search, a well-built site is necessary but not sufficient; ranking also needs time, reviews and other sites linking to you. We will tell you honestly which situation you are in.",
+    },
+    {
+      q: "I already have a website. Is it worth replacing?",
+      a: "If it brings you steady enquiries, keep it. If it is more than three or four years old, looks wrong on a phone, or you cannot remember the last enquiry that came through it, then it is quietly costing you more than €1,500 a year in work you never hear about.",
+    },
+    {
+      q: "Do I need to come to a meeting in Naas or Dublin?",
+      a: "No. There is one optional twenty-minute call if you would rather talk than type; otherwise the whole thing runs on a six-question form, email and WhatsApp.",
+    },
+    {
+      q: "What happens if I want changes in a year?",
+      a: "Small things we do as a favour. Anything substantial is charged at a flat rate agreed in advance and always quoted before we start. You are never locked into a support plan to keep your own website working.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Kildare", href: "/locations/kildare/digital-marketing/" },
+    { label: "Social media marketing in Kildare", href: "/locations/kildare/social-media-marketing/" },
+    { label: "The full €1,500 website offer", href: "/offer/" },
+  ],
+};
+
 export const servicePages: ServicePage[] = [
   limerickDigitalMarketing,
   limerickSocial,
   limerickWeb,
+  kildareDigitalMarketing,
+  kildareSocial,
+  kildareWeb,
 ];
 
 export const servicePageBy = (countySlug: string, serviceSlug: string) =>
