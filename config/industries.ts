@@ -1370,6 +1370,207 @@ export const industries: Industry[] = [
     ],
     related: ["landscapers", "driveways-and-paving", "garden-rooms"],
   },
+  {
+    slug: "med-spas",
+    label: "Med spas",
+    title: "Med Spa Marketing Ireland | Marketing for Medical Aesthetics",
+    description:
+      "Marketing for Irish med spas and medical aesthetics clinics, built around what you are legally allowed to advertise. Consultation-led campaigns reported in booked appointments. From €1,500 a month.",
+    h1: "Med spa marketing that will not put your clinic in front of the regulator.",
+    intro: [
+      "Most marketing advice written for med spas is American, and following it in Ireland will get a clinic into trouble. In this country you cannot advertise a prescription-only medicine to the public. That means no ads naming botulinum toxin, no price-per-unit offers on it, and no campaigns built around the treatment most clinics would instinctively lead with. A great many Irish clinics are running ads right now that should not be live.",
+      "This is not a reason to advertise less. It is a reason to advertise differently. The campaigns that work here sell the consultation, the practitioner and the clinic rather than a named drug — and because so few agencies understand the line, the clinics that get it right have a quieter, less contested market than they expect.",
+    ],
+    run: [
+      {
+        name: "Consultation-led campaigns",
+        text: "The consultation is the product we advertise, because it is the one thing you can promote freely and it is the step that actually converts. Everything is built to fill the diary with assessments rather than to sell a named treatment.",
+      },
+      {
+        name: "Compliant creative, checked before it runs",
+        text: "Ads built around what is permitted: skin health, laser, peels, the practitioner's qualifications, the clinic itself. We will tell you when something you have asked for cannot run, and why.",
+      },
+      {
+        name: "Non-prescription treatment campaigns",
+        text: "Laser, skin resurfacing, peels, microneedling and hydrafacials can be advertised properly and carry real margin. For most Irish clinics this is the untapped half of the diary.",
+      },
+      {
+        name: "Retention and rebooking",
+        text: "Aesthetics is a repeat-cycle business and acquisition is the expensive part. Campaigns to your existing client list are the cheapest revenue in the clinic and almost nobody runs them.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, consultations booked and cost per booked consultation. Not reach, not followers.",
+      },
+    ],
+    qualify: [
+      "Which treatment are you interested in?",
+      "Have you had treatment before?",
+      "Are you looking for a consultation first?",
+      "Which clinic location suits you?",
+    ],
+    proof: [
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    faqs: [
+      {
+        q: "Can we advertise Botox?",
+        a: "Not to the public in Ireland — it is a prescription-only medicine and advertising those to the general public is prohibited. Any agency offering to run Botox ads for you either does not know that or is prepared to risk your clinic to hit a target. We build campaigns around consultations and non-prescription treatments instead, which is both legal and, in our experience, a better filter for serious clients.",
+      },
+      {
+        q: "Why do our before-and-after photos keep getting rejected?",
+        a: "Meta restricts before-and-after imagery for cosmetic procedures, along with anything implying an unrealistic outcome or drawing attention to a perceived flaw. It is one of the most common reasons aesthetics accounts get restricted. We work with practitioner, clinic and treatment-process imagery instead, which clears review and does not put your ad account at risk.",
+      },
+      {
+        q: "How do we compete with the big chains?",
+        a: "Not on budget, and not on price — you will lose both. A single-site clinic wins on the practitioner, the reviews and the locality: being unmistakably the best option within twenty minutes, rather than the cheapest in the country. That is a much cheaper fight.",
+      },
+      {
+        q: "Is social or search better for a clinic?",
+        a: "Both, for different jobs. Search catches people who have already decided and are choosing a clinic. Social creates the demand in the first place, which for aesthetics is a large share of it. If the budget only stretches to one, we start with whichever your enquiries already show.",
+      },
+      {
+        q: "Do you work with single-site clinics?",
+        a: "Yes, and they are usually the better fit. A single clinic with a strong local reputation has advantages a chain cannot copy, and a budget that is small nationally goes a long way across one catchment.",
+      },
+    ],
+    related: ["skin-clinics", "estate-agents", "insurance-brokers"],
+  },
+  {
+    slug: "skin-clinics",
+    label: "Skin clinics & salons",
+    title: "Skin Clinic & Salon Marketing Ireland | Fill the Diary",
+    description:
+      "Marketing for Irish skin clinics, beauty salons and laser clinics. Campaigns built around rebooking, treatment courses and quiet weeks, reported in appointments. From €1,500 a month.",
+    h1: "Skin clinic and salon marketing measured in a full diary.",
+    intro: [
+      "A salon or skin clinic does not really have a customer acquisition problem. It has a gap problem. Saturdays sell themselves; Tuesday afternoons and the second week of January do not, and an empty chair is revenue that cannot be recovered later. The marketing that actually changes the numbers is the marketing pointed at the gaps.",
+      "The second thing that decides this business is rebooking. A client who comes once is worth a fraction of one who comes every six weeks, and the difference between the two is usually a system rather than a treatment. Most salons spend everything on attracting new clients and nothing on keeping the ones they have.",
+    ],
+    run: [
+      {
+        name: "Gap-filling campaigns",
+        text: "Offers pointed at your genuinely quiet times rather than blanket discounting. Discounting a Saturday you would have filled anyway is the most expensive mistake in this trade.",
+      },
+      {
+        name: "Treatment course campaigns",
+        text: "Laser and skin courses are sold as a block, not a single session, and advertising them that way changes the value of every enquiry.",
+      },
+      {
+        name: "Rebooking and client-list campaigns",
+        text: "Campaigns to the people already on your booking system. The cheapest revenue available and the one almost nobody runs.",
+      },
+      {
+        name: "Booking-system integration",
+        text: "Enquiries sent straight into Phorest, Fresha or whatever you already run, so nothing depends on somebody remembering to ring back.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, appointments booked and cost per appointment, in plain English.",
+      },
+    ],
+    qualify: [
+      "Which treatment are you booking?",
+      "Have you been to us before?",
+      "Which days and times suit you?",
+      "Are you interested in a course or a single session?",
+    ],
+    proof: [
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    faqs: [
+      {
+        q: "Should we run discount offers?",
+        a: "Sparingly, and never across the board. A blanket discount mostly subsidises appointments you would have taken at full price. Targeted at a genuinely quiet Tuesday, the same offer adds revenue instead of removing it.",
+      },
+      {
+        q: "What is the difference between this and your med spa page?",
+        a: "Regulation, mainly. A medical-led clinic offering prescription treatments has advertising restrictions that a beauty-led salon does not, which changes what the campaigns can say. If you offer both, we treat you as the medical one, because the stricter rules apply.",
+      },
+      {
+        q: "Is Instagram enough on its own?",
+        a: "For a while, and then it plateaus. Organic reach for salons has fallen a long way and a page with good content but no budget behind it reaches a shrinking slice of its own followers. The content is still necessary; it is just no longer sufficient.",
+      },
+      {
+        q: "How do we get clients rebooking?",
+        a: "Rebook them in the chair before they leave, and back it with a campaign to your existing list. It is unglamorous and it moves the numbers more than any acquisition campaign we could run.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. Month to month, no setup fee.",
+      },
+    ],
+    related: ["med-spas", "estate-agents", "insurance-brokers"],
+  },
+  {
+    slug: "insurance-brokers",
+    label: "Insurance brokers",
+    title: "Insurance Broker Marketing Ireland | Leads for Brokerages",
+    description:
+      "Marketing for Irish insurance brokers, built around commercial and specialist risk rather than price comparison. Central Bank aware, reported in quote requests. From €1,500 a month.",
+    h1: "Insurance broker marketing that does not try to outbid the aggregators.",
+    intro: [
+      "An Irish broker cannot win on price-comparison searches and should stop trying. The aggregators and the direct insurers have budgets a brokerage cannot match on terms like car insurance quotes, and every euro spent there buys a click from somebody who was only ever going to sort by cheapest. It is the most common and most expensive mistake in broker advertising.",
+      "The broker's advantage is everything the aggregators serve badly: commercial cover, farm, fleet, publican and restaurant, tradesman liability, high-value home, non-standard risk. Those are searches where a person needs advice, where the policy is complicated, and where being able to speak to somebody is worth more than saving forty euro. They are also far cheaper to appear for.",
+    ],
+    run: [
+      {
+        name: "Commercial and specialist risk campaigns",
+        text: "Aimed at the cover types where advice actually matters and aggregators do not compete properly — the only place a brokerage has a structural advantage.",
+      },
+      {
+        name: "Renewal-timed campaigns",
+        text: "Insurance is bought in a window. Campaigns built around renewal timing reach people while they are actually switchable rather than shouting at them all year.",
+      },
+      {
+        name: "Compliance-aware creative",
+        text: "You are regulated by the Central Bank and your advertising carries obligations most agencies have never read. Ads are written to be accurate, to avoid implied guarantees, and to carry your regulatory wording.",
+      },
+      {
+        name: "Jobs traffic filtered out",
+        text: "Insurance marketing searches in Ireland return job listings in volume. Without negatives for jobs, salaries, careers and recruitment, a meaningful share of your budget goes on people looking for work.",
+      },
+      {
+        name: "The weekly report",
+        text: "Quote requests, cost per quote request and cover type. One page, every week.",
+      },
+    ],
+    qualify: [
+      "What type of cover do you need?",
+      "Is this personal or commercial?",
+      "When is your renewal date?",
+      "Are you currently insured elsewhere?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    faqs: [
+      {
+        q: "Can we compete with the comparison sites?",
+        a: "Not on price-led searches, and we will not take your money to try. On commercial, farm, fleet, licensed-trade and non-standard risk the aggregators are weak or absent, the searcher genuinely needs advice, and the clicks cost a fraction of the motor terms.",
+      },
+      {
+        q: "Does advertising create a compliance problem?",
+        a: "It creates obligations rather than a problem. As a Central Bank regulated firm your advertising has to be accurate, must not imply guarantees you cannot give, and needs your regulatory wording where required. We write to that and send everything for your approval before it runs. Your compliance sign-off is final, not ours.",
+      },
+      {
+        q: "Why do we get enquiries from people looking for jobs?",
+        a: "Because insurance marketing searches in Ireland are heavily contaminated with job listings — Indeed, LinkedIn and IrishJobs occupy much of that results page. It is fixable with negative keywords and most accounts simply have not done it.",
+      },
+      {
+        q: "Is our renewal timing really that important?",
+        a: "It is most of the game. A campaign running evenly all year reaches the majority of people at a moment they cannot act on. Weighting spend towards renewal windows and running retargeting through them changes cost per quote substantially.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. No setup fee, month to month, and ad spend is paid directly to the platforms from your own account.",
+      },
+    ],
+    related: ["estate-agents", "med-spas", "skin-clinics"],
+  },
 ];
 
 export const industryBySlug = (slug: string) =>
