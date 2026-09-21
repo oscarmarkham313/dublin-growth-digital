@@ -566,6 +566,810 @@ export const industries: Industry[] = [
     ],
     related: ["bathroom-renovations", "roofers", "estate-agents"],
   },
+  {
+    slug: "electricians",
+    label: "Electricians",
+    title: "Electrician Leads Ireland | Marketing for Electrical Contractors",
+    description:
+      "Lead generation for Irish electricians: rewires, fuse boards, EV chargers and emergency callouts. Campaigns reported in booked jobs, not clicks. From €1,500 a month.",
+    h1: "Electrician leads, booked rather than counted.",
+    intro: [
+      "An electrician's diary has two halves and they need entirely different marketing. Emergency work — a dead socket ring, a tripping board, no power upstairs — is won on Google within about fifteen minutes of the search, by whoever answers. Planned work — a rewire, a board upgrade, an EV charger, a new build second fix — is decided over days and won on reviews, photographs and whether the quote arrived when it was promised.",
+      "Most electricians advertise as though only one of those exists. We run them as two campaigns with different budgets, different hours and different phones, because a rewire enquiry at four on a Tuesday and a no-power call at nine at night are not the same customer.",
+    ],
+    run: [
+      {
+        name: "Emergency search campaigns",
+        text: "Google Ads on fault, no-power and callout searches in your area, running only during the hours you will actually answer the phone.",
+      },
+      {
+        name: "EV charger campaigns",
+        text: "The fastest-growing planned job on most books. Separate campaign, separate landing page, grant questions answered before the enquiry reaches you.",
+      },
+      {
+        name: "Rewire and board upgrade campaigns",
+        text: "Aimed at older housing stock and at homeowners mid-renovation, with the certification questions handled up front.",
+      },
+      {
+        name: "Your work, shown properly",
+        text: "Consumer units, panel work and finished installs photographed and used as the creative. Electrical work sells on neatness and nothing else.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, cost per enquiry, and which of the two campaigns produced them. One page, every week.",
+      },
+    ],
+    qualify: [
+      "Is this an emergency or planned work?",
+      "Is the property residential or commercial?",
+      "How old is the existing wiring or board?",
+      "When do you need it done?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "#1", label: "on Google for emergency callouts, Dublin trade" },
+    ],
+    faqs: [
+      {
+        q: "Can you separate emergency calls from quote requests?",
+        a: "Yes, and it is the single most useful thing we do for electricians. They run as separate campaigns with separate tracking numbers, so you can see what each is worth and fund them differently.",
+      },
+      {
+        q: "We only want EV charger work. Is that possible?",
+        a: "Yes. It is a well-defined search with its own vocabulary and its own grant questions, so it makes a clean standalone campaign.",
+      },
+      {
+        q: "Do you advertise outside working hours?",
+        a: "Only if you want emergency calls at those hours and will answer them. There is no point paying for a nine o'clock click that rings out.",
+      },
+      {
+        q: "Do you need photographs of our work?",
+        a: "Yes, and phone photos are fine. A tidy consumer unit does more selling than any headline we could write.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. No setup fee, month to month.",
+      },
+    ],
+    related: ["plumbers-and-heating", "solar-installers", "builders-and-extensions"],
+  },
+  {
+    slug: "kitchens",
+    label: "Kitchen fitters",
+    title: "Kitchen Leads Ireland | Marketing for Kitchen Companies",
+    description:
+      "Lead generation for Irish kitchen showrooms and fitters. Campaigns built around design appointments and real budgets, reported in booked consultations. From €1,500 a month.",
+    h1: "Kitchen enquiries from people who have actually budgeted.",
+    intro: [
+      "A kitchen is one of the largest discretionary purchases a household makes, and the decision takes months. Somebody starts looking in January, visits three showrooms in February and orders in April. The company that wins is rarely the cheapest; it is the one that stayed visible through that whole stretch and made booking a design appointment feel easy rather than committal.",
+      "The problem with kitchen advertising is that it attracts dreamers in enormous numbers. Filtering matters more here than in any other trade, because a showroom consultation costs you real hours. Every campaign we run asks about budget and timeline before the enquiry ever reaches your designer.",
+    ],
+    run: [
+      {
+        name: "Design appointment campaigns",
+        text: "Meta and Google campaigns whose only goal is a booked consultation, with the budget question asked in the form rather than awkwardly on the phone.",
+      },
+      {
+        name: "Your installs as the creative",
+        text: "Finished kitchens, photographed properly, are the entire sell. We build the campaigns from your own projects rather than stock imagery nobody believes.",
+      },
+      {
+        name: "Retargeting across the decision",
+        text: "Most of the value in kitchen marketing is staying in front of someone for the eight weeks between first look and order. That is a retargeting job and almost nobody does it.",
+      },
+      {
+        name: "Finance and offer messaging",
+        text: "Where you offer finance or a seasonal promotion, it runs as its own campaign rather than being buried in a general ad.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, appointments booked and cost per booked appointment — the only number that matters in this trade.",
+      },
+    ],
+    qualify: [
+      "What is your budget range for the kitchen?",
+      "Is this a replacement or a new build?",
+      "When are you hoping to have it fitted?",
+      "Would you like a showroom or home visit?",
+    ],
+    proof: [
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    faqs: [
+      {
+        q: "How do you stop us being buried in tyre-kickers?",
+        a: "The form asks for a budget band and a timeline before the enquiry reaches you, and anything under your minimum is flagged. You decide whether to ring those, rather than finding out after an hour in the showroom.",
+      },
+      {
+        q: "Kitchens take months to decide. Does advertising still work?",
+        a: "It works precisely because of that. Most of the money is in retargeting the people who already looked, which is the part most kitchen companies never set up.",
+      },
+      {
+        q: "Can you promote a seasonal offer?",
+        a: "Yes, and offers are one of the few things that genuinely move a stalled kitchen decision. It runs as its own campaign so you can see exactly what it produced.",
+      },
+      {
+        q: "Do you need our photography?",
+        a: "Yes. Finished installs are the whole sell, and yours will outperform anything generic. Phone photos of completed jobs are enough to start.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. Month to month, no setup fee.",
+      },
+    ],
+    related: ["bathroom-renovations", "builders-and-extensions", "flooring"],
+  },
+  {
+    slug: "attic-conversions",
+    label: "Attic conversions",
+    title: "Attic Conversion Leads Ireland | Marketing for Conversion Firms",
+    description:
+      "Lead generation for Irish attic conversion specialists. Campaigns aimed at homeowners needing space, with planning and regulation questions handled. From €1,500 a month.",
+    h1: "Attic conversion leads from homeowners who need the room.",
+    intro: [
+      "Attic conversions sell against a specific alarm: a family has outgrown the house and is weighing the cost of moving against the cost of staying. That comparison is the whole pitch. A conversion that costs a fraction of stamp duty, estate agent fees and a mortgage top-up is an easy argument to make, and almost nobody makes it in their advertising.",
+      "The second thing that decides these jobs is certainty. Homeowners are anxious about planning permission, fire regulations, stairs and head height, and the firm that answers those plainly before the quote is usually the one that gets the job.",
+    ],
+    run: [
+      {
+        name: "Moving-versus-staying campaigns",
+        text: "The argument that actually converts, aimed at families in three-bed semis in the areas you work, with the cost comparison made explicitly.",
+      },
+      {
+        name: "Planning and regulation content",
+        text: "The questions every homeowner asks — permission, fire doors, stairs, head height — answered on the page so the enquiry arrives already half-sold.",
+      },
+      {
+        name: "Before-and-after creative",
+        text: "Conversions photographed at both ends. Nothing sells this trade like the same roof space before and after.",
+      },
+      {
+        name: "Area targeting by housing stock",
+        text: "Campaigns pointed at the estates and house types that actually convert well, rather than at a county.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, surveys booked and cost per survey, in plain English.",
+      },
+    ],
+    qualify: [
+      "What type of house is it?",
+      "What will the room be used for?",
+      "Do you know your rough budget?",
+      "When are you hoping to start?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    faqs: [
+      {
+        q: "Do most of these jobs need planning permission?",
+        a: "Usually not, and saying so clearly in the advertising removes the single biggest reason homeowners stall. We put your own position on it front and centre rather than leaving people to guess.",
+      },
+      {
+        q: "Can you target particular house types?",
+        a: "Yes. Campaigns are aimed at the estates and housing stock where conversions are straightforward, which is far more efficient than advertising to a whole county.",
+      },
+      {
+        q: "How do we avoid quoting jobs that will never happen?",
+        a: "The form asks about budget and timeline first, and flags anything below your minimum before it reaches you.",
+      },
+      {
+        q: "Do you need photographs?",
+        a: "Yes, and before-and-after pairs are the most valuable thing you can give us. Phone photos are fine.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. Month to month, no setup fee.",
+      },
+    ],
+    related: ["builders-and-extensions", "garden-rooms", "bathroom-renovations"],
+  },
+  {
+    slug: "garden-rooms",
+    label: "Garden rooms",
+    title: "Garden Room Leads Ireland | Marketing for Garden Room Builders",
+    description:
+      "Lead generation for Irish garden room and garden office builders. Campaigns built around home-office and extra-space demand, reported in booked site visits. From €1,500 a month.",
+    h1: "Garden room leads, from people ready to spend.",
+    intro: [
+      "Garden rooms are sold on a photograph. More than almost any trade, the decision starts with somebody seeing a finished room that looks like the one they have been picturing, and then working backwards to whether they can afford it. That makes this an unusually good fit for paid social and an unusually bad fit for text-only advertising.",
+      "The demand has also changed shape. It is no longer mostly home offices. It is teenage space, gym space, a room for a parent moving in, and a studio for a business run from home — and each of those wants to be spoken to differently.",
+    ],
+    run: [
+      {
+        name: "Photograph-led social campaigns",
+        text: "Facebook and Instagram campaigns built from your finished rooms, because in this trade the image is the entire argument.",
+      },
+      {
+        name: "Separate campaigns per use case",
+        text: "Office, gym, teen room and annexe are four different buyers. Running them as one campaign wastes most of the budget.",
+      },
+      {
+        name: "Search campaigns for the ready",
+        text: "Google Ads on garden room, garden office and log cabin searches for people already costing it up.",
+      },
+      {
+        name: "Spec, lead time and price framing",
+        text: "The three things every enquiry asks. Answered in the campaign so your calls start further along.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, site visits booked and cost per visit.",
+      },
+    ],
+    qualify: [
+      "What will the room be used for?",
+      "Roughly what size are you thinking?",
+      "Do you have a budget in mind?",
+      "When would you want it built?",
+    ],
+    proof: [
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    faqs: [
+      {
+        q: "Is social really better than Google for this?",
+        a: "For garden rooms, usually yes. People do not always know they want one until they see it, and that is a scrolling behaviour rather than a searching one. We still run search for the people already costing it up.",
+      },
+      {
+        q: "Should we advertise our prices?",
+        a: "Generally yes. Garden rooms have a wide price range and hiding it produces enquiries from people who were never in the market. Stating a from-price filters hard and improves every call you take.",
+      },
+      {
+        q: "Can you handle seasonality?",
+        a: "Yes. Enquiries concentrate heavily in spring and early summer, so budget is weighted towards that and lead times are stated in the ads once the diary fills.",
+      },
+      {
+        q: "Do you need our photographs?",
+        a: "Yes, and they are the single biggest factor in whether this works. Finished rooms, in good light, from your own projects.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. Month to month.",
+      },
+    ],
+    related: ["attic-conversions", "builders-and-extensions", "landscapers"],
+  },
+  {
+    slug: "windows-and-doors",
+    label: "Windows & doors",
+    title: "Window & Door Leads Ireland | Marketing for Installers",
+    description:
+      "Lead generation for Irish window and door installers. Campaigns built around energy upgrades, grants and full-house replacements, reported in booked surveys. From €1,500 a month.",
+    h1: "Window and door leads worth surveying.",
+    intro: [
+      "Windows are bought for two reasons and they behave completely differently. One is cold and draught — an older house, rising heating bills, condensation on the inside of the glass every winter morning. The other is appearance, usually alongside other work. The first is seasonal and urgent; the second is planned and price-sensitive.",
+      "Both are worth real money, and both are wasted if the enquiry arrives without a window count or a house type. The surveying visit is the expensive part of this business, so the filtering has to happen before it.",
+    ],
+    run: [
+      {
+        name: "Energy and retrofit campaigns",
+        text: "Aimed at older housing stock with the grant questions answered up front, weighted towards the months when people actually feel the cold.",
+      },
+      {
+        name: "Full-replacement search campaigns",
+        text: "Google Ads on window replacement, uPVC, aluclad and composite door searches in your area.",
+      },
+      {
+        name: "Before-and-after creative",
+        text: "Old timber frames against new units is one of the more persuasive before-and-afters in the trade.",
+      },
+      {
+        name: "Survey-qualified forms",
+        text: "Roughly how many windows, what type of house, and when — asked before the enquiry reaches you, so surveys are not wasted.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, surveys booked and cost per survey.",
+      },
+    ],
+    qualify: [
+      "Roughly how many windows or doors?",
+      "What type and age is the property?",
+      "Is this for warmth, appearance or both?",
+      "When are you hoping to have it done?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    faqs: [
+      {
+        q: "Can you target older houses specifically?",
+        a: "Yes, and it matters more here than almost anywhere. Campaigns are pointed at the estates and housing periods where single glazing and early double glazing are still common.",
+      },
+      {
+        q: "Should we mention grants?",
+        a: "If you handle the paperwork, yes — it is frequently the deciding factor. If you do not, we say so plainly rather than implying it, because a misled enquiry wastes a survey.",
+      },
+      {
+        q: "Is this seasonal?",
+        a: "Strongly. Enquiries spike with the first cold weather and again in spring. Budget follows that rather than sitting flat across the year.",
+      },
+      {
+        q: "How do we stop wasting surveys?",
+        a: "The form asks for window count and house type before the enquiry reaches you, so you can see the size of the job before anyone gets in a van.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["solar-installers", "builders-and-extensions", "bathroom-renovations"],
+  },
+  {
+    slug: "heat-pumps",
+    label: "Heat pumps",
+    title: "Heat Pump Leads Ireland | Marketing for Heat Pump Installers",
+    description:
+      "Lead generation for Irish heat pump installers. Campaigns built around SEAI grants, BER requirements and retrofit-ready homes, reported in booked assessments. From €1,500 a month.",
+    h1: "Heat pump leads from homes that can actually take one.",
+    intro: [
+      "Heat pumps have the longest and most technical sales cycle of any home energy product in Ireland. A homeowner has to understand grants, BER ratings, insulation requirements and whether their radiators will even work at a lower flow temperature. Most enquiries fail not on price but on suitability, and every unsuitable enquiry costs you an assessment.",
+      "That makes qualification the entire game. A campaign that produces forty enquiries from houses that need twenty thousand euro of fabric upgrades first is worse than one producing eight from homes that are ready.",
+    ],
+    run: [
+      {
+        name: "Grant-led campaigns",
+        text: "SEAI grant amounts and eligibility handled in the advertising, because it is the first question every homeowner has and the one most installers bury.",
+      },
+      {
+        name: "BER and suitability filtering",
+        text: "Questions about house age, insulation and current heating asked in the form, so the unsuitable ones are visible before you book an assessment.",
+      },
+      {
+        name: "Retrofit-ready targeting",
+        text: "Campaigns weighted towards the housing stock and areas where homes are realistically ready, rather than advertising to everyone with a boiler.",
+      },
+      {
+        name: "Search campaigns for the informed",
+        text: "Google Ads on heat pump, air to water and grant searches, where the person already knows what they are asking for.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, assessments booked and cost per booked assessment.",
+      },
+    ],
+    qualify: [
+      "What age is the property?",
+      "What is your current heating system?",
+      "Do you know your BER rating?",
+      "Have you had insulation work done?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    faqs: [
+      {
+        q: "How do we avoid assessments on unsuitable houses?",
+        a: "By asking about age, insulation and current heating in the form. It will reduce your raw enquiry count and increase the proportion worth visiting, which is the trade you want.",
+      },
+      {
+        q: "Should we lead with the grant?",
+        a: "Usually yes, because it is what people search for. But it has to be accurate — overstating a grant produces enquiries that collapse at the assessment and damages your name locally.",
+      },
+      {
+        q: "Does this work alongside solar?",
+        a: "Well. The two audiences overlap heavily and a household considering one is frequently open to the other, so we often run them as linked campaigns.",
+      },
+      {
+        q: "How long is the sales cycle?",
+        a: "Longer than any other trade we work with — often two to four months from enquiry to order. Retargeting matters more here than anywhere, and we plan for it from the start.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["solar-installers", "plumbers-and-heating", "windows-and-doors"],
+  },
+  {
+    slug: "drainage",
+    label: "Drainage",
+    title: "Drainage Leads Ireland | Marketing for Drain & Septic Specialists",
+    description:
+      "Lead generation for Irish drainage contractors: blockages, CCTV surveys, septic tanks and emergency callouts. Reported in booked jobs. From €1,500 a month.",
+    h1: "Drainage leads, at the moment the phone should ring.",
+    intro: [
+      "Drainage is the purest emergency trade in the country. Nobody researches a blocked drain. They search, they ring the first two numbers, and they book whoever answers and can come today. The entire competitive question is whether you appear at that moment and whether somebody picks up.",
+      "The second half of the business is nothing like that. Septic tank servicing, CCTV surveys and drain repairs for house sales are planned, priced and compared. Run as one campaign they fight each other; run separately they both work.",
+    ],
+    run: [
+      {
+        name: "Emergency callout campaigns",
+        text: "Google Ads on blocked drain and overflow searches, running at the hours you will answer, with the phone number as the primary action rather than a form.",
+      },
+      {
+        name: "Septic tank and servicing campaigns",
+        text: "The planned side of the business, aimed at rural housing stock and at the annual service cycle.",
+      },
+      {
+        name: "Pre-sale survey campaigns",
+        text: "CCTV surveys and drain reports for house sales — a steady, well-priced job most drainage firms never advertise for.",
+      },
+      {
+        name: "Call tracking on everything",
+        text: "In a trade where nearly every enquiry is a phone call, an account without call tracking is being optimised blind.",
+      },
+      {
+        name: "The weekly report",
+        text: "Calls, cost per call and which campaign produced them.",
+      },
+    ],
+    qualify: [
+      "Is this an emergency?",
+      "Is the property on mains drainage or a septic tank?",
+      "Is it residential or commercial?",
+      "Where exactly is the problem?",
+    ],
+    proof: [
+      { value: "#1", label: "on Google for emergency callouts, Dublin trade" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    faqs: [
+      {
+        q: "Should we advertise at night?",
+        a: "Only if you will answer. Out-of-hours clicks are cheaper and convert extremely well for drainage, but only if the phone is picked up. If it is not, we switch the hours off.",
+      },
+      {
+        q: "Is the phone or a form better?",
+        a: "The phone, overwhelmingly. Almost nobody fills in a form with water rising. Campaigns are built around call actions and tracked accordingly.",
+      },
+      {
+        q: "Can you get us more septic tank work?",
+        a: "Yes, and it is the more profitable half for most firms. It needs its own campaign aimed at rural areas and the service cycle rather than at emergencies.",
+      },
+      {
+        q: "How fast does this start working?",
+        a: "Emergency search campaigns produce calls within days of going live, because the demand already exists and you are simply appearing for it.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["plumbers-and-heating", "damp-proofing", "roofers"],
+  },
+  {
+    slug: "damp-proofing",
+    label: "Damp proofing",
+    title: "Damp Proofing Leads Ireland | Marketing for Damp Specialists",
+    description:
+      "Lead generation for Irish damp proofing and condensation specialists. Campaigns built around surveys for older housing stock and pre-purchase reports. From €1,500 a month.",
+    h1: "Damp proofing leads that turn into surveys.",
+    intro: [
+      "Damp is sold on diagnosis, not on price. A homeowner with a stain spreading on a bedroom wall does not know whether they have rising damp, penetrating damp or condensation, and every one of those has a different fix and a different cost. The firm that wins is the one that explains the difference before asking for anything.",
+      "It is also a trade with a trust problem, because plenty of homeowners have heard of people being sold a chemical course they did not need. Advertising that acknowledges that directly, and leads with a survey rather than a cure, converts far better than advertising that does not.",
+    ],
+    run: [
+      {
+        name: "Survey-first campaigns",
+        text: "Aimed at the symptom people actually search — the stain, the smell, the black mould in the corner — and offering a diagnosis rather than a product.",
+      },
+      {
+        name: "Condensation versus damp content",
+        text: "The distinction every homeowner gets wrong, explained on the page. It builds trust and filters out the jobs that are really a ventilation issue.",
+      },
+      {
+        name: "Pre-purchase report campaigns",
+        text: "Damp reports for people buying an older house. Well-priced, quick, and almost nobody advertises for them.",
+      },
+      {
+        name: "Older housing stock targeting",
+        text: "Campaigns weighted to the periods and areas where rising and penetrating damp are genuinely common.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, surveys booked and cost per survey.",
+      },
+    ],
+    qualify: [
+      "What are you seeing — staining, mould or smell?",
+      "What age is the property?",
+      "Which rooms are affected?",
+      "Are you buying, selling or living there?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    faqs: [
+      {
+        q: "Should we offer free surveys?",
+        a: "It depends on your travel. A free survey lifts enquiry volume sharply but fills the diary with condensation jobs. Many firms do better charging a small fee that is refunded against the work.",
+      },
+      {
+        q: "How do we build trust in a trade with a poor reputation?",
+        a: "By leading with diagnosis instead of a cure, and by saying plainly when the answer is ventilation rather than damp proofing. It costs you some jobs and wins you more.",
+      },
+      {
+        q: "Is this seasonal?",
+        a: "Yes. Enquiries rise sharply from October as heating goes on and condensation appears, and fall away in summer. Budget follows that.",
+      },
+      {
+        q: "Can you target house-buyers?",
+        a: "Yes, and pre-purchase damp reports are a steady, quick-turnaround job that most firms in this trade never advertise for at all.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["drainage", "roofers", "builders-and-extensions"],
+  },
+  {
+    slug: "painters-and-decorators",
+    label: "Painters & decorators",
+    title: "Painting & Decorating Leads Ireland | Marketing for Decorators",
+    description:
+      "Lead generation for Irish painters and decorators: interior, exterior and commercial. Campaigns built around the season and reported in booked jobs. From €1,500 a month.",
+    h1: "Painting and decorating leads, in the right season.",
+    intro: [
+      "Decorating is the most seasonal trade we work with, and the firms that do well are the ones that swap what they advertise rather than advertising the same thing all year. Exterior work sells from April to September and is effectively unsellable in December. Interior work is the opposite, with a hard peak in the six weeks before Christmas.",
+      "The other thing that decides this trade is job size. A single room and a full house repaint arrive through the same enquiry form and are worth ten times different amounts, so the form has to ask before your time is spent quoting.",
+    ],
+    run: [
+      {
+        name: "Seasonal campaign switching",
+        text: "Exterior through the summer, interior through the winter, with the budget moved rather than split. It sounds obvious and almost nobody does it.",
+      },
+      {
+        name: "Pre-Christmas interior push",
+        text: "The single densest six weeks in the decorating calendar, run as its own campaign with lead times stated once the diary tightens.",
+      },
+      {
+        name: "Commercial and landlord campaigns",
+        text: "Repeat work — offices, rentals between tenancies, common areas — which is steadier and less price-sensitive than domestic.",
+      },
+      {
+        name: "Job-size qualification",
+        text: "Room count and property type asked in the form, so you can see whether a quote is worth the visit.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, cost per enquiry and job type, every week.",
+      },
+    ],
+    qualify: [
+      "Is this interior, exterior or both?",
+      "How many rooms, or what size property?",
+      "Is it occupied or empty?",
+      "When would you want it done?",
+    ],
+    proof: [
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    faqs: [
+      {
+        q: "What should we advertise in winter?",
+        a: "Interior, and heavily. The run-up to Christmas is the densest enquiry period in the decorating year and exterior spend in that window is close to wasted.",
+      },
+      {
+        q: "How do we stop quoting single rooms?",
+        a: "The form asks for room count or property size first. If you want a minimum job value we set it as a filter rather than letting you find out on site.",
+      },
+      {
+        q: "Is commercial work worth chasing?",
+        a: "For most decorators, yes. It repeats, it is less price-sensitive, and it fills the months when domestic demand drops. It needs its own campaign and its own language.",
+      },
+      {
+        q: "Do you need photographs?",
+        a: "Yes, and finished interiors in good light work best. Phone photos are fine if the room is tidy and the light is decent.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["flooring", "tilers", "bathroom-renovations"],
+  },
+  {
+    slug: "tilers",
+    label: "Tilers",
+    title: "Tiling Leads Ireland | Marketing for Tilers & Tiling Contractors",
+    description:
+      "Lead generation for Irish tilers: bathrooms, kitchens, floors and wetrooms. Campaigns that bring direct homeowner work rather than subcontract rates. From €1,500 a month.",
+    h1: "Tiling leads direct from homeowners, not through a builder.",
+    intro: [
+      "Most tilers get their work through builders and bathroom firms, and take a subcontract rate for it. The work is steady and the margin is thin, and it disappears the moment the main contractor finds somebody cheaper. Direct homeowner work pays substantially better and belongs to you rather than to whoever passed it on.",
+      "The reason most tilers never get it is that they have no visible presence of their own. A tiler with a page of finished bathrooms and a handful of reviews can take direct work in their area almost immediately, because very few are competing for those searches.",
+    ],
+    run: [
+      {
+        name: "Direct homeowner search campaigns",
+        text: "Google Ads on tiler, bathroom tiling and floor tiling searches in your area — the enquiries that come to you rather than through a contractor.",
+      },
+      {
+        name: "Finished-work social campaigns",
+        text: "Tiling is a visual trade with a strong before-and-after. Your own completed bathrooms and floors are the campaign.",
+      },
+      {
+        name: "Wetroom and large-format campaigns",
+        text: "The higher-value, higher-skill jobs, advertised separately from general tiling so they are not priced against it.",
+      },
+      {
+        name: "Job-size qualification",
+        text: "Room, area and whether materials are supplied, asked before the enquiry reaches you.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, cost per enquiry and job type.",
+      },
+    ],
+    qualify: [
+      "Which room is being tiled?",
+      "Roughly what area, in square metres?",
+      "Are you supplying the tiles?",
+      "When do you need it done?",
+    ],
+    proof: [
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    faqs: [
+      {
+        q: "Is there enough direct homeowner demand?",
+        a: "In most areas yes, and it is under-contested because so few tilers advertise at all. You are usually competing with two or three others rather than twenty.",
+      },
+      {
+        q: "Should we quote per square metre in the ads?",
+        a: "Usually yes. It filters hard, it sets expectations before the call, and it stops you being compared against someone quoting for a completely different standard of work.",
+      },
+      {
+        q: "Can we still take contractor work?",
+        a: "Of course. The point is not to replace it but to stop it being your only source, so a quiet month from one builder does not empty the diary.",
+      },
+      {
+        q: "Do you need photographs?",
+        a: "Yes. Finished bathrooms and floors, well lit. This is a trade where the photograph does nearly all the selling.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["bathroom-renovations", "flooring", "painters-and-decorators"],
+  },
+  {
+    slug: "flooring",
+    label: "Flooring",
+    title: "Flooring Leads Ireland | Marketing for Flooring Companies",
+    description:
+      "Lead generation for Irish flooring companies and fitters: timber, laminate, LVT and carpet. Campaigns reported in booked measures. From €1,500 a month.",
+    h1: "Flooring leads measured in booked measures.",
+    intro: [
+      "Flooring is a supply-and-fit business, which means the enquiry is worthless until somebody knows how many square metres are involved. A hall, stairs and landing and a full ground floor arrive through the same form and are worth completely different amounts, and the measuring visit is where your margin quietly goes.",
+      "It is also a trade where the buyer usually has a material in mind before they contact anyone. Someone searching for LVT is a different customer from someone searching for carpet, and lumping them into one campaign means speaking to neither properly.",
+    ],
+    run: [
+      {
+        name: "Campaigns split by material",
+        text: "Timber, laminate, LVT and carpet run separately, because the buyer, the price point and the language differ for each.",
+      },
+      {
+        name: "Measure-booking as the goal",
+        text: "The campaign optimises for a booked measure rather than a form fill, because that is the step that actually leads to an order.",
+      },
+      {
+        name: "Room and area qualification",
+        text: "Which rooms and roughly what area, asked up front, so you can see the size of the job before anyone travels.",
+      },
+      {
+        name: "New-build and estate targeting",
+        text: "Recently completed developments are a concentrated source of flooring work in the first two years, and almost nobody targets them deliberately.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, measures booked and cost per measure.",
+      },
+    ],
+    qualify: [
+      "Which rooms need flooring?",
+      "Roughly what area, in square metres?",
+      "What type of flooring are you considering?",
+      "When do you need it fitted?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    faqs: [
+      {
+        q: "How do we stop wasting measuring visits?",
+        a: "By asking for rooms and rough area in the form. It reduces raw enquiry numbers and raises the share worth visiting, which is the trade you want.",
+      },
+      {
+        q: "Should we advertise prices per square metre?",
+        a: "For most flooring companies yes. It is what customers compare on anyway, and stating it filters out people shopping at a different price point entirely.",
+      },
+      {
+        q: "Are new estates worth targeting?",
+        a: "Very much. A recently finished development is a few hundred households who all need flooring within the same eighteen months, and they can be targeted as a group.",
+      },
+      {
+        q: "Do you handle carpet and hard flooring differently?",
+        a: "Yes, as separate campaigns. The buyers, the price expectations and the search language have very little overlap.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["tilers", "kitchens", "painters-and-decorators"],
+  },
+  {
+    slug: "fencing-and-gates",
+    label: "Fencing & gates",
+    title: "Fencing Leads Ireland | Marketing for Fencing & Gate Installers",
+    description:
+      "Lead generation for Irish fencing and gate installers: garden fencing, automated gates and post-storm repairs. Reported in booked jobs. From €1,500 a month.",
+    h1: "Fencing and gate leads, including the week after a storm.",
+    intro: [
+      "Fencing has two demand patterns and one of them is worth planning for. The steady one is spring and early summer, when gardens get attention and new estates want boundaries finished. The other arrives without warning: a named storm goes through and an entire county needs fence panels replaced in the same fortnight.",
+      "Firms that only advertise on the seasonal pattern miss the storm weeks entirely, which are the highest-intent, least price-sensitive enquiries this trade ever sees. A campaign that can be turned up within hours is worth a great deal here.",
+    ],
+    run: [
+      {
+        name: "Seasonal garden campaigns",
+        text: "The spring and early summer run, aimed at the estates and housing types where boundary work is common.",
+      },
+      {
+        name: "Storm-response campaigns",
+        text: "Prepared in advance and switched on when weather hits, so you are visible during the days when demand spikes and nobody is comparing prices.",
+      },
+      {
+        name: "Automated gate campaigns",
+        text: "The high-value end of the trade, advertised separately from panel fencing so it is not priced against it.",
+      },
+      {
+        name: "New-estate targeting",
+        text: "Recently completed developments where every garden needs a boundary within the first two seasons.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, cost per enquiry and job type.",
+      },
+    ],
+    qualify: [
+      "What type of fencing or gate do you need?",
+      "Roughly how many metres, or how many panels?",
+      "Is this a repair or a new installation?",
+      "When do you need it done?",
+    ],
+    proof: [
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    faqs: [
+      {
+        q: "Can you really react to a storm that fast?",
+        a: "Yes, if the campaign is built in advance and paused rather than created from scratch. Turning an existing campaign up takes minutes; building one during the spike means missing it.",
+      },
+      {
+        q: "Is automated gate work worth advertising separately?",
+        a: "Yes. It is several times the value of panel fencing and the buyer is completely different, so putting both in one campaign drags your cost per enquiry in the wrong direction.",
+      },
+      {
+        q: "How seasonal is this trade?",
+        a: "Very. Most domestic fencing demand lands between March and July. Budget is weighted heavily to that, with a reserve held for weather events.",
+      },
+      {
+        q: "Do you need photographs?",
+        a: "Yes, and finished runs with a tidy line are what sells. Phone photos are fine.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["landscapers", "driveways-and-paving", "garden-rooms"],
+  },
 ];
 
 export const industryBySlug = (slug: string) =>
