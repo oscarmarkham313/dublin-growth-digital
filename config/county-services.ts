@@ -450,6 +450,17 @@ export const servicePagesForCounty = (countySlug: string) =>
  */
 export const indexableCounties = new Set<string>([
   "dublin",
+  // Kildare earns its place on measured performance, not on depth. Search
+  // Console for 6-18 Sep put /locations/kildare/ at 260 impressions — more
+  // than any other page on the site — and ranked it 20.9 for "google ads
+  // kildare" and 24.7 for "digital marketing kildare". That is page two,
+  // the closest anything here is to page one. It was noindexed on 9 Sep in
+  // the county sweep, before any performance data existed. Reversed.
+  "kildare",
+  // Cork: 249 impressions, second only to Kildare. Position is poor (81.6)
+  // but the demand is clearly there, so keep it in the index while its
+  // deep pages are written rather than starting from nothing again.
+  "cork",
   ...servicePages.map((p) => p.countySlug),
 ]);
 
