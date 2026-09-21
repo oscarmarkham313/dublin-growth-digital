@@ -811,6 +811,397 @@ const kildareWeb: ServicePage = {
   ],
 };
 
+/* ────────────────────────────────────────────────────────────────
+   CORK — 249 impressions in Search Console (second only to Kildare) but
+   at position 81.6, so the demand is proven and the ranking is not. Cork
+   is also the hardest county in this file to win from Dublin: it has its
+   own established agencies and a genuine preference for local firms. The
+   copy says so rather than pretending otherwise.
+   ──────────────────────────────────────────────────────────────── */
+
+const corkDigitalMarketing: ServicePage = {
+  county: "Cork",
+  countySlug: "cork",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Cork | Agency for Cork Businesses",
+  description:
+    "A digital marketing agency working with Cork businesses: Google Ads, Meta ads, SEO, web design and social, from Cork city and Douglas to Midleton, Bandon and West Cork. Reported in enquiries, not impressions.",
+  h1: "Digital marketing in Cork, measured in enquiries.",
+  intro: [
+    "Cork does not behave like the rest of the country, and any agency that treats it as one more county on a list will waste your money. It is a real second city with its own established agencies, its own media, and a genuine preference for dealing with Cork firms. That preference is not sentiment — it is a reasonable instinct that someone local will understand the market better.",
+    "We will not pretend to be from Cork. What we will say is that the preference cuts both ways: it makes Cork search results less crowded with outside competition than Dublin, and it means a Cork business that shows up properly online is competing against a small number of local firms rather than the entire country. That is a winnable position, and most Cork businesses are not in it.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Cork businesses",
+      body: [
+        "Five services, and most Cork clients need two of them rather than all five. One channel run properly beats a small budget spread across everything.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "The fastest route to the phone ringing. Cork needs the county split properly: the city and its suburbs behave like an urban market with real competition and real click prices, while Bandon, Macroom, Mallow and the west are cheaper and far less contested for the same search.",
+        },
+        {
+          title: "Meta ads",
+          body: "Facebook and Instagram carry unusual weight across Cork, and especially outside the city. Parish, town and community pages are heavily followed from Youghal to Bantry, and a job done well in a small town is seen by the whole town.",
+        },
+        {
+          title: "SEO",
+          body: "The compounding one. In Cork that means the town-level searches rather than the county ones, and it means getting your Google Business Profile into proper order, because for a local Cork search the map results take most of the attention before anyone scrolls.",
+        },
+        {
+          title: "Web design",
+          body: "A great many Cork businesses have a conversion problem rather than a traffic problem. People are already finding them and leaving. A fast site that works on a phone and actually asks for the enquiry usually beats spending more on ads.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, in your own voice. In a market where reputation travels by word of mouth, a page that looks current is part of being taken seriously.",
+        },
+      ],
+    },
+    {
+      heading: "Why Cork campaigns underperform",
+      body: [
+        "The same four things, in most Cork accounts we have looked at.",
+      ],
+      list: [
+        {
+          title: "The county is treated as one market",
+          body: "Cork is the largest county in Ireland and driving from Bantry to Youghal takes the guts of three hours. A single campaign across it spends most of its budget reaching people who will never travel to you and who you would never travel to.",
+        },
+        {
+          title: "West Cork is either ignored or over-served",
+          body: "Clonakilty, Skibbereen, Bantry and Dunmanway are a genuinely different economy — tourism, agriculture, seasonal trade — with much cheaper advertising and far less competition. Businesses either pretend it does not exist or advertise into it as though it were the city.",
+        },
+        {
+          title: "Student searches are not filtered out",
+          body: "UCC and MTU put a large student population into the city, and they generate search volume that looks commercial and is not. Without negative keywords for courses, jobs and student terms, a city campaign pays for clicks that were never going to buy.",
+        },
+        {
+          title: "Nobody is competing on the map",
+          body: "For most local Cork searches the map results sit above everything else, and they are decided by proximity, reviews and how completely a Google Business Profile is filled in. Plenty of Cork businesses have a profile that has not been touched since it was created.",
+        },
+      ],
+    },
+    {
+      heading: "How we work",
+      body: [
+        "No office visit, no retainer dressed up as a partnership, no quarterly deck. You deal directly with the person running your account.",
+        "Week one we take access, fix what is obviously broken and get tracking in place so that the numbers from week two are real. From there, one short report a week: enquiries, cost per enquiry, and what we changed. If something is not working you hear it from us first.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Cork we work",
+    body: "Campaigns are built around the towns you actually serve, because in a county this size that distinction decides whether the budget produces work or just reach.",
+    towns: [
+      "Cork city",
+      "Douglas",
+      "Ballincollig",
+      "Carrigaline",
+      "Glanmire",
+      "Midleton",
+      "Cobh",
+      "Mallow",
+      "Bandon",
+      "Kinsale",
+      "Blarney",
+      "Youghal",
+      "Fermoy",
+      "Macroom",
+      "Clonakilty",
+      "Skibbereen",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. €2,500 a month covers both channels, a new website, and everything in the first package.",
+      "Month to month, cancel any time, no setup fee. Advertising spend is separate and paid by you directly to Google or Meta from your own account, so you keep control of the budget and own the account when you leave.",
+      "If a website is the only thing you need, that is a one-off €1,500 with no monthly fee at all.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Why would I use a Dublin agency instead of a Cork one?",
+      a: "Often you should not, and we will say so. If you want someone who can sit in your office, or who knows the trade on a personal level, hire a Cork agency — those are good reasons. Use us if you care more about the campaign being run properly week to week than about where it is run from, and if you want to talk to the person doing the work rather than an account manager.",
+    },
+    {
+      q: "Do you understand the Cork market well enough?",
+      a: "We know it from the campaigns we run in it rather than from living there, and we are straight about the difference. What that means in practice is that we will ask you more questions at the start than a local agency would, and we will not assume we know your customer better than you do.",
+    },
+    {
+      q: "Will I show up in the Google map results for Cork?",
+      a: "Only if you have a verified Cork address, because the map pack is driven by physical location and proximity to the searcher. If you have premises we will get your Google Business Profile into shape to compete there, and for a local Cork search that is frequently the highest-value work available. If you do not, we focus on the ordinary results and on paid.",
+    },
+    {
+      q: "Is West Cork worth advertising in?",
+      a: "Often more than the city, if you can serve it. Competition is much lower, clicks cost a fraction of the city rate, and the towns have strong community networks that amplify a good job. The constraint is travel, so we build the targeting around how far you will genuinely go.",
+    },
+    {
+      q: "How quickly will I see something?",
+      a: "Paid channels produce enquiries in days, usually inside a week of Google Ads going live. SEO is measured in months. Cork is more competitive than most counties, so we are conservative about search timelines and explicit about which one you are buying.",
+    },
+    {
+      q: "Can I see what you would do before paying anything?",
+      a: "Yes. Ask for the free growth audit and we will check where you appear in Cork search results, who is outranking you, what your competitors are advertising and what your website does to visitors. Back within 24 hours as a PDF, with no call attached.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Cork", href: "/locations/cork/social-media-marketing/" },
+    { label: "Web design in Cork", href: "/locations/cork/web-design/" },
+    { label: "All Cork services", href: "/locations/cork/" },
+  ],
+};
+
+const corkSocial: ServicePage = {
+  county: "Cork",
+  countySlug: "cork",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Cork | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Cork businesses: Facebook and Instagram content and paid campaigns, managed end to end. Cork city, Douglas, Midleton, Bandon, Clonakilty and across the county.",
+  h1: "Social media marketing in Cork that produces customers, not followers.",
+  intro: [
+    "Social works harder in Cork than in almost any county in Ireland, and the reason is community. Town and parish pages from Midleton to Bantry are large, active and genuinely read, and Cork people are unusually willing to recommend a business publicly. A single post about a job done well in Clonakilty reaches people no targeting setting could buy.",
+    "That is also the trap. Reach here is easy and nearly meaningless on its own. Plenty of Cork businesses have five thousand followers and no idea whether one customer ever came from them. What we run is built the other way round: the content exists to produce enquiries, and enquiries are what gets reported.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "Two halves, and both are needed. Content alone builds an audience slowly. Paid alone reaches people who look you up, find a page last posted to in 2023, and quietly decide against you.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule across Facebook and Instagram in the voice of the business you actually run — finished work, the people who did it, the questions customers keep asking, prices and availability where it helps. You send photos; we do the rest.",
+        },
+        {
+          title: "Paid campaigns behind the content",
+          body: "The posts that earn a real response get budget behind them and go to a tightly drawn Cork audience. This is what turns a page into a channel, and it is where most self-managed social stops.",
+        },
+        {
+          title: "City and county targeted separately",
+          body: "A Douglas audience and a West Cork audience want different things said differently. Running one campaign across the largest county in Ireland is the most common and most expensive mistake here.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured inside Facebook and Instagram rather than sent to a website to get lost. On a phone this roughly doubles the number of people who finish an enquiry.",
+        },
+        {
+          title: "Replies handled",
+          body: "Comments and messages answered within the working day. A large share of social enquiries arrive as a message rather than a form, and unanswered messages are simply lost customers.",
+        },
+      ],
+    },
+    {
+      heading: "Which Cork businesses this suits",
+      body: [
+        "Social is not the right first channel for everyone and we will tell you if it is not. It works hardest where the work is visual, the decision is discretionary, and the customer is local.",
+        "That means home improvement and trades where a before-and-after sells the job. Salons, barbers, clinics, gyms and studios where people want to see the room before booking. Food and hospitality, which Cork takes more seriously than anywhere else in the country and where a good Thursday post fills a Saturday. Tourism and accommodation across West Cork, where the season is short and being seen at the right moment decides the year.",
+        "It works far less well for emergency trades. If somebody's boiler has failed they are on Google, not Instagram — and those businesses should be on search first and social second.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send us photographs. That is genuinely the whole of it.",
+        "Managed social fails when the agency runs out of real material and falls back on stock images and motivational quotes, which any customer spots instantly. A few phone photos a week of actual work, actual staff and actual premises will outperform anything we could buy. We handle the writing, scheduling, design, budget and replies.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Cork areas we target",
+    body: "Paid social lets us draw the audience around the towns you can genuinely serve, which in the largest county in Ireland is the difference between a campaign that books work and one that just gets seen.",
+    towns: [
+      "Cork city",
+      "Douglas",
+      "Ballincollig",
+      "Carrigaline",
+      "Glanmire",
+      "Midleton",
+      "Cobh",
+      "Mallow",
+      "Bandon",
+      "Kinsale",
+      "Blarney",
+      "Youghal",
+      "Fermoy",
+      "Macroom",
+      "Clonakilty",
+      "Skibbereen",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. It is not sold separately, because a page posted to with no budget behind it rarely earns its keep.",
+      "€2,500 a month adds the second advertising channel and a new website.",
+      "Month to month, cancel any time. Ad spend is paid by you directly to Meta from your own account, and the account stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can you post into the Cork community and town groups?",
+      a: "Not directly, and be wary of anyone who promises it. Those groups belong to their admins and most have firm rules about businesses posting. What we do is make your own page worth following and put budget behind the posts that work, so you reach the same people without annoying the group that would otherwise recommend you.",
+    },
+    {
+      q: "Does social work outside the city?",
+      a: "Frequently better. West Cork and East Cork towns have tighter, more engaged community networks and much cheaper advertising, so a modest budget goes considerably further than the same money spent in the city.",
+    },
+    {
+      q: "Do I need to be on TikTok?",
+      a: "Probably not. For most Cork businesses Facebook still holds the buying audience with Instagram second, and doing those two properly beats spreading thin. If your customers are genuinely under thirty we will say so and plan for it.",
+    },
+    {
+      q: "Can you use my existing Facebook page?",
+      a: "Yes, and usually we should — it carries followers, reviews and history a new page throws away. We want editor access rather than ownership. The page stays yours and you can remove our access the day you stop.",
+    },
+    {
+      q: "What if I have no photos?",
+      a: "Then that is the first thing we fix, because it constrains everything else. In practice it is five minutes on a job with a phone camera and a short list from us of what to capture. Not a reason to delay, but the one part nobody can do for you.",
+    },
+    {
+      q: "Do you guarantee a number of followers?",
+      a: "No. Follower counts can be bought and are worth nothing. What we report is how many people enquired and what each enquiry cost.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Cork", href: "/locations/cork/digital-marketing/" },
+    { label: "Web design in Cork", href: "/locations/cork/web-design/" },
+    { label: "All Cork services", href: "/locations/cork/" },
+  ],
+};
+
+const corkWeb: ServicePage = {
+  county: "Cork",
+  countySlug: "cork",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Cork | Website Design & Development, €1,500",
+  description:
+    "Web design and development for Cork businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500. No monthly fee and you own every file.",
+  h1: "Web design and development for Cork businesses.",
+  intro: [
+    "Most Cork businesses that come to us do not have a traffic problem. People are already finding them — through search, through the map results, through a recommendation in a town page — and then leaving without getting in touch. The site is slow, awkward on a phone, the number is buried, and it describes the business at length without ever asking anyone to act.",
+    "That is a conversion problem, and it is much cheaper to fix than a traffic problem. Doubling the share of visitors who make contact costs a fraction of doubling the visitors, and it makes every other channel worth more at the same time.",
+  ],
+  sections: [
+    {
+      heading: "What you get",
+      body: [
+        "One fixed price of €1,500, paid once, for a site designed and written from scratch for your business. No monthly fee, no contract, no retainer at the end.",
+      ],
+      list: [
+        {
+          title: "Designed for you, not assembled from a template",
+          body: "Up to seven pages, laid out around what your customers need to see before they pick up the phone — not a stock theme with your logo in the corner.",
+        },
+        {
+          title: "Every word written for you",
+          body: "Headlines, service pages, the about page, calls to action. You do not write a sentence. We read your reviews, your competitors and your existing site first.",
+        },
+        {
+          title: "Built for the phone first",
+          body: "Designed on mobile and scaled up. Optimised images, clean code, no bloated plugins — which matters more than usual across West Cork, where mobile coverage is patchy and a heavy site simply does not load.",
+        },
+        {
+          title: "Technical SEO from day one",
+          body: "Page titles, meta descriptions, heading structure, schema markup, sitemap and robots.txt, plus Google Search Console and Analytics set up in your name.",
+        },
+        {
+          title: "Your Google Business Profile rebuilt",
+          body: "Categories, services and description rewritten around the searches you want to win. For a local Cork business, where the map results sit above everything, this is often the single highest-value thing on the list.",
+        },
+        {
+          title: "Hosting, SSL and your domain connected",
+          body: "The first twelve months included. We connect the domain you already own or register a new one for you.",
+        },
+      ],
+    },
+    {
+      heading: "Ten working days, and about forty minutes of your time",
+      body: [
+        "Website projects normally drag for months because they are run as a conversation. This one is run as a build with a finish date.",
+        "You answer six short questions and send your logo. We research and write, then design and build, with a preview link halfway through so nothing is a surprise. On day eight you send one list of everything you want changed, however long. We make the changes, connect the domain and launch. Then thirty days of unlimited further changes at no charge.",
+        "Your site does not go live until you have looked at it and said it is right. Unlimited revision rounds, no cut-off date.",
+      ],
+    },
+    {
+      heading: "Web development, and where the line is",
+      body: [
+        "This covers business websites: service pages, galleries, contact and quote forms, click-to-call, maps, and connections to booking or payment tools you already use such as Stripe, Calendly, Square or Fresha.",
+        "It does not cover custom software. A large e-commerce store with live stock control, a client portal, a booking engine built from scratch or a mobile app are different jobs with different prices. Tell us before you pay and we will quote it properly or tell you we are not the right people.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Working with Cork businesses",
+    body: "The whole process runs by email, WhatsApp and one optional twenty-minute call, so it makes no difference to price or timeline whether you are in Douglas or Bantry.",
+    towns: [
+      "Cork city",
+      "Douglas",
+      "Ballincollig",
+      "Carrigaline",
+      "Glanmire",
+      "Midleton",
+      "Cobh",
+      "Mallow",
+      "Bandon",
+      "Kinsale",
+      "Blarney",
+      "Youghal",
+      "Fermoy",
+      "Macroom",
+      "Clonakilty",
+      "Skibbereen",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500, paid once. That covers the design, the writing, the build, the launch, the SEO foundations, the analytics setup, the Google Business Profile work, the first twelve months of hosting and thirty days of unlimited changes after launch.",
+      "No monthly fee and no contract. Every file, login and account is created in your name from the start, so you can take the site elsewhere whenever you want.",
+      "If you also want advertising run afterwards, that is a separate decision made after the site is live, and nobody has to buy it.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is €1,500 really the whole price for a Cork business?",
+      a: "Yes — the price is the same wherever you are in Ireland. It covers everything listed above including the first twelve months of hosting and thirty days of free changes after launch. No setup fee and no invoice at the end for work that turned out to be out of scope.",
+    },
+    {
+      q: "Would a Cork web designer not be better?",
+      a: "For the build itself, location makes no difference — the work is the same and the process is remote either way. Where a local designer has the edge is if you want someone to sit down with in person. What we would put against that is a fixed price, a ten-day finish date and unlimited revisions until you sign off, which is not the norm.",
+    },
+    {
+      q: "Who owns the website when it is finished?",
+      a: "You do, entirely. The domain, files, hosting account, analytics and Search Console property are all in your name from the start. There is no situation where you have to ask our permission or buy your own site back.",
+    },
+    {
+      q: "Will the new site rank in Cork?",
+      a: "The build gives it the foundations, and for a business with little local competition that is often enough. Cork city is genuinely competitive, so for a contested search a well-built site is necessary but not sufficient — ranking also needs time, reviews and other sites linking to you. We will tell you honestly which situation you are in.",
+    },
+    {
+      q: "I already have a website. Is it worth replacing?",
+      a: "If it brings you steady enquiries, keep it. If it is more than three or four years old, looks wrong on a phone, or you cannot remember the last enquiry through it, it is quietly costing you more than €1,500 a year in work you never hear about.",
+    },
+    {
+      q: "What happens if I want changes in a year?",
+      a: "Small things we do as a favour. Anything substantial is charged at a flat rate agreed in advance and always quoted before we start. You are never locked into a support plan to keep your own website working.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Cork", href: "/locations/cork/digital-marketing/" },
+    { label: "Social media marketing in Cork", href: "/locations/cork/social-media-marketing/" },
+    { label: "The full €1,500 website offer", href: "/offer/" },
+  ],
+};
+
 export const servicePages: ServicePage[] = [
   limerickDigitalMarketing,
   limerickSocial,
@@ -818,6 +1209,9 @@ export const servicePages: ServicePage[] = [
   kildareDigitalMarketing,
   kildareSocial,
   kildareWeb,
+  corkDigitalMarketing,
+  corkSocial,
+  corkWeb,
 ];
 
 export const servicePageBy = (countySlug: string, serviceSlug: string) =>
