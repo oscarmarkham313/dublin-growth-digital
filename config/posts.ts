@@ -1581,6 +1581,589 @@ export const posts: Post[] = [
     ],
     related: ["roofers", "kitchens", "gyms-and-fitness"],
   },
+  {
+    slug: "how-long-seo-takes-ireland",
+    title: "How long SEO actually takes in Ireland",
+    description:
+      "An honest timeline, what happens at each stage, and the three things that decide whether you land in three months or twelve.",
+    date: "2026-09-22",
+    minutes: 6,
+    intro:
+      "Everybody selling SEO is incentivised to be vague about this, and everybody buying it wants a number. Here is the honest version, with the caveats that actually matter rather than the ones that protect the agency.",
+    sections: [
+    {
+      h: "Days one to seven: nothing visible",
+      p: [
+        "New pages are not in Google yet. They have to be discovered, crawled and assessed, and nothing you look at in the first week tells you anything.",
+        "Search Console also lags two to three days behind, so even once something happens you will not see it immediately. Checking daily at this stage produces anxiety and no information.",
+      ],
+    },
+    {
+      h: "Weeks one to four: indexed, ranked nowhere",
+      p: [
+        "Pages get crawled and start appearing, typically somewhere between position 40 and 80. That looks like failure and is not — it is Google placing something it has no signals about yet.",
+        "What you should see is impressions starting to appear for terms you were invisible for. Clicks at this stage will be near zero, because almost nobody scrolls to page five.",
+      ],
+    },
+    {
+      h: "Months two to four: movement, if the foundations are right",
+      p: [
+        "Pages that deserve to move start moving. Long-tail terms land first — specific, low-competition phrases with clear intent — while the head terms stay out of reach.",
+        "This is the stage where you learn whether the content was good enough. If nothing has moved by month four, something is wrong and more pages will not fix it.",
+      ],
+    },
+    {
+      h: "Months four to twelve: the competitive terms",
+      p: [
+        "Head terms in a contested market need more than good pages. They need other sites linking to you and a review profile that matches your competitors.",
+        "This is where most SEO projects stall, and it is almost never a content problem by that point.",
+      ],
+    },
+    {
+      h: "The three things that decide your timeline",
+      p: [
+        "Everything above assumes the basics are right. These are what move a site from the slow end of that range to the fast end:",
+      ],
+      list: [
+        "Competition in your actual market — a Waterford trade ranks far faster than a Dublin one for the same effort",
+        "Whether anybody links to you, which for most small Irish businesses is nobody",
+        "Reviews, which decide local results more than anything on your website",
+      ],
+    },
+    {
+      h: "What a reasonable promise sounds like",
+      p: [
+        "Indexed within a fortnight. Long-tail impressions inside two months. Competitive positions in six to twelve, conditional on links and reviews arriving.",
+        "Anyone promising page one in thirty days is either talking about a term nobody searches or is not planning to be around when you check.",
+      ],
+    },
+    ],
+    related: ["estate-agents", "roofers", "med-spas"],
+  },
+  {
+    slug: "what-a-weekly-marketing-report-should-contain",
+    title: "What a weekly marketing report should actually contain",
+    description:
+      "Four numbers and one sentence. If your report has thirty charts and you cannot tell whether last week was good, it is not a report.",
+    date: "2026-09-22",
+    minutes: 4,
+    intro:
+      "Agency reporting is frequently designed to look like work rather than to inform a decision. A useful report fits on one page and answers one question: was last week better or worse, and what are we doing about it.",
+    sections: [
+    {
+      h: "The four numbers",
+      p: [
+        "Everything else is supporting detail.",
+      ],
+      list: [
+        "Enquiries you could actually serve — not form fills, not clicks",
+        "What each one cost",
+        "How many became a quote, a booking or a job",
+        "What you spent",
+      ],
+    },
+    {
+      h: "The one sentence",
+      p: [
+        "What changed this week and why. Not a list of tasks — an explanation of the decision.",
+        "'Paused the Tuesday ad set, it was producing enquiries at three times the others' is a sentence. 'Ongoing optimisation of campaign performance' is not.",
+      ],
+    },
+    {
+      h: "What does not belong",
+      p: [
+        "Impressions, reach, engagement rate, follower growth, click-through rate as a headline. All of them can rise while enquiries fall.",
+        "They have diagnostic uses — a collapsing click-through rate tells you creative is tiring — but they are not results and should not be presented as though they were.",
+      ],
+    },
+    {
+      h: "The test",
+      p: [
+        "Read the report and try to answer: was last week better than the week before, and do I need to do anything?",
+        "If you cannot, the report failed regardless of how much work went into it.",
+      ],
+    },
+    ],
+    related: ["roofers", "insurance-brokers", "dentists"],
+  },
+  {
+    slug: "why-your-cost-per-lead-went-up",
+    title: "Your cost per lead went up. Here is what it usually means.",
+    description:
+      "Six causes, in rough order of likelihood, and which ones are actually a problem.",
+    date: "2026-09-22",
+    minutes: 5,
+    intro:
+      "A rising cost per lead sets off alarms and frequently should not. Some causes are genuine problems, one is a sign things are going well, and telling them apart takes about ten minutes.",
+    sections: [
+    {
+      h: "The creative has worn out",
+      p: [
+        "The most common cause by a distance, particularly on Meta. The same audience has seen the same ad enough times to stop noticing it.",
+        "The tell is frequency rising while click-through falls. The fix is new creative, not a bigger budget.",
+      ],
+    },
+    {
+      h: "You tightened the qualification",
+      p: [
+        "If somebody added questions to the form, cost per lead should rise. That is the point — you are buying fewer, better enquiries.",
+        "This looks identical to a problem on a chart and is the opposite of one. Cost per job won is the number that tells you which happened.",
+      ],
+    },
+    {
+      h: "The season turned",
+      p: [
+        "Half the trades we work with have a demand curve steep enough that the same campaign costs twice as much in the wrong month.",
+        "If your cost per lead rose in the month your industry goes quiet, the campaign is behaving correctly and the budget should probably move.",
+      ],
+    },
+    {
+      h: "A competitor started spending",
+      p: [
+        "Auction prices are set by whoever else is bidding. One new entrant with a large budget can move your costs without anything changing on your side.",
+        "Usually temporary. Worth watching for a fortnight before reacting.",
+      ],
+    },
+    {
+      h: "The landing page broke",
+      p: [
+        "A form that stopped submitting, a page that got slow, a tracking tag that stopped firing. Costs appear to spike because conversions stopped being recorded.",
+        "Always check this before changing anything in the ad account — it is the cheapest cause to rule out and an embarrassing one to miss.",
+      ],
+    },
+    {
+      h: "The account is learning again",
+      p: [
+        "Significant edits reset the learning phase. Costs rise for a few days and settle.",
+        "Which is why constant tinkering is expensive: every change buys another few days of poor delivery.",
+      ],
+    },
+    ],
+    related: ["plumbers-and-heating", "kitchens", "gyms-and-fitness"],
+  },
+  {
+    slug: "questions-to-ask-a-marketing-agency",
+    title: "The questions to ask before signing with a marketing agency",
+    description:
+      "Nine questions, and what the answers tell you. Most of them are about ownership and exit rather than strategy.",
+    date: "2026-09-22",
+    minutes: 6,
+    intro:
+      "Agency pitches are good at describing what will be done and vague about what happens if it does not work. These are the questions worth asking, and roughly what a straight answer sounds like.",
+    sections: [
+    {
+      h: "About ownership",
+      p: [
+        "This is where most of the risk sits, and almost nobody asks.",
+      ],
+      list: [
+        "Whose name will the ad account be in? — yours, or you are renting your own audience data",
+        "Who owns the website and the domain? — you, with the logins, from day one",
+        "If I leave, what do I take with me? — everything, and a straight answer takes one sentence",
+        "Is there a minimum term? — if yes, ask why the work needs one",
+      ],
+    },
+    {
+      h: "About the money",
+      p: [
+        "Two questions that separate most agencies.",
+      ],
+      list: [
+        "Is ad spend paid through you or directly by me? — directly, to the platform, from your own account",
+        "What exactly does the fee cover, and what is extra? — get it in writing before you sign",
+      ],
+    },
+    {
+      h: "About the work",
+      p: [
+        "Who will actually be doing it, and will I speak to them? In a small agency the honest answer is a name. In a larger one it is frequently an account manager relaying messages, which is fine if you know that going in.",
+        "Then: what will you tell me if it is not working, and when? An agency that has thought about this has an answer ready.",
+      ],
+    },
+    {
+      h: "The one that reveals the most",
+      p: [
+        "Is there a situation where you would tell me not to spend money with you?",
+        "Anyone who cannot name one either has not thought about it or is not going to tell you. Every honest agency has a list — businesses whose economics do not support advertising, trades where the channel is wrong, clients who cannot fulfil the work they already have.",
+      ],
+    },
+    ],
+    related: ["insurance-brokers", "solicitors", "accountants"],
+  },
+  {
+    slug: "ads-to-website-or-landing-page",
+    title: "Should your ads go to your website or a landing page?",
+    description:
+      "The answer depends on one thing, and it is not what most people think. A short decision guide.",
+    date: "2026-09-22",
+    minutes: 5,
+    intro:
+      "Agencies tend to push landing pages because they are easy to build and easy to bill for. Sometimes that is right and frequently it is not, and the deciding factor is narrower than the debate suggests.",
+    sections: [
+    {
+      h: "Send to your website when the decision involves trust",
+      p: [
+        "Anybody choosing a tradesman, a clinic, a solicitor or an agency wants to look around. They want to see other work, other services, an about page and a real address.",
+        "A single landing page with no way to explore feels thin for those decisions and converts worse, even though it is technically more focused.",
+      ],
+    },
+    {
+      h: "Send to a landing page when the offer is narrow and urgent",
+      p: [
+        "One specific thing, one price, one action, and no reason to browse. An emergency callout, a single promotion, a webinar sign-up.",
+        "Here the website is a distraction and stripping the choices genuinely helps.",
+      ],
+    },
+    {
+      h: "The real problem is usually neither",
+      p: [
+        "Most campaigns sending traffic to a website are not failing because it is a website. They are failing because the page they land on is the homepage.",
+        "Somebody clicking an ad about bathroom renovation should land on the bathroom page, not on a general homepage where they have to find it again. That single fix outperforms building a landing page most of the time.",
+      ],
+    },
+    {
+      h: "A practical rule",
+      p: [
+        "If you already have a decent site, send traffic to the most relevant page on it and measure. Build a landing page only when you can name what the website page is failing to do.",
+        "Building one first is solving a problem you have not diagnosed.",
+      ],
+    },
+    ],
+    related: ["bathroom-renovations", "kitchens", "med-spas"],
+  },
+  {
+    slug: "what-happens-when-you-leave-an-agency",
+    title: "What happens to your marketing when you leave an agency",
+    description:
+      "The things that quietly belong to somebody else, and how to find out before it matters.",
+    date: "2026-09-22",
+    minutes: 5,
+    intro:
+      "Most people discover what they own at the worst possible moment, which is the week they decide to leave. It is a twenty-minute check and worth doing while the relationship is good.",
+    sections: [
+    {
+      h: "The four things that should be yours",
+      p: [
+        "If any of these sit in an agency's account, you are renting rather than owning.",
+      ],
+      list: [
+        "The ad account, with your business as the owner and them as a user",
+        "The domain, registered to you, with the login",
+        "The website files and hosting, in your name",
+        "Analytics and Search Console, as the property owner",
+      ],
+    },
+    {
+      h: "Why the ad account matters most",
+      p: [
+        "An ad account carries the history — conversion data, audiences, what the algorithm has learned about who buys from you. Rebuilding that takes months and costs real money in worse performance while it relearns.",
+        "If the account belongs to the agency, leaving means starting from nothing. Plenty of agencies rely on that without ever saying it.",
+      ],
+    },
+    {
+      h: "The website trap",
+      p: [
+        "A site built on an agency's platform or hosting, with no access for you, cannot be moved. The practical options become paying to rebuild or staying.",
+        "Ask for the hosting login. If there is a reason you cannot have it, that is the answer.",
+      ],
+    },
+    {
+      h: "How to check, today",
+      p: [
+        "Log into each of the four things above yourself. Not a dashboard the agency gave you — the actual account.",
+        "If you cannot log in, you do not own it. That is worth knowing now rather than during a disagreement.",
+      ],
+    },
+    {
+      h: "Leaving well",
+      p: [
+        "Give notice, ask for access transfers in writing, and check each one has actually happened before the final invoice is paid.",
+        "A decent agency will do all of this without friction, because they expected to be asked.",
+      ],
+    },
+    ],
+    related: ["accountants", "solicitors", "it-support"],
+  },
+  {
+    slug: "budgeting-a-seasonal-business",
+    title: "Budgeting a marketing year that is not flat",
+    description:
+      "Most Irish trades have a demand curve, and most budgets ignore it. How to set spend against a season instead of a calendar.",
+    date: "2026-09-22",
+    minutes: 5,
+    intro:
+      "Dividing an annual budget by twelve is the default and it is wrong for a majority of the businesses we work with. Demand is not evenly distributed, so spend should not be either.",
+    sections: [
+    {
+      h: "Find your actual curve",
+      p: [
+        "Take last year's enquiries or invoices and plot them by month. Most trades are surprised by how pronounced it is.",
+        "Stoves and chimney sweeps make most of their money in about ten weeks. Landscaping decides its year in February. Gyms peak in January and pay the most for it. Powerwashing effectively stops in winter.",
+      ],
+    },
+    {
+      h: "Spend ahead of the peak, not during it",
+      p: [
+        "The instinct is to advertise when the phone is busy, because that feels like momentum. It is usually the most expensive moment to buy attention, because every competitor is doing the same.",
+        "The money is in the weeks just before, when the people who will buy are deciding and nobody else is talking to them yet.",
+      ],
+    },
+    {
+      h: "Change the message when you fill up",
+      p: [
+        "Once the diary is full, availability is the wrong thing to advertise. Switch to lead times.",
+        "Saying you are booking into November is not a deterrent — it is proof, and it holds the people willing to wait rather than sending them to a competitor with immediate availability and a reason for it.",
+      ],
+    },
+    {
+      h: "Use the quiet months for the things that compound",
+      p: [
+        "Content, reviews, photographs, the Google profile, the website. All of it is cheaper to do when you are not busy and all of it makes next season's spend work harder.",
+        "The alternative — advertising into a month when nobody is buying — is the single most common waste we find in trade accounts.",
+      ],
+    },
+    ],
+    related: ["stoves-and-fireplaces", "landscapers", "powerwashing"],
+  },
+  {
+    slug: "how-to-ask-for-google-reviews",
+    title: "How to ask for Google reviews without being awkward about it",
+    description:
+      "The ask, the timing, the link, and what to do about a bad one. For local businesses this is the highest-return hour available.",
+    date: "2026-09-22",
+    minutes: 5,
+    intro:
+      "Most businesses with few reviews do not have unhappy customers. They have customers nobody asked. It is the cheapest thing on any marketing list and the one most consistently skipped.",
+    sections: [
+    {
+      h: "Send the short link, never an instruction",
+      p: [
+        "Google Business Profile, Read reviews, Get more reviews, and copy the short link. Send that.",
+        "Telling somebody to search for you on Google and leave a review loses roughly half of them at each step. The link removes every step but one.",
+      ],
+    },
+    {
+      h: "Ask at the moment of relief",
+      p: [
+        "Not a week later. The right moment is when the job is finished and the customer is visibly pleased — the leak stopped, the room looks right, the car passed.",
+        "For a trade that is standing in the room. For a clinic it is at the desk. For a service business it is the day the thing they were worried about stopped being a worry.",
+      ],
+    },
+    {
+      h: "The wording that works",
+      p: [
+        "Short, personal, no pressure, and an easy out. 'Would you mind leaving us a quick review? Here is the link — a line or two is perfect, and no bother at all if you would rather not.'",
+        "Never offer anything in exchange. It breaches Google's terms, and reviews obtained that way can take the whole profile down with them.",
+      ],
+    },
+    {
+      h: "Pace it",
+      p: [
+        "Five a week, not thirty at once. A profile that goes from two reviews to forty in a fortnight looks manufactured and Google filters accordingly.",
+        "Steady also looks better to a human reading them, because recency is visible on the profile.",
+      ],
+    },
+    {
+      h: "What to do about a bad one",
+      p: [
+        "Reply, once, calmly, in public. Acknowledge the specific thing, say what you did about it, and offer to take it offline.",
+        "You are not writing for the reviewer. You are writing for the next person who reads it, and a measured reply to an unfair review frequently does more good than the review did harm.",
+      ],
+    },
+    ],
+    related: ["car-garages", "dentists", "restaurants-and-cafes"],
+  },
+  {
+    slug: "why-your-competitor-outranks-you",
+    title: "Why your competitor outranks you, and what it actually takes to pass them",
+    description:
+      "Four reasons, three of which are fixable. How to work out which one applies to you in about twenty minutes.",
+    date: "2026-09-22",
+    minutes: 6,
+    intro:
+      "The question comes up on nearly every first call, usually with a specific competitor named. It is answerable, and the answer is rarely the one people expect.",
+    sections: [
+    {
+      h: "They have been there longer",
+      p: [
+        "A domain that has existed for a decade, with pages that have been in the index for years, carries accumulated trust that a new site does not.",
+        "This is the one you cannot shortcut. You can beat it, but you beat it on relevance and specificity rather than by out-existing them.",
+      ],
+    },
+    {
+      h: "People link to them and not to you",
+      p: [
+        "Check by searching for their business name and seeing where else it appears — directories, local news, suppliers, association pages.",
+        "For most small Irish businesses, both of you have almost none, and whoever gets the first ten has a real advantage. It is the most under-exploited gap in local search here.",
+      ],
+    },
+    {
+      h: "Their reviews are better",
+      p: [
+        "For anything decided in the map results, this is frequently the whole answer. Count theirs, count yours, look at the dates.",
+        "A competitor with thirty recent reviews against your four is not outranking you because of their website.",
+      ],
+    },
+    {
+      h: "Their page is genuinely better for that search",
+      p: [
+        "Look at the page that actually ranks, not their homepage. Is it specifically about the thing being searched, or is it a general services page?",
+        "Frequently they win because they have a page about exactly that, and you have a paragraph about it. That is the most fixable of the four.",
+      ],
+    },
+    {
+      h: "Working out which applies",
+      p: [
+        "Search the term. Look at the page that ranks, their review count and date, and whether anybody links to them.",
+        "One of the four will be obvious. Then fix that one rather than doing everything at once, because doing everything at once means never knowing which worked.",
+      ],
+    },
+    ],
+    related: ["roofers", "solicitors", "skin-clinics"],
+  },
+  {
+    slug: "pricing-jobs-when-leads-come-from-ads",
+    title: "How to price jobs when your leads come from advertising",
+    description:
+      "Marketing cost is a cost of sale, and most trades never put it in the number. What happens when you do.",
+    date: "2026-09-22",
+    minutes: 5,
+    intro:
+      "A tradesman who spends on advertising and prices as though they do not is quietly absorbing the cost out of margin. It is usually invisible until a busy year turns out not to have made any money.",
+    sections: [
+    {
+      h: "Work out the cost per job, not per lead",
+      p: [
+        "If enquiries cost twenty euro and you win one in five, each job carries a hundred euro of marketing before anything else.",
+        "That is a real cost of sale, exactly like materials, and it belongs in the quote rather than in the hope that volume covers it.",
+      ],
+    },
+    {
+      h: "It is usually smaller than people fear",
+      p: [
+        "On a four thousand euro job, a hundred euro of acquisition is two and a half percent. Most trades discount more than that without thinking about it.",
+        "Naming the number tends to reduce anxiety about advertising rather than increase it, because the figure is almost always less alarming than the vague sense of it.",
+      ],
+    },
+    {
+      h: "It changes which work you want",
+      p: [
+        "Once the cost is visible, small jobs look different. A two hundred euro repair carrying a hundred euro of acquisition is not a job worth advertising for, even though it is a perfectly good job when it walks in the door.",
+        "That is an argument for qualifying harder, not for stopping — and it is why job-size questions on a form pay for themselves.",
+      ],
+    },
+    {
+      h: "What not to do",
+      p: [
+        "Do not add a line to the customer's quote for marketing. It reads badly and invites a conversation nobody wants.",
+        "Build it into your rate the way you build in insurance, van costs and dead time, which is what it is.",
+      ],
+    },
+    ],
+    related: ["roofers", "electricians", "plastering"],
+  },
+  {
+    slug: "ad-account-restricted-what-to-do",
+    title: "Your ad account got restricted. What to do, in order.",
+    description:
+      "The common causes, what the appeal process actually involves, and how to reduce the chance of it happening twice.",
+    date: "2026-09-22",
+    minutes: 5,
+    intro:
+      "A restricted or paused ad account is alarming and usually recoverable. The mistakes that turn it into a long outage are almost always made in the first hour.",
+    sections: [
+    {
+      h: "First, find out which thing happened",
+      p: [
+        "They look similar and are not. A payment failure pauses delivery until billing is fixed and is not a policy matter at all. A policy restriction is about something in an ad, a page or the account's history. A full disable is rarer and more serious.",
+        "Read the notification properly before doing anything. People frequently appeal a billing problem, which achieves nothing and wastes days.",
+      ],
+    },
+    {
+      h: "Do not create a new account",
+      p: [
+        "The single most damaging reaction. Platforms detect it, and it tends to convert a recoverable restriction into a permanent one across everything connected to you.",
+        "Fix the account you have, however slow that feels.",
+      ],
+    },
+    {
+      h: "Common causes worth checking",
+      p: [
+        "Most restrictions come from a short list.",
+      ],
+      list: [
+        "A payment method that expired or was declined — by far the most common, and not a policy issue",
+        "Before-and-after imagery in health, beauty or fitness, which is restricted",
+        "Text implying personal attributes — you, your condition, your situation",
+        "A landing page that does not match the ad, or is unreachable",
+        "Unusual account changes: new payment method, new admin, a sudden budget jump",
+      ],
+    },
+    {
+      h: "Appealing",
+      p: [
+        "Appeals are reviewed quickly and briefly. Be specific about what you changed rather than arguing the decision was wrong.",
+        "If the cause was creative, remove it first and say you have. An appeal that asks for reconsideration while the ad is still running gets declined.",
+      ],
+    },
+    {
+      h: "Reducing the odds next time",
+      p: [
+        "A backup payment method on the account, two admins rather than one, and notifications that reach somebody who reads them.",
+        "That last one matters more than people expect. Accounts sit paused for weeks because the only alert went to an address nobody checks, and the leads that were already paid for go cold in the meantime.",
+      ],
+    },
+    ],
+    related: ["med-spas", "skin-clinics", "gyms-and-fitness"],
+  },
+  {
+    slug: "what-good-looks-like-after-ninety-days",
+    title: "What good looks like ninety days into working with an agency",
+    description:
+      "A checklist for the end of the first quarter, so you are judging the work rather than the feeling.",
+    date: "2026-09-22",
+    minutes: 5,
+    intro:
+      "Three months is long enough to know whether something is working and short enough that changing course is still cheap. These are the things worth checking, and none of them require you to understand advertising.",
+    sections: [
+    {
+      h: "You know your numbers",
+      p: [
+        "How many enquiries you get, what they cost, and how many turn into work. If you still cannot answer those after ninety days, that is the finding.",
+        "It is also the minimum. An agency that has not established those numbers has not started.",
+      ],
+    },
+    {
+      h: "Tracking exists and you have seen it",
+      p: [
+        "Analytics installed, conversions recorded, and ideally call tracking if most of your enquiries arrive by phone.",
+        "Ask to see the account rather than a screenshot. This is the most common place where things turn out not to have been set up at all.",
+      ],
+    },
+    {
+      h: "Something has been turned off",
+      p: [
+        "A campaign that has run unchanged for ninety days has not been managed. Something should have been paused, cut or rebuilt because it was not working.",
+        "If everything is still running exactly as launched, ask what has been learned.",
+      ],
+    },
+    {
+      h: "You have been told something you did not want to hear",
+      p: [
+        "A channel that is wrong for you, a budget too small to judge, a website losing the traffic, a month that went badly.",
+        "Ninety days of exclusively good news means either extraordinary luck or an agency managing your mood rather than your account.",
+      ],
+    },
+    {
+      h: "The trend, not the month",
+      p: [
+        "Individual months are noisy. Look at the three together: is cost per enquiry falling, is quality rising, is the proportion you can actually serve improving?",
+        "If all three are flat after ninety days, and nothing structural is blocking it, that is a real conversation to have.",
+      ],
+    },
+    ],
+    related: ["estate-agents", "insurance-brokers", "car-garages"],
+  },
 ];
 
 export const postBySlug = (slug: string) => posts.find((p) => p.slug === slug);
