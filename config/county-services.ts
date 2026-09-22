@@ -257,35 +257,33 @@ const limerickSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. It is not sold as a separate line item, because a page being posted to without any budget behind it rarely earns its keep.",
-      "€2,500 a month adds the second advertising channel and a new website.",
-      "Month to month, cancel any time. Ad spend is paid by you directly to Meta from your own account, and the account stays yours.",
+      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. €2,500 adds the second channel and a new website. Month to month, and the ad account stays yours.",
     ],
   },
   faqs: [
     {
-      q: "Do I need to be on TikTok?",
-      a: "Probably not. For most Limerick businesses Facebook is still where the buying audience is, with Instagram second, and doing those two properly beats spreading thin across four platforms. If your customers are genuinely under thirty we will tell you and we will plan for it, but we are not going to sell you a TikTok strategy to look modern.",
+      q: "Do Limerick community pages matter?",
+      a: "Considerably, and more in the county than the city. We cannot post into them and you should distrust anyone who offers to — but a page worth following plus budget reaches the same households.",
+    },
+    {
+      q: "City or west Limerick first?",
+      a: "Whichever you actually serve. They behave like separate markets and a single audience covering both wastes most of the budget on people who will never travel to you.",
+    },
+    {
+      q: "Does the student population affect social?",
+      a: "Yes — it inflates reach figures in the city without adding customers. Excluding it is one of the more valuable things we do on a Limerick account.",
     },
     {
       q: "How many posts a week?",
-      a: "Three to five, which is enough to stay visible without becoming noise. Frequency is far less important than whether the posts are real. One genuine photograph of a finished job in Raheen will do more than seven designed graphics.",
+      a: "Three to five. Frequency matters far less than whether the posts show real work.",
     },
     {
-      q: "Can you use my existing Facebook page?",
-      a: "Yes, and we usually should. An existing page carries followers, reviews and history that a new one throws away. We would want editor access rather than ownership — the page stays yours throughout and you can remove our access the day you decide to stop.",
+      q: "What if I have no photos?",
+      a: "Then that is the first thing to fix. Five minutes on a job with a phone and a short list from us of what to capture.",
     },
     {
-      q: "What if I do not have any photos?",
-      a: "Then we start by fixing that, because it is the constraint on everything else. In practice it means five minutes on a job or in the premises with a phone camera and a short list from us of what to capture. It is not a reason not to start, but it is the one part nobody can do for you.",
-    },
-    {
-      q: "Do you guarantee a number of followers?",
-      a: "No. Follower counts can be bought and are worth nothing; we have no interest in selling you a number that does not turn into work. What we report is how many people enquired and what each enquiry cost.",
-    },
-    {
-      q: "Who replies to comments and messages?",
-      a: "We do, within the working day, for anything general — prices, availability, opening hours, whether you cover a particular area. Anything that needs your judgement gets passed straight to you rather than guessed at.",
+      q: "Do you guarantee followers?",
+      a: "No. Follower counts can be bought and are worth nothing. We report enquiries and what each cost.",
     },
   ],
   related: [
@@ -305,55 +303,23 @@ const limerickWeb: ServicePage = {
     "Web design and development for Limerick businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500. No monthly fee and you own every file.",
   h1: "Web design and development for Limerick businesses.",
   intro: [
-    "Most Limerick businesses that come to us do not have a traffic problem. People are already finding them — through search, through a recommendation, through a Facebook page — and then leaving without getting in touch. The site loads slowly, it is awkward on a phone, the phone number is three taps away, and it says what the business does without ever asking anybody to do anything.",
-    "That is a conversion problem, and it is much cheaper to fix than a traffic problem. Doubling the share of visitors who make contact costs a fraction of doubling the number of visitors, and it makes every other channel you run worth more at the same time.",
+    "Limerick businesses lose enquiries to geography more than to design. A site that never names Castletroy, Raheen, Newcastle West or Abbeyfeale leaves a searcher guessing whether they are even in range, and most of them will not ring to find out.",
+    "The second leak is the university. This city produces an enormous volume of search traffic with no commercial intent, which means the visitors who genuinely matter are proportionally scarcer and losing one costs proportionally more.",
   ],
   sections: [
     {
-      heading: "What you get",
+      heading: "What it costs and what is included",
       body: [
-        "One fixed price of €1,500, paid once, for a site designed and written from scratch for your business. No monthly fee, no contract, and no retainer at the end of it.",
-      ],
-      list: [
-        {
-          title: "Designed for you, not assembled from a template",
-          body: "Up to seven pages, laid out around what your customers need to see before they pick up the phone — not a stock theme with your logo dropped into the corner.",
-        },
-        {
-          title: "Every word written for you",
-          body: "Headlines, service pages, the about page, calls to action. You do not write a sentence. We read your reviews, your competitors and your existing site first.",
-        },
-        {
-          title: "Built for the phone",
-          body: "Designed on mobile and scaled up. Most of the people who find a Limerick business are on a phone, often standing somewhere, often in a hurry.",
-        },
-        {
-          title: "Technical SEO from day one",
-          body: "Page titles, meta descriptions, heading structure, schema markup, sitemap and robots.txt, plus Google Search Console and Analytics set up in your name. The foundations that decide whether the site can rank at all.",
-        },
-        {
-          title: "Your Google Business Profile rebuilt",
-          body: "Categories, services and description rewritten around the searches you want to win in Limerick. For a local business this is often the fastest single improvement available.",
-        },
-        {
-          title: "Hosting, SSL and your domain connected",
-          body: "The first twelve months included. We connect the domain you already own or register a new one for you.",
-        },
+        "A custom site, written and built from scratch, live in ten working days for a one-off €1,500. No monthly fee, no contract, and every file, login and account is in your name from the start.",
+        "That price covers design, copywriting, the SEO foundations, analytics setup, your Google Business Profile, the first twelve months of hosting and thirty days of unlimited changes after launch. It does not go live until you say it is right — unlimited revision rounds, no cut-off date.",
+        "The full breakdown, the ten-day schedule and the guarantees are on the offer page rather than repeated here.",
       ],
     },
     {
-      heading: "Ten working days, and about forty minutes of your time",
+      heading: "What a Limerick site has to get right",
       body: [
-        "The reason website projects normally drag on for months is that they are run as a conversation. This one is run as a build with a finish date.",
-        "You answer six short questions and send your logo. We research and write, then design and build, and you get a preview link halfway through so nothing is a surprise. On day eight you send one list of everything you want changed, however long that list is. We make the changes, connect the domain and launch. Then you get thirty days of unlimited further changes at no charge.",
-        "Your site does not go live until you have looked at it and said it is right. Unlimited revision rounds, no cut-off date.",
-      ],
-    },
-    {
-      heading: "Web development, and where the line is",
-      body: [
-        "This covers business websites: service pages, galleries, contact and quote forms, click-to-call, maps, and connections to booking or payment tools you already use such as Stripe, Calendly, Square or Fresha.",
-        "It does not cover custom software. A large e-commerce store with live stock control, a client portal, a booking engine built from scratch or a mobile app are all different jobs with different prices. Tell us before you pay and we will either quote it properly or tell you we are not the right people for it.",
+        "Limerick splits between a city catchment and a west-county one, and a site serving both has to make clear which areas you actually cover. The commonest failure we see here is a Limerick business whose site never names a single town, so a searcher in Newcastle West has no idea whether they are in range.",
+        "The second is the university effect. A large share of search traffic in this city has no commercial intent, which means the visitors who do matter are proportionally more valuable and losing them is proportionally more expensive.",
       ],
     },
   ],
@@ -382,35 +348,33 @@ const limerickWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500, paid once. That covers the design, the writing, the build, the launch, the SEO foundations, the analytics setup, the Google Business Profile work, the first twelve months of hosting and thirty days of unlimited changes after launch.",
-      "There is no monthly fee and no contract. Every file, login and account is created in your name from the start, so you can take the site elsewhere whenever you want.",
-      "If you also want advertising run afterwards, that is a separate decision made after the site is live, and nobody has to buy it.",
+      "€1,500, paid once. Full breakdown on the offer page.",
     ],
   },
   faqs: [
     {
-      q: "Is €1,500 really the whole price for a Limerick business?",
-      a: "Yes — the price is the same wherever you are in Ireland. It covers everything listed above including the first twelve months of hosting and the thirty days of free changes after launch. There is no setup fee and no invoice at the end for work that turned out to be 'out of scope'.",
+      q: "Should the site name specific Limerick areas?",
+      a: "Yes, explicitly. West Limerick and the city behave like separate markets, and a searcher in Abbeyfeale needs to see their own town before they will believe you cover it.",
     },
     {
-      q: "Who owns the website when it is finished?",
-      a: "You do, entirely. The domain, the files, the hosting account, the analytics and the Search Console property are all in your name from the beginning. There is no situation where you have to ask our permission or buy your own site back, which is not true of every web designer.",
+      q: "Does the student traffic affect our website?",
+      a: "Not directly, but it changes the economics. A larger share of your visitors are never going to buy, so the ones who might are worth more and a site that loses them is more expensive than the same site in another county.",
     },
     {
-      q: "Will the new site actually rank in Limerick?",
-      a: "The build gives it the foundations to rank — proper titles, structure, schema, speed, and a Google Business Profile in order — and for a business with little competition that is often enough on its own. For a competitive Limerick search like web design or digital marketing, a well-built site is necessary but not sufficient; ranking also needs time, reviews and other sites linking to you. We will tell you honestly which situation you are in.",
+      q: "How fast can it be live?",
+      a: "Ten working days from your completed form and logo. The clock pauses only if we are waiting on you.",
     },
     {
-      q: "I already have a website. Is it worth replacing?",
-      a: "If it brings you steady enquiries, keep it. If it is more than three or four years old, looks wrong on a phone, or you cannot remember the last enquiry that came through it, then it is quietly costing you more than €1,500 a year in work you never hear about.",
+      q: "Who owns everything afterwards?",
+      a: "You do — domain, files, hosting, analytics and Search Console, all in your name from day one.",
     },
     {
-      q: "Do I need to come to a meeting?",
-      a: "No. There is one optional twenty-minute call if you would rather talk than type; otherwise the whole thing runs on a six-question form, email and WhatsApp.",
+      q: "Will it rank in Limerick?",
+      a: "It gives you the foundations, and against thin local competition that is often enough. For contested city terms it also needs time and reviews, and we will say which you are facing.",
     },
     {
-      q: "What happens if I want changes in a year?",
-      a: "Small things we do as a favour. Anything substantial is charged at a flat rate agreed in advance, always quoted before we start. You are never locked into a support plan to keep your own website working.",
+      q: "What if I want changes next year?",
+      a: "Small things as a favour. Anything substantial at a flat rate quoted before we start.",
     },
   ],
   related: [
@@ -648,35 +612,33 @@ const kildareSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. It is not sold separately, because a page being posted to with no budget behind it rarely earns its keep.",
-      "€2,500 a month adds the second advertising channel and a new website.",
-      "Month to month, cancel any time. Ad spend is paid by you directly to Meta from your own account, and the account stays yours.",
+      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. €2,500 adds the second channel and a new website. Month to month, and the ad account stays yours.",
     ],
   },
   faqs: [
     {
-      q: "Can you post into the local Kildare community groups?",
-      a: "Not directly, and you should be wary of anyone who says they will. Those groups belong to their admins and most have firm rules about businesses posting. What we do instead is make your own page worth following and put paid budget behind the posts that work, so you reach the same people without irritating the group that would otherwise recommend you.",
+      q: "Can you target a specific estate?",
+      a: "Close to it, and in Kildare it is one of the better things available. A development is several hundred households at the same stage of the same cycle.",
     },
     {
-      q: "Do I need to be on TikTok?",
-      a: "Probably not. For most Kildare businesses Facebook still holds the buying audience, with Instagram second, and doing those two properly beats spreading across four platforms. If your customers are genuinely under thirty we will tell you and plan for it, but we will not sell you a TikTok strategy to look modern.",
+      q: "Can you post in residents' groups?",
+      a: "No. They belong to their admins and most forbid business posts. We reach the same people with paid instead, without annoying the group that would otherwise recommend you.",
     },
     {
-      q: "How many posts a week?",
-      a: "Three to five, which keeps you visible without becoming noise. Frequency matters far less than whether the posts are real. One genuine photo of a finished job in Naas beats seven designed graphics.",
+      q: "When should ads run?",
+      a: "Evenings and weekends. This is a commuter county and its households are not online mid-morning.",
     },
     {
-      q: "Can you use my existing Facebook page?",
-      a: "Yes, and usually we should — an existing page carries followers, reviews and history that a new one throws away. We want editor access rather than ownership. The page stays yours and you can remove our access the day you decide to stop.",
+      q: "Is Facebook still the right platform here?",
+      a: "For most Kildare businesses, yes, with Instagram second. We will say so if your customers are genuinely young enough to change that.",
     },
     {
-      q: "What if I have no photos?",
-      a: "Then we fix that first, because it is the constraint on everything else. In practice it means five minutes on a job with a phone camera and a short list from us of what to capture. It is not a reason to delay starting, but it is the one part nobody can do for you.",
+      q: "Can you use our existing page?",
+      a: "Yes, and usually we should — it carries followers, reviews and history. Editor access, not ownership.",
     },
     {
-      q: "Do you guarantee a number of followers?",
-      a: "No. Follower counts can be bought and are worth nothing, and we have no interest in selling you a number that does not turn into work. What we report is how many people enquired and what each enquiry cost.",
+      q: "Do you guarantee followers?",
+      a: "No. Enquiries and cost per enquiry are what get reported.",
     },
   ],
   related: [
@@ -696,55 +658,23 @@ const kildareWeb: ServicePage = {
     "Web design and development for Kildare businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500. No monthly fee and you own every file.",
   h1: "Web design and development for Kildare businesses.",
   intro: [
-    "Most Kildare businesses that come to us do not have a traffic problem. People are already finding them — through search, through a recommendation in an estate group, through a Facebook page — and then leaving without getting in touch. The site loads slowly, it is awkward one-handed on a phone, the number is three taps away, and it describes the business at length without ever asking anyone to do anything.",
-    "That is a conversion problem, and it is far cheaper to fix than a traffic problem. Doubling the share of visitors who make contact costs a fraction of doubling the visitors, and it makes every other channel you run worth more at the same time.",
+    "Kildare households do their looking on a phone, late, usually while doing something else. A site built to be admired on a desktop does not survive a platform at Sallins or a kitchen table at half nine, and the enquiry quietly does not happen.",
+    "The other thing a Kildare site has to settle immediately is coverage. You are competing with Dublin firms advertising down the M4 and M7, and a searcher in Athy wants to know whether you actually come that far before they read anything else.",
   ],
   sections: [
     {
-      heading: "What you get",
+      heading: "What it costs and what is included",
       body: [
-        "One fixed price of €1,500, paid once, for a site designed and written from scratch for your business. No monthly fee, no contract, no retainer at the end of it.",
-      ],
-      list: [
-        {
-          title: "Designed for you, not assembled from a template",
-          body: "Up to seven pages, laid out around what your customers need to see before they pick up the phone — not a stock theme with your logo dropped into the corner.",
-        },
-        {
-          title: "Every word written for you",
-          body: "Headlines, service pages, the about page, calls to action. You do not write a sentence. We read your reviews, your competitors and your existing site first.",
-        },
-        {
-          title: "Built for the phone, and for the commute",
-          body: "Designed on mobile and scaled up. In a commuter county a large share of your visitors are on a phone, often with one hand, often somewhere with poor signal. The site is built to still work there.",
-        },
-        {
-          title: "Technical SEO from day one",
-          body: "Page titles, meta descriptions, heading structure, schema markup, sitemap and robots.txt, plus Google Search Console and Analytics set up in your name. The foundations that decide whether a site can rank at all.",
-        },
-        {
-          title: "Your Google Business Profile rebuilt",
-          body: "Categories, services and description rewritten around the searches you want to win in your towns. For a local Kildare business this is often the fastest single improvement available.",
-        },
-        {
-          title: "Hosting, SSL and your domain connected",
-          body: "The first twelve months included. We connect the domain you already own or register a new one for you.",
-        },
+        "A custom site, written and built from scratch, live in ten working days for a one-off €1,500. No monthly fee, no contract, and every file, login and account is in your name from the start.",
+        "That price covers design, copywriting, the SEO foundations, analytics setup, your Google Business Profile, the first twelve months of hosting and thirty days of unlimited changes after launch. It does not go live until you say it is right — unlimited revision rounds, no cut-off date.",
+        "The full breakdown, the ten-day schedule and the guarantees are on the offer page rather than repeated here.",
       ],
     },
     {
-      heading: "Ten working days, and about forty minutes of your time",
+      heading: "What a Kildare site has to get right",
       body: [
-        "Website projects normally drag on for months because they are run as a conversation. This one is run as a build with a finish date.",
-        "You answer six short questions and send your logo. We research and write, then design and build, and you get a preview link halfway through so nothing is a surprise. On day eight you send one list of everything you want changed, however long that list is. We make the changes, connect the domain and launch. Then you get thirty days of unlimited further changes at no charge.",
-        "Your site does not go live until you have looked at it and said it is right. Unlimited revision rounds, no cut-off date.",
-      ],
-    },
-    {
-      heading: "Web development, and where the line is",
-      body: [
-        "This covers business websites: service pages, galleries, contact and quote forms, click-to-call, maps, and connections to booking or payment tools you already use such as Stripe, Calendly, Square or Fresha.",
-        "It does not cover custom software. A large e-commerce store with live stock control, a client portal, a booking engine built from scratch or a mobile app are different jobs with different prices. Tell us before you pay and we will either quote it properly or tell you we are not the right people for it.",
+        "Kildare households look at their phones on a platform, in a car park, or at a kitchen table at half nine at night. A site built for a desk does not survive that, and the enquiry simply does not happen.",
+        "The other thing that matters here is naming the towns. A Kildare business competing against Dublin firms bleeding down the M4 has to answer the question the searcher is really asking, which is whether you actually cover Naas, or Maynooth, or Athy.",
       ],
     },
   ],
@@ -773,35 +703,33 @@ const kildareWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500, paid once. That covers the design, the writing, the build, the launch, the SEO foundations, the analytics setup, the Google Business Profile work, the first twelve months of hosting and thirty days of unlimited changes after launch.",
-      "There is no monthly fee and no contract. Every file, login and account is created in your name from the start, so you can take the site elsewhere whenever you want.",
-      "If you also want advertising run afterwards, that is a separate decision made after the site is live, and nobody has to buy it.",
+      "€1,500, paid once. Full breakdown on the offer page.",
     ],
   },
   faqs: [
     {
-      q: "Is €1,500 really the whole price for a Kildare business?",
-      a: "Yes — the price is the same wherever you are in Ireland. It covers everything listed above including the first twelve months of hosting and the thirty days of free changes after launch. No setup fee, and no invoice at the end for work that turned out to be out of scope.",
+      q: "What matters most for a Kildare site?",
+      a: "Speed and an obvious phone number. Your visitors are mid-commute or mid-evening, and anything that asks for patience loses them.",
     },
     {
-      q: "Who owns the website when it is finished?",
-      a: "You do, entirely. The domain, the files, the hosting account, the analytics and the Search Console property are all in your name from the beginning. There is no situation where you have to ask our permission, or buy your own site back — which is not true of every web designer.",
+      q: "Should we name the towns we cover?",
+      a: "Always. Half this county's traffic is deciding whether you travel to them, and an unanswered question is a lost enquiry.",
     },
     {
-      q: "Will the new site actually rank in Kildare?",
-      a: "The build gives it the foundations — proper titles, structure, schema, speed and a Google Business Profile in order — and for a business with little local competition that is often enough on its own. For a competitive Kildare search, a well-built site is necessary but not sufficient; ranking also needs time, reviews and other sites linking to you. We will tell you honestly which situation you are in.",
+      q: "Can it be ready before a busy season?",
+      a: "Ten working days from the completed form. If a season is coming, start about three weeks out to leave room for changes.",
     },
     {
-      q: "I already have a website. Is it worth replacing?",
-      a: "If it brings you steady enquiries, keep it. If it is more than three or four years old, looks wrong on a phone, or you cannot remember the last enquiry that came through it, then it is quietly costing you more than €1,500 a year in work you never hear about.",
+      q: "Who owns the site?",
+      a: "You do, entirely, from the first day — including the domain and every login.",
     },
     {
-      q: "Do I need to come to a meeting in Naas or Dublin?",
-      a: "No. There is one optional twenty-minute call if you would rather talk than type; otherwise the whole thing runs on a six-question form, email and WhatsApp.",
+      q: "Will it rank against Dublin firms?",
+      a: "For Kildare-specific searches, frequently yes, because they are targeting a bigger prize and not optimising for your towns. For generic terms they have the advantage.",
     },
     {
-      q: "What happens if I want changes in a year?",
-      a: "Small things we do as a favour. Anything substantial is charged at a flat rate agreed in advance and always quoted before we start. You are never locked into a support plan to keep your own website working.",
+      q: "Changes later?",
+      a: "Small ones free, larger ones quoted in advance. No support plan to sign.",
     },
   ],
   related: [
@@ -1039,35 +967,33 @@ const corkSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. It is not sold separately, because a page posted to with no budget behind it rarely earns its keep.",
-      "€2,500 a month adds the second advertising channel and a new website.",
-      "Month to month, cancel any time. Ad spend is paid by you directly to Meta from your own account, and the account stays yours.",
+      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. €2,500 adds the second channel and a new website. Month to month, and the ad account stays yours.",
     ],
   },
   faqs: [
     {
-      q: "Can you post into the Cork community and town groups?",
-      a: "Not directly, and be wary of anyone who promises it. Those groups belong to their admins and most have firm rules about businesses posting. What we do is make your own page worth following and put budget behind the posts that work, so you reach the same people without annoying the group that would otherwise recommend you.",
+      q: "Does social work outside Cork city?",
+      a: "Frequently better. East and West Cork towns have tighter community networks and much cheaper advertising, so a modest budget goes considerably further.",
     },
     {
-      q: "Does social work outside the city?",
-      a: "Frequently better. West Cork and East Cork towns have tighter, more engaged community networks and much cheaper advertising, so a modest budget goes considerably further than the same money spent in the city.",
+      q: "Can you post into Cork town pages?",
+      a: "No, and be wary of anyone who says they will. We make your own page worth following and put budget behind what works.",
     },
     {
-      q: "Do I need to be on TikTok?",
-      a: "Probably not. For most Cork businesses Facebook still holds the buying audience with Instagram second, and doing those two properly beats spreading thin. If your customers are genuinely under thirty we will say so and plan for it.",
+      q: "Should the city and county run separately?",
+      a: "Yes. Driving from Bantry to Youghal takes the guts of three hours, and one audience across that spends most of its budget on people who will never reach you.",
     },
     {
-      q: "Can you use my existing Facebook page?",
-      a: "Yes, and usually we should — it carries followers, reviews and history a new page throws away. We want editor access rather than ownership. The page stays yours and you can remove our access the day you stop.",
+      q: "Do I need TikTok?",
+      a: "Probably not. Facebook holds the buying audience for most Cork businesses.",
     },
     {
-      q: "What if I have no photos?",
-      a: "Then that is the first thing we fix, because it constrains everything else. In practice it is five minutes on a job with a phone camera and a short list from us of what to capture. Not a reason to delay, but the one part nobody can do for you.",
+      q: "What if we have no photographs?",
+      a: "It is the constraint on everything else. Five minutes on a job with a phone camera is enough to start.",
     },
     {
-      q: "Do you guarantee a number of followers?",
-      a: "No. Follower counts can be bought and are worth nothing. What we report is how many people enquired and what each enquiry cost.",
+      q: "Do you guarantee followers?",
+      a: "No. We report enquiries and what each one cost.",
     },
   ],
   related: [
@@ -1092,50 +1018,18 @@ const corkWeb: ServicePage = {
   ],
   sections: [
     {
-      heading: "What you get",
+      heading: "What it costs and what is included",
       body: [
-        "One fixed price of €1,500, paid once, for a site designed and written from scratch for your business. No monthly fee, no contract, no retainer at the end.",
-      ],
-      list: [
-        {
-          title: "Designed for you, not assembled from a template",
-          body: "Up to seven pages, laid out around what your customers need to see before they pick up the phone — not a stock theme with your logo in the corner.",
-        },
-        {
-          title: "Every word written for you",
-          body: "Headlines, service pages, the about page, calls to action. You do not write a sentence. We read your reviews, your competitors and your existing site first.",
-        },
-        {
-          title: "Built for the phone first",
-          body: "Designed on mobile and scaled up. Optimised images, clean code, no bloated plugins — which matters more than usual across West Cork, where mobile coverage is patchy and a heavy site simply does not load.",
-        },
-        {
-          title: "Technical SEO from day one",
-          body: "Page titles, meta descriptions, heading structure, schema markup, sitemap and robots.txt, plus Google Search Console and Analytics set up in your name.",
-        },
-        {
-          title: "Your Google Business Profile rebuilt",
-          body: "Categories, services and description rewritten around the searches you want to win. For a local Cork business, where the map results sit above everything, this is often the single highest-value thing on the list.",
-        },
-        {
-          title: "Hosting, SSL and your domain connected",
-          body: "The first twelve months included. We connect the domain you already own or register a new one for you.",
-        },
+        "A custom site, written and built from scratch, live in ten working days for a one-off €1,500. No monthly fee, no contract, and every file, login and account is in your name from the start.",
+        "That price covers design, copywriting, the SEO foundations, analytics setup, your Google Business Profile, the first twelve months of hosting and thirty days of unlimited changes after launch. It does not go live until you say it is right — unlimited revision rounds, no cut-off date.",
+        "The full breakdown, the ten-day schedule and the guarantees are on the offer page rather than repeated here.",
       ],
     },
     {
-      heading: "Ten working days, and about forty minutes of your time",
+      heading: "What a Cork site has to get right",
       body: [
-        "Website projects normally drag for months because they are run as a conversation. This one is run as a build with a finish date.",
-        "You answer six short questions and send your logo. We research and write, then design and build, with a preview link halfway through so nothing is a surprise. On day eight you send one list of everything you want changed, however long. We make the changes, connect the domain and launch. Then thirty days of unlimited further changes at no charge.",
-        "Your site does not go live until you have looked at it and said it is right. Unlimited revision rounds, no cut-off date.",
-      ],
-    },
-    {
-      heading: "Web development, and where the line is",
-      body: [
-        "This covers business websites: service pages, galleries, contact and quote forms, click-to-call, maps, and connections to booking or payment tools you already use such as Stripe, Calendly, Square or Fresha.",
-        "It does not cover custom software. A large e-commerce store with live stock control, a client portal, a booking engine built from scratch or a mobile app are different jobs with different prices. Tell us before you pay and we will quote it properly or tell you we are not the right people.",
+        "Cork buyers prefer Cork businesses, and a site is where that gets proved or lost. Naming the areas you serve, showing work in recognisable places and being visibly local does more here than polish.",
+        "Page weight matters more than average too. Mobile coverage across West Cork is patchy, and a heavy site that is merely slow in the city simply does not load in Bantry or Skibbereen.",
       ],
     },
   ],
@@ -1429,35 +1323,33 @@ const dublinSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. It is not sold separately, because a page posted to with no budget behind it rarely earns its keep — least of all in Dublin.",
-      "€2,500 a month adds the second advertising channel and a new website.",
-      "Month to month, cancel any time. Ad spend is paid by you directly to Meta from your own account, and the account stays yours.",
+      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. €2,500 adds the second channel and a new website. Month to month, and the ad account stays yours.",
     ],
   },
   faqs: [
     {
-      q: "Is social cheaper than Google Ads in Dublin?",
-      a: "To reach someone, yes, usually by a wide margin. But it reaches people who were not actively looking, so the enquiries take longer to warm up. Search catches demand that already exists; social creates it. Most Dublin businesses should be on both, and if the budget only stretches to one we start with whichever your current enquiries point to.",
+      q: "Is social cheaper than search in Dublin?",
+      a: "To reach someone, considerably — you are avoiding the search bidding war. The enquiries take longer to warm up, because you are creating demand rather than catching it.",
     },
     {
       q: "How tightly should we target?",
-      a: "Tighter than feels comfortable. Advertising to all of Dublin sounds like reach and is usually waste. Four or five suburbs you genuinely serve will outperform the county on the same money.",
+      a: "Tighter than feels comfortable. Four or five suburbs you genuinely serve will beat the whole county on the same money.",
     },
     {
-      q: "Do I need to be on TikTok?",
-      a: "More plausibly in Dublin than elsewhere, because of the age profile in parts of the city. Still, for most Dublin businesses Facebook holds the buying audience with Instagram second, and doing those two properly beats spreading across four.",
+      q: "Is retargeting worth it here?",
+      a: "More than anywhere else in Ireland. Traffic is expensive, so letting a visitor leave without a way to reach them again is costly.",
     },
     {
-      q: "Can you use my existing page?",
-      a: "Yes, and usually we should — it carries followers, reviews and history a new page throws away. We want editor access rather than ownership, and you can remove it the day you stop.",
+      q: "Do I need TikTok in Dublin?",
+      a: "More plausibly than elsewhere given the age profile, but Facebook and Instagram done properly still beat spreading across four platforms.",
     },
     {
-      q: "What if I have no photos?",
-      a: "Then that is the first thing to fix, because it constrains everything else. Five minutes on a job with a phone camera and a short list from us of what to capture is enough to start.",
+      q: "Can you use our existing page?",
+      a: "Yes — editor access rather than ownership, removable the day you stop.",
     },
     {
       q: "Do you guarantee followers?",
-      a: "No. Follower counts can be bought and are worth nothing. What we report is how many people enquired and what each enquiry cost.",
+      a: "No. Enquiries and cost per enquiry.",
     },
   ],
   related: [
@@ -1477,55 +1369,23 @@ const dublinWeb: ServicePage = {
     "Web design and development for Dublin businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500. No monthly fee and you own every file.",
   h1: "Web design and development for Dublin businesses.",
   intro: [
-    "In Dublin, a website that loses visitors is more expensive than anywhere else in the country, because you paid more to get them there. Clicks here cost multiples of what the same search costs elsewhere, so every visitor who lands, hesitates and leaves represents money already spent. Conversion work in this market frequently pays back faster than any increase in advertising budget.",
-    "Most Dublin businesses we speak to do not have a traffic problem. People are finding them through search, the map results or a recommendation, and then leaving without getting in touch — because the site is slow, awkward on a phone, buries the phone number, and describes the business at length without ever asking anyone to act.",
+    "In Dublin you have already paid a premium for every visitor before they arrive, which makes a site that loses them expensive in a way it simply is not elsewhere. The same bounce costs multiples of what it costs in Waterford.",
+    "The second requirement is catchment. Nobody crosses this city for a local service, so a site that does not make its postcodes and suburbs obvious is wasting a large share of the traffic it just bought.",
   ],
   sections: [
     {
-      heading: "What you get",
+      heading: "What it costs and what is included",
       body: [
-        "One fixed price of €1,500, paid once, for a site designed and written from scratch for your business. No monthly fee, no contract, no retainer at the end of it.",
-      ],
-      list: [
-        {
-          title: "Designed for you, not assembled from a template",
-          body: "Up to seven pages, laid out around what your customers need to see before they pick up the phone — not a stock theme with your logo dropped in the corner.",
-        },
-        {
-          title: "Every word written for you",
-          body: "Headlines, service pages, the about page, calls to action. You do not write a sentence. We read your reviews, your competitors and your existing site first.",
-        },
-        {
-          title: "Built for the phone first",
-          body: "Designed on mobile and scaled up. In a city where a great many people search on the move, between things, a site that takes six seconds has already lost.",
-        },
-        {
-          title: "Technical SEO from day one",
-          body: "Page titles, meta descriptions, heading structure, schema markup, sitemap and robots.txt, plus Google Search Console and Analytics set up in your name. In a market this competitive these are the minimum, not an extra.",
-        },
-        {
-          title: "Your Google Business Profile rebuilt",
-          body: "Categories, services and description rewritten around the searches you want to win in your part of the city, where the map results take most of the attention.",
-        },
-        {
-          title: "Hosting, SSL and your domain connected",
-          body: "The first twelve months included. We connect the domain you already own or register a new one for you.",
-        },
+        "A custom site, written and built from scratch, live in ten working days for a one-off €1,500. No monthly fee, no contract, and every file, login and account is in your name from the start.",
+        "That price covers design, copywriting, the SEO foundations, analytics setup, your Google Business Profile, the first twelve months of hosting and thirty days of unlimited changes after launch. It does not go live until you say it is right — unlimited revision rounds, no cut-off date.",
+        "The full breakdown, the ten-day schedule and the guarantees are on the offer page rather than repeated here.",
       ],
     },
     {
-      heading: "Ten working days, and about forty minutes of your time",
+      heading: "What a Dublin site has to get right",
       body: [
-        "Website projects normally drag on for months because they are run as a conversation. This one is run as a build with a finish date.",
-        "You answer six short questions and send your logo. We research and write, then design and build, with a preview link halfway through so nothing is a surprise. On day eight you send one list of everything you want changed, however long it is. We make the changes, connect the domain and launch. Then thirty days of unlimited further changes at no charge.",
-        "Your site does not go live until you have looked at it and said it is right. Unlimited revision rounds, no cut-off date.",
-      ],
-    },
-    {
-      heading: "Web development, and where the line is",
-      body: [
-        "This covers business websites: service pages, galleries, contact and quote forms, click-to-call, maps, and connections to booking or payment tools you already use such as Stripe, Calendly, Square or Fresha.",
-        "It does not cover custom software. A large e-commerce store with live stock control, a client portal, a booking engine built from scratch or a mobile app are different jobs with different prices. Tell us before you pay and we will quote it properly or tell you we are not the right people for it.",
+        "In Dublin you have paid a premium for every visitor before they arrive, which changes the arithmetic of a poor site entirely. The same bounce rate costs multiples of what it costs elsewhere in the country.",
+        "The other requirement is catchment clarity. Nobody crosses the city for a local service, so a Dublin site that does not make its postcodes and suburbs obvious wastes a large share of the traffic it paid for.",
       ],
     },
   ],
@@ -1554,40 +1414,1409 @@ const dublinWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500, paid once. That covers the design, the writing, the build, the launch, the SEO foundations, the analytics setup, the Google Business Profile work, the first twelve months of hosting and thirty days of unlimited changes after launch.",
-      "No monthly fee and no contract. Every file, login and account is created in your name from the start, so you can take the site elsewhere whenever you want.",
-      "If you also want advertising run afterwards, that is a separate decision made after the site is live, and nobody has to buy it.",
+      "€1,500, paid once. Full breakdown on the offer page.",
     ],
   },
   faqs: [
     {
       q: "Is €1,500 cheap for Dublin?",
-      a: "It is well below what most Dublin studios quote for the same scope, and the reason is process rather than corner-cutting: a fixed scope, a ten-day build and no open-ended discovery phase. What you do not get is months of workshops. If that is what you want, you want a different kind of agency.",
+      a: "Well below what most Dublin studios quote for the same scope, and the reason is process rather than corner-cutting — fixed scope, ten-day build, no open-ended discovery phase.",
     },
     {
       q: "Can we meet in person?",
-      a: "Yes, we are based here. It is genuinely optional though — the build runs on a form, email and WhatsApp, and most clients never ask for a meeting.",
+      a: "Yes, we are based here. It is genuinely optional and most clients never ask.",
     },
     {
-      q: "Who owns the website when it is finished?",
-      a: "You do, entirely. The domain, files, hosting account, analytics and Search Console property are all in your name from the start. There is no situation where you have to ask our permission or buy your own site back.",
+      q: "Why does conversion matter more in Dublin?",
+      a: "Because your traffic costs several times what it costs elsewhere. Fixing the share of visitors who make contact usually pays back faster than increasing the budget.",
     },
     {
-      q: "Will the new site rank in Dublin?",
-      a: "The build gives it the foundations, and for a business with a defined local catchment that is often enough to compete in its own area. Dublin-wide competitive terms are a different matter — those need time, reviews and links as well as a good site, and we will tell you honestly which situation you are in.",
+      q: "Should the site name postcodes?",
+      a: "Yes. A plumber in Swords is not taking a job in Tallaght, and visitors need to see their own area to believe you serve it.",
     },
     {
-      q: "I already have a website. Is it worth replacing?",
-      a: "If it brings you steady enquiries, keep it. If it is more than three or four years old, looks wrong on a phone, or you cannot remember the last enquiry through it, it is costing you more than €1,500 a year — and more in Dublin than elsewhere, because your traffic costs more to acquire.",
+      q: "Who owns everything?",
+      a: "You do, from the start — domain, files, hosting, analytics, Search Console.",
     },
     {
-      q: "What happens if I want changes in a year?",
-      a: "Small things we do as a favour. Anything substantial is charged at a flat rate agreed in advance and always quoted before we start. You are never locked into a support plan to keep your own website working.",
+      q: "Will it rank in Dublin?",
+      a: "For a defined local catchment, often. For Dublin-wide competitive terms it needs time, reviews and links as well.",
     },
   ],
   related: [
     { label: "Digital marketing in Dublin", href: "/locations/dublin/digital-marketing/" },
     { label: "Social media marketing in Dublin", href: "/locations/dublin/social-media-marketing/" },
+    { label: "The full €1,500 website offer", href: "/offer/" },
+  ],
+};
+
+const galwayDigitalMarketing: ServicePage = {
+  county: "Galway",
+  countySlug: "galway",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Galway | Agency for Galway Businesses",
+  description:
+    "A digital marketing agency working with Galway businesses: Google Ads, Meta ads, SEO, web design and social, from the city and Salthill to Tuam, Athenry and Connemara. Reported in enquiries.",
+  h1: "Digital marketing in Galway, measured in enquiries.",
+  intro: [
+    "Galway is two economies wearing one county's name. The city and its ring — Salthill, Knocknacarra, Oranmore, Renmore — is dense, young, seasonal and heavily influenced by a large student population and a tourist season that transforms the place for four months. Out west through Moycullen, Oughterard and Connemara, distances are long, populations are small, and a business serves a scattered catchment that will travel to it because there is no alternative.",
+    "A campaign that treats those as one market spends most of its budget badly. The city needs tight targeting and negative keywords to strip out students and visitors; the west needs wide geography and messaging built around being worth the drive.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Galway businesses",
+      body: [
+        "Five services, and most Galway clients need two of them. In a market with a strong seasonal swing, doing one channel properly beats spreading a budget thin across a year that is not evenly shaped.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "The fastest route to enquiries, and in Galway the one that most needs negative keywords. The university and the tourist trade generate enormous search volume with no commercial intent for most local businesses.",
+        },
+        {
+          title: "Meta ads",
+          body: "Strong across the county and unusually strong outside the city, where community and town pages are well followed and a job done well travels.",
+        },
+        {
+          title: "SEO",
+          body: "Town-level searches rather than county ones, plus the Google Business Profile work that decides most local results here.",
+        },
+        {
+          title: "Web design",
+          body: "Galway businesses frequently have a conversion problem rather than a traffic one. A fast site that works on a phone usually lifts results more than extra budget.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you. It matters in a county where reputation travels quickly and people check before they ring.",
+        },
+      ],
+    },
+    {
+      heading: "What makes Galway different",
+      body: [
+        "Three things shape every campaign we run here, and none of them apply in the same way elsewhere.",
+      ],
+      list: [
+        {
+          title: "The student population",
+          body: "University of Galway and ATU put a large student body into the city. They generate search volume that looks commercial and mostly is not, and without negatives you will pay for a great deal of it.",
+        },
+        {
+          title: "The season",
+          body: "Galway in July is a different city from Galway in February. Hospitality, retail and anything tourist-adjacent should not be running the same budget or the same message across both.",
+        },
+        {
+          title: "Connemara distances",
+          body: "A business in Clifden serves a catchment measured in driving time rather than kilometres. Radius targeting drawn on a map rather than on roads consistently misses it.",
+        },
+      ],
+    },
+    {
+      heading: "How we work",
+      body: [
+        "You deal directly with the person running your account. No account managers, no quarterly deck, no retainer dressed up as a partnership.",
+        "Week one we take access, fix what is obviously broken and get tracking in place. After that, one short report a week: enquiries, cost per enquiry and what changed.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Galway we work",
+    body: "Campaigns are built around the towns and the driving times you actually serve, which in a county stretching from Ballinasloe to Clifden matters more than almost anywhere in Ireland.",
+    towns: [
+      "Galway city",
+      "Salthill",
+      "Knocknacarra",
+      "Oranmore",
+      "Renmore",
+      "Ballybane",
+      "Barna",
+      "Athenry",
+      "Tuam",
+      "Ballinasloe",
+      "Loughrea",
+      "Gort",
+      "Clifden",
+      "Oughterard",
+      "Moycullen",
+      "Headford",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. €2,500 a month covers both channels, a new website, and everything in the first package.",
+      "Month to month, cancel any time, no setup fee. Advertising spend is separate and paid by you directly to Google or Meta from your own account, so you keep control of the budget and own the account when you leave.",
+      "If a website is the only thing you need, that is a one-off €1,500 with no monthly fee at all.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Are you based in Galway?",
+      a: "No. We are a Dublin agency working with businesses in every county, and we do not pretend otherwise. Everything runs remotely and by phone. If you want somebody who can call to your premises, a Galway agency is a fair choice and we will say so.",
+    },
+    {
+      q: "How do we stop paying for student clicks?",
+      a: "Negative keywords, and a lot of them. Course, jobs, accommodation and society-related terms generate real volume in this city, and most accounts we take over have never excluded any of it.",
+    },
+    {
+      q: "Should we advertise differently in summer?",
+      a: "If you are anywhere near tourism or hospitality, yes — budget, message and even the hours you advertise should change between July and February. Treating the year as flat is the most common Galway mistake.",
+    },
+    {
+      q: "Does advertising work outside the city?",
+      a: "Often better. Competition is thinner, clicks cost less, and community networks amplify a good job. The constraint is travel, so we build targeting around how far you will genuinely go.",
+    },
+    {
+      q: "Will I show up in the Google map results?",
+      a: "Only with a verified address in the area searched. That is proximity-driven and outside anyone's control. If you have premises we will get your profile competing properly; if not, we focus on ordinary results and paid.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — ask for the free growth audit. Where you appear in Galway search results, who is outranking you, what competitors are advertising, back within 24 hours as a PDF.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Galway", href: "/locations/galway/social-media-marketing/" },
+    { label: "Web design in Galway", href: "/locations/galway/web-design/" },
+    { label: "All Galway services", href: "/locations/galway/" },
+  ],
+};
+
+const galwaySocial: ServicePage = {
+  county: "Galway",
+  countySlug: "galway",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Galway | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Galway businesses: Facebook and Instagram content and paid campaigns, managed end to end. City, county and Connemara.",
+  h1: "Social media marketing in Galway that produces customers, not followers.",
+  intro: [
+    "Galway is one of the better social media markets in Ireland, and the reason is that the county genuinely behaves like a community. Town pages from Tuam to Clifden are well followed, the city has an unusually engaged local audience, and a recommendation travels here in a way it does not in a larger city.",
+    "The catch is the season and the students. A large share of the audience you can reach cheaply in the city is either visiting for a weekend or studying for a year, and neither is a customer for most local businesses. Reach is easy in Galway; relevant reach takes deliberate targeting.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "Two halves and both are needed. Content alone builds slowly; paid alone reaches people who check your page, find it dormant and move on.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule across Facebook and Instagram in your own voice — finished work, the people who do it, the questions customers keep asking. You send photos, we do the rest.",
+        },
+        {
+          title: "Paid behind the posts that work",
+          body: "The posts earning genuine response get budget and go to a tightly drawn Galway audience. This is what turns a page into a channel.",
+        },
+        {
+          title: "Audience filtering",
+          body: "Excluding visitors and students where they are not your customer. In this county that single step frequently halves wasted spend.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured inside Facebook and Instagram rather than sent to a website to get lost.",
+        },
+        {
+          title: "Replies handled",
+          body: "Comments and messages answered within the working day, because most social enquiries here arrive as messages.",
+        },
+      ],
+    },
+    {
+      heading: "Which Galway businesses this suits",
+      body: [
+        "Social works hardest where the work is visual, the decision is discretionary and the customer is genuinely local.",
+        "Home improvement and trades with a strong before-and-after. Salons, clinics, gyms and studios where people want to see the room first. Restaurants and cafés, particularly for filling midweek outside the season. Retailers who need people to know what has arrived.",
+        "It works less well for emergency trades, where the customer is searching rather than scrolling, and for businesses whose customers are overwhelmingly visitors.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs. That is the whole of it.",
+        "Managed social fails when the agency runs out of real material and falls back on stock images, which every customer recognises. A few phone photos a week of actual work will outperform anything we could buy.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Galway areas we target",
+    body: "Paid social lets us draw the audience around the towns and communities you actually serve, and exclude the visitor and student audiences that make Galway reach look better than it is.",
+    towns: [
+      "Galway city",
+      "Salthill",
+      "Knocknacarra",
+      "Oranmore",
+      "Renmore",
+      "Ballybane",
+      "Barna",
+      "Athenry",
+      "Tuam",
+      "Ballinasloe",
+      "Loughrea",
+      "Gort",
+      "Clifden",
+      "Oughterard",
+      "Moycullen",
+      "Headford",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. €2,500 a month covers both channels, a new website, and everything in the first package.",
+      "Month to month, cancel any time, no setup fee. Advertising spend is separate and paid by you directly to Google or Meta from your own account, so you keep control of the budget and own the account when you leave.",
+      "If a website is the only thing you need, that is a one-off €1,500 with no monthly fee at all.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can you exclude tourists and students?",
+      a: "To a useful degree, yes — through interest, behaviour and location signals. It is imperfect, and in Galway it is still one of the highest-value things we do.",
+    },
+    {
+      q: "Do community pages matter here?",
+      a: "A great deal, particularly outside the city. We cannot post into them and you should be wary of anyone who says they will, but we can make your own page worth following and reach the same people with budget.",
+    },
+    {
+      q: "Is the season really that pronounced?",
+      a: "For anything tourist-adjacent, yes. For a plumber in Ballinasloe, barely. We plan around which of those you are.",
+    },
+    {
+      q: "Do I need to be on TikTok?",
+      a: "Probably not. Facebook still holds the buying audience for most Galway businesses, with Instagram second.",
+    },
+    {
+      q: "Can you use my existing page?",
+      a: "Yes, and usually we should — it carries followers, reviews and history. We want editor access, not ownership, and you can remove it any time.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. Follower counts can be bought and are worth nothing. We report enquiries and what each cost.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Galway", href: "/locations/galway/digital-marketing/" },
+    { label: "Web design in Galway", href: "/locations/galway/web-design/" },
+    { label: "All Galway services", href: "/locations/galway/" },
+  ],
+};
+
+const galwayWeb: ServicePage = {
+  county: "Galway",
+  countySlug: "galway",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Galway | Website Design & Development, €1,500",
+  description:
+    "Web design and development for Galway businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500. You own every file.",
+  h1: "Web design and development for Galway businesses.",
+  intro: [
+    "Connectivity decides more Galway websites than design does. A good deal of this county, particularly west of the city, still has patchy mobile coverage, and a heavy site does not load slowly there — it does not load, and the enquiry never registers as lost.",
+    "The season is the other factor. A business whose trade doubles in July should not have a site that reads identically in February, and the ones that adjust availability, hours and message with the season convert noticeably better.",
+  ],
+  sections: [
+    {
+      heading: "What it costs and what is included",
+      body: [
+        "A custom site, written and built from scratch, live in ten working days for a one-off €1,500. No monthly fee, no contract, and every file, login and account is in your name from the start.",
+        "That price covers design, copywriting, the SEO foundations, analytics setup, your Google Business Profile, the first twelve months of hosting and thirty days of unlimited changes after launch. It does not go live until you say it is right — unlimited revision rounds, no cut-off date.",
+        "The full breakdown, the ten-day schedule and the guarantees are on the offer page rather than repeated here.",
+      ],
+    },
+    {
+      heading: "What a Galway site has to get right",
+      body: [
+        "Connectivity first. A good deal of Galway, particularly west of the city, still has patchy mobile coverage, and a heavy site does not load slowly there — it does not load at all, and you never hear about the enquiry.",
+        "Then seasonality. A business whose trade doubles in July should not have a site that reads the same in February, and the ones that adjust opening hours, availability and messaging with the season convert noticeably better.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Working with Galway businesses",
+    body: "The whole process runs on a six-question form, email and WhatsApp, with one optional call. Where you are in the county makes no difference to the price or the timeline.",
+    towns: [
+      "Galway city",
+      "Salthill",
+      "Knocknacarra",
+      "Oranmore",
+      "Renmore",
+      "Ballybane",
+      "Barna",
+      "Athenry",
+      "Tuam",
+      "Ballinasloe",
+      "Loughrea",
+      "Gort",
+      "Clifden",
+      "Oughterard",
+      "Moycullen",
+      "Headford",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500, paid once. Full breakdown on the offer page.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Why is site weight such an issue in Galway?",
+      a: "Because a real share of your visitors are on poor coverage west of the city. A site that is merely slow in Dublin fails outright in parts of Connemara.",
+    },
+    {
+      q: "Should the site change with the season?",
+      a: "If your trade does, yes. Availability, opening hours and the headline message should not read the same in July and February.",
+    },
+    {
+      q: "Do we need Irish-language content?",
+      a: "In Gaeltacht areas it can genuinely help and it is not merely symbolic. We will tell you honestly whether your catchment warrants it.",
+    },
+    {
+      q: "How long does it take?",
+      a: "Ten working days from your completed form and logo.",
+    },
+    {
+      q: "Who owns the site?",
+      a: "You do, entirely, from day one.",
+    },
+    {
+      q: "Will it rank in Galway?",
+      a: "City terms are moderately competitive; town and county terms across the west are frequently winnable quickly because so few local sites have the basics right.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Galway", href: "/locations/galway/digital-marketing/" },
+    { label: "Social media marketing in Galway", href: "/locations/galway/social-media-marketing/" },
+    { label: "The full €1,500 website offer", href: "/offer/" },
+  ],
+};
+
+const meathDigitalMarketing: ServicePage = {
+  county: "Meath",
+  countySlug: "meath",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Meath | Agency for Meath Businesses",
+  description:
+    "A digital marketing agency working with Meath businesses: Google Ads, Meta ads, SEO, web design and social, from Navan and Ashbourne to Trim, Kells and the coast.",
+  h1: "Digital marketing in Meath, measured in enquiries.",
+  intro: [
+    "Meath has absorbed more new housing than almost any county in Ireland, and that single fact should shape most campaigns run here. Ashbourne, Ratoath, Dunboyne, Dunshaughlin and the estates around Navan have filled with households who moved in within a few years of each other and who all need the same things in roughly the same order.",
+    "The county also splits sharply. The south and east are effectively Dublin commuter territory, with Dublin wages, Dublin working hours and Dublin click prices. North and west towards Kells, Athboy and Oldcastle is a different economy entirely, cheaper to advertise in and far less contested.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Meath businesses",
+      body: [
+        "Five services, and most clients here need two. One channel run properly beats a small budget spread across everything.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "Split between the commuter belt, where you are bidding against Dublin firms, and the north of the county where the same keyword costs a fraction.",
+        },
+        {
+          title: "Meta ads",
+          body: "Unusually effective in Meath because of the estate structure — community pages for individual developments are large and well followed.",
+        },
+        {
+          title: "SEO",
+          body: "Town-level searches, and the Google Business Profile work that decides most local results.",
+        },
+        {
+          title: "Web design",
+          body: "Commuter households research on phones at odd hours. A site that fails at nine at night on a phone loses the enquiry.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, in your own voice, so a household checking before they ring finds a business that looks alive.",
+        },
+      ],
+    },
+    {
+      heading: "The new-estate opportunity nobody targets",
+      body: [
+        "A development completed two or three years ago is several hundred households at the same stage of the same cycle. They all have builder-standard gardens, no driveway to speak of, an attic nobody has touched and a boiler nobody has serviced.",
+        "They also watch each other. One job done well in an estate reliably produces more from the same estate, which makes development-level targeting one of the highest-return things available in this county.",
+      ],
+      list: [
+        {
+          title: "Year one to two",
+          body: "Flooring, blinds, painting, garden clearance, an electrician for the things the builder left.",
+        },
+        {
+          title: "Year two to four",
+          body: "Driveways, landscaping, fencing, sheds and garden rooms.",
+        },
+        {
+          title: "Year four onward",
+          body: "Extensions, attic conversions, replacement kitchens and bathrooms.",
+        },
+      ],
+    },
+    {
+      heading: "How we work",
+      body: [
+        "Direct with the person running your account. Week one we take access, fix what is broken and set up tracking so the numbers from week two are real.",
+        "After that, one short report a week: enquiries, cost per enquiry, what we changed.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Meath we work",
+    body: "Campaigns are built around the towns and developments you actually serve, because in a commuter county the difference between the south and the north of it is the difference between a campaign working and not.",
+    towns: [
+      "Navan",
+      "Ashbourne",
+      "Ratoath",
+      "Dunboyne",
+      "Trim",
+      "Kells",
+      "Dunshaughlin",
+      "Laytown",
+      "Bettystown",
+      "Stamullen",
+      "Duleek",
+      "Enfield",
+      "Slane",
+      "Athboy",
+      "Oldcastle",
+      "Clonee",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. €2,500 a month covers both channels, a new website, and everything in the first package.",
+      "Month to month, cancel any time, no setup fee. Advertising spend is separate and paid by you directly to Google or Meta from your own account, so you keep control of the budget and own the account when you leave.",
+      "If a website is the only thing you need, that is a one-off €1,500 with no monthly fee at all.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Are you based in Meath?",
+      a: "No, Dublin — which for this county is close enough to know the market and far enough not to compete with you in it. Everything runs remotely and by phone.",
+    },
+    {
+      q: "Is advertising here as expensive as Dublin?",
+      a: "In the south of the county, close to it. Ashbourne, Ratoath and Dunboyne clicks cost far more than Kells or Oldcastle, which is exactly why we split the county rather than running one campaign.",
+    },
+    {
+      q: "Can you target a specific estate?",
+      a: "Yes, and in Meath it is one of the better things you can do. Paid social draws an audience around a development and speaks to what those households actually need at their stage.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "Only with a verified address in the town being searched. If you have premises we will get your profile competing; if you work from a van, we focus on ordinary results and paid.",
+    },
+    {
+      q: "How quickly will I see something?",
+      a: "Paid produces enquiries within days. SEO is months. We are explicit about which you are buying.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF with no call attached.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Meath", href: "/locations/meath/social-media-marketing/" },
+    { label: "Web design in Meath", href: "/locations/meath/web-design/" },
+    { label: "All Meath services", href: "/locations/meath/" },
+  ],
+};
+
+const meathSocial: ServicePage = {
+  county: "Meath",
+  countySlug: "meath",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Meath | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Meath businesses: Facebook and Instagram content and paid campaigns, managed end to end. Navan, Ashbourne, Ratoath, Trim and across the county.",
+  h1: "Social media marketing in Meath, targeted estate by estate.",
+  intro: [
+    "Meath has something most counties do not: hundreds of individual housing developments, each with its own residents' page, each well followed, and each full of households at the same stage of the same cycle. That is an unusually precise audience and almost nobody advertises to it deliberately.",
+    "It also means word travels fast in a very small radius. A job done badly in an estate is known by Friday. A job done well is worth more than any campaign, and the marketing that works here is largely about making sure the good ones are seen.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "Two halves. Content keeps you credible; paid is what actually reaches people.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule in your own voice — work you have finished, the people who did it, the questions customers keep asking.",
+        },
+        {
+          title: "Development-level paid targeting",
+          body: "Audiences drawn around specific estates rather than the county. The single highest-return thing available in Meath.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than sent to a website to get lost. On a phone it roughly doubles completion.",
+        },
+        {
+          title: "Evening-weighted delivery",
+          body: "Commuter households look at their phones after eight. Budget should be there when they are.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day, because an unanswered evening message is a lost customer by morning.",
+        },
+      ],
+    },
+    {
+      heading: "Which Meath businesses this suits",
+      body: [
+        "Anything visual and discretionary sold to households: home improvement, trades, salons, clinics, gyms, restaurants and retailers.",
+        "It works particularly well for trades whose work is visible from the road — driveways, landscaping, fencing, painting, windows — because in an estate the next three enquiries come from neighbours who walked past it.",
+        "It works less well for emergency trades, where people search rather than scroll.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs, and where you can, note which estate the job was in.",
+        "That second part matters more here than elsewhere. A finished driveway shown to the estate it is in, while the work is still fresh in people's minds, is the cheapest advertising available in this county.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Meath areas we target",
+    body: "Paid social in Meath works best drawn tightly around individual towns and developments rather than the county, which is large, uneven and full of people who will never be your customers.",
+    towns: [
+      "Navan",
+      "Ashbourne",
+      "Ratoath",
+      "Dunboyne",
+      "Trim",
+      "Kells",
+      "Dunshaughlin",
+      "Laytown",
+      "Bettystown",
+      "Stamullen",
+      "Duleek",
+      "Enfield",
+      "Slane",
+      "Athboy",
+      "Oldcastle",
+      "Clonee",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. €2,500 adds the second channel and a new website. Month to month, and the ad account stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can you really target one development?",
+      a: "Close to it, and in a county with this much new housing it is the single highest-return targeting available.",
+    },
+    {
+      q: "Can you post in estate groups?",
+      a: "No, and you should be wary of anyone who offers. Paid reaches the same households without irritating the group.",
+    },
+    {
+      q: "When should the ads run?",
+      a: "Evenings and weekends. Commuter households are not looking at their phones at eleven on a Tuesday morning.",
+    },
+    {
+      q: "Should we mention which estates we have worked in?",
+      a: "Yes, constantly. It is the fastest proof available that you already work on roads like theirs.",
+    },
+    {
+      q: "Can you use our existing page?",
+      a: "Yes — editor access rather than ownership.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. Enquiries and cost per enquiry are the report.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Meath", href: "/locations/meath/digital-marketing/" },
+    { label: "Web design in Meath", href: "/locations/meath/web-design/" },
+    { label: "All Meath services", href: "/locations/meath/" },
+  ],
+};
+
+const meathWeb: ServicePage = {
+  county: "Meath",
+  countySlug: "meath",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Meath | Website Design & Development, €1,500",
+  description:
+    "Web design and development for Meath businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500. You own every file.",
+  h1: "Web design and development for Meath businesses.",
+  intro: [
+    "Meath households research late, on a phone, usually with something else going on. A site that needs patience will not be given any, and the number has to be tappable on every page rather than sitting quietly in a footer.",
+    "The estates matter too. A Meath business that names the developments it has worked in answers the only question a household actually has, which is whether you already do jobs on roads like theirs.",
+  ],
+  sections: [
+    {
+      heading: "What it costs and what is included",
+      body: [
+        "A custom site, written and built from scratch, live in ten working days for a one-off €1,500. No monthly fee, no contract, and every file, login and account is in your name from the start.",
+        "That price covers design, copywriting, the SEO foundations, analytics setup, your Google Business Profile, the first twelve months of hosting and thirty days of unlimited changes after launch. It does not go live until you say it is right — unlimited revision rounds, no cut-off date.",
+        "The full breakdown, the ten-day schedule and the guarantees are on the offer page rather than repeated here.",
+      ],
+    },
+    {
+      heading: "What a Meath site has to get right",
+      body: [
+        "Timing. Commuter households research late, on a phone, usually while doing something else. A site that needs patience will not get any, and the number has to be tappable on every page rather than sitting in a footer.",
+        "Estates, too. A Meath business that names the developments it works in gives a household immediate confidence that the answer to can you do my road is yes.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Working with Meath businesses",
+    body: "Everything runs on a six-question form, email and WhatsApp, with one optional twenty-minute call. Where you are in the county makes no difference.",
+    towns: [
+      "Navan",
+      "Ashbourne",
+      "Ratoath",
+      "Dunboyne",
+      "Trim",
+      "Kells",
+      "Dunshaughlin",
+      "Laytown",
+      "Bettystown",
+      "Stamullen",
+      "Duleek",
+      "Enfield",
+      "Slane",
+      "Athboy",
+      "Oldcastle",
+      "Clonee",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500, paid once. Full breakdown on the offer page.",
+    ],
+  },
+  faqs: [
+    {
+      q: "What is the single biggest fix for a Meath site?",
+      a: "Speed, then a tappable number on every page. Your visitors are commuters looking at a phone in the evening.",
+    },
+    {
+      q: "Should we name estates and developments?",
+      a: "Yes. In a county this full of new housing it is the fastest way to convince a household that you work on roads like theirs.",
+    },
+    {
+      q: "Does it need to work offline-ish?",
+      a: "It needs to be light. Coverage is fine in most of Meath, but people are frequently on the move and impatient.",
+    },
+    {
+      q: "How long does it take?",
+      a: "Ten working days once your form and logo are back.",
+    },
+    {
+      q: "Who owns it afterwards?",
+      a: "You do — domain, files, hosting and every account, in your name.",
+    },
+    {
+      q: "Will it rank in Meath?",
+      a: "Town-level searches are very winnable. South-county terms are pricier because you are competing with Dublin firms.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Meath", href: "/locations/meath/digital-marketing/" },
+    { label: "Social media marketing in Meath", href: "/locations/meath/social-media-marketing/" },
+    { label: "The full €1,500 website offer", href: "/offer/" },
+  ],
+};
+
+const wicklowDigitalMarketing: ServicePage = {
+  county: "Wicklow",
+  countySlug: "wicklow",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Wicklow | Agency for Wicklow Businesses",
+  description:
+    "A digital marketing agency working with Wicklow businesses: Google Ads, Meta ads, SEO, web design and social, from Bray and Greystones to Arklow and west Wicklow.",
+  h1: "Digital marketing in Wicklow, measured in enquiries.",
+  intro: [
+    "Wicklow is the most internally divided county we work in. Bray and Greystones are Dublin suburbs in everything but the address — Dublin incomes, Dublin competition, Dublin click prices. Arklow, Rathdrum, Tinahely and Baltinglass are rural Ireland, with a fraction of the advertising cost and almost none of the competition.",
+    "Running one campaign across that is the standard mistake. The same keyword can cost three times as much in Greystones as in Carnew, and the messaging that works in one reads wrong in the other.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Wicklow businesses",
+      body: [
+        "Five services, and the split between north and south Wicklow shapes every one of them.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "Divided deliberately. The north competes with Dublin firms and carries Dublin prices; the south is cheap and thinly contested for the same searches.",
+        },
+        {
+          title: "Meta ads",
+          body: "Effective countywide and particularly strong in the smaller towns, where community pages carry real weight.",
+        },
+        {
+          title: "SEO",
+          body: "Town-level rather than county-level, because Bray and Baltinglass share almost no search behaviour.",
+        },
+        {
+          title: "Web design",
+          body: "In the north you are paying premium prices for traffic, so a site that loses visitors is expensive. In the south a good site is frequently enough to lead the local market outright.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, so the business looks current when somebody checks before ringing.",
+        },
+      ],
+    },
+    {
+      heading: "Two counties in one",
+      body: [
+        "The practical consequence is that almost nothing should be set once and applied countywide.",
+      ],
+      list: [
+        {
+          title: "North Wicklow",
+          body: "Bray, Greystones, Delgany, Enniskerry. Dublin-adjacent, affluent, competitive. Expect Dublin click prices and expect to be outbid on broad terms.",
+        },
+        {
+          title: "The coast south",
+          body: "Wicklow town, Ashford, Arklow. Moderate competition, genuine local search demand, good value.",
+        },
+        {
+          title: "West Wicklow",
+          body: "Blessington, Baltinglass, Tinahely, Carnew. Rural, cheap, almost uncontested — and the catchment is driving-time rather than distance.",
+        },
+      ],
+    },
+    {
+      heading: "How we work",
+      body: [
+        "Direct with the person doing the work. Access in week one, tracking in place, then one short report a week — enquiries, cost per enquiry and what changed.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Wicklow we work",
+    body: "Campaigns are built around the part of the county you actually serve, because north and south Wicklow behave like different markets and pricing them the same wastes money.",
+    towns: [
+      "Bray",
+      "Greystones",
+      "Wicklow town",
+      "Arklow",
+      "Blessington",
+      "Newtownmountkennedy",
+      "Kilcoole",
+      "Delgany",
+      "Enniskerry",
+      "Rathdrum",
+      "Aughrim",
+      "Baltinglass",
+      "Ashford",
+      "Roundwood",
+      "Carnew",
+      "Tinahely",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. €2,500 a month covers both channels, a new website, and everything in the first package.",
+      "Month to month, cancel any time, no setup fee. Advertising spend is separate and paid by you directly to Google or Meta from your own account, so you keep control of the budget and own the account when you leave.",
+      "If a website is the only thing you need, that is a one-off €1,500 with no monthly fee at all.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Why split the county?",
+      a: "Because a click in Greystones can cost several times the same click in Carnew, and a single campaign spends most of its budget in the expensive half regardless of where your customers are.",
+    },
+    {
+      q: "Is north Wicklow just Dublin?",
+      a: "For advertising purposes, close to it. You are competing with Dublin firms on Dublin budgets, and it should be planned that way rather than as a county campaign.",
+    },
+    {
+      q: "Is west Wicklow worth advertising in?",
+      a: "Frequently the best value in the county — low competition, cheap clicks, strong community networks. The limit is how far you will travel.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "Only with a verified address in the town searched. Proximity decides it and no optimisation changes that.",
+    },
+    {
+      q: "How quickly will I see something?",
+      a: "Paid within days, SEO in months. We say which you are buying before you commit.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Wicklow", href: "/locations/wicklow/social-media-marketing/" },
+    { label: "Web design in Wicklow", href: "/locations/wicklow/web-design/" },
+    { label: "All Wicklow services", href: "/locations/wicklow/" },
+  ],
+};
+
+const wicklowSocial: ServicePage = {
+  county: "Wicklow",
+  countySlug: "wicklow",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Wicklow | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Wicklow businesses: Facebook and Instagram content and paid campaigns, managed end to end. Bray, Greystones, Arklow and west Wicklow.",
+  h1: "Social media marketing in Wicklow that produces customers, not followers.",
+  intro: [
+    "Social is frequently the better value channel in north Wicklow, for the same reason it is in Dublin: everybody is fighting over search and nobody is fighting over the feed. Reaching a Greystones household on Facebook costs a fraction of reaching the same person on Google.",
+    "In the south and west it works differently but no less well. Town and parish pages in Arklow, Rathdrum and Baltinglass are genuinely read, and a recommendation there travels further than anything you can buy.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "Content keeps you credible; paid is what reaches people. You need both.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule in your own voice — finished work, the people who did it, the questions that keep coming up.",
+        },
+        {
+          title: "Targeting split north and south",
+          body: "Two audiences with different incomes, different expectations and different price sensitivity. One campaign speaking to both speaks properly to neither.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than lost on the way to a website.",
+        },
+        {
+          title: "Retargeting",
+          body: "Especially valuable in the north, where traffic is expensive and letting a visitor go unremembered is costly.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day. Most social enquiries arrive as messages.",
+        },
+      ],
+    },
+    {
+      heading: "Which Wicklow businesses this suits",
+      body: [
+        "Home improvement and trades with a visible before-and-after. Salons, clinics, gyms and studios. Restaurants and cafés, particularly for midweek. Tourism and hospitality, which in this county is a genuine sector rather than an afterthought.",
+        "It works less well for emergency trades, and for anything where you genuinely serve the whole county and cannot narrow the audience without losing half your market.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs. Wicklow is a photogenic county and businesses here under-use that badly.",
+        "Work shot outdoors in decent light, in recognisable places, does more than any copy we could write — and it travels further here than in a city, because people recognise where it is.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Wicklow areas we target",
+    body: "Audiences are drawn around the towns you serve rather than the county, and north and south Wicklow are targeted separately because they are not the same market.",
+    towns: [
+      "Bray",
+      "Greystones",
+      "Wicklow town",
+      "Arklow",
+      "Blessington",
+      "Newtownmountkennedy",
+      "Kilcoole",
+      "Delgany",
+      "Enniskerry",
+      "Rathdrum",
+      "Aughrim",
+      "Baltinglass",
+      "Ashford",
+      "Roundwood",
+      "Carnew",
+      "Tinahely",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. €2,500 adds the second channel and a new website. Month to month, and the ad account stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is social cheaper than search in north Wicklow?",
+      a: "Considerably, because you are sidestepping the Dublin bidding war that reaches into Bray and Greystones.",
+    },
+    {
+      q: "Should north and south run separately?",
+      a: "Yes. The incomes, expectations and price sensitivity differ enough that a single message underperforms in both halves.",
+    },
+    {
+      q: "Do community pages matter in the smaller towns?",
+      a: "A great deal. We cannot post in them, and paid reaches the same people while you earn the recommendations.",
+    },
+    {
+      q: "Is Wicklow worth photographing?",
+      a: "Unusually so, and businesses here under-use it. Work shot outdoors in recognisable places travels further than any copy.",
+    },
+    {
+      q: "Can you use our existing page?",
+      a: "Yes, with editor access rather than ownership.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. Enquiries and cost per enquiry only.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Wicklow", href: "/locations/wicklow/digital-marketing/" },
+    { label: "Web design in Wicklow", href: "/locations/wicklow/web-design/" },
+    { label: "All Wicklow services", href: "/locations/wicklow/" },
+  ],
+};
+
+const wicklowWeb: ServicePage = {
+  county: "Wicklow",
+  countySlug: "wicklow",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Wicklow | Website Design & Development, €1,500",
+  description:
+    "Web design and development for Wicklow businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500. You own every file.",
+  h1: "Web design and development for Wicklow businesses.",
+  intro: [
+    "Most Wicklow sites try to speak to the whole county and convince nobody. A page pitched at Greystones reads wrong in Tinahely, and one pitched at Tinahely looks underpowered in Greystones.",
+    "The second thing a Wicklow site has to settle is travel. In a county where twenty kilometres can take forty minutes, a searcher in Baltinglass genuinely does not know whether you will come, and will not ring to ask.",
+  ],
+  sections: [
+    {
+      heading: "What it costs and what is included",
+      body: [
+        "A custom site, written and built from scratch, live in ten working days for a one-off €1,500. No monthly fee, no contract, and every file, login and account is in your name from the start.",
+        "That price covers design, copywriting, the SEO foundations, analytics setup, your Google Business Profile, the first twelve months of hosting and thirty days of unlimited changes after launch. It does not go live until you say it is right — unlimited revision rounds, no cut-off date.",
+        "The full breakdown, the ten-day schedule and the guarantees are on the offer page rather than repeated here.",
+      ],
+    },
+    {
+      heading: "What a Wicklow site has to get right",
+      body: [
+        "Wicklow businesses serve two very different markets and most sites pick neither. A page that speaks to Greystones and to Tinahely in the same voice convinces nobody in either.",
+        "Where you draw the line on travel also has to be explicit. In a county where a twenty kilometre journey can take forty minutes, a searcher in Baltinglass needs to know whether you will actually come.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Working with Wicklow businesses",
+    body: "The build runs on a six-question form, email and WhatsApp with one optional call, so it makes no difference whether you are in Bray or Baltinglass.",
+    towns: [
+      "Bray",
+      "Greystones",
+      "Wicklow town",
+      "Arklow",
+      "Blessington",
+      "Newtownmountkennedy",
+      "Kilcoole",
+      "Delgany",
+      "Enniskerry",
+      "Rathdrum",
+      "Aughrim",
+      "Baltinglass",
+      "Ashford",
+      "Roundwood",
+      "Carnew",
+      "Tinahely",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500, paid once. Full breakdown on the offer page.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Should we build one site for the whole county?",
+      a: "One site, but it has to acknowledge both halves. Naming the areas you cover in the north and the south settles the question people are actually asking.",
+    },
+    {
+      q: "How do we handle the travel question?",
+      a: "State it plainly. A searcher in west Wicklow assumes you will not come unless told otherwise, and that assumption loses you the enquiry silently.",
+    },
+    {
+      q: "Is a good site worth more in the north or south?",
+      a: "Different reasons. In the north it protects expensive traffic. In the south it can put you ahead of the whole local market, because few competitors have one.",
+    },
+    {
+      q: "How long does it take?",
+      a: "Ten working days from your form and logo.",
+    },
+    {
+      q: "Who owns everything?",
+      a: "You do, from day one, including the domain.",
+    },
+    {
+      q: "Will it rank?",
+      a: "In west and south Wicklow, frequently quickly. Bray and Greystones are effectively Dublin and need time, reviews and links.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Wicklow", href: "/locations/wicklow/digital-marketing/" },
+    { label: "Social media marketing in Wicklow", href: "/locations/wicklow/social-media-marketing/" },
+    { label: "The full €1,500 website offer", href: "/offer/" },
+  ],
+};
+
+const waterfordDigitalMarketing: ServicePage = {
+  county: "Waterford",
+  countySlug: "waterford",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Waterford | Agency for Waterford Businesses",
+  description:
+    "A digital marketing agency working with Waterford businesses: Google Ads, Meta ads, SEO, web design and social, from the city and Tramore to Dungarvan and west Waterford.",
+  h1: "Digital marketing in Waterford, measured in enquiries.",
+  intro: [
+    "Waterford is one of the least contested advertising markets of any Irish city, and that is the whole opportunity. The agencies concentrate on Dublin and Cork, national brands bid hardest where the population is, and a Waterford business competing properly online is usually up against three or four others rather than thirty.",
+    "The county is also compact enough to serve genuinely. The city, Tramore and Dunmore East sit within a short drive of each other, and Dungarvan and the west are reachable in a way that Cork's extremities are not. A business here can realistically cover most of its county, which is unusual.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Waterford businesses",
+      body: [
+        "Five services. In a market this thinly contested, doing one properly frequently puts you ahead of everybody.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "Cheap relative to Dublin and Cork for the same searches, and a well-run account here can dominate a category for a modest budget.",
+        },
+        {
+          title: "Meta ads",
+          body: "Strong across the county, particularly outside the city where town pages are well followed and word travels.",
+        },
+        {
+          title: "SEO",
+          body: "Genuinely winnable in Waterford. The competition for most local terms is thin and the foundations most sites lack are not hard to put in.",
+        },
+        {
+          title: "Web design",
+          body: "A good site is a bigger advantage here than in a competitive city, because so many local businesses have a poor one.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you. In a smaller market, looking current matters more than it does in a crowd.",
+        },
+      ],
+    },
+    {
+      heading: "Why Waterford is easier than it looks",
+      body: [
+        "Three structural advantages that businesses here consistently under-use.",
+      ],
+      list: [
+        {
+          title: "Thin competition",
+          body: "For most local service searches you are competing with a handful of businesses, several of which have no real online presence at all.",
+        },
+        {
+          title: "Cheap clicks",
+          body: "The same keyword costs a fraction of the Dublin price. A budget that buys little in the capital goes a long way here.",
+        },
+        {
+          title: "A serviceable county",
+          body: "Distances are short enough that most businesses can genuinely cover the city, Tramore, Dungarvan and the coast, which widens the addressable market without stretching the operation.",
+        },
+      ],
+    },
+    {
+      heading: "How we work",
+      body: [
+        "Direct with the person running your account. Week one for access, fixes and tracking, then one short report a week in plain English.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Waterford we work",
+    body: "Campaigns are built around the towns you actually serve. Waterford is compact enough that most businesses can cover a good deal of it, which is worth taking advantage of.",
+    towns: [
+      "Waterford city",
+      "Tramore",
+      "Dungarvan",
+      "Dunmore East",
+      "Portlaw",
+      "Lismore",
+      "Cappoquin",
+      "Ardmore",
+      "Kilmacthomas",
+      "Ballyduff",
+      "Tallow",
+      "Passage East",
+      "Stradbally",
+      "Bunmahon",
+      "Ferrybank",
+      "Butlerstown",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. €2,500 a month covers both channels, a new website, and everything in the first package.",
+      "Month to month, cancel any time, no setup fee. Advertising spend is separate and paid by you directly to Google or Meta from your own account, so you keep control of the budget and own the account when you leave.",
+      "If a website is the only thing you need, that is a one-off €1,500 with no monthly fee at all.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is Waterford too small to advertise in?",
+      a: "No — it is under-contested, which is different. Smaller volume, much cheaper clicks, and far fewer competitors bidding against you.",
+    },
+    {
+      q: "Are you based in Waterford?",
+      a: "No, Dublin. Everything runs remotely and by phone, and we will say so plainly. If you want someone local to sit with, that is a fair reason to choose a Waterford agency.",
+    },
+    {
+      q: "Can we cover the whole county?",
+      a: "Most businesses here genuinely can, which is unusual. It widens the market without stretching the operation, and campaigns should reflect it.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "With a verified Waterford address, yes — and with competition this thin, a properly completed Google Business Profile goes a long way.",
+    },
+    {
+      q: "How quickly will I see something?",
+      a: "Paid within days. SEO in months, though usually faster here than in Dublin or Cork because the competition is lighter.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF with no call attached.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Waterford", href: "/locations/waterford/social-media-marketing/" },
+    { label: "Web design in Waterford", href: "/locations/waterford/web-design/" },
+    { label: "All Waterford services", href: "/locations/waterford/" },
+  ],
+};
+
+const waterfordSocial: ServicePage = {
+  county: "Waterford",
+  countySlug: "waterford",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Waterford | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Waterford businesses: Facebook and Instagram content and paid campaigns, managed end to end. City, Tramore, Dungarvan and the coast.",
+  h1: "Social media marketing in Waterford that produces customers, not followers.",
+  intro: [
+    "Waterford is small enough that community still functions the way it does in a town rather than a city. Local pages are genuinely read, businesses are known by name, and a recommendation carries weight that no advertising budget replicates.",
+    "That cuts both ways. Reach is cheap and easy here, which makes it tempting to mistake it for results. Plenty of Waterford businesses have a well-followed page and no idea whether a single customer ever came from it.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "Content and paid, together. Neither works properly alone.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule in your own voice — finished work, the people doing it, the questions customers ask.",
+        },
+        {
+          title: "Paid behind what works",
+          body: "The posts that earn genuine response get budget and reach a tightly drawn local audience. Cheap here, and effective.",
+        },
+        {
+          title: "Seasonal weighting for the coast",
+          body: "Tramore, Dunmore East and Ardmore have a real summer season. Businesses touching it should not spend evenly across the year.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than lost on the way to a website.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day, because in a small market a slow reply is remembered.",
+        },
+      ],
+    },
+    {
+      heading: "Which Waterford businesses this suits",
+      body: [
+        "Home improvement and trades with a visible before-and-after. Salons, clinics, gyms and studios. Restaurants and cafés, particularly outside the summer. Tourism and hospitality along the coast, where the season is short and being seen at the right moment decides the year.",
+        "It works less well for emergency trades, where search does the job better.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs of real work.",
+        "In a market this size that matters more than anywhere. People recognise the houses, the streets and frequently the customers, and that recognition does more convincing than any claim about quality.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Waterford areas we target",
+    body: "Audiences drawn around the city, the coast and the west of the county, with seasonal weighting where the summer genuinely changes the trade.",
+    towns: [
+      "Waterford city",
+      "Tramore",
+      "Dungarvan",
+      "Dunmore East",
+      "Portlaw",
+      "Lismore",
+      "Cappoquin",
+      "Ardmore",
+      "Kilmacthomas",
+      "Ballyduff",
+      "Tallow",
+      "Passage East",
+      "Stradbally",
+      "Bunmahon",
+      "Ferrybank",
+      "Butlerstown",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. €2,500 adds the second channel and a new website. Month to month, and the ad account stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is the audience big enough here?",
+      a: "For a local business, comfortably. You are not trying to reach a county — you are reaching the few thousand households who might buy, and that is very affordable.",
+    },
+    {
+      q: "Does the summer matter?",
+      a: "Along the coast, considerably. Tramore and Dunmore East change character between June and September and any business touching that should plan for it.",
+    },
+    {
+      q: "Do local pages matter?",
+      a: "More than in a city. A page worth following plus paid budget reaches the same people without posting where you are not welcome.",
+    },
+    {
+      q: "Do I need TikTok?",
+      a: "Probably not. Facebook carries the buying audience here comfortably.",
+    },
+    {
+      q: "Can you use our existing page?",
+      a: "Yes — editor access, removable any time.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. Enquiries and cost per enquiry.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Waterford", href: "/locations/waterford/digital-marketing/" },
+    { label: "Web design in Waterford", href: "/locations/waterford/web-design/" },
+    { label: "All Waterford services", href: "/locations/waterford/" },
+  ],
+};
+
+const waterfordWeb: ServicePage = {
+  county: "Waterford",
+  countySlug: "waterford",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Waterford | Website Design & Development, €1,500",
+  description:
+    "Web design and development for Waterford businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500. You own every file.",
+  h1: "Web design and development for Waterford businesses.",
+  intro: [
+    "A website is worth more in Waterford than in Dublin for a simple reason: fewer of your competitors have a decent one. Several have a dormant Facebook page and nothing else, which makes the basics a genuine advantage rather than the minimum entry requirement.",
+    "What it does need is to cover the county properly. Waterford is compact enough that most businesses can genuinely serve the city, Tramore, Dungarvan and the coast, and a site that names them widens the market at no extra cost.",
+  ],
+  sections: [
+    {
+      heading: "What it costs and what is included",
+      body: [
+        "A custom site, written and built from scratch, live in ten working days for a one-off €1,500. No monthly fee, no contract, and every file, login and account is in your name from the start.",
+        "That price covers design, copywriting, the SEO foundations, analytics setup, your Google Business Profile, the first twelve months of hosting and thirty days of unlimited changes after launch. It does not go live until you say it is right — unlimited revision rounds, no cut-off date.",
+        "The full breakdown, the ten-day schedule and the guarantees are on the offer page rather than repeated here.",
+      ],
+    },
+    {
+      heading: "What a Waterford site has to get right",
+      body: [
+        "Less than you might think, and that is the opportunity. Several of your competitors have a dormant Facebook page and nothing else, so a site with the basics right is a genuine advantage here rather than the minimum.",
+        "What it does need is to cover the county properly. Waterford is compact enough that most businesses can serve the city, Tramore, Dungarvan and the coast, and a site that names them widens the market at no extra cost.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Working with Waterford businesses",
+    body: "Six-question form, email and WhatsApp, with one optional call. Where you are in the county makes no difference to price or timeline.",
+    towns: [
+      "Waterford city",
+      "Tramore",
+      "Dungarvan",
+      "Dunmore East",
+      "Portlaw",
+      "Lismore",
+      "Cappoquin",
+      "Ardmore",
+      "Kilmacthomas",
+      "Ballyduff",
+      "Tallow",
+      "Passage East",
+      "Stradbally",
+      "Bunmahon",
+      "Ferrybank",
+      "Butlerstown",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500, paid once. Full breakdown on the offer page.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is it worth having a good site in a small market?",
+      a: "More than in a big one. In Dublin a good site keeps you level; in Waterford it can put you ahead of everybody, because the local standard is low.",
+    },
+    {
+      q: "Should we list the whole county?",
+      a: "List what you will genuinely serve. Waterford is small enough that for most businesses the honest answer is most of it, which is a real advantage.",
+    },
+    {
+      q: "Will it rank here?",
+      a: "More readily than in Dublin or Cork. Competition is thin and most competing sites lack the foundations, so the basics alone frequently do a great deal.",
+    },
+    {
+      q: "How long does it take?",
+      a: "Ten working days once your form and logo come back.",
+    },
+    {
+      q: "Who owns it?",
+      a: "You do, entirely — domain, files, hosting, analytics and Search Console.",
+    },
+    {
+      q: "Changes later?",
+      a: "Small ones as a favour, larger ones quoted in advance. No retainer.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Waterford", href: "/locations/waterford/digital-marketing/" },
+    { label: "Social media marketing in Waterford", href: "/locations/waterford/social-media-marketing/" },
     { label: "The full €1,500 website offer", href: "/offer/" },
   ],
 };
@@ -1605,6 +2834,18 @@ export const servicePages: ServicePage[] = [
   dublinDigitalMarketing,
   dublinSocial,
   dublinWeb,
+  galwayDigitalMarketing,
+  galwaySocial,
+  galwayWeb,
+  meathDigitalMarketing,
+  meathSocial,
+  meathWeb,
+  wicklowDigitalMarketing,
+  wicklowSocial,
+  wicklowWeb,
+  waterfordDigitalMarketing,
+  waterfordSocial,
+  waterfordWeb,
 ];
 
 export const servicePageBy = (countySlug: string, serviceSlug: string) =>
