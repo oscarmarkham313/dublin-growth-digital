@@ -149,12 +149,20 @@ def main():
                  load(os.path.join("out", "blog", "*", "index.html"),
                       lambda p: os.path.basename(os.path.dirname(p))))
 
-    print()
-    print("  BASELINE — the pages Google actually suppressed")
-    counties = {c: text(os.path.join("out", "locations", c, "index.html"))
-                for c in ("kildare", "cork", "dublin", "limerick")
-                if os.path.exists(os.path.join("out", "locations", c, "index.html"))}
-    cohort("county template", counties, "this is the line to stay under")
+    # County hub pages. These were the original doorway set: on 22 Sep the
+    # 14 indexable hubs measured 47% avg / 51% worst against each other,
+    # because four FAQs were string-interpolated identically for all of them.
+    # Giving the indexable counties their own FAQs and one county-specific
+    # section brought that to 32% / 35%. This cohort is now gated like any
+    # other -- there is no "suppressed baseline" left to compare against,
+    # which is the point.
+    src = io.open("config/county-services.ts", encoding="utf-8").read()
+    indexable = set(re.findall(r'countySlug:\s*"([a-z-]+)"', src)) | {
+        "dublin", "kildare", "cork"}
+    hubs = {c: text(os.path.join("out", "locations", c, "index.html"))
+            for c in sorted(indexable)
+            if os.path.exists(os.path.join("out", "locations", c, "index.html"))}
+    ok &= cohort("indexable county hubs", hubs)
 
     print()
     print(f"  GATE: {'PASS' if ok else 'FAIL — do not push'}")

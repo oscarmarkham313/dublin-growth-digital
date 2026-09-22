@@ -57,7 +57,10 @@ export default async function CountyPage({
   const neighbours = counties.filter((x) => x.province === c.province && x.slug !== c.slug);
   const deepServices = servicePagesForCounty(c.slug);
 
-  const faqs = [
+  // County-specific FAQs where we have them (the indexable counties). The
+  // interpolated set below is a fallback for the noindexed counties, where
+  // nothing competes with them.
+  const faqs = c.hubFaqs ?? [
     {
       q: `Do you have an office in ${c.name}?`,
       a: `We are based in Dublin and work with businesses in every county, including ${c.name}. Everything is done remotely and by phone; campaigns, reporting and the free audit do not need a visit, and we know the ${c.name} market from the campaigns we run in it.`,
@@ -146,6 +149,27 @@ export default async function CountyPage({
           </div>
         </div>
       </section>
+
+      {/* What is actually different about this county. The shared template
+          below is the same everywhere by design; this is not. */}
+      {c.hubSection && (
+        <section className="border-b border-hairline bg-bg py-16 md:py-20">
+          <div className="mx-auto max-w-container px-5 md:px-10">
+            <Reveal>
+              <h2 className="max-w-3xl text-3xl font-extrabold tracking-display md:text-4xl">
+                {c.hubSection.heading}
+              </h2>
+              <div className="mt-6 flex max-w-2xl flex-col gap-4">
+                {c.hubSection.body.map((p) => (
+                  <p key={p.slice(0, 30)} className="text-[15px] leading-relaxed text-text-2 md:text-base">
+                    {p}
+                  </p>
+                ))}
+              </div>
+            </Reveal>
+          </div>
+        </section>
+      )}
 
       {/* Deep service pages for this county, where they exist. These carry the
           detail the shared county template cannot, so link them prominently

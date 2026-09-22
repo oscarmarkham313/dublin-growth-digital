@@ -2821,6 +2821,1362 @@ const waterfordWeb: ServicePage = {
   ],
 };
 
+const tipperaryDigitalMarketing: ServicePage = {
+  county: "Tipperary",
+  countySlug: "tipperary",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Tipperary | Agency for Tipperary Businesses",
+  description:
+    "A digital marketing agency working with Tipperary businesses: Google Ads, Meta ads, SEO and social, from Clonmel and Thurles to Nenagh, Cashel and Carrick-on-Suir.",
+  h1: "Digital marketing in Tipperary, measured in enquiries.",
+  intro: [
+    "Tipperary has no single dominant town, and that shapes everything. Clonmel, Thurles, Nenagh and Carrick-on-Suir each anchor their own catchment, none of them dominates the county, and a business in one is largely invisible to the others unless it deliberately advertises there.",
+    "It is also the largest inland county in Ireland. A campaign drawn around the county sounds sensible and in practice spends a great deal reaching people an hour's drive away who will never use you.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Tipperary businesses",
+      body: [
+        "Five services, and in a county this dispersed the targeting decisions matter more than the channel ones.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "Built town by town rather than county-wide. Clonmel and Nenagh behave like separate markets and pricing them as one wastes most of the budget.",
+        },
+        {
+          title: "Meta ads",
+          body: "Strong here. Town and parish pages across Tipperary are well followed and a job done well in one town is genuinely seen by that town.",
+        },
+        {
+          title: "SEO",
+          body: "Service-plus-town searches, which is how people actually search in a county with four competing centres.",
+        },
+        {
+          title: "Web design",
+          body: "A conversion problem is more common than a traffic one, and fixing it costs less than buying more visits.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, in your own voice, so people checking before they ring find a business that looks current.",
+        },
+      ],
+    },
+    {
+      heading: "Four towns, four markets",
+      body: [
+        "The practical consequence is that you should decide which catchments you actually serve before any campaign is built.",
+        "A Clonmel business advertising to Nenagh is paying to reach people who have their own local options and no reason to travel. The businesses that do well here are explicit about their radius and spend everything inside it.",
+      ],
+    },
+    {
+      heading: "The agricultural and equine layer",
+      body: [
+        "Tipperary carries a substantial farming economy and a serious equine sector, and both behave differently from ordinary consumer demand.",
+        "They are seasonal, relationship-driven and reached far better through community channels and word of mouth than through broad advertising. If your customers are farmers, the campaign should look nothing like one aimed at households.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Tipperary we work",
+    body: "Campaigns are built around the town catchments you genuinely serve, because in a county this size and this dispersed that decision does more for results than anything else.",
+    towns: [
+      "Clonmel",
+      "Thurles",
+      "Nenagh",
+      "Carrick-on-Suir",
+      "Tipperary town",
+      "Cashel",
+      "Roscrea",
+      "Templemore",
+      "Cahir",
+      "Fethard",
+      "Newport",
+      "Borrisokane",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Should we advertise across the whole county?",
+      a: "Almost never. Pick the catchments you genuinely serve. A county-wide campaign in Tipperary spends most of its money on people an hour away who have local options.",
+    },
+    {
+      q: "Which town should we start with?",
+      a: "Wherever most of your existing work comes from. That is usually the cheapest place to get more, and it tells us what the messaging should sound like elsewhere.",
+    },
+    {
+      q: "Do farmers respond to online advertising?",
+      a: "For some services yes, increasingly, and for others the relationship matters far more. We will tell you which side your business sits on rather than selling you a campaign either way.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "Only in the town where you have a verified address. Proximity decides it, which is why no single business dominates a county with four centres.",
+    },
+    {
+      q: "How quickly will I see something?",
+      a: "Paid within days, SEO in months. Tipperary search competition is light, so organic tends to move faster here than in a city.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF, no call attached.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Tipperary", href: "/locations/tipperary/social-media-marketing/" },
+    { label: "All Tipperary services", href: "/locations/tipperary/" },
+  ],
+};
+
+const tipperarySocial: ServicePage = {
+  county: "Tipperary",
+  countySlug: "tipperary",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Tipperary | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Tipperary businesses: Facebook and Instagram content and paid campaigns, managed end to end. Clonmel, Thurles, Nenagh and across the county.",
+  h1: "Social media marketing in Tipperary, town by town.",
+  intro: [
+    "Tipperary runs on town identity. People are from Clonmel or from Nenagh, they follow their own town's pages, and they buy locally by preference rather than by necessity. That makes social unusually effective here and unusually wasteful if it is aimed at the county.",
+    "GAA is not a detail either. Club pages are among the best-followed local media in this county, and a business genuinely embedded in its town is known through that rather than through advertising.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "Content that looks like your town, and budget behind the posts that earn a response.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule in your own voice, using work done in places people recognise.",
+        },
+        {
+          title: "Town-level audiences",
+          body: "Separate targeting per catchment. One county-wide audience in Tipperary is mostly people who will never use you.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than lost on the way to a website.",
+        },
+        {
+          title: "Local sponsorship visibility",
+          body: "If you sponsor a club or an event, that should be visible. In this county it is worth more than a clever advert.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day. In a small town a slow reply gets mentioned.",
+        },
+      ],
+    },
+    {
+      heading: "Why town identity matters commercially",
+      body: [
+        "A business that is visibly of its town gets the benefit of the doubt that an outside firm does not, and that shows up directly in cost per enquiry.",
+        "Photographs taken in recognisable places, named local jobs and genuine community involvement do more here than any amount of polish. It is the cheapest advantage available and most businesses under-use it.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs, and tell us which town each job was in.",
+        "That second detail is what makes the targeting work. A finished job shown to the town it happened in is the most efficient advertising available in Tipperary.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Tipperary areas we target",
+    body: "Audiences are built per town rather than per county, because people here follow their own town's pages and buy locally by preference.",
+    towns: [
+      "Clonmel",
+      "Thurles",
+      "Nenagh",
+      "Carrick-on-Suir",
+      "Tipperary town",
+      "Cashel",
+      "Roscrea",
+      "Templemore",
+      "Cahir",
+      "Fethard",
+      "Newport",
+      "Borrisokane",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can you post into local Tipperary pages?",
+      a: "No, and be wary of anyone who says they will. They belong to their admins. We make your own page worth following and reach the same people with budget.",
+    },
+    {
+      q: "Is GAA sponsorship worth it?",
+      a: "Commercially, often yes in this county — but only if people know about it. Making the sponsorship visible online is where most of the value actually comes from.",
+    },
+    {
+      q: "Should each town have its own campaign?",
+      a: "Its own audience at minimum. Whether it needs separate creative depends on whether your offer differs, which it usually does not.",
+    },
+    {
+      q: "Do I need TikTok?",
+      a: "Probably not. Facebook carries the buying audience across Tipperary comfortably.",
+    },
+    {
+      q: "Can you use our existing page?",
+      a: "Yes — editor access rather than ownership, and you can remove it whenever you want.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. We report enquiries and what each one cost.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Tipperary", href: "/locations/tipperary/digital-marketing/" },
+    { label: "All Tipperary services", href: "/locations/tipperary/" },
+  ],
+};
+
+const kilkennyDigitalMarketing: ServicePage = {
+  county: "Kilkenny",
+  countySlug: "kilkenny",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Kilkenny | Agency for Kilkenny Businesses",
+  description:
+    "A digital marketing agency working with Kilkenny businesses: Google Ads, Meta ads, SEO and social, from the city to Callan, Thomastown and Castlecomer.",
+  h1: "Digital marketing in Kilkenny, measured in enquiries.",
+  intro: [
+    "Kilkenny is compact, and that is a genuine commercial advantage. A business in the city can realistically serve most of the county, which means the addressable market is larger than the population suggests and the targeting decisions are simpler than in Cork or Tipperary.",
+    "The city also has a visitor economy that distorts the numbers. Tourism, festivals and weekend trade inflate reach figures without necessarily adding local customers, and separating the two is one of the more useful things we do on a Kilkenny account.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Kilkenny businesses",
+      body: [
+        "Five services. In a compact county with light competition, doing one properly frequently puts you ahead of the market.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "Cheap by national standards and genuinely winnable. A modest budget can dominate a category here in a way it cannot in Dublin.",
+        },
+        {
+          title: "Meta ads",
+          body: "Effective, particularly outside the city where community pages carry real weight.",
+        },
+        {
+          title: "SEO",
+          body: "Very winnable. Competition for most local terms is thin and the foundations most sites lack are straightforward to put in.",
+        },
+        {
+          title: "Web design",
+          body: "A strong advantage here, because the local standard is not high and a good site stands out immediately.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, so a business looks alive when somebody checks before ringing.",
+        },
+      ],
+    },
+    {
+      heading: "The visitor economy problem",
+      body: [
+        "Kilkenny attracts a great many people who do not live here, and for most local service businesses they are not customers.",
+        "They inflate impressions, they click, and they make a campaign look busier than it is. Filtering them out is worth doing deliberately rather than accepting flattering numbers.",
+      ],
+    },
+    {
+      heading: "Why compactness pays",
+      body: [
+        "Most Kilkenny businesses can genuinely serve the city, Callan, Thomastown and Castlecomer without stretching their operation.",
+        "That widens the addressable market at no additional cost, and campaigns should reflect it rather than defaulting to a tight city radius out of habit.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Kilkenny we work",
+    body: "Kilkenny is small enough that most businesses can serve a good deal of it, which is worth taking advantage of rather than defaulting to a city-only radius.",
+    towns: [
+      "Kilkenny city",
+      "Callan",
+      "Thomastown",
+      "Castlecomer",
+      "Graiguenamanagh",
+      "Ballyragget",
+      "Urlingford",
+      "Bennettsbridge",
+      "Inistioge",
+      "Freshford",
+      "Mooncoin",
+      "Piltown",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is Kilkenny too small a market?",
+      a: "Under-contested rather than too small. Fewer searches, far cheaper clicks, and very few competitors bidding seriously against you.",
+    },
+    {
+      q: "How do we filter out tourists?",
+      a: "Location and behaviour signals get most of it. It will reduce your reach figures and improve everything that matters.",
+    },
+    {
+      q: "Can we serve the whole county?",
+      a: "Most Kilkenny businesses genuinely can, which is unusual and worth building the campaign around.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "With a verified Kilkenny address, yes — and with competition this light a properly completed profile goes a long way.",
+    },
+    {
+      q: "How quickly does SEO work here?",
+      a: "Faster than in a city. Thin competition and poor competitor foundations mean the basics often move things within a couple of months.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Kilkenny", href: "/locations/kilkenny/social-media-marketing/" },
+    { label: "All Kilkenny services", href: "/locations/kilkenny/" },
+  ],
+};
+
+const kilkennySocial: ServicePage = {
+  county: "Kilkenny",
+  countySlug: "kilkenny",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Kilkenny | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Kilkenny businesses: Facebook and Instagram content and paid campaigns, managed end to end. City, Callan, Thomastown and across the county.",
+  h1: "Social media marketing in Kilkenny, without paying to reach tourists.",
+  intro: [
+    "Kilkenny's social audiences look better than they are. A city with a strong visitor economy produces reach and engagement from people who will never be customers, and a business judging its page on those numbers is reading the wrong signal.",
+    "Underneath that, the genuinely local audience is small, engaged and reachable very cheaply — which is the real opportunity, provided you are not paying to entertain weekend visitors.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "Content worth following, budget behind what works, and audiences that exclude the people who are only here for two nights.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule in your own voice, built from real work in recognisable places.",
+        },
+        {
+          title: "Resident-focused audiences",
+          body: "Excluding visitors where they are not your customer. In Kilkenny this is one of the highest-value settings on the account.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than lost en route to a website.",
+        },
+        {
+          title: "Craft and design presentation",
+          body: "Kilkenny holds a genuine design and craft reputation, and businesses here can present themselves to a standard that would look overdone elsewhere.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day.",
+        },
+      ],
+    },
+    {
+      heading: "Which Kilkenny businesses this suits",
+      body: [
+        "Home improvement and trades with a visible before-and-after. Salons, clinics, gyms and studios. Food and hospitality, particularly for filling midweek outside the festival calendar. Retail and craft businesses, which present unusually well here.",
+        "It works less well for emergency trades, where people search rather than scroll.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs of real work in real places.",
+        "In a county this size people recognise the streets and frequently the buildings, and that recognition convinces more effectively than any claim about quality.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Kilkenny areas we target",
+    body: "Audiences drawn around the city and the county towns, with visitors excluded where they are not part of your market.",
+    towns: [
+      "Kilkenny city",
+      "Callan",
+      "Thomastown",
+      "Castlecomer",
+      "Graiguenamanagh",
+      "Ballyragget",
+      "Urlingford",
+      "Bennettsbridge",
+      "Inistioge",
+      "Freshford",
+      "Mooncoin",
+      "Piltown",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Do visitors actually hurt the numbers?",
+      a: "They inflate them, which is worse in some ways — a campaign looks like it is working while producing nothing local.",
+    },
+    {
+      q: "Is the local audience big enough?",
+      a: "For a local business, comfortably. You need a few thousand households, not a county, and that is very affordable here.",
+    },
+    {
+      q: "Does the festival calendar matter?",
+      a: "For hospitality and retail, considerably. For a plumber, not at all. We plan around which you are.",
+    },
+    {
+      q: "Do I need TikTok?",
+      a: "Probably not. Facebook holds the buying audience, Instagram second — though Kilkenny's craft and food businesses do unusually well on Instagram.",
+    },
+    {
+      q: "Can you use our existing page?",
+      a: "Yes, with editor access rather than ownership.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. Enquiries and cost per enquiry are the report.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Kilkenny", href: "/locations/kilkenny/digital-marketing/" },
+    { label: "All Kilkenny services", href: "/locations/kilkenny/" },
+  ],
+};
+
+const wexfordDigitalMarketing: ServicePage = {
+  county: "Wexford",
+  countySlug: "wexford",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Wexford | Agency for Wexford Businesses",
+  description:
+    "A digital marketing agency working with Wexford businesses: Google Ads, Meta ads, SEO and social, from Wexford town and Gorey to Enniscorthy, New Ross and the coast.",
+  h1: "Digital marketing in Wexford, measured in enquiries.",
+  intro: [
+    "Wexford's population changes with the calendar more than almost any county on the east coast. The coastal strip from Courtown down through Rosslare fills in summer and empties in winter, and a business serving it is effectively running two different years.",
+    "Gorey complicates it further. It sits close enough to the Dublin commuter belt that its households behave differently from those in New Ross or Bunclody, with different incomes, different expectations and noticeably different click prices.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Wexford businesses",
+      body: [
+        "Five services, with the season doing more to shape the plan than the channel choice does.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "Weighted to the months when your customers are actually here, which for coastal businesses is a much narrower year than the calendar.",
+        },
+        {
+          title: "Meta ads",
+          body: "Strong across the county, and the better channel for reaching returning summer households before they arrive.",
+        },
+        {
+          title: "SEO",
+          body: "Town-level searches, and the profile work that decides most local results.",
+        },
+        {
+          title: "Web design",
+          body: "Worth more here than average, because a seasonal business gets a limited number of chances to convert and cannot afford to lose them.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, including through the off-season when staying visible costs very little.",
+        },
+      ],
+    },
+    {
+      heading: "Two populations, one county",
+      body: [
+        "A coastal Wexford business serves residents all year and visitors for a quarter of it, and those are different customers wanting different things said differently.",
+        "The mistake is running one campaign at both. Residents want reliability and local presence; summer households want availability and speed, and they are searching from somewhere else before they travel.",
+      ],
+    },
+    {
+      heading: "The Gorey effect",
+      body: [
+        "Gorey's commuter households behave more like Wicklow than like the rest of Wexford, and advertising costs there reflect it.",
+        "If you serve both Gorey and the south of the county, they should not share a campaign or a budget.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Wexford we work",
+    body: "Campaigns are built around the towns you serve and the season you serve them in, because a coastal Wexford business and an inland one have very different years.",
+    towns: [
+      "Wexford town",
+      "Enniscorthy",
+      "Gorey",
+      "New Ross",
+      "Rosslare",
+      "Bunclody",
+      "Ferns",
+      "Courtown",
+      "Castlebridge",
+      "Taghmon",
+      "Kilmuckridge",
+      "Duncannon",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How seasonal is this really?",
+      a: "For anything coastal, severely. Courtown and Rosslare are different places in July and January, and budget should follow that rather than sitting flat.",
+    },
+    {
+      q: "Should we advertise to people before they arrive?",
+      a: "For tourism and hospitality, yes, and it is under-used. Reaching returning households in Dublin in May is cheaper and more effective than competing locally in July.",
+    },
+    {
+      q: "Is Gorey different?",
+      a: "Meaningfully. It is commuter territory with commuter incomes and commuter click prices, and it should be planned separately from the south of the county.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "With a verified local address, yes. Proximity decides it, which in a long coastal county means your own town rather than the whole of it.",
+    },
+    {
+      q: "What about the off-season?",
+      a: "A good time for the work that compounds — content, reviews, the website — and a poor time to buy attention for something nobody is currently buying.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Wexford", href: "/locations/wexford/social-media-marketing/" },
+    { label: "All Wexford services", href: "/locations/wexford/" },
+  ],
+};
+
+const wexfordSocial: ServicePage = {
+  county: "Wexford",
+  countySlug: "wexford",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Wexford | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Wexford businesses: Facebook and Instagram content and paid campaigns, managed end to end. Wexford town, Gorey, Enniscorthy and the coast.",
+  h1: "Social media marketing in Wexford, planned around a season.",
+  intro: [
+    "Most social advice assumes a business whose demand is roughly the same every month. A Wexford coastal business has nothing like that, and applying flat advice to a sharply seasonal year is how budgets get wasted here.",
+    "The useful thing about social in this county is that it reaches people before they arrive. A household that comes to Courtown every August can be reached in May from wherever they actually live, which is something search cannot do.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "A schedule that follows your year rather than the calendar, with budget concentrated where the customers are.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady presence in your own voice, including through the quiet months when it costs almost nothing to stay visible.",
+        },
+        {
+          title: "Pre-season targeting",
+          body: "Reaching returning summer households before they travel, from wherever they live the rest of the year.",
+        },
+        {
+          title: "Resident campaigns for the off-season",
+          body: "The local trade that keeps a business alive between June and September.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than lost on the way to a site.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day, which matters more in a short season where a missed message is a lost week.",
+        },
+      ],
+    },
+    {
+      heading: "Reaching people before they get here",
+      body: [
+        "This is the capability most Wexford businesses never use. Somebody who holidays in the same place every year is reachable in spring, cheaply, from their home county.",
+        "By July you are competing with every other local business for attention. In May you are the only one talking to them.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs, and take some in summer for use in winter.",
+        "A coastal business photographed in February sells nothing. Building a library during the season and drawing on it out of season is the single most practical habit in this county.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Wexford areas we target",
+    body: "Audiences drawn around the towns you serve, plus pre-season targeting of the households who come back every year from elsewhere.",
+    towns: [
+      "Wexford town",
+      "Enniscorthy",
+      "Gorey",
+      "New Ross",
+      "Rosslare",
+      "Bunclody",
+      "Ferns",
+      "Courtown",
+      "Castlebridge",
+      "Taghmon",
+      "Kilmuckridge",
+      "Duncannon",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can you really reach people before they visit?",
+      a: "Yes — by targeting where they live rather than where they holiday, in the months before they travel. It is cheap and almost nobody does it.",
+    },
+    {
+      q: "What should we post in winter?",
+      a: "Enough to stay visible to residents, using material shot during the season. Going silent from October means rebuilding attention every spring.",
+    },
+    {
+      q: "Is Gorey a different audience?",
+      a: "Yes. Commuter households, different expectations, and they should be targeted separately from the coastal towns.",
+    },
+    {
+      q: "Do I need TikTok?",
+      a: "Probably not, though tourism and hospitality businesses with strong visuals do better there than most sectors.",
+    },
+    {
+      q: "Can you use our existing page?",
+      a: "Yes — editor access rather than ownership, removable any time.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. We report enquiries and what each cost.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Wexford", href: "/locations/wexford/digital-marketing/" },
+    { label: "All Wexford services", href: "/locations/wexford/" },
+  ],
+};
+
+const louthDigitalMarketing: ServicePage = {
+  county: "Louth",
+  countySlug: "louth",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Louth | Agency for Drogheda & Dundalk Businesses",
+  description:
+    "A digital marketing agency working with Louth businesses: Google Ads, Meta ads, SEO and social, across Drogheda, Dundalk, Ardee and the coast.",
+  h1: "Digital marketing in Louth, measured in enquiries.",
+  intro: [
+    "Louth is the smallest county in Ireland and contains two of its largest towns, which produces a market shaped like nowhere else. Drogheda and Dundalk are each big enough to sustain a business on their own, they are twenty minutes apart, and their residents largely do not cross between them for ordinary services.",
+    "The county also sits on the Dublin–Belfast corridor. Drogheda households commute south and behave accordingly; Dundalk looks north as much as south, and cross-border price comparison is a live factor in a way it is nowhere else in the Republic.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Louth businesses",
+      body: [
+        "Five services, with the Drogheda and Dundalk split driving most of the decisions.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "Run as two campaigns rather than one county campaign. The towns are close and their audiences barely overlap.",
+        },
+        {
+          title: "Meta ads",
+          body: "Effective in both towns, and the better channel for reaching households in the estates that have expanded rapidly around both.",
+        },
+        {
+          title: "SEO",
+          body: "Town-level searches. Nobody searches for a service in County Louth; they search in Drogheda or in Dundalk.",
+        },
+        {
+          title: "Web design",
+          body: "Drogheda's proximity to Dublin pushes click prices up, which makes conversion work pay back faster than extra budget.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, in your own voice.",
+        },
+      ],
+    },
+    {
+      heading: "Two towns that do not mix",
+      body: [
+        "A Drogheda plumber is not getting Dundalk work and vice versa, however close they look on a map. Residents of each have complete local options and no reason to travel.",
+        "Campaigns should reflect that with separate audiences, separate budgets and frequently separate messaging, because the two towns have genuinely different characters.",
+      ],
+    },
+    {
+      heading: "The border factor",
+      body: [
+        "Dundalk businesses compete, for some categories, with Newry prices in a way that businesses elsewhere in the country simply do not.",
+        "Where that applies, competing on price is usually a losing move and the argument has to be convenience, service or speed instead. We will say so rather than build a campaign that cannot win.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Louth we work",
+    body: "Campaigns are built per town rather than per county, because Drogheda and Dundalk are separate markets that happen to share an address.",
+    towns: [
+      "Drogheda",
+      "Dundalk",
+      "Ardee",
+      "Blackrock",
+      "Carlingford",
+      "Dunleer",
+      "Termonfeckin",
+      "Clogherhead",
+      "Louth village",
+      "Knockbridge",
+      "Tallanstown",
+      "Omeath",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Should Drogheda and Dundalk share a campaign?",
+      a: "No. They are twenty minutes apart and their residents do not cross for ordinary services. One campaign across both wastes roughly half the budget.",
+    },
+    {
+      q: "Is Drogheda basically Dublin?",
+      a: "For advertising costs, increasingly. Commuter households and Dublin-adjacent competition push prices above what the rest of Louth costs.",
+    },
+    {
+      q: "Does the border affect us?",
+      a: "For some categories in Dundalk, materially. Where it does, price is the wrong battleground and we will tell you so.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "In the town where you have a verified address. With two large towns in one county, no single business covers both in the map pack.",
+    },
+    {
+      q: "How quickly will I see something?",
+      a: "Paid within days. SEO moves faster here than in Dublin, though Drogheda is more competitive than the county average.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Louth", href: "/locations/louth/social-media-marketing/" },
+    { label: "All Louth services", href: "/locations/louth/" },
+  ],
+};
+
+const louthSocial: ServicePage = {
+  county: "Louth",
+  countySlug: "louth",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Louth | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Louth businesses: Facebook and Instagram content and paid campaigns, managed end to end. Drogheda, Dundalk, Ardee and the coast.",
+  h1: "Social media marketing in Louth, run as two towns not one county.",
+  intro: [
+    "Louth's social audiences are unusually well defined. Drogheda and Dundalk each have large, active, genuinely local online communities, and because the towns are big enough to sustain their own economies those communities barely overlap.",
+    "That is a gift for targeting and a trap for anyone who advertises to the county. A single Louth audience is two towns' worth of people, most of whom will never use you.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "Two audiences, one voice, and budget split according to where you actually work.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule in your own voice, drawing on jobs in places people recognise.",
+        },
+        {
+          title: "Separate town audiences",
+          body: "Drogheda and Dundalk targeted independently, with the split set by where your work comes from.",
+        },
+        {
+          title: "Estate-level targeting",
+          body: "Both towns have expanded substantially, and newer developments are concentrated, targetable and full of households at the same stage.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than lost on the way to a website.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day.",
+        },
+      ],
+    },
+    {
+      heading: "Local identity is commercially real here",
+      body: [
+        "Both towns have strong, distinct identities and residents notice whether a business is genuinely of the town or advertising into it from outside.",
+        "Naming the streets and estates you have worked in does more than any claim about quality, and it is the cheapest credibility available.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs, and say which town each job was in.",
+        "That single detail lets us put the work in front of the town it happened in, which is consistently the most efficient advertising available in Louth.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Louth areas we target",
+    body: "Audiences built per town, with the budget split set by where your work actually comes from rather than by an even county-wide spread.",
+    towns: [
+      "Drogheda",
+      "Dundalk",
+      "Ardee",
+      "Blackrock",
+      "Carlingford",
+      "Dunleer",
+      "Termonfeckin",
+      "Clogherhead",
+      "Louth village",
+      "Knockbridge",
+      "Tallanstown",
+      "Omeath",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can you target one town only?",
+      a: "Yes, and usually you should. Most Louth businesses genuinely serve one town and its hinterland rather than the whole county.",
+    },
+    {
+      q: "Do the two towns respond differently?",
+      a: "Enough that the same creative can perform noticeably better in one than the other. We watch it and adjust rather than assuming.",
+    },
+    {
+      q: "Is estate targeting worth it?",
+      a: "In both towns, yes. Newer developments hold concentrated groups of households at the same stage of the same cycle.",
+    },
+    {
+      q: "Do I need TikTok?",
+      a: "Probably not. Facebook holds the buying audience in both towns.",
+    },
+    {
+      q: "Can you use our existing page?",
+      a: "Yes — editor access, not ownership.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. Enquiries and cost per enquiry.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Louth", href: "/locations/louth/digital-marketing/" },
+    { label: "All Louth services", href: "/locations/louth/" },
+  ],
+};
+
+const clareDigitalMarketing: ServicePage = {
+  county: "Clare",
+  countySlug: "clare",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Clare | Agency for Clare Businesses",
+  description:
+    "A digital marketing agency working with Clare businesses: Google Ads, Meta ads, SEO and social, from Ennis and Shannon to Kilrush, Lahinch and the coast.",
+  h1: "Digital marketing in Clare, measured in enquiries.",
+  intro: [
+    "Clare has an unusual structure: an administrative and commercial centre at Ennis, an industrial cluster around Shannon, a serious tourism economy along the west coast, and a large rural remainder. Four economies, one county, and very little overlap between them.",
+    "It also sits next to Limerick, which matters more than the county boundary suggests. A great many Clare households shop, work and buy services in Limerick city, and a Clare business competes with Limerick firms whether it wants to or not.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Clare businesses",
+      body: [
+        "Five services. The targeting decision — which of the four Clares you serve — matters more than any of them.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "Built around the catchment you actually cover. Ennis, Shannon and the coast behave like separate markets.",
+        },
+        {
+          title: "Meta ads",
+          body: "Strong outside Ennis, where community networks are tight and a good job is genuinely seen.",
+        },
+        {
+          title: "SEO",
+          body: "Town-level, plus the profile work that decides local results in a county where people search by town.",
+        },
+        {
+          title: "Web design",
+          body: "Coverage matters more than polish. A site that does not say which parts of Clare you serve loses enquiries silently.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, so a business looks current when somebody checks.",
+        },
+      ],
+    },
+    {
+      heading: "Competing with Limerick without meaning to",
+      body: [
+        "Limerick city is close enough that its businesses appear in searches made in south and east Clare, and its firms advertise into the county routinely.",
+        "A Clare business that does not make its local presence obvious is competing on a level field with larger Limerick operations. Making it obvious is the cheapest advantage available.",
+      ],
+    },
+    {
+      heading: "The tourism strip",
+      body: [
+        "Lahinch, Doolin, Kilkee and the coast run on a short, intense season, and the businesses there should not be spending evenly across the year.",
+        "Inland Clare has almost none of that pattern, which is why a county-wide budget suits neither.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Clare we work",
+    body: "Campaigns are built around which part of Clare you actually serve, because Ennis, Shannon, the coast and the rural county are four different markets.",
+    towns: [
+      "Ennis",
+      "Shannon",
+      "Kilrush",
+      "Kilkee",
+      "Lahinch",
+      "Ennistymon",
+      "Sixmilebridge",
+      "Newmarket-on-Fergus",
+      "Tulla",
+      "Scariff",
+      "Corofin",
+      "Doolin",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Do we compete with Limerick firms?",
+      a: "In south and east Clare, constantly, whether you intend to or not. Making your local presence obvious is the most effective response.",
+    },
+    {
+      q: "Is the coast worth advertising to?",
+      a: "If you serve it, yes, but seasonally. Spending evenly across the year on a business whose customers arrive for three months wastes most of it.",
+    },
+    {
+      q: "Should Ennis and Shannon share a campaign?",
+      a: "Usually not. Shannon's economy is industrial and its households behave differently from Ennis's.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "In the town where you have a verified address. Clare's dispersal means no business covers the county in the map pack.",
+    },
+    {
+      q: "How quickly will I see something?",
+      a: "Paid within days, SEO in months — usually faster than Limerick city because the competition is lighter.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Clare", href: "/locations/clare/social-media-marketing/" },
+    { label: "All Clare services", href: "/locations/clare/" },
+  ],
+};
+
+const clareSocial: ServicePage = {
+  county: "Clare",
+  countySlug: "clare",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Clare | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Clare businesses: Facebook and Instagram content and paid campaigns, managed end to end. Ennis, Shannon, the coast and rural Clare.",
+  h1: "Social media marketing in Clare, for a county with four economies.",
+  intro: [
+    "Clare rewards social more than most counties because its communities are tight and its towns are small enough that a good job is genuinely noticed. A business embedded in Ennistymon or Sixmilebridge is known through its own town rather than through advertising.",
+    "The complication is that the four parts of the county share almost nothing. An audience that works in Shannon is close to useless in Kilkee, and a single county audience is mostly people who will never use you.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "Content that looks like where you work, and audiences drawn around the part of Clare you actually serve.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule in your own voice, built from jobs in recognisable places.",
+        },
+        {
+          title: "Audiences per catchment",
+          body: "Ennis, Shannon, the coast and the rural county targeted separately rather than as one.",
+        },
+        {
+          title: "Seasonal weighting for coastal businesses",
+          body: "Budget concentrated into the months when the customers are actually there.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than lost en route to a website.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day, which in small communities is noticed either way.",
+        },
+      ],
+    },
+    {
+      heading: "Being visibly local is worth money here",
+      body: [
+        "Because Limerick firms advertise into Clare, a business that looks unambiguously local has an advantage that shows up directly in cost per enquiry.",
+        "Photographs in recognisable places, named local jobs and genuine community presence do that better than any claim, and they cost nothing but the habit of taking pictures.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs and note where each job was.",
+        "In a county this dispersed, showing work to the specific community it happened in is what makes a modest budget go a long way.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Clare areas we target",
+    body: "Audiences drawn around the catchment you actually serve, with seasonal weighting for the coastal towns whose customers arrive for a few months.",
+    towns: [
+      "Ennis",
+      "Shannon",
+      "Kilrush",
+      "Kilkee",
+      "Lahinch",
+      "Ennistymon",
+      "Sixmilebridge",
+      "Newmarket-on-Fergus",
+      "Tulla",
+      "Scariff",
+      "Corofin",
+      "Doolin",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is the local audience big enough?",
+      a: "For a local business, yes. You need the households in your own catchment, not the county, and that is affordable here.",
+    },
+    {
+      q: "Does the tourist season matter?",
+      a: "On the coast, enormously. Inland, hardly at all. We plan around which you are rather than applying one calendar.",
+    },
+    {
+      q: "Do community pages matter?",
+      a: "A great deal in the smaller towns. We cannot post into them; we reach the same people with budget while you earn the recommendations.",
+    },
+    {
+      q: "Do I need TikTok?",
+      a: "Probably not, though coastal tourism businesses with strong visuals are an exception worth discussing.",
+    },
+    {
+      q: "Can you use our existing page?",
+      a: "Yes — editor access rather than ownership.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. Enquiries and cost per enquiry only.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Clare", href: "/locations/clare/digital-marketing/" },
+    { label: "All Clare services", href: "/locations/clare/" },
+  ],
+};
+
+const mayoDigitalMarketing: ServicePage = {
+  county: "Mayo",
+  countySlug: "mayo",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Mayo | Agency for Mayo Businesses",
+  description:
+    "A digital marketing agency working with Mayo businesses: Google Ads, Meta ads, SEO and social, from Castlebar and Ballina to Westport, Claremorris and the west.",
+  h1: "Digital marketing in Mayo, measured in driving time.",
+  intro: [
+    "Mayo is large, thinly populated and served by three towns that do not dominate it. Castlebar, Ballina and Westport each anchor their own area, and between and beyond them are distances that make a radius drawn on a map close to meaningless.",
+    "The practical unit here is driving time, not kilometres. A business in Castlebar can reach Claremorris easily and Belmullet barely, and a campaign that does not account for that spends heavily on people who will never become customers.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Mayo businesses",
+      body: [
+        "Five services, with geography doing more to determine results than anything else.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "Targeted by realistic travel rather than by county or radius. In Mayo that distinction is the difference between working and not.",
+        },
+        {
+          title: "Meta ads",
+          body: "Frequently the better value channel here. Community pages across Mayo are well followed and reach is inexpensive.",
+        },
+        {
+          title: "SEO",
+          body: "Town-level searches, and Google Business Profile work that carries disproportionate weight in a dispersed county.",
+        },
+        {
+          title: "Web design",
+          body: "Page weight matters. Coverage is patchy across much of the west and a heavy site simply fails for a share of your visitors.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, and unusually effective in a county where communities are tight and news travels.",
+        },
+      ],
+    },
+    {
+      heading: "Driving time is the only unit that works",
+      body: [
+        "Westport to Belmullet is a long way in a manner that a map does not convey, and a customer will not make that journey for a service available closer.",
+        "Every campaign we build here starts with an honest answer to how far you will actually travel, and everything else follows from it.",
+      ],
+    },
+    {
+      heading: "Tourism sits on top of everything",
+      body: [
+        "Westport and the coast carry a substantial visitor economy with a short, intense season, while Castlebar and Ballina run on local trade all year.",
+        "Businesses touching tourism should not budget like businesses that do not, and plenty in Mayo do both, which requires the two to be separated rather than averaged.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Mayo we work",
+    body: "Campaigns are drawn by realistic driving time rather than by radius, because in a county this size a map-based circle reaches a great many people who will never travel to you.",
+    towns: [
+      "Castlebar",
+      "Ballina",
+      "Westport",
+      "Claremorris",
+      "Ballinrobe",
+      "Swinford",
+      "Belmullet",
+      "Charlestown",
+      "Knock",
+      "Foxford",
+      "Kiltimagh",
+      "Newport",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How wide should we target?",
+      a: "As far as you will genuinely travel and no further. In Mayo that is usually much smaller than the county and the single biggest efficiency available.",
+    },
+    {
+      q: "Is Mayo too rural for online advertising?",
+      a: "No — it is under-contested, which is different. Cheap clicks, thin competition and well-followed community networks.",
+    },
+    {
+      q: "Should tourism and local trade run separately?",
+      a: "Yes, if you do both. The seasons, the customers and the messaging have almost nothing in common.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "In your own town, with a verified address. In a dispersed county nobody covers all of it, and trying to is wasted effort.",
+    },
+    {
+      q: "How quickly does SEO work here?",
+      a: "Faster than in a city. Competition for most Mayo terms is light and competitor foundations are usually weak.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Mayo", href: "/locations/mayo/social-media-marketing/" },
+    { label: "All Mayo services", href: "/locations/mayo/" },
+  ],
+};
+
+const mayoSocial: ServicePage = {
+  county: "Mayo",
+  countySlug: "mayo",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Mayo | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Mayo businesses: Facebook and Instagram content and paid campaigns, managed end to end. Castlebar, Ballina, Westport and the west.",
+  h1: "Social media marketing in Mayo, where reach is cheap and relevance is the work.",
+  intro: [
+    "Mayo is one of the cheapest places in Ireland to reach people and one of the easiest to waste money in, for the same reason: the population is spread across a very large area and most of it is not your market.",
+    "What works here is the opposite of scale. Tight audiences, real photographs, and content that a specific community recognises as belonging to it. Mayo's local pages are exceptionally well followed and genuinely read.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "Small, precise audiences and content that looks like the place it comes from.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule in your own voice, built from work in recognisable places.",
+        },
+        {
+          title: "Audiences by travel distance",
+          body: "Drawn around where you will actually go rather than around the county.",
+        },
+        {
+          title: "Diaspora and returning-household targeting",
+          body: "A genuine Mayo opportunity. People with roots here return, buy property and need services, and they are reachable from where they live.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than lost on the way to a website.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day. In small communities responsiveness is part of your reputation.",
+        },
+      ],
+    },
+    {
+      heading: "The returning-household market",
+      body: [
+        "Mayo has an unusually strong connection with people who left and come back — for summers, for retirement, or to renovate a family property.",
+        "They are reachable from wherever they currently live, they are frequently spending on building and renovation, and almost nobody targets them deliberately. For trades in particular it is a real and under-used vein.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs, and tell us where each job was.",
+        "In Mayo the recognition matters more than the production quality. A finished job in a village people know does more than anything shot elsewhere and polished.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Mayo areas we target",
+    body: "Audiences drawn by driving time rather than radius, plus targeting of households with Mayo connections who live elsewhere and return.",
+    towns: [
+      "Castlebar",
+      "Ballina",
+      "Westport",
+      "Claremorris",
+      "Ballinrobe",
+      "Swinford",
+      "Belmullet",
+      "Charlestown",
+      "Knock",
+      "Foxford",
+      "Kiltimagh",
+      "Newport",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is the audience too small?",
+      a: "It is spread out rather than small. Drawn tightly around your own catchment it is both sufficient and very cheap to reach.",
+    },
+    {
+      q: "Can you really target people who have moved away?",
+      a: "To a useful degree — by location, connection and behaviour signals. For renovation and building trades in particular it is worth doing.",
+    },
+    {
+      q: "Do community pages matter here?",
+      a: "More than almost anywhere. We cannot post into them, and paid reaches the same people while you earn the recommendations honestly.",
+    },
+    {
+      q: "Do I need TikTok?",
+      a: "Probably not. Facebook carries the buying audience across Mayo comfortably.",
+    },
+    {
+      q: "Can you use our existing page?",
+      a: "Yes — editor access rather than ownership, removable any time.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. We report enquiries and what each one cost.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Mayo", href: "/locations/mayo/digital-marketing/" },
+    { label: "All Mayo services", href: "/locations/mayo/" },
+  ],
+};
+
 export const servicePages: ServicePage[] = [
   limerickDigitalMarketing,
   limerickSocial,
@@ -2846,6 +4202,18 @@ export const servicePages: ServicePage[] = [
   waterfordDigitalMarketing,
   waterfordSocial,
   waterfordWeb,
+  tipperaryDigitalMarketing,
+  tipperarySocial,
+  kilkennyDigitalMarketing,
+  kilkennySocial,
+  wexfordDigitalMarketing,
+  wexfordSocial,
+  louthDigitalMarketing,
+  louthSocial,
+  clareDigitalMarketing,
+  clareSocial,
+  mayoDigitalMarketing,
+  mayoSocial,
 ];
 
 export const servicePageBy = (countySlug: string, serviceSlug: string) =>
