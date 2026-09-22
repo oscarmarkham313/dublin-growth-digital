@@ -25,6 +25,17 @@ export interface Industry {
   qualify: string[];
   /** Two proof points, from the results page / live ads */
   proof: { value: string; label: string }[];
+  /**
+   * Optional long-form depth, rendered below the proof block.
+   * Added for the original eight pages, which were ~888 words against
+   * 900-1,500 for the later ones. Purely additive — these are the only
+   * pages currently ranking, so nothing above is rewritten.
+   */
+  sections?: {
+    heading: string;
+    body: string[];
+    list?: { title: string; body: string }[];
+  }[];
   faqs: Faq[];
   related: string[];
 }
@@ -95,6 +106,36 @@ export const industries: Industry[] = [
         a: "On the call, yes. We do not put client names in ads or on this page.",
       },
     ],
+    sections: [
+      {
+        heading: "Why vendor leads cost what they cost",
+        body: [
+          "An instruction is worth thousands in fee, which means an agency can pay far more for a vendor lead than most businesses could justify — and most agencies still do not, because they price the lead against a portal listing rather than against the fee it produces.",
+          "The useful number is not cost per lead. It is cost per instruction. If forty enquiries produce twelve valuations and four instructions, and the average fee is several thousand, the arithmetic is not close. We report that chain rather than the top of it.",
+        ],
+        list: [
+          {
+            title: "The enquiry",
+            body: "Someone asks what their house is worth. Cheap to generate and worth very little on its own.",
+          },
+          {
+            title: "The valuation",
+            body: "Someone lets you through the door. This is the step that actually predicts revenue, and the one we optimise towards.",
+          },
+          {
+            title: "The instruction",
+            body: "They sign with you rather than the agency down the street. Decided by what happens at the valuation, not by the ad.",
+          },
+        ],
+      },
+      {
+        heading: "The instructions nobody advertises for",
+        body: [
+          "Almost every agency campaign in Ireland targets the same person: an owner-occupier thinking of selling a family home. That market is contested and expensive.",
+          "The quieter sources are not. Probate sales, where a family is dealing with a property they did not plan to own. Downsizers, who are usually further along than they let on. Landlords leaving the rental market, a steady source of stock for several years now. Each is a separate campaign with different language, and each is dramatically cheaper than the general seller audience because nobody else is bidding on it.",
+        ],
+      },
+    ],
     related: ["solar-installers", "roofers", "builders-and-extensions"],
   },
   {
@@ -160,6 +201,22 @@ export const industries: Industry[] = [
       {
         q: "How soon can we start?",
         a: "Campaigns are usually live within a week of the first call. Start with a free growth audit and we will tell you straight whether it fits.",
+      },
+    ],
+    sections: [
+      {
+        heading: "Grant literacy is the whole filter",
+        body: [
+          "Solar enquiries fail on suitability far more often than on price. Roof orientation, shading, roof condition, BER, whether the house has the electrics for a battery — any one of these can end a job after you have already paid for the lead and sent someone out.",
+          "So the qualification has to happen in the form, not on the roof. Asking about house type, roof direction and current bills before the enquiry reaches you will reduce your raw lead count and increase the proportion worth visiting. That is the trade every installer should want.",
+        ],
+      },
+      {
+        heading: "Why the SEAI cycle matters more than the season",
+        body: [
+          "Solar demand in Ireland tracks grant announcements and electricity price news more closely than it tracks sunshine. A change in grant levels or a price increase from a supplier moves enquiry volume within days.",
+          "That means budget should be reactive rather than flat. We watch for those moments and lift spend into them, because the same euro buys a considerably better enquiry in the fortnight after an energy price story than it does in a quiet month.",
+        ],
       },
     ],
     related: ["plumbers-and-heating", "roofers", "estate-agents"],
@@ -229,6 +286,36 @@ export const industries: Industry[] = [
         a: "Usually live within a week of the first call. Start with a free growth audit of your Google map results, reviews and website.",
       },
     ],
+    sections: [
+      {
+        heading: "Storm weeks are the whole year in miniature",
+        body: [
+          "Roofing demand is not evenly spread and planning as though it is leaves money on the table. A named storm goes through and an entire county needs the same work in the same fortnight, from people who are not comparing three quotes because water is coming in.",
+          "Those weeks have the highest intent and the lowest price sensitivity a roofer ever sees. The firms that capture them are the ones with a campaign already built and paused, ready to turn up within hours. Building a campaign during the spike means missing it.",
+        ],
+        list: [
+          {
+            title: "Before the weather",
+            body: "The campaign exists, paused, with budget agreed. Turning it up takes minutes.",
+          },
+          {
+            title: "During",
+            body: "Budget lifted, emergency messaging live, phone answered. This is not the week to send people to a form.",
+          },
+          {
+            title: "After",
+            body: "Back to planned work — re-roofs, flat roofs, guttering — while the storm enquiries are quoted.",
+          },
+        ],
+      },
+      {
+        heading: "Separating repairs from re-roofs",
+        body: [
+          "A slipped slate and a full re-roof arrive through the same enquiry form and differ in value by a factor of twenty. Run as one campaign, your cost per lead looks fine and your cost per re-roof is invisible.",
+          "We split them. Repair campaigns run on urgency and speed of response. Re-roof campaigns run on photographs, guarantees and finance where you offer it, and they tolerate a much higher cost per enquiry because the job is worth it. Most roofers have never seen those two numbers separately, and they are usually surprised by which campaign is actually carrying the business.",
+        ],
+      },
+    ],
     related: ["driveways-and-paving", "landscapers", "builders-and-extensions"],
   },
   {
@@ -294,6 +381,22 @@ export const industries: Industry[] = [
       {
         q: "Do you cover rural areas?",
         a: "Yes. We build the targeting around your coverage radius, whether that is one town or three counties.",
+      },
+    ],
+    sections: [
+      {
+        heading: "A short season and a long quote list",
+        body: [
+          "Most landscaping revenue lands between March and September, and the enquiries that produce it arrive earlier than most firms advertise. By the time the weather turns good, the people planning a garden have already been talking to somebody since February.",
+          "The firms that do best advertise into late winter, fill the book before the season starts, and then switch messaging to lead times rather than availability once the diary tightens. Advertising availability in June when you are booked to August wastes the budget and irritates the caller.",
+        ],
+      },
+      {
+        heading: "Design work versus maintenance",
+        body: [
+          "Garden design and build is a large, one-off, photograph-led sale. Maintenance is small, repeating, and worth far more over three years than it looks in a single invoice.",
+          "They need separate campaigns because the buyer is different — one is making a considered investment in the property, the other wants a recurring job taken off their hands. Most landscapers advertise only the first and then wonder why winter is quiet, when a maintenance book is precisely what carries a firm through it.",
+        ],
       },
     ],
     related: ["driveways-and-paving", "roofers", "builders-and-extensions"],
@@ -363,6 +466,22 @@ export const industries: Industry[] = [
         a: "Usually within a week of the first call. Start with a free growth audit of your Google results, reviews and website.",
       },
     ],
+    sections: [
+      {
+        heading: "The trade with the worst reputation problem",
+        body: [
+          "Driveways carry more consumer suspicion than any other trade in Ireland, because of a long history of doorstep callers and disappearing deposits. Every homeowner considering the work has heard a story, and many have had one at the door.",
+          "That is a marketing problem you can solve rather than a cost you have to bear. A campaign that leads with a fixed written quote, a real business address, named reviews and photographs of finished work in the actual town converts far better than one leading on price. You are not competing on being cheapest; you are competing on being obviously legitimate.",
+        ],
+      },
+      {
+        heading: "New estates are the most targetable work in the country",
+        body: [
+          "A development finished two years ago is a few hundred households who all have the same unfinished front garden, the same builder-standard driveway, and the same neighbours watching what everyone else does.",
+          "One job done well in an estate reliably produces more from the same estate, which is why the photographs and the town name matter more than any headline. We build campaigns around specific developments rather than counties, and the cost per enquiry is usually a fraction of a general campaign.",
+        ],
+      },
+    ],
     related: ["landscapers", "roofers", "builders-and-extensions"],
   },
   {
@@ -428,6 +547,22 @@ export const industries: Industry[] = [
       {
         q: "How soon can we start?",
         a: "Usually within a week. Start with a free growth audit of your Google results, reviews and social pages.",
+      },
+    ],
+    sections: [
+      {
+        heading: "The quote visit is where the margin goes",
+        body: [
+          "A bathroom quote takes an hour on site plus travel plus the drawing-up afterwards. Do six of those for one job and the marketing cost of that job is far higher than the ad spend suggests.",
+          "So the filtering has to happen before the visit. Budget band, whether it is a full rip-out or a refresh, whether plans exist, and when they want it done — asked in the form. It will reduce enquiry volume and raise the proportion that convert, which is the only version of this that makes money.",
+        ],
+      },
+      {
+        heading: "Wetrooms and accessibility are the under-served half",
+        body: [
+          "Accessible bathrooms and wetrooms for older homeowners are a growing, well-funded and almost entirely unadvertised part of this trade in Ireland. The buyer is often an adult child researching on a parent's behalf, which changes the language completely.",
+          "It is also less price-driven than general renovation, because the decision is about staying in the house rather than improving it. A separate campaign aimed at that buyer usually produces a better cost per job than anything in the mainstream bathroom market.",
+        ],
       },
     ],
     related: ["builders-and-extensions", "plumbers-and-heating", "solar-installers"],
@@ -497,6 +632,22 @@ export const industries: Industry[] = [
         a: "Usually within a week of the first call. Start with a free growth audit.",
       },
     ],
+    sections: [
+      {
+        heading: "The two businesses inside every plumbing firm",
+        body: [
+          "Emergency work is won in about fifteen minutes by whoever answers the phone. Nobody compares quotes for a burst pipe. Planned work — a boiler swap, a bathroom, a heating upgrade — is decided over days on reviews, price and whether the quote arrived when it was promised.",
+          "These want opposite things from a campaign. Emergency wants to appear at 9pm on a Sunday with a phone number and nothing else. Planned wants photographs, finance options and a form that qualifies. Run as one campaign they fight, and the emergency side usually eats the budget because it clicks more.",
+        ],
+      },
+      {
+        heading: "Boiler replacement is the job worth chasing",
+        body: [
+          "A callout pays for the day. A boiler replacement pays for the week, and it comes with an annual service relationship behind it for years afterwards.",
+          "It is also the most predictable job in the trade: boilers fail in cold weather, and the enquiry curve follows the temperature almost exactly. Weighting budget towards the first genuine cold snap, and having a grant-aware landing page ready before it, is worth more than any amount of general plumbing advertising in June.",
+        ],
+      },
+    ],
     related: ["solar-installers", "bathroom-renovations", "roofers"],
   },
   {
@@ -562,6 +713,22 @@ export const industries: Industry[] = [
       {
         q: "How soon can it start?",
         a: "Usually within a week of the first call. Start with a free growth audit of your Google results, reviews and website.",
+      },
+    ],
+    sections: [
+      {
+        heading: "Planning permission is the honest qualifier",
+        body: [
+          "The single most useful question in a builder's enquiry form is whether the homeowner has drawings or planning permission. Someone with permission granted is months ahead and close to spending. Someone who has not spoken to an architect is a conversation you will have three times over eighteen months.",
+          "Both are worth having, but they are not the same lead and should not be treated as one. We tag them separately so your quoting time goes where it converts, and so the ones that are early get nurtured rather than dropped.",
+        ],
+      },
+      {
+        heading: "Why builders should advertise finished work, not services",
+        body: [
+          "Nobody chooses a builder from a list of services. They choose from photographs of a finished extension that looks like the one they have been imagining, ideally on a house that looks like theirs.",
+          "That makes this an unusually visual trade for something so practical, and it makes the single highest-value thing you can give an agency a library of good photographs of completed work. Not the build in progress — the finished room, in good light, with the furniture in. It outperforms anything we could write.",
+        ],
       },
     ],
     related: ["bathroom-renovations", "roofers", "estate-agents"],

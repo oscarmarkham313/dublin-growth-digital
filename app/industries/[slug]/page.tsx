@@ -197,6 +197,50 @@ export default async function IndustryPage({
         </div>
       </section>
 
+      {ind.sections?.map((sec, i) => (
+        <section
+          key={sec.heading}
+          className={`border-b border-hairline py-20 md:py-28 ${
+            i % 2 === 1 ? "bg-bg-alt" : "bg-bg"
+          }`}
+        >
+          <div className="mx-auto max-w-container px-5 md:px-10">
+            <Reveal>
+              <h2 className="max-w-3xl text-3xl font-extrabold leading-[1.02] tracking-display md:text-5xl">
+                {sec.heading}
+              </h2>
+              <div className="mt-7 flex max-w-3xl flex-col gap-5">
+                {sec.body.map((t) => (
+                  <p
+                    key={t.slice(0, 32)}
+                    className="text-[15px] leading-relaxed text-text-2 md:text-base"
+                  >
+                    {t}
+                  </p>
+                ))}
+              </div>
+            </Reveal>
+
+            {sec.list && (
+              <div className="mt-12 border-t border-hairline">
+                {sec.list.map((item, j) => (
+                  <Reveal key={item.title} delay={Math.min(j, 4) * 0.05}>
+                    <div className="grid grid-cols-1 gap-y-3 border-b border-hairline py-7 md:grid-cols-[minmax(0,300px)_1fr] md:gap-x-12 md:py-8">
+                      <h3 className="text-xl font-extrabold leading-tight tracking-display md:text-2xl">
+                        {item.title}
+                      </h3>
+                      <p className="max-w-2xl text-[15px] leading-relaxed text-text-2">
+                        {item.body}
+                      </p>
+                    </div>
+                  </Reveal>
+                ))}
+              </div>
+            )}
+          </div>
+        </section>
+      ))}
+
       <section className="border-b border-hairline bg-bg-alt py-20 md:py-28">
         <div className="mx-auto grid max-w-container gap-12 px-5 md:grid-cols-[1fr_1fr] md:gap-20 md:px-10">
           <Reveal>
