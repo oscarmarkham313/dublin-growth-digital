@@ -3823,6 +3823,1002 @@ export const industries: Industry[] = [
     ],
     related: ["dentists", "physiotherapy", "skin-clinics"],
   },
+  {
+    slug: "restaurants-and-cafes",
+    label: "Restaurants & cafés",
+    title: "Restaurant Marketing Ireland | Fill Midweek Covers",
+    description:
+      "Marketing for Irish restaurants and cafés: midweek covers, direct bookings and the commission you stop paying. Reported in bookings. From €1,500 a month.",
+    h1: "Restaurant marketing aimed at the nights that do not sell themselves.",
+    intro: [
+      "A restaurant does not need more Saturdays. Saturdays fill. What decides whether the year works is Tuesday, Wednesday and the first three weeks of January, and a table empty on a Tuesday is revenue that cannot be recovered on Saturday.",
+      "The second thing quietly costing money is commission. Every booking arriving through a platform carries a cut, and a booking the restaurant generated itself does not. Shifting even a portion of covers to direct is usually worth more than any increase in total bookings.",
+    ],
+    run: [
+      {
+        name: "Midweek campaigns",
+        text: "Offers and messaging aimed specifically at your quiet nights, rather than blanket discounting that subsidises the nights you would have filled anyway.",
+      },
+      {
+        name: "Direct booking campaigns",
+        text: "Driving reservations to your own system instead of a platform, so the cover arrives without a commission attached.",
+      },
+      {
+        name: "Google profile and photo work",
+        text: "For restaurants the profile is the shopfront. Photographs, menus and hours do more than any paid campaign.",
+      },
+      {
+        name: "Occasion campaigns",
+        text: "Valentine's, Mother's Day, Christmas parties and communions, planned well in advance rather than posted about the week before.",
+      },
+      {
+        name: "The weekly report",
+        text: "Bookings, cost per booking and which nights they landed on.",
+      },
+    ],
+    qualify: [
+      "Which night are you looking to book?",
+      "How many people?",
+      "Is it a special occasion?",
+      "Have you dined with us before?",
+    ],
+    proof: [
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Commission is the number nobody calculates",
+        body: [
+          "Platform bookings feel free because the cost is deducted rather than invoiced. Work out what a year of commission actually comes to and it is frequently a full-time wage.",
+          "You will not replace platforms entirely and should not try — they bring genuine discovery. But a campaign that moves a share of repeat customers to booking direct pays for itself several times over, and those customers were already yours.",
+        ],
+      },
+      {
+        heading: "Discount the gap, never the whole week",
+        body: [
+          "A twenty percent offer running all week is mostly taken up by people who would have paid full price at the weekend. You have discounted your best nights to fill your worst.",
+          "The same offer restricted to Tuesday and Wednesday reaches people with flexible plans and adds covers instead of removing margin.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Are the booking platforms worth it?",
+        a: "For discovery, yes. For repeat customers, no — every returning diner who books through a platform is costing you commission on a relationship you already own. The aim is to shift the repeats, not to leave entirely.",
+      },
+      {
+        q: "Should we advertise at the weekend?",
+        a: "Rarely. If Saturday fills without help, advertising it is spending money to move a booking you already had. The budget belongs on the quiet nights.",
+      },
+      {
+        q: "How important is the Google profile?",
+        a: "For a restaurant it is the single most valuable thing you own. Photographs, an up-to-date menu and correct hours decide more bookings than any campaign.",
+      },
+      {
+        q: "Is Instagram worth the effort?",
+        a: "For food, genuinely yes — it is one of the few sectors where organic content still earns real reach. It needs to be your own food, photographed properly, not stock.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["hotels-and-guesthouses", "wedding-venues", "gyms-and-fitness"],
+  },
+  {
+    slug: "hotels-and-guesthouses",
+    label: "Hotels & guesthouses",
+    title: "Hotel Marketing Ireland | Direct Bookings for Hotels & B&Bs",
+    description:
+      "Marketing for Irish hotels, guesthouses and B&Bs. Built around direct bookings and the shoulder season rather than filling July. From €1,500 a month.",
+    h1: "Hotel marketing built around direct bookings and the quiet months.",
+    intro: [
+      "An Irish hotel has two problems and neither is July. July sells itself. The problems are the shoulder months, and the share of bookings arriving through online travel agents at a commission of fifteen to twenty percent.",
+      "Those two are connected. A property heavily dependent on OTAs pays the most commission exactly when it is most desperate for occupancy, because the quiet months are when the platforms have the most leverage. Building direct demand is the only way out of that, and it has to be built before you need it.",
+    ],
+    run: [
+      {
+        name: "Direct booking campaigns",
+        text: "Aimed at people already considering you, with the rate advantage and the reason to book direct made obvious.",
+      },
+      {
+        name: "Shoulder season campaigns",
+        text: "Spring and autumn packages built around a reason to come rather than a discount on a room.",
+      },
+      {
+        name: "Brand defence on search",
+        text: "Your own name is searched by people about to book. If an OTA outranks you on it, you are paying commission for a customer who was looking for you.",
+      },
+      {
+        name: "Local market campaigns",
+        text: "Staycations, leisure breaks and the dining and spa business that does not depend on room nights at all.",
+      },
+      {
+        name: "The weekly report",
+        text: "Direct bookings, cost per booking and the commission avoided.",
+      },
+    ],
+    qualify: [
+      "What dates are you considering?",
+      "How many guests and rooms?",
+      "Is this leisure or business?",
+      "Are you interested in a package or room only?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Defending your own name is the cheapest win available",
+        body: [
+          "Search your hotel by name and see who appears above you. If it is an OTA, then people specifically looking for your property are being routed through a platform that takes a cut of a booking you had already won.",
+          "Brand-term campaigns are inexpensive because nobody else is bidding hard on your name, and they recover the highest-intent traffic you will ever have.",
+        ],
+      },
+      {
+        heading: "Build shoulder demand before you need it",
+        body: [
+          "The instinct is to advertise when occupancy drops. By then you are competing with every other property doing the same thing, and the only lever left is price.",
+          "Campaigns run in advance of the quiet months, built around a reason to visit rather than a rate, produce bookings that do not erode your average room rate for the rest of the year.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Can we really reduce OTA dependence?",
+        a: "Partly, and partly you should not want to — platforms genuinely bring discovery you cannot replicate. The realistic goal is shifting repeat and direct-intent guests, which is where the commission is pure loss.",
+      },
+      {
+        q: "Should we undercut the OTA rate?",
+        a: "Check your rate parity terms first. Where permitted, offering something rather than a lower price — breakfast, late checkout, a drink on arrival — usually works better and avoids the issue entirely.",
+      },
+      {
+        q: "What about the quiet months?",
+        a: "Advertise ahead of them with a reason to come, not during them with a discount. Discounting into a quiet month trains guests to wait.",
+      },
+      {
+        q: "Is the food and drink side worth advertising separately?",
+        a: "Frequently yes. It draws local custom that does not depend on occupancy and it fills the same quiet midweek periods.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["restaurants-and-cafes", "wedding-venues", "med-spas"],
+  },
+  {
+    slug: "wedding-venues",
+    label: "Wedding venues",
+    title: "Wedding Venue Marketing Ireland | Enquiries & Showrounds",
+    description:
+      "Marketing for Irish wedding venues. One enquiry is worth tens of thousands, the decision takes a year, and the showround is where it is won. From €1,500 a month.",
+    h1: "Wedding venue marketing measured in showrounds, not enquiries.",
+    intro: [
+      "A wedding is among the largest single purchases most couples ever make, and the venue takes the biggest share of it. One booking is worth what a restaurant earns in a fortnight, which changes entirely what a venue can afford to spend attracting one.",
+      "It is also the longest decision in hospitality. Couples look twelve to twenty-four months ahead, visit three or four venues, and decide after walking the room. Everything before the showround exists to get them through the door.",
+    ],
+    run: [
+      {
+        name: "Showround-led campaigns",
+        text: "The showround is the conversion event, not the enquiry. Campaigns optimise for a booked visit, because that is what predicts a wedding.",
+      },
+      {
+        name: "Long-horizon retargeting",
+        text: "Couples take months to decide. Staying visible across that period costs little and is where most venues quietly lose bookings to whoever stayed in front of them.",
+      },
+      {
+        name: "Real weddings as the creative",
+        text: "Photographs of actual weddings in your actual rooms. Couples are imagining themselves in the space and nothing else does that job.",
+      },
+      {
+        name: "Date-gap campaigns",
+        text: "Specific unsold dates, particularly off-peak and midweek, advertised to couples with flexibility.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, showrounds booked and cost per showround.",
+      },
+    ],
+    qualify: [
+      "What date are you considering?",
+      "Roughly how many guests?",
+      "Have you set a budget?",
+      "Would you like to arrange a viewing?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "What a venue can afford per enquiry",
+        body: [
+          "If a wedding is worth twenty thousand or more to the venue, and one showround in three becomes a booking, and one enquiry in three becomes a showround, then nine enquiries produce a booking.",
+          "Even at a hundred euro an enquiry that is nine hundred euro of marketing against twenty thousand of revenue. Venues routinely reject costs per enquiry that the arithmetic says are comfortable, because they are comparing them to restaurant numbers.",
+        ],
+      },
+      {
+        heading: "The gap between enquiry and decision is where venues lose",
+        body: [
+          "A couple enquires in March and books in September. Most venues send a brochure in March and hope.",
+          "The venues that win stay present through those six months — retargeting, occasional content, an open day invitation. It is inexpensive and it is the difference between being one of four brochures and being the venue they kept coming back to.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is a wedding fair still worth it?",
+        a: "They generate volume but the enquiries are cold and everyone is at them. They work best as one source among several, not the whole strategy.",
+      },
+      {
+        q: "How far ahead should we advertise?",
+        a: "Twelve to twenty-four months for the main season. There is also a shorter cycle of couples booking within a year, and they are usually flexible on dates, which is useful for filling gaps.",
+      },
+      {
+        q: "Do we need professional photography?",
+        a: "Yes, and it is the highest-return spend available to a venue. Couples choose on how the room looks in photographs before they ever visit.",
+      },
+      {
+        q: "Should we publish prices?",
+        a: "A from-price or a package range helps. Couples are budgeting, and venues that hide pricing produce showrounds with people who could never afford them.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["hotels-and-guesthouses", "restaurants-and-cafes", "med-spas"],
+  },
+  {
+    slug: "barbers",
+    label: "Barbers",
+    title: "Barber Shop Marketing Ireland | Fill the Chair",
+    description:
+      "Marketing for Irish barber shops: booking apps, walk-ins and the quiet hours. Low ticket, high frequency, tiny radius. From €1,500 a month.",
+    h1: "Barber marketing for a business measured in chair-hours.",
+    intro: [
+      "A barber shop sells time in a chair and nothing else. An hour that passes empty cannot be sold later, and a customer who comes every four weeks instead of every six is worth fifty percent more without a single new customer being found.",
+      "The radius is also tiny. Almost nobody travels far for a haircut, which means the entire market is a few streets and the competition is whoever else is on them. That makes broad advertising wasteful and local presence everything.",
+    ],
+    run: [
+      {
+        name: "Quiet-hour campaigns",
+        text: "Tuesday mornings and early afternoons, aimed at people with flexible schedules rather than discounting the Saturday queue.",
+      },
+      {
+        name: "Google profile work",
+        text: "For a barber the profile is the business. Photographs of actual cuts, correct hours and reviews decide more walk-ins than anything paid.",
+      },
+      {
+        name: "Rebooking and frequency",
+        text: "The cheapest growth available is existing customers returning slightly sooner. Reminders do more than acquisition.",
+      },
+      {
+        name: "New-opening and new-barber campaigns",
+        text: "Tightly targeted to a few streets, because that is the whole catchment.",
+      },
+      {
+        name: "The weekly report",
+        text: "Bookings, cost per booking and which hours filled.",
+      },
+    ],
+    qualify: [
+      "Which barber would you like?",
+      "What day and time suits?",
+      "Is this your first visit?",
+      "What type of cut are you after?",
+    ],
+    proof: [
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Frequency beats acquisition",
+        body: [
+          "A customer coming every four weeks instead of every six is worth fifty percent more, and costs nothing to acquire because you already have them.",
+          "Rebooking in the chair before they leave, plus a reminder when they are due, moves that number more reliably than any campaign. It is unglamorous and it is where the growth is.",
+        ],
+      },
+      {
+        heading: "Your catchment is smaller than you think",
+        body: [
+          "People do not travel for a haircut. If you advertise to a city you are paying to reach people who will never walk past your door.",
+          "A radius of a kilometre or two around the shop, plus the streets people actually commute along, is usually the whole addressable market — and targeting it that tightly makes a small budget go a long way.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is a booking app worth it?",
+        a: "For most shops yes, because it reduces no-shows and captures the rebooking. Keep walk-ins available though — a significant share of barber trade is unplanned.",
+      },
+      {
+        q: "Should we discount to fill quiet hours?",
+        a: "Targeted at genuinely quiet times, yes. Across the board, no — you would be discounting the Saturday queue that was coming anyway.",
+      },
+      {
+        q: "How important are photographs?",
+        a: "Very. Cuts you have actually done, on real customers, with permission. It is what people judge a barber on and stock images are obvious.",
+      },
+      {
+        q: "Is social media worth it?",
+        a: "Instagram genuinely works for barbers because the output is visual and shareable. It also recruits — barbers choose where to work partly on the shop's profile.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["skin-clinics", "gyms-and-fitness", "med-spas"],
+  },
+  {
+    slug: "driving-schools",
+    label: "Driving schools",
+    title: "Driving School Marketing Ireland | Pupil Leads for Instructors",
+    description:
+      "Marketing for Irish driving schools and ADIs: EDT blocks, pretest lessons and the test waiting list. Reported in booked lessons. From €1,500 a month.",
+    h1: "Driving school marketing built around the test waiting list.",
+    intro: [
+      "Demand for driving lessons in Ireland is shaped by something outside any instructor's control: the test waiting list. When waits are long, learners book pretest lessons in a rush and demand spikes; when they shorten, the pattern changes entirely.",
+      "The other structural fact is EDT. Every learner needs twelve essential lessons, which means a new pupil is not one booking but a block — and that changes what an instructor can afford to spend winning one.",
+    ],
+    run: [
+      {
+        name: "EDT block campaigns",
+        text: "Aimed at new learners who have just got their permit, where the enquiry is worth twelve lessons rather than one.",
+      },
+      {
+        name: "Pretest and refresher campaigns",
+        text: "A separate, urgent market — learners with a test date approaching who need hours quickly.",
+      },
+      {
+        name: "Area-tight targeting",
+        text: "Instructors work a defined patch. Campaigns drawn around where you actually collect pupils rather than a county.",
+      },
+      {
+        name: "Automatic transmission campaigns",
+        text: "A growing, under-served and less contested segment in most areas.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, lessons booked and cost per booked block.",
+      },
+    ],
+    qualify: [
+      "Do you have your learner permit?",
+      "Have you done any EDT lessons yet?",
+      "Do you have a test date?",
+      "Manual or automatic?",
+    ],
+    proof: [
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "A pupil is twelve lessons, not one",
+        body: [
+          "Instructors tend to judge a lead against the price of a single lesson, which makes almost any marketing look expensive.",
+          "A new EDT learner is a block of twelve, often with pretest lessons afterwards. Valued properly, the affordable cost per enquiry is several times what most instructors assume, and the ones who work it out can outbid everyone else in their area.",
+        ],
+      },
+      {
+        heading: "The test waiting list drives everything",
+        body: [
+          "When waits are long, learners with a date scramble for pretest hours and are far less price-sensitive. When waits shorten, EDT demand smooths out.",
+          "Watching that and shifting budget between the two campaigns is the single most useful thing an instructor can do with advertising, and almost nobody does it.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is automatic worth targeting separately?",
+        a: "Yes. Demand is growing, supply of automatic instructors is thin in most areas, and the search term is specific enough to be cheap.",
+      },
+      {
+        q: "Should we advertise price per lesson?",
+        a: "Usually yes, or a block price. It is what learners compare and being vague produces enquiries from people shopping purely on cost.",
+      },
+      {
+        q: "How wide should the targeting be?",
+        a: "As wide as you will genuinely drive to collect a pupil, and no wider. Instructors lose money advertising across a county they do not cover.",
+      },
+      {
+        q: "Do reviews matter for an instructor?",
+        a: "Considerably. Learning to drive is nerve-wracking and parents are often involved in choosing. Reviews mentioning patience do more than any advert.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["car-garages", "gyms-and-fitness", "creches"],
+  },
+  {
+    slug: "creches",
+    label: "Creches & childcare",
+    title: "Creche Marketing Ireland | Enrolments for Childcare Providers",
+    description:
+      "Marketing for Irish creches and childcare providers. Honest about when the constraint is staffing rather than demand. From €1,500 a month.",
+    h1: "Childcare marketing, and when not to do it.",
+    intro: [
+      "A great many Irish creches do not have a demand problem. They have waiting lists, and the thing stopping them growing is staff and ratios rather than enquiries. Advertising into that produces frustrated parents and damages a reputation that runs almost entirely on word of mouth.",
+      "Where marketing genuinely helps is narrower and worth doing properly: a new opening, a new room, a specific age band with space, or a recruitment problem that is capping enrolment.",
+    ],
+    run: [
+      {
+        name: "Space-specific campaigns",
+        text: "Advertising the age bands and days you actually have room for, rather than the creche in general.",
+      },
+      {
+        name: "New opening and new room campaigns",
+        text: "The one situation where volume marketing genuinely fits childcare.",
+      },
+      {
+        name: "Recruitment campaigns",
+        text: "Frequently the more valuable spend. If staff are the constraint, hiring is what increases enrolment.",
+      },
+      {
+        name: "NCS and funding clarity",
+        text: "The subsidy questions parents actually search, answered plainly.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, viewings booked and cost per enrolment.",
+      },
+    ],
+    qualify: [
+      "What age is your child?",
+      "Which days do you need?",
+      "When would you need to start?",
+      "Are you claiming NCS?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "We will tell you not to advertise",
+        body: [
+          "If you have a waiting list and no capacity, generating enquiries costs you money and goodwill. Parents who are turned away talk, and in childcare word of mouth is most of your marketing whether you manage it or not.",
+          "That is an unusual thing for an agency to say and it is the honest answer more often than not in this sector.",
+        ],
+      },
+      {
+        heading: "Recruitment is usually the real brief",
+        body: [
+          "When staffing caps enrolment, every additional qualified practitioner unlocks places that are already spoken for.",
+          "Campaigns aimed at practitioners — reaching people already in the sector, and people returning to it — are frequently worth several times a parent-facing campaign, and almost nobody runs them.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "We have a waiting list. Should we advertise?",
+        a: "Probably not, and we will say so. Enquiries you cannot fulfil cost you money and irritate the parents who talk about you. Recruitment first if staffing is the cap.",
+      },
+      {
+        q: "What about a new room opening?",
+        a: "That is exactly when marketing works. Specific, time-bound, with real availability behind it.",
+      },
+      {
+        q: "How important is the Google profile?",
+        a: "Very. Parents research locally and read every review carefully. It is worth more attention than any campaign.",
+      },
+      {
+        q: "Should we advertise fees?",
+        a: "A fee range plus clarity on NCS helps enormously. It is the question every parent has and most providers make them ring to find out.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["home-care", "driving-schools", "physiotherapy"],
+  },
+  {
+    slug: "funeral-directors",
+    label: "Funeral directors",
+    title: "Funeral Director Marketing Ireland | Pre-Planning & Local Presence",
+    description:
+      "Marketing for Irish funeral directors, handled with the restraint the work requires. Built around pre-planning and local presence, not urgency. From €1,500 a month.",
+    h1: "Funeral director marketing, handled the way the work deserves.",
+    intro: [
+      "Most marketing advice is useless here and some of it is offensive. You cannot run urgency campaigns, you should not target the recently bereaved, and any agency proposing either does not understand the work or does not care.",
+      "What is legitimate is being present and clearly findable before you are needed, and offering pre-planning to people who want to spare their families a decision. Almost every family choosing a funeral director is doing so in the worst week of their life, and they choose whoever they already know of.",
+    ],
+    run: [
+      {
+        name: "Local presence and profile work",
+        text: "Being findable, with correct information and a dignified profile. For this sector it is most of the job.",
+      },
+      {
+        name: "Pre-planning campaigns",
+        text: "The one genuinely marketable service — aimed at older adults and their families, planning calmly and in advance.",
+      },
+      {
+        name: "Information rather than persuasion",
+        text: "What happens, what it costs, what the options are. Families search for this and almost nobody answers it plainly.",
+      },
+      {
+        name: "Restraint as policy",
+        text: "No urgency messaging, no targeting based on bereavement signals, no retargeting anybody who read a funeral page. We will decline those.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries and pre-planning consultations, reported quietly and without pressure metrics.",
+      },
+    ],
+    qualify: [
+      "Is this an immediate need or planning ahead?",
+      "Which area are you in?",
+      "Burial or cremation?",
+      "Would you prefer a call or an appointment?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "What we will not do",
+        body: [
+          "We will not build audiences from bereavement signals, run urgency messaging, or retarget somebody who visited a funeral page. It is technically possible and it is indecent.",
+          "If another agency offers it, that is a reason to be careful of them rather than a competitive disadvantage on our part. Families notice, and in a business built entirely on local reputation, being the firm that behaved well matters more than any campaign.",
+        ],
+      },
+      {
+        heading: "Pre-planning is the legitimate product",
+        body: [
+          "A growing number of people want to arrange and pay for their own funeral so their family does not have to decide anything. It is a considered purchase, made calmly, and it can be advertised without any of the above problems.",
+          "It also builds the relationship long before it is needed, which is precisely how families end up choosing one firm over another.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Can you advertise funeral services at all?",
+        a: "Presence and information, yes. Urgency and bereavement targeting, no — we will not do it and you should not want it. Pre-planning is the service that can be marketed properly.",
+      },
+      {
+        q: "What matters most for our firm?",
+        a: "Being known locally before we are needed, and being easy to find with the right information when we are. The Google profile and clear, plain information do more than advertising.",
+      },
+      {
+        q: "Should we publish prices?",
+        a: "Yes. Families are anxious about cost at the worst possible moment and are grateful to anyone who tells them plainly. It is also increasingly expected.",
+      },
+      {
+        q: "Is social media appropriate?",
+        a: "Sparingly and carefully — community presence, notices where families want them, nothing promotional. Tone matters more here than anywhere else we work.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["solicitors", "home-care", "insurance-brokers"],
+  },
+  {
+    slug: "financial-advisors",
+    label: "Financial advisors",
+    title: "Financial Advisor Marketing Ireland | Client Leads for Advisors",
+    description:
+      "Marketing for Irish financial advisors and pension specialists. Central Bank aware, built around the life events that actually trigger advice. From €1,500 a month.",
+    h1: "Financial advisor marketing built around the moments people act.",
+    intro: [
+      "Nobody wakes up wanting financial advice. They act on an event: a job change with a pension to move, a redundancy, turning fifty and doing the arithmetic, an inheritance, or a business reaching the point where extraction becomes a real question.",
+      "That makes this a timing and trust business rather than a persuasion one. The advisors who grow are visible at those moments and credible enough that somebody will discuss their money with them.",
+    ],
+    run: [
+      {
+        name: "Life-event campaigns",
+        text: "Pension transfers, retirement planning, redundancy and inheritance — the specific triggers that produce searches with genuine intent.",
+      },
+      {
+        name: "Pension consolidation campaigns",
+        text: "Most people have two or three old pensions they have lost track of, and searches around finding and moving them are specific and under-contested.",
+      },
+      {
+        name: "Compliance-aware creative",
+        text: "You are Central Bank regulated. Everything is written to respect that and sent for your approval before it runs.",
+      },
+      {
+        name: "Trust content",
+        text: "How you are paid, what you are authorised to advise on, and what a first meeting involves. Almost nobody answers these plainly and they are what people want to know.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, consultations booked and cost per consultation.",
+      },
+    ],
+    qualify: [
+      "What prompted you to look for advice?",
+      "Are you planning for retirement or something else?",
+      "Do you have existing pensions or policies?",
+      "Would you prefer a call or a meeting?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Be explicit about how you are paid",
+        body: [
+          "The single most common reason people hesitate is not knowing whether the advice they get is shaped by commission.",
+          "Advisors who state plainly how they are remunerated — fee, commission, or both, and on what — convert considerably better than those who leave it unsaid, because the question is being asked silently regardless.",
+        ],
+      },
+      {
+        heading: "The pension nobody can find",
+        body: [
+          "A large number of people in Ireland have pensions from previous jobs they cannot account for and have quietly given up on.",
+          "Campaigns aimed at finding, consolidating and understanding them reach people with a real, nagging problem and almost no competition, and they open a relationship that usually extends well beyond the original question.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "What are we allowed to say?",
+        a: "Within Central Bank obligations, a great deal — what you advise on, who you work with, how you are paid, what a first meeting involves. What you cannot do is promise outcomes or imply guarantees. Everything goes to you for approval.",
+      },
+      {
+        q: "Which services are worth advertising?",
+        a: "Pension transfers and consolidation, retirement planning, and protection around life events. They have clear triggers and specific searches.",
+      },
+      {
+        q: "Is LinkedIn worth it?",
+        a: "For business owners and professionals, yes. It is dearer than search and better for credibility than direct enquiries.",
+      },
+      {
+        q: "How long is the cycle?",
+        a: "Weeks to months. People think about money for a long time before acting, so staying visible matters more than being loudest once.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["insurance-brokers", "mortgage-brokers", "accountants"],
+  },
+  {
+    slug: "engineers-and-surveyors",
+    label: "Engineers & surveyors",
+    title: "Engineer & Surveyor Leads Ireland | Surveys, Snag Lists & Certs",
+    description:
+      "Lead generation for Irish engineers and surveyors: pre-purchase surveys, snag lists, certificates of compliance and boundary work. From €1,500 a month.",
+    h1: "Engineer and surveyor leads tied to the property market.",
+    intro: [
+      "Most of this work is triggered by a transaction. Somebody is buying, selling, building or refinancing, and a survey, a snag list or a certificate is the thing standing between them and the next step.",
+      "That makes the enquiries urgent and deadline-driven, and it makes the work highly repeatable — because the estate agents, solicitors and builders who encounter the need constantly are a far better source than any individual homeowner.",
+    ],
+    run: [
+      {
+        name: "Pre-purchase survey campaigns",
+        text: "Buyers searching before a deposit goes down, with a deadline and a clear reason to act.",
+      },
+      {
+        name: "Snag list campaigns",
+        text: "New-build purchasers, concentrated around completing developments — targetable as a group rather than individually.",
+      },
+      {
+        name: "Certificate and compliance campaigns",
+        text: "Certificates of compliance and exemption, usually needed urgently during a sale.",
+      },
+      {
+        name: "Referrer relationships",
+        text: "Estate agents, solicitors and builders send this work repeatedly. Marketing supports the relationship rather than replacing it.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, surveys booked and cost per survey, by work type.",
+      },
+    ],
+    qualify: [
+      "What type of survey or certificate do you need?",
+      "Is there a deadline or closing date?",
+      "What type of property is it?",
+      "What area is the property in?",
+    ],
+    proof: [
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "New developments are a concentrated market",
+        body: [
+          "A development handing over fifty or a hundred units produces the same number of snag list enquiries inside a few months, from people who mostly do not know what a snag list involves.",
+          "Targeting a specific development while it completes is dramatically more efficient than advertising snagging services across a county, and very few practices do it.",
+        ],
+      },
+      {
+        heading: "Referrers are worth more than any campaign",
+        body: [
+          "An estate agent or solicitor who sends work does so repeatedly and without acquisition cost.",
+          "Advertising supports that rather than replacing it — being visible and obviously competent makes you the name they give, and keeps you in mind when the last job went smoothly.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is this seasonal?",
+        a: "It follows the property market rather than the weather, with the usual dip around Christmas and a rise in spring and autumn transaction volume.",
+      },
+      {
+        q: "Should we publish survey prices?",
+        a: "A from-price helps for standard residential work. It is what buyers compare and vagueness sends them elsewhere.",
+      },
+      {
+        q: "How do we reach new-build buyers?",
+        a: "By targeting developments as they complete. The cohort all need the same thing at the same time and can be reached as a group.",
+      },
+      {
+        q: "Is commercial work different?",
+        a: "Entirely. Longer cycles, relationship-driven, and better served by direct contact than advertising. Domestic and transaction-led work is where campaigns pay.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["architects", "estate-agents", "builders-and-extensions"],
+  },
+  {
+    slug: "shopfitting",
+    label: "Shopfitting",
+    title: "Shopfitting Leads Ireland | Marketing for Commercial Fit-Out",
+    description:
+      "Lead generation for Irish shopfitting and commercial fit-out contractors. Project-based, relationship-led, and reported in site visits. From €1,500 a month.",
+    h1: "Shopfitting leads from businesses about to open a door.",
+    intro: [
+      "Shopfitting is a project business with long gaps and large numbers. One fit-out can be worth a quarter of a year's turnover, and the enquiries arrive from people who have just signed a lease and suddenly have a deadline they cannot move.",
+      "The difficulty is that they arrive irregularly and from a small pool. A campaign producing forty enquiries a month would be the wrong campaign; four good ones from businesses with funding and a lease would be a strong year.",
+    ],
+    run: [
+      {
+        name: "Lease-trigger campaigns",
+        text: "Aimed at the searches made immediately after a unit is signed, when the deadline is real and the budget exists.",
+      },
+      {
+        name: "Sector-specific campaigns",
+        text: "Pharmacy, hospitality, retail and clinical fit-outs have different requirements, timelines and language.",
+      },
+      {
+        name: "Portfolio as the argument",
+        text: "Completed fit-outs, photographed properly. This is a business where the previous job wins the next one.",
+      },
+      {
+        name: "Qualification before the site visit",
+        text: "Lease status, size, sector and timeline, asked before anybody travels.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, site visits booked and cost per visit.",
+      },
+    ],
+    qualify: [
+      "What type of business is the fit-out for?",
+      "Have you signed the lease?",
+      "Roughly what size is the unit?",
+      "When do you need to open?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Few, large and irregular",
+        body: [
+          "Judging this against a trades benchmark of cost per lead will mislead you. Four enquiries in a month from businesses with signed leases is a good month.",
+          "The number that matters is cost per project won, and against a fit-out worth tens of thousands the affordable acquisition cost is far higher than most contractors assume.",
+        ],
+      },
+      {
+        heading: "The lease is the qualifier",
+        body: [
+          "Somebody browsing ideas for a shop they hope to open is not a project. Somebody who has signed and has a rent clock running is.",
+          "One question in the form separates them, and it is the difference between a diary full of site visits and a diary full of conversations.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "How many enquiries should we expect?",
+        a: "Few, and that is correct. This is a low-volume, high-value business and a campaign producing large numbers is reaching the wrong people.",
+      },
+      {
+        q: "Should we specialise by sector?",
+        a: "It usually helps. Pharmacy, hospitality and clinical fit-outs have specific requirements, and a contractor who clearly knows one is an easier choice than a generalist.",
+      },
+      {
+        q: "Do photographs matter?",
+        a: "Enormously. Completed fit-outs are the whole portfolio and the main reason a client picks one contractor over another.",
+      },
+      {
+        q: "Is tendering worth pursuing?",
+        a: "A different pipeline that marketing barely touches. This is about direct enquiries from businesses choosing a contractor themselves.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["carpentry-and-joinery", "builders-and-extensions", "signage-and-print"],
+  },
+  {
+    slug: "signage-and-print",
+    label: "Signage & print",
+    title: "Signage & Print Leads Ireland | Marketing for Sign Makers",
+    description:
+      "Lead generation for Irish signage, vehicle livery and print businesses. Repeat B2B work with fast turnarounds. From €1,500 a month.",
+    h1: "Signage and print leads that come back.",
+    intro: [
+      "Signage has an advantage almost no other business has: every job is an advertisement that stays up for years. A well-made shopfront or a liveried van is seen by thousands of people, and a proportion of them will need signage eventually.",
+      "The work also repeats in a way most trades do not. A business that gets its van done comes back for the second van, then the shopfront, then the exhibition stand. Winning the first small job matters more than the margin on it suggests.",
+    ],
+    run: [
+      {
+        name: "Vehicle livery campaigns",
+        text: "Usually the entry job, frequently urgent, and the one that leads to everything else.",
+      },
+      {
+        name: "New business campaigns",
+        text: "Businesses that have just registered or signed a lease need signage immediately and have a deadline.",
+      },
+      {
+        name: "Fast-turnaround messaging",
+        text: "Deadlines drive this trade — an opening, an event, a launch. Being able to say how quickly you can deliver wins work outright.",
+      },
+      {
+        name: "Your own work as proof",
+        text: "Photographs of signage in place, in recognisable locations. It is the most credible advertising available to you.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, quotes issued and cost per enquiry.",
+      },
+    ],
+    qualify: [
+      "What type of signage do you need?",
+      "Is this for a vehicle, premises or event?",
+      "Do you have artwork already?",
+      "When do you need it by?",
+    ],
+    proof: [
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "The first job is not the value",
+        body: [
+          "A single van costs a few hundred euro and looks like thin margin. That customer then returns for the second van, the shopfront, the window graphics and the trade show stand.",
+          "Valued across the relationship, the affordable cost of winning a signage customer is far higher than the first invoice suggests, which is why firms that only chase large jobs grow more slowly.",
+        ],
+      },
+      {
+        heading: "Deadlines are the strongest message you have",
+        body: [
+          "Signage is almost always needed by a date — an opening, an event, a launch that has already been announced.",
+          "Turnaround time, stated plainly, wins work that price alone would not. A customer facing an opening in ten days is not shopping around for the cheapest quote.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should we publish prices?",
+        a: "From-prices for standard items like vehicle livery help. Bespoke signage cannot be priced sight unseen and trying to is worse than saying so.",
+      },
+      {
+        q: "Is B2B or consumer the better market?",
+        a: "B2B, clearly. It repeats, the budgets are real and the decisions are quicker. Consumer signage work is occasional and price-driven.",
+      },
+      {
+        q: "How do we reach new businesses?",
+        a: "They search immediately after registering or signing a lease, and they need signage before they open. Those searches are specific, urgent and cheap.",
+      },
+      {
+        q: "Do photographs matter?",
+        a: "Yes — signage installed and in use, in recognisable places. It is more persuasive than anything written and it doubles as proof you work locally.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["shopfitting", "it-support", "skip-hire"],
+  },
+  {
+    slug: "equipment-hire",
+    label: "Equipment hire",
+    title: "Plant & Equipment Hire Leads Ireland | Marketing for Hire Companies",
+    description:
+      "Lead generation for Irish plant and equipment hire businesses. Utilisation is everything, and trade accounts are worth more than any one-off. From €1,500 a month.",
+    h1: "Equipment hire leads that build utilisation, not just bookings.",
+    intro: [
+      "A hire business lives or dies on utilisation. A machine sitting in the yard costs exactly what it cost yesterday and earns nothing, and the difference between a good year and a bad one is a handful of percentage points of fleet uptime.",
+      "That reframes the marketing question entirely. It is not how many enquiries you get; it is whether the specific kit currently idle is what people are being shown.",
+    ],
+    run: [
+      {
+        name: "Availability-led campaigns",
+        text: "Advertising what is actually free, which is a different list every week and almost nobody does it.",
+      },
+      {
+        name: "Trade account campaigns",
+        text: "Builders, landscapers and contractors who hire repeatedly. Worth many times a one-off weekend hire.",
+      },
+      {
+        name: "Item-specific search campaigns",
+        text: "People search for the machine, not for hire in general — mini digger, dumper, scaffold tower, floor sander.",
+      },
+      {
+        name: "Delivery radius clarity",
+        text: "Whether you deliver, how far and what it costs is a decisive question and frequently unanswered.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, bookings and cost per booking, by equipment type.",
+      },
+    ],
+    qualify: [
+      "What equipment do you need?",
+      "How long do you need it for?",
+      "Do you need it delivered?",
+      "Is this for trade or personal use?",
+    ],
+    proof: [
+      { value: "#1", label: "on Google for emergency callouts, Dublin trade" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Advertise the idle kit, not the catalogue",
+        body: [
+          "Most hire companies run one campaign for the business as a whole. That spends the same money promoting the machine that is booked out for a month as the one that has not left the yard in three weeks.",
+          "Pointing budget at what is actually available shifts utilisation, and utilisation is the only number in this business that really matters.",
+        ],
+      },
+      {
+        heading: "Trade accounts are the whole game",
+        body: [
+          "A domestic customer hires a floor sander once. A groundworks contractor hires every week and is not choosing on a few euro once the relationship exists.",
+          "Trade work needs its own campaign and its own message — availability, delivery, account terms and reliability rather than day rate.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should we publish rates?",
+        a: "Day and week rates for standard items, yes. It is what people compare and vagueness costs you the call. Specialist kit can be quoted.",
+      },
+      {
+        q: "Is domestic hire worth it?",
+        a: "It fills gaps and it is price-sensitive. Useful for utilisation, but the trade accounts are what make the business stable.",
+      },
+      {
+        q: "How important is delivery?",
+        a: "Often decisive, particularly for anything a customer cannot move themselves. State the radius and the cost plainly.",
+      },
+      {
+        q: "Is this seasonal?",
+        a: "Yes, tracking construction and garden work — a long busy stretch from spring to autumn and a quieter winter, which is exactly when advertising available kit pays most.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["skip-hire", "builders-and-extensions", "agricultural-contractors"],
+  },
 ];
 
 export const industryBySlug = (slug: string) =>
