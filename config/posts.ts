@@ -1072,6 +1072,515 @@ export const posts: Post[] = [
     ],
     related: ["insulation", "heat-pumps"],
   },
+  {
+    slug: "google-profile-beats-your-website",
+    title: "For most Irish trades, your Google profile matters more than your website",
+    description:
+      "It is free, it takes an afternoon, and for a local trade it will usually produce more calls than a redesign. Most profiles are half-finished.",
+    date: "2026-09-22",
+    minutes: 5,
+    intro:
+      "Spend money on a website before fixing your Google Business Profile and you have built a shop window down a side street. For a local trade the profile is the front door, and almost nobody treats it that way.",
+    sections: [
+    {
+      h: "Where the calls actually come from",
+      p: [
+        "Search for a plumber, an electrician or a garage in any Irish town and the map results occupy the screen. A large share of people choose from that box without ever scrolling to the ordinary results, and a good number tap the call button without visiting any website at all.",
+        "Your website is doing less work than you think. The profile is doing more.",
+      ],
+    },
+    {
+      h: "What a finished profile looks like",
+      p: [
+        "Most were filled in once, on the day they were created, and never touched again. A complete one is unusual enough to be a genuine advantage.",
+      ],
+      list: [
+        "The primary category set correctly — it carries more weight than any other field",
+        "Every service listed as its own entry rather than buried in a paragraph",
+        "A description written around what people search for",
+        "Photographs added regularly, not once in 2021",
+        "Hours that are actually right, bank holidays included",
+        "Posts, even occasionally — a live signal almost nobody uses",
+      ],
+    },
+    {
+      h: "The afternoon that pays for itself",
+      p: [
+        "All of the above is free and takes a few hours. There is no other marketing task available to an Irish trade with that ratio of effort to return.",
+        "Once it is done, everything else works better — including the website, because people who find you on the map and then check your site arrive already half-convinced.",
+      ],
+    },
+    ],
+    related: ["plumbers-and-heating", "electricians", "car-garages"],
+  },
+  {
+    slug: "when-to-advertise-a-landscaping-business",
+    title: "The landscaping year: when to advertise and when to stop",
+    description:
+      "Irish landscaping demand starts in February and the people planning in winter are the ones with budgets. A month-by-month look.",
+    date: "2026-09-22",
+    minutes: 6,
+    intro:
+      "Landscaping has a shorter selling season than almost any trade in Ireland, and the most common mistake is advertising in it. By the time the weather is good, the people with real budgets have already chosen someone.",
+    sections: [
+    {
+      h: "January to February — where the money is decided",
+      p: [
+        "Design-and-build enquiries begin well before anything can be planted. Somebody who wants a garden finished by June is talking to landscapers in February, because they know the good ones book out.",
+        "Advertising here is cheap, uncontested and reaches the people spending the most. It is also the period most firms sit out entirely.",
+      ],
+    },
+    {
+      h: "March to May — the crowded part",
+      p: [
+        "Everyone advertises now. Costs rise, the enquiries get smaller, and a growing share are people who want a lawn tidied rather than a garden built.",
+        "If your book is already filling from the winter campaign, this is the time to shift the message from availability to lead times. Saying you are booking into July is not a deterrent; it is proof.",
+      ],
+    },
+    {
+      h: "June to August — stop selling availability",
+      p: [
+        "Mid-season, most decent firms are full. Advertising availability you do not have irritates callers and wastes budget.",
+        "Better uses: maintenance contracts for next year, and content that gets you found by the people who will start planning in January.",
+      ],
+    },
+    {
+      h: "September to November — the second window",
+      p: [
+        "An underrated period. Autumn planting, hard landscaping that does not need good weather, and people who have spent a summer looking at a garden they dislike.",
+        "Costs are lower than spring and the enquiries are considerably more serious than August's.",
+      ],
+    },
+    {
+      h: "The thing that carries the winter",
+      p: [
+        "Maintenance. It is unglamorous beside a thirty-thousand-euro build, and it is what pays wages in February.",
+        "It also needs entirely separate advertising, because somebody who wants their garden kept tidy is not the same customer as somebody redesigning theirs, and one campaign speaking to both speaks properly to neither.",
+      ],
+    },
+    ],
+    related: ["landscapers", "fencing-and-gates", "tree-surgery"],
+  },
+  {
+    slug: "what-to-photograph-on-a-job",
+    title: "What to photograph on a job, and why it beats anything we could write",
+    description:
+      "Your phone camera is the most valuable marketing tool on the van. A short list of what to capture and what to avoid.",
+    date: "2026-09-22",
+    minutes: 5,
+    intro:
+      "Every agency asks trades for photographs and most get a handful of blurry shots taken at dusk. The gap between that and what actually sells is small, and closing it costs about five minutes a job.",
+    sections: [
+    {
+      h: "Before, during, after — in that order",
+      p: [
+        "The finished shot on its own is worth far less than the pair. A tidy new driveway is pleasant; the same driveway next to the cracked concrete it replaced is persuasive.",
+        "The before photograph takes ten seconds and most people forget it, because at the start of a job nobody is thinking about marketing.",
+      ],
+    },
+    {
+      h: "The shots worth taking",
+      p: [
+        "A short list, and it barely changes by trade.",
+      ],
+      list: [
+        "The before, taken from where the after will be taken",
+        "One wide shot showing the whole finished job in context",
+        "One close shot showing the standard of the finish — an edge, a joint, a consumer unit",
+        "Somebody working, ideally a face. People hire people",
+        "The van or a branded item somewhere in one frame, without making it an advert",
+      ],
+    },
+    {
+      h: "What ruins a good photograph",
+      p: [
+        "Poor light, mostly. A job photographed at four in December is unusable; the same job at midday is fine.",
+        "Clutter is the other one. Tools, bags, cones and a wheelbarrow in shot make good work look unfinished. Thirty seconds of tidying changes the picture entirely.",
+      ],
+    },
+    {
+      h: "Why this outranks the copy",
+      p: [
+        "Anybody can claim to do good work. A photograph of a genuinely tidy finish in a recognisable estate is evidence, and it is the one asset a competitor cannot copy.",
+        "It is also why stock photography actively hurts — people recognise it, and it reads as a business with nothing of its own to show.",
+      ],
+    },
+    ],
+    related: ["driveways-and-paving", "plastering", "tilers"],
+  },
+  {
+    slug: "should-a-tiler-quote-per-square-metre",
+    title: "Should a tiler quote a rate in their advertising?",
+    description:
+      "Publishing a per-metre rate filters hard and costs you enquiries. For most Irish tilers that is the right trade, but not always.",
+    date: "2026-09-22",
+    minutes: 4,
+    intro:
+      "This comes up with every tiler, plasterer and flooring contractor we work with, and the answer is not universal. Publishing a rate changes who contacts you, which is the whole point and also the risk.",
+    sections: [
+    {
+      h: "The case for putting it up",
+      p: [
+        "Price is what people are trying to establish, and they will establish it one way or another — by ringing you, or by ringing somebody who published it.",
+        "A stated rate removes the enquiries that were never going to proceed, and it means the calls you do take start from an agreed basis rather than a negotiation.",
+      ],
+    },
+    {
+      h: "The case against",
+      p: [
+        "A rate invites comparison against work that is not comparable. Somebody quoting considerably less may be quoting for worse preparation, cheaper adhesive and no guarantee, and the homeowner cannot tell.",
+        "It also caps you. If a job is awkward, or the substrate is poor, a published rate is the number you will be held to.",
+      ],
+    },
+    {
+      h: "What usually resolves it",
+      p: [
+        "A from-price rather than a flat rate, paired with one sentence about what is included. It anchors the conversation without committing you to a figure on a job you have not seen.",
+        "The firms that suffer are the ones publishing a bare number with no context, because they are then competing purely on it.",
+      ],
+    },
+    {
+      h: "The exception",
+      p: [
+        "If you deliberately work at the higher end — large-format, wetrooms, complicated substrates — a published rate can cost you the enquiries you actually want, because it makes the conversation about price before it is about capability.",
+        "In that case, show the work instead and let the photographs do the qualifying.",
+      ],
+    },
+    ],
+    related: ["tilers", "flooring", "plastering"],
+  },
+  {
+    slug: "estate-agents-losing-instructions",
+    title: "Why estate agents lose instructions they had already won",
+    description:
+      "Most lost instructions are not lost at the valuation. They are lost in the week afterwards, and it is usually a follow-up problem rather than a fee problem.",
+    date: "2026-09-22",
+    minutes: 5,
+    intro:
+      "Agents tend to analyse lost instructions at the point of decision — the fee, the valuation figure, the competing agent. In our experience the decision was frequently made before any of that, in the gap between the appraisal and the follow-up.",
+    sections: [
+    {
+      h: "The week that decides it",
+      p: [
+        "A vendor who has had three agents through the door in a fortnight is comparing them on very little. All three said a number, all three sounded confident.",
+        "What separates them is what arrives afterwards and how quickly. The agent whose written appraisal lands the same evening, with the comparables attached and the next step spelled out, is remembered. The one who sends it on Thursday is not.",
+      ],
+    },
+    {
+      h: "Fee is rarely the real reason",
+      p: [
+        "Vendors say fee because it is a comfortable answer that does not require criticising anybody. It is occasionally true.",
+        "More often the vendor went with the agent who felt most likely to actually sell the house, and speed of response is the clearest available signal of that before any work has been done.",
+      ],
+    },
+    {
+      h: "What to fix first",
+      p: [
+        "Time from appraisal to written follow-up. Measure it honestly for a month. If it is more than a day, that is your highest-value fix and it costs nothing.",
+        "Then the content of it: comparables, a marketing plan specific to that house, and a clear next step rather than a figure and a fee schedule.",
+      ],
+    },
+    {
+      h: "Where marketing comes in",
+      p: [
+        "Advertising generates appraisals; it cannot win instructions. If half your appraisals are going elsewhere, spending more on lead generation makes the leak bigger rather than smaller.",
+        "Fix the follow-up first. Then the same spend produces roughly twice the instructions, which is a cheaper improvement than doubling the budget.",
+      ],
+    },
+    ],
+    related: ["estate-agents"],
+  },
+  {
+    slug: "filling-a-quiet-tuesday-salon",
+    title: "How a salon or clinic should fill a quiet Tuesday",
+    description:
+      "An empty chair is revenue that cannot be recovered later. Blanket discounting is the expensive way to fix it, and there are cheaper ones.",
+    date: "2026-09-22",
+    minutes: 5,
+    intro:
+      "Saturdays sell themselves. The problem in almost every Irish salon, barbers and treatment clinic is the middle of the week, and the standard response — a discount across the board — usually costs more than the gap it fills.",
+    sections: [
+    {
+      h: "Why a general discount loses money",
+      p: [
+        "A twenty percent offer available all week is largely taken up by people who were going to book at full price anyway, most of them at the weekend. You have discounted your busiest day to fill your quietest.",
+        "The gap on Tuesday remains, and you have paid for the privilege.",
+      ],
+    },
+    {
+      h: "Make the offer specific to the gap",
+      p: [
+        "The same twenty percent, available only between eleven and three on Tuesday and Wednesday, does something completely different. It reaches the people whose schedules are flexible — retired clients, shift workers, parents during school hours, people working from home.",
+        "Those clients are frequently loyal and often become regular midweek bookings, which fixes the problem permanently rather than once.",
+      ],
+    },
+    {
+      h: "Then use the list you already have",
+      p: [
+        "Most salons have hundreds of past clients and contact none of them. A message to people who have not been in for three months, offering a midweek slot, costs nothing and routinely outperforms paid advertising.",
+        "It is also the fastest thing on this list to do — it can be done this afternoon.",
+      ],
+    },
+    {
+      h: "The structural fix",
+      p: [
+        "Rebooking in the chair before the client leaves. It is not marketing and it does more for midweek occupancy than any campaign.",
+        "Clinics and salons that make it standard practice rather than an occasional afterthought see the quiet hours fill on their own within a couple of cycles.",
+      ],
+    },
+    ],
+    related: ["skin-clinics", "med-spas", "physiotherapy"],
+  },
+  {
+    slug: "lead-versus-enquiry",
+    title: "A lead and an enquiry are not the same thing, and confusing them costs money",
+    description:
+      "Two words used interchangeably across Irish marketing, describing two different things with different values. The distinction decides what you should pay.",
+    date: "2026-09-22",
+    minutes: 4,
+    intro:
+      "Agencies and clients routinely use these words to mean whatever suits the conversation. That vagueness is where a great deal of money goes missing, because the two things have wildly different values.",
+    sections: [
+    {
+      h: "The distinction",
+      p: [
+        "An enquiry is somebody making contact. A lead, properly used, is somebody making contact who is plausibly able to buy what you sell.",
+        "A form filled in by a person outside your area, wanting a service you do not offer, at a budget a fifth of your minimum, is an enquiry. It is not a lead, and reporting it as one makes a campaign look twice as good as it is.",
+      ],
+    },
+    {
+      h: "Why it matters for what you pay",
+      p: [
+        "A report saying forty leads at twelve euro sounds excellent. If half were out of area and a third were the wrong job, you have thirteen real opportunities at roughly thirty-seven euro.",
+        "Neither number is wrong. Only one of them lets you decide anything.",
+      ],
+    },
+    {
+      h: "What to insist on",
+      p: [
+        "Ask for the count of enquiries you could actually serve, and the cost of those. Any agency reporting raw form fills without that breakdown is either not looking or would rather you did not.",
+        "It is also the number that lets you compare two channels honestly, which is usually when the comparison becomes uncomfortable for whichever one was producing volume.",
+      ],
+    },
+    ],
+    related: ["roofers", "kitchens", "insurance-brokers"],
+  },
+  {
+    slug: "what-vets-should-advertise",
+    title: "What a veterinary practice should advertise, and it is not services",
+    description:
+      "Most practice marketing promotes vaccinations and dental month. The practices that grow advertise something else entirely.",
+    date: "2026-09-22",
+    minutes: 5,
+    intro:
+      "Look at almost any Irish veterinary practice's advertising and you will find individual services being promoted like items in a shop. It treats a relationship business as a transactional one, and it leaves most of the value on the table.",
+    sections: [
+    {
+      h: "What a client is worth",
+      p: [
+        "A registered client is not one consultation. It is years of vaccinations, check-ups, dental work, and the occasional expensive episode — for one animal, and frequently for several across a family's lifetime.",
+        "Once that figure is worked out properly, what you can afford to spend attracting one changes completely, and almost always upwards.",
+      ],
+    },
+    {
+      h: "The two moments people choose a vet",
+      p: [
+        "Almost nobody switches practice on a whim. The choice gets made twice: when a new animal arrives, and when somebody moves house.",
+        "Outside those windows, loyalty is high and advertising largely bounces off — which is why general awareness campaigns for practices tend to disappoint.",
+      ],
+    },
+    {
+      h: "Where the registrations actually come from",
+      p: [
+        "Breeders, rescues, groomers and trainers, who are talking to new owners at exactly the moment the decision is being made.",
+        "Those relationships outperform advertising by a wide margin and cost nothing but time. Targeting recent movers covers the other window.",
+      ],
+    },
+    {
+      h: "The one thing worth saying plainly",
+      p: [
+        "Out-of-hours arrangements. It is among the most common reasons people leave a practice, and among the least clearly communicated.",
+        "Saying exactly what you cover and what happens at three in the morning builds more trust than any offer, and it prevents the worst kind of complaint — the one from somebody who assumed.",
+      ],
+    },
+    ],
+    related: ["veterinary"],
+  },
+  {
+    slug: "damp-proofing-trust-problem",
+    title: "Damp proofing has a trust problem. Use it.",
+    description:
+      "Plenty of Irish homeowners have heard of someone sold a chemical course they did not need. Naming that directly converts better than pretending it does not exist.",
+    date: "2026-09-22",
+    minutes: 5,
+    intro:
+      "Almost every homeowner considering damp work has heard a story — a neighbour, a relative, a programme on the television — about somebody sold an expensive treatment for a problem that turned out to be condensation. That scepticism is in the room before you arrive.",
+    sections: [
+    {
+      h: "Diagnosis is the product, not the cure",
+      p: [
+        "A homeowner with a stain spreading on a bedroom wall does not know whether they have rising damp, penetrating damp or condensation. Those have different causes, different fixes and very different prices.",
+        "Advertising a survey that establishes which is happening is both more honest and more effective than advertising a treatment, because it answers the question actually being asked.",
+      ],
+    },
+    {
+      h: "Say the thing your competitors will not",
+      p: [
+        "Tell people plainly that a significant proportion of damp complaints turn out to be condensation and ventilation, which is cheaper to fix and does not need a chemical course.",
+        "It costs you some jobs. It wins more, because it is the single clearest signal that you are not the kind of firm the stories are about.",
+      ],
+    },
+    {
+      h: "The survey fee question",
+      p: [
+        "Free surveys lift enquiry volume sharply and fill the diary with ventilation problems in houses an hour away.",
+        "A modest fee, refunded against any work, filters hard and signals that the survey has value. Most established firms in this trade end up there.",
+      ],
+    },
+    {
+      h: "The work nobody advertises for",
+      p: [
+        "Pre-purchase damp reports for people buying older houses. Quick, well-priced, low-risk, and a steady stream of them exists in every town.",
+        "Almost no firm advertises for it, which makes it about as uncontested as work gets in this trade.",
+      ],
+    },
+    ],
+    related: ["damp-proofing", "drainage"],
+  },
+  {
+    slug: "when-to-stop-advertising",
+    title: "When to stop advertising",
+    description:
+      "Running campaigns while you are booked out damages your reputation and wastes money. Knowing when to pause is part of doing this properly.",
+    date: "2026-09-22",
+    minutes: 4,
+    intro:
+      "Agencies rarely raise this because it reduces their own numbers. But there are situations where the correct advice is to turn the campaign off, and a trade that never pauses is usually burning money and goodwill at the same time.",
+    sections: [
+    {
+      h: "When the diary is genuinely full",
+      p: [
+        "Advertising work you cannot start for two months produces frustrated callers who ring somebody else and remember that you wasted their time.",
+        "If you are booked out, either pause or change the message to lead times. The second is better — saying you are booking into November is credible, and it holds the people willing to wait.",
+      ],
+    },
+    {
+      h: "When you cannot answer the phone",
+      p: [
+        "A campaign generating calls nobody picks up is the most expensive thing in small business marketing. Every unanswered call is a lead paid for and given away.",
+        "If you are on the tools all day with no one on the phone, fix that before adding budget. It is not a marketing problem and no campaign solves it.",
+      ],
+    },
+    {
+      h: "When the season is wrong",
+      p: [
+        "Stoves in June. Exterior painting in December. Landscaping availability in August when you are full.",
+        "Spreading budget evenly across a year feels prudent and is usually the opposite, because it overspends in the months nobody is buying.",
+      ],
+    },
+    {
+      h: "When it has not been given a chance",
+      p: [
+        "The opposite error, and more common. A campaign switched off after ten days has not finished learning and has told you nothing.",
+        "A month is the minimum before any judgement is worth making. Turning things off early and calling it a test is how most businesses conclude that advertising does not work for them.",
+      ],
+    },
+    ],
+    related: ["landscapers", "stoves-and-fireplaces", "painters-and-decorators"],
+  },
+  {
+    slug: "first-ten-minutes-after-an-enquiry",
+    title: "What happens in the first ten minutes after an enquiry decides whether you win it",
+    description:
+      "Speed of response is the cheapest competitive advantage available to an Irish trade, and most are losing on it without knowing.",
+    date: "2026-09-22",
+    minutes: 5,
+    intro:
+      "Two businesses with identical advertising, identical pricing and identical quality will produce very different results if one answers in five minutes and the other in five hours. It is the least glamorous factor in lead generation and among the most decisive.",
+    sections: [
+    {
+      h: "What the customer is doing while you wait",
+      p: [
+        "They filled in three forms, not one. Whoever responds first is the one they speak to while the problem is still front of mind.",
+        "By the time a second firm calls back the following morning, the conversation has usually moved on — and the caller now has a quote to compare yours against rather than an open question.",
+      ],
+    },
+    {
+      h: "It matters most exactly where trades are weakest",
+      p: [
+        "The enquiries that reward speed most are the urgent ones — leaks, faults, blockages, lockouts. Those are also the ones that arrive while you are on the tools with your hands full.",
+        "That conflict is the real problem, and it is not solved by wanting to answer faster.",
+      ],
+    },
+    {
+      h: "What actually fixes it",
+      p: [
+        "Something between the enquiry and you, so nothing waits.",
+      ],
+      list: [
+        "An automatic text acknowledging the enquiry and saying when you will ring — cheap, and it buys an hour of goodwill",
+        "A call-answering service for the hours you are genuinely unreachable, which costs far less than the leads currently going unanswered",
+        "WhatsApp as an option, because a great many people would rather type than ring and will answer a message at eight in the evening",
+      ],
+    },
+    {
+      h: "Measure it before you spend more",
+      p: [
+        "Take one month and record the gap between every enquiry arriving and somebody making contact. Most trades are surprised, and not pleasantly.",
+        "If the average is hours, no increase in advertising budget will help. You would simply be buying more of what you are already failing to answer.",
+      ],
+    },
+    ],
+    related: ["plumbers-and-heating", "drainage", "electricians"],
+  },
+  {
+    slug: "facebook-ads-didnt-work-for-us",
+    title: "“We tried Facebook ads and they didn’t work” is usually true. Here is why.",
+    description:
+      "Almost every Irish business that says this is telling the truth. The reasons are consistent and none of them are that the platform does not work.",
+    date: "2026-09-22",
+    minutes: 6,
+    intro:
+      "This is the most common sentence we hear on a first call, and it is almost always accurate — the campaign genuinely did not work. What did not happen is anybody establishing why. Four causes account for nearly all of it.",
+    sections: [
+    {
+      h: "It was switched off too early",
+      p: [
+        "A campaign needs a number of conversions before the platform can find more of the right people. Below roughly thirty results a month it never gets there, and what you are looking at is noise rather than performance.",
+        "Two weeks and a hundred euro is not a test. It is an expensive way to learn nothing, and it is the single most common version of this story.",
+      ],
+    },
+    {
+      h: "The form asked nothing",
+      p: [
+        "A lead form requesting a name and a phone number is effortless to complete, which is exactly the problem. People fill it in idly and do not answer the call.",
+        "Adding two qualifying questions typically halves the leads and multiplies the ones worth ringing. Most businesses experience the first half of that and conclude the platform is broken.",
+      ],
+    },
+    {
+      h: "It sent traffic somewhere that could not convert",
+      p: [
+        "The ad did its job and delivered somebody to a slow page with the phone number in the footer and no obvious next step.",
+        "The campaign gets blamed because it is the thing with a number attached, but nothing was wrong upstream of the landing page.",
+      ],
+    },
+    {
+      h: "It was the wrong channel for that business",
+      p: [
+        "If your customer only needs you at the moment something breaks, social is a poor fit and search is the answer. Nobody scrolls Instagram deciding what to do about a blocked drain.",
+        "For those trades, the honest conclusion is that Facebook was never going to work, and an agency that sold it anyway was selling what it had rather than what you needed.",
+      ],
+    },
+    {
+      h: "How to tell which one it was",
+      p: [
+        "Look at three numbers from the old campaign: how long it ran, how many results it produced in total, and what proportion of those you could actually serve.",
+        "Those three answers identify the cause almost every time, and they also tell you whether it is worth trying again.",
+      ],
+    },
+    ],
+    related: ["roofers", "kitchens", "gyms-and-fitness"],
+  },
 ];
 
 export const postBySlug = (slug: string) => posts.find((p) => p.slug === slug);
