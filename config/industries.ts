@@ -1738,6 +1738,1095 @@ export const industries: Industry[] = [
     ],
     related: ["estate-agents", "med-spas", "skin-clinics"],
   },
+  {
+    slug: "insulation",
+    label: "Insulation",
+    title: "Insulation Leads Ireland | Marketing for Insulation Contractors",
+    description:
+      "Lead generation for Irish insulation contractors: attic, cavity wall, external wall and SEAI grant work. Reported in booked surveys. From €1,500 a month.",
+    h1: "Insulation leads from homes that qualify for the grant.",
+    intro: [
+      "Insulation in Ireland is a grant business before it is a building business. Most homeowners start from the SEAI grant rather than from the insulation, and the firms that win the work are the ones that answer the grant question first and the technical question second.",
+      "The catch is that grant eligibility depends on the house — its age, its construction, its BER, whether previous work has been done. An enquiry from a house that does not qualify costs you a survey and produces nothing, so the filtering has to happen in the form.",
+    ],
+    run: [
+      {
+        name: "Grant-led campaigns",
+        text: "SEAI eligibility and amounts handled in the advertising, because that is what people search and what most contractors bury three pages deep.",
+      },
+      {
+        name: "Eligibility filtering",
+        text: "House age, construction type and previous work asked before the enquiry reaches you, so surveys go to homes that can actually proceed.",
+      },
+      {
+        name: "Attic, cavity and external split",
+        text: "Three different jobs at three different price points. Run as one campaign the cheapest swamps the others.",
+      },
+      {
+        name: "Cold-weather budget weighting",
+        text: "Enquiries rise sharply with the first genuine cold spell. Budget follows the temperature rather than sitting flat.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, surveys booked and cost per survey.",
+      },
+    ],
+    qualify: [
+      "What age is the property?",
+      "What type of insulation are you after?",
+      "Do you know your BER rating?",
+      "Has any insulation work been done before?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    faqs: [
+      {
+        q: "Should we lead with the grant amount?",
+        a: "Yes, because it is what people search for — but only if it is accurate for the work you actually do. Overstating a grant produces enquiries that collapse at survey and damages your name locally.",
+      },
+      {
+        q: "How do we stop surveying houses that do not qualify?",
+        a: "By asking about age, construction and previous work in the form. It reduces raw enquiry count and raises the share worth visiting, which is the trade you want.",
+      },
+      {
+        q: "Is this seasonal?",
+        a: "Strongly. Demand tracks the weather and the heating bill almost exactly, with a hard rise from October. We weight budget to that rather than spreading it evenly.",
+      },
+      {
+        q: "Does this work alongside heat pumps and solar?",
+        a: "Well. The audiences overlap heavily and insulation is frequently a prerequisite for the others, so they often run as linked campaigns.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    sections: [
+      {
+        heading: "The grant is the product, whether you like it or not",
+        body: [
+          "Homeowners do not go looking for insulation. They go looking for a warmer house and a smaller bill, discover there is a grant, and only then start ringing contractors. By the time you speak to them they have usually read three SEAI pages and half understood them.",
+          "That means your first job is clarification rather than persuasion. Contractors who explain plainly which grant applies to which work, what the homeowner pays up front and what comes back, close a far higher proportion of surveys than those who lead with U-values.",
+        ],
+      },
+      {
+        heading: "Why one-stop-shop changed the competitive picture",
+        body: [
+          "The registered one-stop-shop route reshaped this market. A homeowner doing a deeper retrofit can have the whole thing project-managed, which is attractive and takes work away from single-measure contractors who used to get it.",
+          "If you are not on that route, the answer is not to compete with it on scope. It is to be unmistakably the fastest and simplest option for the single measure someone actually wants today — attic insulation next month rather than a full retrofit next year.",
+        ],
+      },
+    ],
+    related: ["heat-pumps", "solar-installers", "windows-and-doors"],
+  },
+  {
+    slug: "plastering",
+    label: "Plastering",
+    title: "Plastering Leads Ireland | Marketing for Plasterers",
+    description:
+      "Lead generation for Irish plasterers and skimming contractors: direct homeowner work rather than subcontract rates. Reported in booked jobs. From €1,500 a month.",
+    h1: "Plastering leads direct from homeowners, not through a builder.",
+    intro: [
+      "Most plasterers work through builders and take a subcontract rate for it. The work is steady, the margin is thin, and it vanishes the moment the main contractor finds someone cheaper or the site finishes.",
+      "Direct homeowner work pays materially better and belongs to you. The reason most plasterers never get it is that they have no visible presence of their own — and because almost nobody in the trade advertises, the ones who do compete against two or three others rather than twenty.",
+    ],
+    run: [
+      {
+        name: "Direct homeowner campaigns",
+        text: "Google Ads on plasterer, skimming and re-skim searches in your area — the enquiries that come to you rather than through a contractor.",
+      },
+      {
+        name: "Finished-work creative",
+        text: "Plastering photographs badly in progress and beautifully when finished. The campaign is built from your own completed rooms.",
+      },
+      {
+        name: "External rendering as its own campaign",
+        text: "Higher value, different buyer, different season. Advertised separately so it is not priced against interior skimming.",
+      },
+      {
+        name: "Job-size qualification",
+        text: "Room count or square metres asked before the enquiry reaches you, so you can price before you travel.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, cost per enquiry and job type.",
+      },
+    ],
+    qualify: [
+      "Is this interior skimming or external rendering?",
+      "How many rooms, or roughly what area?",
+      "Is it new work or a repair?",
+      "When do you need it done?",
+    ],
+    proof: [
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    faqs: [
+      {
+        q: "Is there enough direct demand?",
+        a: "In most areas yes, and it is under-contested because so few plasterers advertise at all. You are usually up against two or three others rather than a crowded market.",
+      },
+      {
+        q: "Should we quote a rate in the ads?",
+        a: "Usually yes, per room or per square metre. It filters hard and stops you being compared against someone quoting for a completely different standard of finish.",
+      },
+      {
+        q: "Can we keep the contractor work too?",
+        a: "Of course. The point is not to replace it but to stop it being your only source, so a quiet month from one builder does not empty the diary.",
+      },
+      {
+        q: "Do you need photographs?",
+        a: "Yes — finished rooms in good light. This is a trade where the photograph does most of the selling.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    sections: [
+      {
+        heading: "Why plasterers are invisible online",
+        body: [
+          "Search for a plasterer in most Irish towns and you will find directory listings, a few Facebook pages and almost no proper websites. The trade has essentially opted out of being findable, which is why the few who do turn up take a disproportionate share of the direct work.",
+          "It also means the bar is low. A single page with real photographs, a phone number and a handful of reviews will frequently outrank established firms who have never thought about it.",
+        ],
+      },
+      {
+        heading: "Re-skims are the volume, renders are the margin",
+        body: [
+          "Interior re-skimming is steady, competitive and priced by the room. External rendering and insulated render systems are worth several times as much per job, are far less contested, and increasingly come with grant funding attached.",
+          "Most plasterers advertise the first and mention the second at the bottom of a list. Splitting them into separate campaigns usually reveals that the render work is carrying the business and deserves most of the budget.",
+        ],
+      },
+    ],
+    related: ["painters-and-decorators", "builders-and-extensions", "tilers"],
+  },
+  {
+    slug: "stoves-and-fireplaces",
+    label: "Stoves & fireplaces",
+    title: "Stove & Fireplace Leads Ireland | Marketing for Installers",
+    description:
+      "Lead generation for Irish stove and fireplace showrooms and installers. Campaigns timed to the heating season and reported in booked surveys. From €1,500 a month.",
+    h1: "Stove and fireplace leads, timed to the season that sells them.",
+    intro: [
+      "Stoves sell on a curve so predictable you can plan a year around it. Enquiries rise with the first genuine cold week, peak through October and November, and fall off a cliff in spring. A firm advertising evenly across the year spends half its budget in months when almost nobody is buying.",
+      "The other thing that decides this trade is the survey. Flue type, chimney condition, room size and regulations all have to be checked, and a firm that answers those questions in the advertising gets enquiries that are already halfway to a sale.",
+    ],
+    run: [
+      {
+        name: "Season-weighted campaigns",
+        text: "Budget concentrated into the weeks when people actually buy, rather than spread flat across a year.",
+      },
+      {
+        name: "Showroom visit campaigns",
+        text: "For most installers the showroom visit is the real conversion event, and the campaign should optimise for it rather than for a form fill.",
+      },
+      {
+        name: "Regulation and flue content",
+        text: "Chimney condition, liners and clearances explained up front so enquiries arrive informed and surveys are not wasted.",
+      },
+      {
+        name: "Installed-work creative",
+        text: "Finished installations in real rooms. Stoves are bought on how the finished corner looks, not on output ratings.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, surveys or showroom visits booked, and cost per booked visit.",
+      },
+    ],
+    qualify: [
+      "Do you have an existing chimney or flue?",
+      "What size is the room?",
+      "Are you after a stove, an insert or an open fire?",
+      "When are you hoping to have it installed?",
+    ],
+    proof: [
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    faqs: [
+      {
+        q: "How seasonal is it really?",
+        a: "Severely. A large share of the year's enquiries arrive between late September and December. We hold budget back for that rather than spending it in June.",
+      },
+      {
+        q: "Should we advertise in summer at all?",
+        a: "At a low level, for the people planning ahead and for installation slots — lead times are a genuine selling point in a trade where everyone leaves it until it is cold.",
+      },
+      {
+        q: "Do you need photographs?",
+        a: "Yes, and installed shots in furnished rooms work far better than product images. The buyer is imagining their own sitting room.",
+      },
+      {
+        q: "How do we avoid pointless surveys?",
+        a: "Ask about the existing chimney or flue and the room in the form. It is the single biggest predictor of whether a job is straightforward.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    sections: [
+      {
+        heading: "Regulations are a selling point, not a chore",
+        body: [
+          "Flue liners, hearth requirements, air supply, clearances to combustibles — most homeowners know none of it and are quietly worried about getting it wrong. Firms treat this as paperwork and hide it.",
+          "Put it in the advertising instead. A page that explains plainly what a compliant installation requires positions you as the safe choice, and filters out the people who were going to buy a stove online and ask a handyman to fit it.",
+        ],
+      },
+      {
+        heading: "The two-month window that decides the year",
+        body: [
+          "Late September to the end of November is when this trade makes its money. Enquiries in that window convert faster and negotiate less, because people want it working before Christmas.",
+          "The practical consequence is that lead times become your strongest message from about mid-October. Saying you are booking into January is not bad news — it is proof you are busy, and it moves people who were going to think about it for another fortnight.",
+        ],
+      },
+    ],
+    related: ["plumbers-and-heating", "heat-pumps", "builders-and-extensions"],
+  },
+  {
+    slug: "sunrooms-and-conservatories",
+    label: "Sunrooms & conservatories",
+    title: "Sunroom & Conservatory Leads Ireland | Marketing for Installers",
+    description:
+      "Lead generation for Irish sunroom, conservatory and garden room extension installers. Photograph-led campaigns reported in booked home visits. From €1,500 a month.",
+    h1: "Sunroom and conservatory leads from people ready to spend.",
+    intro: [
+      "A sunroom is sold on a photograph and bought after months of thinking. Somebody sees a finished room attached to a house like theirs, pictures their own back wall, and starts costing it up. That makes this an unusually good fit for paid social and a poor one for text-only search advertising.",
+      "It is also a substantial purchase in a market where people have been told horror stories about cold, unusable conservatories. Addressing that directly — insulation, glazing, whether the room is genuinely usable in January — converts far better than another photograph of a sunny afternoon.",
+    ],
+    run: [
+      {
+        name: "Photograph-led social campaigns",
+        text: "Built from your own finished rooms, because the image is the entire argument in this trade.",
+      },
+      {
+        name: "The year-round usability angle",
+        text: "The objection everyone has and almost nobody answers in their advertising. Handling it up front removes the main reason people stall.",
+      },
+      {
+        name: "Search campaigns for the costed-up",
+        text: "Google Ads on sunroom, conservatory and orangery searches, for people already pricing it.",
+      },
+      {
+        name: "Home visit as the conversion event",
+        text: "The campaign optimises for a booked visit rather than a form fill, because that is the step that leads to a sale.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, home visits booked and cost per visit.",
+      },
+    ],
+    qualify: [
+      "What size room are you thinking of?",
+      "Is this replacing an existing conservatory?",
+      "Do you have a budget in mind?",
+      "When would you want it built?",
+    ],
+    proof: [
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    faqs: [
+      {
+        q: "Is social better than search here?",
+        a: "Usually yes. Plenty of people do not know they want one until they see it, and that is scrolling behaviour rather than searching. We still run search for those already costing it up.",
+      },
+      {
+        q: "Should we publish prices?",
+        a: "A from-price generally helps. Sunrooms have a wide range and hiding it produces enquiries from people who were never in the market.",
+      },
+      {
+        q: "How do we handle the cold conservatory objection?",
+        a: "Head on. It is the single most common reason people hesitate, and a firm that explains glazing and insulation plainly separates itself from everyone showing sunny photographs.",
+      },
+      {
+        q: "Is it seasonal?",
+        a: "Enquiries concentrate in spring and early summer, with a second smaller run in autumn from people planning for next year. Budget follows that.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    sections: [
+      {
+        heading: "The cold conservatory problem is your biggest asset",
+        body: [
+          "An enormous number of Irish houses have a conservatory nobody uses between October and April. Those owners are not lost customers — they are the warmest market you have, because they already wanted the room and know exactly why they stopped using it.",
+          "Replacement roofs, insulated upgrades and full rebuilds aimed at existing conservatory owners are considerably easier to sell than a new build to somebody starting from nothing, and almost nobody advertises for them specifically.",
+        ],
+      },
+      {
+        heading: "Planning exemption is the question behind every enquiry",
+        body: [
+          "Most homeowners are unsure whether they need permission, and uncertainty is what makes people postpone. The exemption rules in Ireland are reasonably generous for a rear extension of modest size, but almost nobody knows the detail.",
+          "Answering it clearly on the page removes the single biggest reason enquiries go quiet after the first conversation.",
+        ],
+      },
+    ],
+    related: ["garden-rooms", "builders-and-extensions", "windows-and-doors"],
+  },
+  {
+    slug: "security-and-alarms",
+    label: "Security & alarms",
+    title: "Alarm & CCTV Leads Ireland | Marketing for Security Installers",
+    description:
+      "Lead generation for Irish alarm, CCTV and access control installers, domestic and commercial. Reported in booked surveys. From €1,500 a month.",
+    h1: "Alarm and CCTV leads, domestic and commercial.",
+    intro: [
+      "Security is bought after something happens. A break-in on the road, a spate in the estate, a story in the local paper — and for about a fortnight afterwards an entire area is in the market at once. The rest of the time demand is steady and low.",
+      "That makes reactive capability worth more in this trade than in almost any other. A campaign that can be turned up within a day of a local incident reaches people with the highest intent they will ever have, and at a cost per enquiry a fraction of the usual.",
+    ],
+    run: [
+      {
+        name: "Local reactive campaigns",
+        text: "Prepared in advance and paused, ready to lift within a day when incidents concentrate in an area.",
+      },
+      {
+        name: "Commercial as a separate campaign",
+        text: "Business alarms, CCTV and access control are worth several times a domestic install and the buyer is completely different. Running both in one campaign drags cost per enquiry the wrong way.",
+      },
+      {
+        name: "Monitoring and contract messaging",
+        text: "The recurring revenue behind the install, which most installers under-sell in their advertising.",
+      },
+      {
+        name: "Survey qualification",
+        text: "Property type, size and whether a system already exists, asked before the enquiry reaches you.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, surveys booked and cost per survey, split domestic and commercial.",
+      },
+    ],
+    qualify: [
+      "Is this for a home or a business?",
+      "Do you have a system already?",
+      "Alarm, CCTV, or both?",
+      "When are you looking to have it installed?",
+    ],
+    proof: [
+      { value: "#1", label: "on Google for emergency callouts, Dublin trade" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    faqs: [
+      {
+        q: "Is reacting to local break-ins appropriate?",
+        a: "It is, if it is done with restraint. Offering security to an area that has just had incidents is a legitimate service. Using fear or naming specific crimes is neither decent nor effective, and we will not write it.",
+      },
+      {
+        q: "Is commercial worth chasing?",
+        a: "For most installers, yes. The jobs are larger, the buyer is less price-sensitive and monitoring contracts follow. It needs its own campaign and its own language.",
+      },
+      {
+        q: "Should we advertise monitoring?",
+        a: "Yes, because it is the recurring revenue that makes the business valuable — but as a benefit rather than an upsell buried at quote stage.",
+      },
+      {
+        q: "How fast can a campaign react?",
+        a: "Within a day if it is built in advance and paused. Building one from scratch during a local spike means missing the fortnight that mattered.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    sections: [
+      {
+        heading: "Monitoring is the business, installation is the entry",
+        body: [
+          "An alarm install is a one-off with a modest margin. A monitoring contract is recurring revenue that makes the business worth something when you come to sell it, and it is what separates installers who grow from installers who stay busy.",
+          "Advertising should reflect that. The install is what people search for; the monitoring is what you want them to choose. Leading with monitoring loses the enquiry, and never mentioning it until quote stage loses the contract.",
+        ],
+      },
+      {
+        heading: "Commercial work runs on a completely different clock",
+        body: [
+          "Domestic security is bought reactively, usually within a fortnight of something happening locally. Commercial security is bought on renewal, on insurance requirements, on a new premises or on a compliance deadline — predictable, planned and far less emotional.",
+          "That difference is why they cannot share a campaign. The domestic one needs to be able to spike within a day; the commercial one needs to be consistently present for a much longer decision.",
+        ],
+      },
+    ],
+    related: ["electricians", "drainage", "builders-and-extensions"],
+  },
+  {
+    slug: "tree-surgery",
+    label: "Tree surgery",
+    title: "Tree Surgery Leads Ireland | Marketing for Arborists",
+    description:
+      "Lead generation for Irish tree surgeons and arborists: felling, pruning, storm damage and stump removal. Reported in booked jobs. From €1,500 a month.",
+    h1: "Tree surgery leads, including the week after a storm.",
+    intro: [
+      "Tree work has two demand patterns and one of them is worth building for. The steady one runs through autumn and winter, when leaves are down and people can see what needs doing. The other arrives without warning: a storm goes through and an entire county needs the same urgent work in the same three days, from people who are not comparing quotes.",
+      "Storm weeks are the highest-intent, least price-sensitive enquiries an arborist ever sees. Capturing them requires a campaign already built and paused, because building one during the spike means missing it.",
+    ],
+    run: [
+      {
+        name: "Storm-response campaigns",
+        text: "Prepared in advance, switched on within hours when weather hits, so you are visible during the days that matter.",
+      },
+      {
+        name: "Seasonal pruning and felling campaigns",
+        text: "The steady autumn and winter work that fills the diary between events.",
+      },
+      {
+        name: "Commercial and estate campaigns",
+        text: "Councils, management companies, farms and estates — larger, repeating work that most arborists never advertise for.",
+      },
+      {
+        name: "Access and size qualification",
+        text: "Tree size, access and whether it is near a building, asked up front, because those decide the price more than anything else.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, cost per enquiry and job type.",
+      },
+    ],
+    qualify: [
+      "How many trees, and roughly what size?",
+      "Is the tree near a building or power lines?",
+      "Is this urgent or planned?",
+      "Is there access for machinery?",
+    ],
+    proof: [
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    faqs: [
+      {
+        q: "Can you really react to a storm in time?",
+        a: "Yes, if the campaign exists and is paused. Turning it up takes minutes. Building one during the spike takes days you do not have.",
+      },
+      {
+        q: "Is commercial work worth it?",
+        a: "Usually the steadiest money in the trade. Management companies and estates have recurring requirements and are far less price-driven than domestic customers.",
+      },
+      {
+        q: "Should we mention insurance and certification?",
+        a: "Yes, prominently. Tree work near buildings makes people nervous, and proof of cover is frequently the deciding factor between two quotes.",
+      },
+      {
+        q: "How seasonal is it?",
+        a: "Domestic work concentrates from autumn through winter. Budget follows that, with a reserve held back for weather events.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    sections: [
+      {
+        heading: "Insurance is the deciding factor and most firms bury it",
+        body: [
+          "A homeowner with a large tree near a roof is not shopping on price. They are frightened of the tree and frightened of who they let near it, and the quote they accept is usually the one that made them feel least exposed.",
+          "Public liability cover, certification and method should be near the top of everything you publish. It is the cheapest competitive advantage available in this trade because so many firms treat it as small print.",
+        ],
+      },
+      {
+        heading: "Preservation orders and the work nobody explains",
+        body: [
+          "Trees subject to preservation orders, trees in conservation areas, and hedgerow work restricted during nesting season all create confusion that stops people acting.",
+          "A firm that explains when work is and is not permitted becomes the obvious one to ring, including from people who then find out they cannot proceed this month — and who come back when they can.",
+        ],
+      },
+    ],
+    related: ["landscapers", "fencing-and-gates", "drainage"],
+  },
+  {
+    slug: "dentists",
+    label: "Dentists",
+    title: "Dental Marketing Ireland | Patient Leads for Dental Practices",
+    description:
+      "Marketing for Irish dental practices: implants, orthodontics, cosmetic and general dentistry. Campaigns built around consultations and reported in booked appointments. From €1,500 a month.",
+    h1: "Dental marketing measured in booked consultations.",
+    intro: [
+      "A dental practice has two completely different marketing problems. General dentistry is a local, proximity-driven, low-margin business where you are competing with whoever is nearest. High-value work — implants, orthodontics, full-mouth reconstruction — is a considered purchase where people travel and compare, and where a single case is worth more than a year of check-ups.",
+      "Advertising both the same way wastes most of the budget. The practices that do well separate them and accept a much higher cost per enquiry on the high-value side, because the arithmetic completely changes.",
+    ],
+    run: [
+      {
+        name: "High-value case campaigns",
+        text: "Implants, orthodontics and cosmetic work advertised separately, with a cost per enquiry judged against the case value rather than a check-up.",
+      },
+      {
+        name: "New patient campaigns",
+        text: "Local, proximity-led campaigns for general dentistry, aimed at the catchment you realistically draw from.",
+      },
+      {
+        name: "Consultation as the conversion event",
+        text: "The campaign optimises for a booked consultation, because that is the step that predicts revenue.",
+      },
+      {
+        name: "Compliance-aware creative",
+        text: "Dental advertising in Ireland carries professional obligations around claims and imagery. Ads are written to respect them and sent for your approval.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, consultations booked and cost per booked consultation, split by treatment type.",
+      },
+    ],
+    qualify: [
+      "Which treatment are you interested in?",
+      "Are you a current patient?",
+      "Is this urgent or planned?",
+      "Which days suit you best?",
+    ],
+    proof: [
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    faqs: [
+      {
+        q: "What can a dental practice afford per enquiry?",
+        a: "It depends entirely on the treatment. A check-up enquiry that costs €40 is poor value. An implant enquiry at €150 that converts one time in four is excellent. Splitting the campaigns is what lets you see the difference.",
+      },
+      {
+        q: "Are there rules about what we can advertise?",
+        a: "Yes. Dental advertising carries professional obligations around claims, before-and-after imagery and pricing. We write to those and send everything for your approval — your professional judgement is final, not ours.",
+      },
+      {
+        q: "Is social worth it for a practice?",
+        a: "For high-value cosmetic and orthodontic work, yes. For general dentistry, search and your Google Business Profile usually do more, because people pick a dentist by proximity.",
+      },
+      {
+        q: "How important is the Google profile?",
+        a: "For general dentistry it is probably the single most valuable thing you own — most people choose from the map results without scrolling further.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    sections: [
+      {
+        heading: "The two economies inside one practice",
+        body: [
+          "General dentistry is a proximity business. People choose a practice within a few kilometres, largely from the map results, and switch reluctantly. It is defended by reviews and convenience rather than won by advertising.",
+          "High-value work behaves nothing like that. Somebody considering implants will travel an hour, compare four practices and take months. They are researching, and the practice that educates best usually wins.",
+        ],
+        list: [
+          {
+            title: "General dentistry",
+            body: "Won on proximity and reviews. Advertising budget here has a low ceiling and the Google profile matters more than any campaign.",
+          },
+          {
+            title: "Implants and orthodontics",
+            body: "Won on trust and information. A far higher cost per enquiry is justified because a single case can exceed a year of routine work.",
+          },
+        ],
+      },
+      {
+        heading: "Nervous patients are an under-served market",
+        body: [
+          "A significant share of adults avoid the dentist entirely because of anxiety, and most practice marketing speaks past them completely — all confident smiles and clinical language.",
+          "Advertising built specifically for anxious patients, explaining what happens and what control they have, reaches people who have not been in years and who become long-term patients precisely because someone finally addressed it.",
+        ],
+      },
+    ],
+    related: ["med-spas", "skin-clinics", "physiotherapy"],
+  },
+  {
+    slug: "physiotherapy",
+    label: "Physio & clinics",
+    title: "Physio Clinic Marketing Ireland | Patient Leads for Clinics",
+    description:
+      "Marketing for Irish physiotherapy, chiropractic and sports injury clinics. Campaigns built around the injury people actually search for, reported in booked appointments. From €1,500 a month.",
+    h1: "Physio and clinic marketing built around the injury, not the profession.",
+    intro: [
+      "People do not search for a physiotherapist. They search for the thing that hurts — lower back pain, a shoulder that will not lift, a knee after a run, sciatica. A clinic advertising the profession rather than the problem is invisible to most of its own market.",
+      "The second thing that decides a clinic is the course of treatment. One appointment is worth little; a course of six is a real patient. Campaigns that sell the assessment and explain what a course looks like produce far better patients than ones selling a cheap first session.",
+    ],
+    run: [
+      {
+        name: "Condition-led campaigns",
+        text: "Built around the complaints people actually type, with a separate campaign for the conditions you most want to treat.",
+      },
+      {
+        name: "Assessment-first messaging",
+        text: "The initial assessment as the offer, because it is what converts and what leads naturally into a course.",
+      },
+      {
+        name: "Sports and workplace campaigns",
+        text: "Club, gym and employer relationships are a steady referral source most clinics never advertise for.",
+      },
+      {
+        name: "Booking-system integration",
+        text: "Enquiries sent straight into whatever you already run, so nothing depends on someone remembering to ring back.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, appointments booked and cost per booked appointment.",
+      },
+    ],
+    qualify: [
+      "What is the main complaint?",
+      "How long have you had it?",
+      "Have you had treatment for it before?",
+      "Which days and times suit you?",
+    ],
+    proof: [
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    faqs: [
+      {
+        q: "Should we advertise a cheap first appointment?",
+        a: "Generally not. It attracts people shopping on price who do not complete a course, and it devalues the assessment. Explaining what treatment actually involves converts better.",
+      },
+      {
+        q: "Which conditions should we target?",
+        a: "The ones you most want to treat and are best at, not all of them. A campaign built around three conditions you genuinely specialise in beats one covering everything.",
+      },
+      {
+        q: "Is Google or social better?",
+        a: "Search, clearly. Pain is an active-search behaviour — people look for relief when they have it, not when scrolling.",
+      },
+      {
+        q: "How important is the Google profile?",
+        a: "Very. Clinics are chosen locally and the map results carry most of the attention, with reviews doing much of the deciding.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    sections: [
+      {
+        heading: "People search the symptom, not the profession",
+        body: [
+          "The gap between how clinics advertise and how patients search is wider here than in almost any sector. Clinics write about chartered physiotherapy and evidence-based practice; patients type lower back pain, sciatica, frozen shoulder, runners knee.",
+          "Building the campaign and the pages around conditions rather than credentials is the single highest-impact change most clinics can make, and it costs nothing but rewriting.",
+        ],
+      },
+      {
+        heading: "Why the first appointment should not be discounted",
+        body: [
+          "The discounted first session is the standard offer in this sector and it is usually a mistake. It attracts people comparing on price, who take the cheap assessment and do not return, and it signals that the assessment is the least valuable part of what you do.",
+          "Clinics that instead explain what an assessment involves and what a course of treatment looks like get fewer enquiries and considerably more patients who complete a course.",
+        ],
+      },
+    ],
+    related: ["dentists", "gyms-and-fitness", "med-spas"],
+  },
+  {
+    slug: "veterinary",
+    label: "Veterinary",
+    title: "Veterinary Marketing Ireland | Client Growth for Vet Practices",
+    description:
+      "Marketing for Irish veterinary practices, small animal and mixed. Campaigns built around new client registration and the services that pay, reported in booked appointments. From €1,500 a month.",
+    h1: "Veterinary marketing built around registering new clients.",
+    intro: [
+      "A veterinary practice does not really sell appointments. It registers clients, and a registered client is worth years of vaccinations, check-ups, dental work and the occasional expensive episode. That makes the value of a new client far higher than any single visit, and it should change what you are willing to pay to attract one.",
+      "Most practice advertising ignores this entirely and promotes individual services. The practices that grow advertise registration, make it easy, and then let the relationship do the rest.",
+    ],
+    run: [
+      {
+        name: "New client registration campaigns",
+        text: "The offer is joining the practice rather than booking one appointment, because that is where the value is.",
+      },
+      {
+        name: "New-pet and new-mover targeting",
+        text: "Two moments when people choose a vet: getting a puppy or kitten, and moving house. Both are targetable and almost nobody does it.",
+      },
+      {
+        name: "Service campaigns that pay",
+        text: "Dental work, neutering and preventative plans, advertised separately because the economics differ substantially.",
+      },
+      {
+        name: "Out-of-hours clarity",
+        text: "What you do and do not cover, said plainly. It is one of the most common reasons people switch practice.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, registrations and cost per registration.",
+      },
+    ],
+    qualify: [
+      "What type of animal?",
+      "Are you registering as a new client?",
+      "Is this routine or urgent?",
+      "Which practice location suits you?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    faqs: [
+      {
+        q: "What is a new client actually worth?",
+        a: "Far more than a single consultation — usually years of routine work plus occasional larger episodes. Working that number out is what tells you what you can afford to spend attracting one.",
+      },
+      {
+        q: "Should we advertise emergency services?",
+        a: "Only if you genuinely provide them at the hours advertised. Nothing damages a practice locally faster than someone ringing in distress and finding out you are closed.",
+      },
+      {
+        q: "Is social worth it for a practice?",
+        a: "Yes, unusually so. Animal content earns genuine organic engagement, which keeps costs down, and it builds the familiarity that makes people choose you when they need to.",
+      },
+      {
+        q: "How do we reach new pet owners?",
+        a: "Timing and targeting around new pets and house moves, plus relationships with local breeders, rescues and groomers. It is the most reliable source of registrations there is.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    sections: [
+      {
+        heading: "Register the client, not the appointment",
+        body: [
+          "Most veterinary advertising promotes a service — vaccinations, dental month, neutering offers. It treats a practice like a shop selling individual items.",
+          "The practices that grow advertise registration, because a registered client returns for years without further marketing cost. Once you value a client over their lifetime rather than their next visit, what you can afford to spend acquiring one changes completely.",
+        ],
+      },
+      {
+        heading: "The two moments people choose a vet",
+        body: [
+          "Almost nobody switches practice on a whim. They choose a vet twice: when they get a new animal, and when they move house. Outside those moments, loyalty is high and advertising largely bounces off.",
+          "That makes timing far more important than volume. Relationships with local breeders, rescues, groomers and trainers reach the first moment. Targeting recent movers reaches the second. Both outperform general awareness advertising by a wide margin.",
+        ],
+      },
+    ],
+    related: ["physiotherapy", "dentists", "car-garages"],
+  },
+  {
+    slug: "solicitors",
+    label: "Solicitors",
+    title: "Solicitor Marketing Ireland | Client Leads for Law Firms",
+    description:
+      "Marketing for Irish solicitors and law firms: conveyancing, probate, personal injury and family law. Campaigns built around enquiry quality, reported in booked consultations. From €1,500 a month.",
+    h1: "Solicitor marketing built around the work you actually want.",
+    intro: [
+      "Legal marketing in Ireland is constrained in ways most agencies have never read. Solicitors' advertising is governed by professional rules, and personal injury advertising in particular is tightly restricted — an agency that does not know this can create a regulatory problem for a firm in a fortnight.",
+      "Within those limits there is a great deal of room, and very little competition for it. Conveyancing, probate, wills and family law are searched constantly, are chosen locally, and are advertised by almost nobody outside the largest firms.",
+    ],
+    run: [
+      {
+        name: "Practice-area campaigns",
+        text: "Conveyancing, probate, wills and family law run separately, because the client, the urgency and the value differ completely.",
+      },
+      {
+        name: "Compliance-aware creative",
+        text: "Written to respect the professional rules on solicitors' advertising, and sent to you for approval before anything runs. Your judgement on compliance is final.",
+      },
+      {
+        name: "Local search and profile work",
+        text: "Legal services are chosen locally and largely from the map results. For most firms the Google Business Profile is worth more than any campaign.",
+      },
+      {
+        name: "Consultation as the conversion event",
+        text: "The campaign optimises for a booked consultation rather than a form fill.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, consultations booked and cost per consultation, split by practice area.",
+      },
+    ],
+    qualify: [
+      "Which area of law do you need help with?",
+      "Is there a deadline involved?",
+      "Have you instructed a solicitor already?",
+      "Would you prefer a call or an appointment?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    faqs: [
+      {
+        q: "Are solicitors allowed to advertise in Ireland?",
+        a: "Yes, within professional rules, and personal injury advertising is restricted specifically and significantly. We write to those constraints and send everything for your approval. If you want a campaign we believe crosses a line, we will say so rather than run it.",
+      },
+      {
+        q: "Which practice areas work best?",
+        a: "Conveyancing and probate, generally — steady demand, clear intent, chosen locally and advertised by almost nobody. Family law works but needs careful, restrained language.",
+      },
+      {
+        q: "Is social media appropriate for a law firm?",
+        a: "For awareness and for family or conveyancing work, it can be. It is not where most legal enquiries come from, and we would start with search and your Google profile.",
+      },
+      {
+        q: "How important are reviews?",
+        a: "For a local firm, very. People are anxious about choosing a solicitor and reviews do more reassuring than any amount of copy.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    sections: [
+      {
+        heading: "What the rules actually restrict",
+        body: [
+          "Solicitors' advertising in Ireland operates under professional regulation, and personal injury advertising is restricted specifically and significantly. Claims about outcomes, comparisons with other firms and anything that could be read as soliciting particular business all need care.",
+          "None of that prevents a firm from being findable. Explaining what you do, who you help and what a first consultation involves is entirely permissible, and it is more than most firms currently manage.",
+        ],
+      },
+      {
+        heading: "Conveyancing is the most searchable work you do",
+        body: [
+          "Property transactions generate constant, predictable search volume with unambiguous intent, and the client is choosing locally and quickly. It is also work most firms treat as a given rather than something to compete for.",
+          "A firm that is visible for conveyancing in its own town, with clear information about timelines and costs, picks up work that currently goes to whoever the estate agent happened to mention.",
+        ],
+      },
+    ],
+    related: ["accountants", "estate-agents", "insurance-brokers"],
+  },
+  {
+    slug: "accountants",
+    label: "Accountants",
+    title: "Accountant Marketing Ireland | Client Leads for Practices",
+    description:
+      "Marketing for Irish accountancy practices: company accounts, tax returns, bookkeeping and advisory. Campaigns timed to the filing calendar. From €1,500 a month.",
+    h1: "Accountancy marketing timed to the filing calendar.",
+    intro: [
+      "Accountancy has the most predictable demand curve of any professional service in Ireland. The self-assessment deadline in the autumn produces a concentrated spike of people looking for help, and a large share of practices do nothing to capture it beyond hoping their existing clients file on time.",
+      "The other thing that makes this business unusual is client value. An accountancy client is not a transaction; they stay for years and the relationship compounds. That means you can afford to pay considerably more for one than most practices ever consider.",
+    ],
+    run: [
+      {
+        name: "Deadline-timed campaigns",
+        text: "Budget concentrated into the weeks before filing deadlines, when demand is highest and intent is unambiguous.",
+      },
+      {
+        name: "Switching campaigns",
+        text: "Most new clients are leaving another accountant rather than starting from nothing. Advertising to that — and making switching sound easy — outperforms advertising to new businesses.",
+      },
+      {
+        name: "Sector and service campaigns",
+        text: "Contractors, landlords, trades and small companies all search differently and value different things.",
+      },
+      {
+        name: "Consultation as the conversion event",
+        text: "The campaign optimises for a booked call rather than a form fill, because the first conversation is what wins the client.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, consultations booked and cost per consultation.",
+      },
+    ],
+    qualify: [
+      "Are you a sole trader, company or individual?",
+      "Which services do you need?",
+      "Do you have an accountant currently?",
+      "Is there a deadline you are working to?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    faqs: [
+      {
+        q: "When should we be advertising?",
+        a: "Heaviest in the run-up to filing deadlines, when people who have been putting it off finally act. A flat spend across the year misses the weeks that convert best.",
+      },
+      {
+        q: "Should we target people switching accountants?",
+        a: "Yes — most new clients come from another practice, not from nowhere. The message that works is that switching is straightforward, because the assumption that it is a hassle is what keeps people where they are.",
+      },
+      {
+        q: "What is a client worth?",
+        a: "Usually years of recurring fees, which is why practices consistently under-invest in acquiring one. Work out the multi-year value and the affordable cost per client changes considerably.",
+      },
+      {
+        q: "Is LinkedIn worth it?",
+        a: "For business services in Ireland it can be, particularly for company and advisory work. It is dearer per click than search and works better for awareness than direct enquiries.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    sections: [
+      {
+        heading: "The deadline does your selling for you",
+        body: [
+          "Very little in professional services comes with a legal deadline attached. Self-assessment does, and it converts people who have been meaning to sort it out for two years into people ringing an accountant this week.",
+          "Concentrating budget into the run-up to filing deadlines produces enquiries at a fraction of the usual cost, because intent is already at its peak and you are not persuading anyone that they need the service.",
+        ],
+      },
+      {
+        heading: "Most new clients are somebody else's old clients",
+        body: [
+          "Practices tend to advertise as though the market is new businesses. It is not. The great majority of new clients are leaving another accountant — usually because they felt ignored, not because of fees.",
+          "That changes the message entirely. Responsiveness, being able to reach a named person, and making the switch sound administratively painless will win more clients than any statement about qualifications.",
+        ],
+      },
+    ],
+    related: ["solicitors", "insurance-brokers", "estate-agents"],
+  },
+  {
+    slug: "car-garages",
+    label: "Garages & mechanics",
+    title: "Garage Leads Ireland | Marketing for Mechanics & Car Servicing",
+    description:
+      "Lead generation for Irish garages and mechanics: servicing, NCT preparation, repairs and tyres. Reported in booked jobs. From €1,500 a month.",
+    h1: "Garage leads built around the NCT and the service calendar.",
+    intro: [
+      "A garage has the most reliable recurring demand of any local trade, and most never advertise against it. Every car in the country needs an NCT, and every NCT failure creates a repair job with a deadline attached. That is a predictable, searchable, high-intent stream of work that almost nobody competes for.",
+      "The second thing is that a garage customer is a repeating one. Someone who trusts you services with you for years. That makes the value of a new customer far higher than a single job, and it should change what you are willing to pay to win one.",
+    ],
+    run: [
+      {
+        name: "NCT-led campaigns",
+        text: "Preparation, retests and post-failure repairs — searched constantly, urgent by nature, and advertised by almost nobody.",
+      },
+      {
+        name: "Servicing and reminder campaigns",
+        text: "To your existing customer list as much as to new ones. Reminding people their service is due is the cheapest revenue a garage has.",
+      },
+      {
+        name: "Specialist and brand campaigns",
+        text: "Where you specialise — a marque, diagnostics, DPFs, hybrids — that is usually less contested and better paid than general servicing.",
+      },
+      {
+        name: "Tyres and quick jobs",
+        text: "Low value individually but a reliable way to acquire a customer who then services with you.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, bookings and cost per booking.",
+      },
+    ],
+    qualify: [
+      "What make and model is the car?",
+      "What do you need — service, NCT prep, or a repair?",
+      "Is there a warning light or a specific fault?",
+      "When do you need it in?",
+    ],
+    proof: [
+      { value: "#1", label: "on Google for emergency callouts, Dublin trade" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    faqs: [
+      {
+        q: "Is NCT work actually worth advertising for?",
+        a: "It is one of the most under-used opportunities in the trade. The demand is constant, the intent is high, the deadline is real, and a failure turns straight into a repair job.",
+      },
+      {
+        q: "How do we get customers back?",
+        a: "Service reminders, and a campaign to your own customer list. Most garages have hundreds of past customers they never contact again, which is the cheapest revenue available to them.",
+      },
+      {
+        q: "Should we advertise prices?",
+        a: "For fixed items like a service or NCT prep, yes — it is what people compare and it filters out price shoppers early. For diagnostics and repairs, no, because you cannot know until you look.",
+      },
+      {
+        q: "Is social worth it?",
+        a: "Less than search for a garage. People look for a mechanic when they need one. Social is better for staying visible to existing customers between visits.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    sections: [
+      {
+        heading: "The NCT is a marketing calendar nobody uses",
+        body: [
+          "Every car in the country has a test date, a proportion fail, and every failure produces urgent repair work with a legal deadline. This is the most predictable recurring demand available to any local trade.",
+          "Almost no garage advertises against it. Pre-test checks, retests and post-failure repairs are searched constantly and contested barely at all, which makes them the cheapest enquiries most garages will ever buy.",
+        ],
+      },
+      {
+        heading: "Your database is worth more than your advertising",
+        body: [
+          "A typical garage has hundreds of past customers it has not contacted since the last job. Service reminders to that list cost almost nothing and routinely outperform any acquisition campaign, because the trust already exists.",
+          "The reason most garages do not do it is not cost. It is that the records are in a diary, a notebook or somebody's head. Getting them into one list is a day's work that pays for itself repeatedly.",
+        ],
+      },
+    ],
+    related: ["veterinary", "electricians", "drainage"],
+  },
+  {
+    slug: "gyms-and-fitness",
+    label: "Gyms & fitness",
+    title: "Gym Marketing Ireland | Member Leads for Gyms & Studios",
+    description:
+      "Marketing for Irish gyms, studios and personal trainers. Campaigns built around trials and retention rather than January discounting. From €1,500 a month.",
+    h1: "Gym marketing built around what happens after January.",
+    intro: [
+      "Every gym in Ireland gets a January. The ones that grow are the ones that still have those members in April, and that is a retention problem rather than a marketing one — but it is shaped by how the member was acquired in the first place. A member won on a heavy discount behaves like a discount member and leaves when it ends.",
+      "The other mistake is advertising the facility. Nobody joins a gym because it has equipment. They join because of what they want to be different in six months, and the advertising that works speaks to that rather than to square footage.",
+    ],
+    run: [
+      {
+        name: "Trial and intro-offer campaigns",
+        text: "Structured so the offer attracts people who intend to stay, rather than the cheapest possible membership.",
+      },
+      {
+        name: "Off-peak acquisition",
+        text: "Advertising in the months when everyone else stops. Cheaper, less contested, and the members acquired tend to stay longer than January joiners.",
+      },
+      {
+        name: "Class and PT campaigns",
+        text: "Higher-value, higher-retention services advertised separately from general membership.",
+      },
+      {
+        name: "Retention campaigns to existing members",
+        text: "The cheapest revenue a gym has, and the thing most owners never advertise to at all.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, trials booked, joins and cost per join.",
+      },
+    ],
+    qualify: [
+      "What are you hoping to achieve?",
+      "Have you been a member somewhere before?",
+      "Are you interested in classes, gym floor or personal training?",
+      "When would you want to start?",
+    ],
+    proof: [
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    faqs: [
+      {
+        q: "Should we discount in January?",
+        a: "Less than you think. January members acquired on heavy discount churn fastest, and the month is the most expensive of the year to advertise in. A modest offer aimed at commitment beats a large one aimed at price.",
+      },
+      {
+        q: "When is the best time to advertise?",
+        a: "The months everyone else goes quiet — late spring and autumn. Cheaper, less crowded, and the members tend to last.",
+      },
+      {
+        q: "Is social better than search for a gym?",
+        a: "Usually, because joining is a discretionary decision rather than an urgent search. Search still matters for people who have already decided and are choosing between two local gyms.",
+      },
+      {
+        q: "What about retention?",
+        a: "It is where the money is, and it is mostly not a marketing problem — but campaigns to your existing members cost very little and work well.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    sections: [
+      {
+        heading: "January is the most expensive month to buy a member",
+        body: [
+          "Every gym advertises in January, which means everyone bids against everyone and cost per join peaks exactly when the discounts are deepest. Worse, members acquired on heavy discount churn fastest, so you pay the most for the members least likely to stay.",
+          "Advertising in the months everyone else goes quiet costs considerably less per join and produces members who joined because they decided to rather than because it was cheap.",
+        ],
+      },
+      {
+        heading: "Nobody joins for the equipment",
+        body: [
+          "Gym advertising defaults to the facility — square footage, machines, classes, opening hours. Almost none of it is why anybody joins.",
+          "People join because something is bothering them: how they feel, how clothes fit, a health scare, a milestone birthday. Advertising that speaks to the reason rather than the room converts several times better, and it is uncomfortable enough that most competitors will not copy it.",
+        ],
+      },
+    ],
+    related: ["physiotherapy", "skin-clinics", "med-spas"],
+  },
 ];
 
 export const industryBySlug = (slug: string) =>
