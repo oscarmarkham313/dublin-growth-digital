@@ -4819,6 +4819,1002 @@ export const industries: Industry[] = [
     ],
     related: ["skip-hire", "builders-and-extensions", "agricultural-contractors"],
   },
+  {
+    slug: "scaffolding",
+    label: "Scaffolding",
+    title: "Scaffolding Leads Ireland | Marketing for Scaffolding Contractors",
+    description:
+      "Lead generation for Irish scaffolding contractors, domestic and commercial. Hire duration is the revenue, not the erect. From €1,500 a month.",
+    h1: "Scaffolding leads where the hire period is the product.",
+    intro: [
+      "Scaffolding is priced as an erect and a dismantle, and earns its money in the weeks between. A job that stays up for six weeks instead of two is the same labour for three times the revenue, which means the jobs worth winning are the long ones.",
+      "That is the opposite of how most scaffolders advertise. Chasing quick domestic jobs fills the diary with erects and dismantles and ties up stock that could be earning on a re-roof or an extension for two months.",
+    ],
+    run: [
+      {
+        name: "Long-duration job campaigns",
+        text: "Aimed at re-roofs, extensions and render work, where the hire runs for weeks rather than days.",
+      },
+      {
+        name: "Contractor relationship campaigns",
+        text: "Builders, roofers and renderers who need scaffold repeatedly. One relationship is worth dozens of domestic enquiries.",
+      },
+      {
+        name: "Certification and insurance visibility",
+        text: "Competence cards, insurance and handover certificates stated plainly, because on commercial work they decide who gets used.",
+      },
+      {
+        name: "Stock availability messaging",
+        text: "What you have free and when. It is what a contractor with a start date actually needs to know.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, jobs quoted and cost per job, split domestic and trade.",
+      },
+    ],
+    qualify: [
+      "What is the scaffold for?",
+      "Roughly how long will it be needed?",
+      "Is it domestic or commercial?",
+      "When do you need it erected?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Hire duration is the number to optimise for",
+        body: [
+          "Two jobs can look identical on the quote and differ by a factor of three in what they actually earn, depending on how long the scaffold stands.",
+          "Campaigns aimed at the work that stays up — roofing, rendering, extensions — produce fewer enquiries and considerably more revenue per unit of stock. Volume is the wrong target in this trade.",
+        ],
+      },
+      {
+        heading: "Contractors are worth more than any campaign",
+        body: [
+          "A roofer who uses you on every job sends work for years with no acquisition cost, and does not shop around each time.",
+          "Marketing supports that rather than replacing it. Being visible and obviously compliant makes you the scaffolder they think of first, which is most of the battle.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should we chase domestic work?",
+        a: "Sparingly. Domestic jobs are short, tie up stock and involve more explaining. They are useful for filling gaps, not for building the business.",
+      },
+      {
+        q: "How important is certification?",
+        a: "On commercial work it is decisive. Handover certificates, insurance and competence cards should be visible rather than mentioned on request.",
+      },
+      {
+        q: "What about weather?",
+        a: "It affects the schedule more than the enquiries. Being honest about lead times when the weather has put you behind protects the relationships that matter.",
+      },
+      {
+        q: "Is a website enough on its own?",
+        a: "For contractor relationships, no — those are won on reliability. For new enquiries it matters, because a contractor checking you out wants to see real jobs and real credentials.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["roofers", "builders-and-extensions", "plastering"],
+  },
+  {
+    slug: "glazing",
+    label: "Glazing & glass",
+    title: "Glazier Leads Ireland | Emergency Boarding & Glass Replacement",
+    description:
+      "Lead generation for Irish glaziers: emergency boarding, glass replacement and misted units. Two businesses, one trade. From €1,500 a month.",
+    h1: "Glazing leads, from the break-in at midnight to the misted unit.",
+    intro: [
+      "Glazing splits cleanly in two. Emergency work — a break-in, a smashed shopfront, a door panel through — is urgent, unpriced and won by whoever answers the phone at eleven at night. Planned work — misted units, upgrades, new glass — is compared, quoted and decided over days.",
+      "The emergency side also has an insurance dimension most glaziers under-use. A great many callers do not realise the work may be covered, and the firm that explains it becomes the obvious choice.",
+    ],
+    run: [
+      {
+        name: "Emergency boarding campaigns",
+        text: "Phone-first, running the hours you will answer, targeted to the radius you can actually reach quickly.",
+      },
+      {
+        name: "Misted unit campaigns",
+        text: "The steady planned work — failed double glazing units, replaced without changing the frames. Searched constantly and rarely advertised.",
+      },
+      {
+        name: "Insurance-aware messaging",
+        text: "Explaining what is typically covered and how a claim works. It converts and it removes the price objection entirely.",
+      },
+      {
+        name: "Commercial shopfront campaigns",
+        text: "Retail and hospitality, where a broken front means a closed business and speed matters more than price.",
+      },
+      {
+        name: "The weekly report",
+        text: "Calls, jobs booked and cost per job, split emergency and planned.",
+      },
+    ],
+    qualify: [
+      "Is this an emergency?",
+      "Is it a home or a business?",
+      "What type of glass is broken?",
+      "What area are you in?",
+    ],
+    proof: [
+      { value: "#1", label: "on Google for emergency callouts, Dublin trade" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Misted units are the quiet money",
+        body: [
+          "Failed double glazing units are extremely common in Irish housing stock, cheap to fix relative to replacing frames, and most homeowners assume the whole window needs replacing.",
+          "Telling them otherwise is both true and commercially useful. It is steady, planned, profitable work that almost nobody advertises for, and it fills the gaps between emergencies.",
+        ],
+      },
+      {
+        heading: "Insurance is the objection handler",
+        body: [
+          "A caller looking at a smashed door is thinking about cost before they think about glass.",
+          "A glazier who explains plainly what is usually covered, and what a claim involves, removes that anxiety and becomes the firm they trust. It costs nothing to say and very few do.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should we advertise overnight?",
+        a: "If you will answer. Emergency glazing converts extremely well out of hours and an unanswered call is the most expensive thing you can buy.",
+      },
+      {
+        q: "Is commercial work worth separating?",
+        a: "Yes. A closed shopfront is urgent in a way a domestic break is not, and the buyer is a business owner losing money by the hour rather than a homeowner.",
+      },
+      {
+        q: "How do we handle insurance work?",
+        a: "Explain it up front. Most callers do not know what is covered, and the glazier who tells them is the one they use.",
+      },
+      {
+        q: "What about misted units?",
+        a: "Advertise them separately. It is a different, calmer search and it is steady work that most glaziers leave on the table.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["windows-and-doors", "security-and-alarms", "locksmiths"],
+  },
+  {
+    slug: "garage-conversions",
+    label: "Garage conversions",
+    title: "Garage Conversion Leads Ireland | Marketing for Conversion Specialists",
+    description:
+      "Lead generation for Irish garage conversion specialists. The cheapest way to add a room, and the objection is always parking. From €1,500 a month.",
+    h1: "Garage conversion leads from families who need one more room.",
+    intro: [
+      "A garage conversion is the cheapest square metre a homeowner can add. The structure exists, the roof exists, and the work is largely internal — which makes it substantially cheaper than an extension for a family who has simply run out of space.",
+      "There are two objections and they are always the same: what happens to the parking, and will it look like a converted garage from the street. A firm that answers both in its advertising converts far better than one selling on price.",
+    ],
+    run: [
+      {
+        name: "Space-pressure campaigns",
+        text: "Aimed at families who have outgrown the house, with the comparison against moving or extending made explicitly.",
+      },
+      {
+        name: "Use-case campaigns",
+        text: "Home office, bedroom, gym, annexe. Four different buyers who should not share one campaign.",
+      },
+      {
+        name: "Front elevation reassurance",
+        text: "Before-and-after shots showing the street view. It is the objection nobody voices and everybody has.",
+      },
+      {
+        name: "Planning clarity",
+        text: "What is exempt and what is not, explained plainly so enquiries stop stalling.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, surveys booked and cost per survey.",
+      },
+    ],
+    qualify: [
+      "What would the room be used for?",
+      "Is the garage attached or detached?",
+      "Do you have a budget in mind?",
+      "When would you like it done?",
+    ],
+    proof: [
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Against moving, not against an extension",
+        body: [
+          "The comparison that converts is not conversion versus extension. It is conversion versus moving house, because that is the decision the family is actually weighing.",
+          "Set against stamp duty, agent fees, legal costs and a larger mortgage, a conversion is an easy argument — and it is one almost nobody makes in their advertising.",
+        ],
+      },
+      {
+        heading: "Show the front of the house",
+        body: [
+          "Homeowners worry that a converted garage is obvious from the street and will cost them on resale.",
+          "Before-and-after photographs of the front elevation, where the conversion is invisible, answer it instantly. It is the single most persuasive image this trade has and most firms only photograph the finished room inside.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Does it need planning permission?",
+        a: "Usually not for a straightforward internal conversion, though it depends on the property and any change of use. Saying so plainly removes the main reason people delay.",
+      },
+      {
+        q: "What is the most common objection?",
+        a: "Parking, then how it looks from the street. Both should be answered in the advertising rather than left to the survey.",
+      },
+      {
+        q: "Should we publish prices?",
+        a: "A from-price helps, because homeowners are comparing against moving and need a number to do the arithmetic.",
+      },
+      {
+        q: "Do photographs matter?",
+        a: "Enormously, and the front elevation more than the interior. Buyers need to see that it does not look converted.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["attic-conversions", "builders-and-extensions", "garden-rooms"],
+  },
+  {
+    slug: "artificial-grass",
+    label: "Artificial grass",
+    title: "Artificial Grass Leads Ireland | Marketing for Installers",
+    description:
+      "Lead generation for Irish artificial grass installers. Visual, seasonal, and sold against three specific objections. From €1,500 a month.",
+    h1: "Artificial grass leads, and the three objections that decide them.",
+    intro: [
+      "Artificial grass sells on a photograph and stalls on three doubts: that it will look fake, that it will be unpleasant in hot weather, and whether it works with dogs. Every enquiry has at least one of them, and most advertising in this trade ignores all three.",
+      "The Irish weather also does a great deal of selling on your behalf. A lawn that is a mud bath from November to March is the strongest argument this product has, and it is far more persuasive than anything about maintenance.",
+    ],
+    run: [
+      {
+        name: "Objection-led campaigns",
+        text: "Built around realism, pet suitability and drainage rather than around the product in general.",
+      },
+      {
+        name: "Winter mud campaigns",
+        text: "Advertising the problem while people are living with it, rather than in June when the grass looks fine.",
+      },
+      {
+        name: "Close-up creative",
+        text: "Photographs and video close enough that people can judge the look for themselves. Distance shots read as evasive.",
+      },
+      {
+        name: "Estate-level targeting",
+        text: "One installed garden sells the next few on the same road, particularly in newer developments with small, poorly drained lawns.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, site visits booked and cost per visit.",
+      },
+    ],
+    qualify: [
+      "Roughly what area needs covering?",
+      "Do you have pets?",
+      "What is the current surface?",
+      "When would you like it installed?",
+    ],
+    proof: [
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Advertise in the mud, not the sunshine",
+        body: [
+          "The instinct is to advertise in summer when gardens look good. But the moment somebody genuinely wants artificial grass is February, standing at a back door looking at a churned-up lawn and a dog covered in muck.",
+          "Campaigns weighted to late winter and early spring reach people at the point of maximum frustration, and the enquiries convert noticeably better than summer ones.",
+        ],
+      },
+      {
+        heading: "Answer the pet question before it is asked",
+        body: [
+          "A significant share of this market is dog owners, and they all want to know the same things: drainage, smell, and whether it survives digging.",
+          "Answering plainly, with a product recommendation for pets specifically, converts a group that is otherwise very hesitant — and they are the customers least likely to haggle, because the alternative is mud through the house every day.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "When is the best time to advertise?",
+        a: "Late winter and early spring, while people are looking at a muddy lawn. Summer enquiries are more casual and convert less well.",
+      },
+      {
+        q: "Should we publish a price per square metre?",
+        a: "Yes, as a from-price. The range is wide and vague pricing produces enquiries from people expecting a fraction of the real cost.",
+      },
+      {
+        q: "How do we handle the looks-fake objection?",
+        a: "Close-up photography and video of your own installations. Distance shots make people suspicious and they are right to be.",
+      },
+      {
+        q: "Is social better than search?",
+        a: "Usually, because it is visual and people often do not know they want it until they see a neighbour's. Search still catches the ones already pricing it.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["landscapers", "driveways-and-paving", "fencing-and-gates"],
+  },
+  {
+    slug: "pools-and-hot-tubs",
+    label: "Pools & hot tubs",
+    title: "Pool & Hot Tub Leads Ireland | Installation & Servicing",
+    description:
+      "Lead generation for Irish pool and hot tub companies. The install is the headline, the servicing is the business. From €1,500 a month.",
+    h1: "Pool and hot tub leads, and the servicing that follows them.",
+    intro: [
+      "An installation is a large, occasional, heavily considered purchase. Servicing, chemicals, covers and repairs are small, frequent and go on for a decade. Most companies in this trade advertise the first and treat the second as an afterthought, which is the wrong way round for a stable business.",
+      "The Irish market also behaves differently from the sales literature, most of which is written for warmer countries. Indoor pools, insulated hot tubs and year-round usability are the questions that actually come up here.",
+    ],
+    run: [
+      {
+        name: "Installation campaigns",
+        text: "High-value, long-cycle and photograph-led, with realistic expectations about the Irish climate set up front.",
+      },
+      {
+        name: "Servicing and maintenance campaigns",
+        text: "The recurring revenue that carries the business, including owners whose original installer has vanished.",
+      },
+      {
+        name: "Orphan-owner campaigns",
+        text: "People with a pool or tub and nobody to service it. A reliable, under-served market in every county.",
+      },
+      {
+        name: "Running-cost transparency",
+        text: "The question every buyer has and few sellers answer directly. Answering it converts the serious and filters the rest.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, site visits and service contracts, reported separately.",
+      },
+    ],
+    qualify: [
+      "Are you looking to install or service?",
+      "Is it a pool, hot tub or swim spa?",
+      "Indoor or outdoor?",
+      "When are you hoping to proceed?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Servicing is the business, installation is the headline",
+        body: [
+          "One installation pays well and then ends. A service relationship runs for years, produces chemical and parts revenue, and survives a bad year for big-ticket spending.",
+          "Advertising built only around installs leaves that entirely to chance, and the companies that weather quiet periods are the ones with a service book underneath.",
+        ],
+      },
+      {
+        heading: "Running costs decide Irish purchases",
+        body: [
+          "Buyers here ask about heating cost before almost anything else, and vague answers read as evasion.",
+          "Being direct about what it costs to run, and about insulation and covers, converts serious buyers and removes the ones who were never going to proceed once they found out.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is the Irish market big enough?",
+        a: "Smaller than most markets this industry writes for, and correspondingly uncontested. Hot tubs in particular have grown steadily and the servicing side is thinly served.",
+      },
+      {
+        q: "Should we advertise running costs?",
+        a: "Yes. It is the first question and hiding it produces enquiries that die at the quote. Being straight converts the buyers who will actually proceed.",
+      },
+      {
+        q: "What about servicing other people's installs?",
+        a: "One of the better opportunities in the trade. Plenty of owners have equipment and no relationship with anyone, and they search for help.",
+      },
+      {
+        q: "Is this seasonal?",
+        a: "Installation enquiries rise in spring and early summer. Servicing is year round, with a pre-winter peak for covers and heating.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["landscapers", "garden-rooms", "plumbers-and-heating"],
+  },
+  {
+    slug: "chimney-sweeps",
+    label: "Chimney sweeps",
+    title: "Chimney Sweep Leads Ireland | Marketing for Sweeps",
+    description:
+      "Lead generation for Irish chimney sweeps. Insurance certificates, a hard autumn season, and the stove installers who feed the work. From €1,500 a month.",
+    h1: "Chimney sweep leads, concentrated into about ten weeks.",
+    intro: [
+      "Chimney sweeping in Ireland happens in a narrow window. From late August the phone starts, it peaks through October and November, and by January it is largely over until the following autumn. A year's work is booked in roughly ten weeks.",
+      "The other thing driving demand is paperwork. Home insurance increasingly expects a sweep certificate, and a great many people book because a policy renewal reminded them rather than because they were thinking about the chimney at all.",
+    ],
+    run: [
+      {
+        name: "Season-concentrated campaigns",
+        text: "Almost all budget spent between late August and November, because that is when a year's work is booked.",
+      },
+      {
+        name: "Insurance certificate messaging",
+        text: "The reason many people finally book. Saying plainly that you issue a certificate converts people who were putting it off.",
+      },
+      {
+        name: "Stove installer relationships",
+        text: "Every new stove needs sweeping thereafter. Installers are a steady referral source most sweeps never cultivate.",
+      },
+      {
+        name: "Capacity and lead-time honesty",
+        text: "Once October arrives the message should be lead times, not availability.",
+      },
+      {
+        name: "The weekly report",
+        text: "Bookings, cost per booking and how far ahead the diary is.",
+      },
+    ],
+    qualify: [
+      "What type of chimney or stove?",
+      "When was it last swept?",
+      "Do you need a certificate for insurance?",
+      "What area are you in?",
+    ],
+    proof: [
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Ten weeks decide the year",
+        body: [
+          "Advertising a chimney sweep in May is spending money into an empty room. Demand is almost entirely driven by the first cold evening and by insurance renewals.",
+          "Concentrating the year's budget into late August through November produces a dramatically better cost per booking than spreading it evenly, and it is the single easiest improvement available in this trade.",
+        ],
+      },
+      {
+        heading: "The certificate is the trigger",
+        body: [
+          "A significant share of bookings come from people whose insurance renewal mentioned a sweep certificate, not from people worried about their chimney.",
+          "Leading with the certificate rather than with cleaning reaches them at the moment they are actually motivated, and it distinguishes you from sweeps advertising a service people are happy to postpone.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "When should we advertise?",
+        a: "Late August to November, heavily. Outside that window the demand largely is not there and the budget is better saved.",
+      },
+      {
+        q: "How do we get more bookings from stove installers?",
+        a: "Ask them. Every stove they fit needs sweeping annually thereafter, and most installers are glad to have somebody reliable to recommend.",
+      },
+      {
+        q: "Should we mention insurance?",
+        a: "Prominently. It is the reason a large share of people finally book, and most sweeps never mention it.",
+      },
+      {
+        q: "What about lead times in peak season?",
+        a: "Say them. A diary booked three weeks out is proof you are worth waiting for, and it stops people ringing expecting tomorrow.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["stoves-and-fireplaces", "roofers", "gutter-cleaning"],
+  },
+  {
+    slug: "gutter-cleaning",
+    label: "Gutter cleaning",
+    title: "Gutter Cleaning Leads Ireland | Marketing for Gutter Services",
+    description:
+      "Lead generation for Irish gutter cleaning and repair businesses. Annual, weather-driven, and the repairs are where the money is. From €1,500 a month.",
+    h1: "Gutter cleaning leads, and the repairs that come with them.",
+    intro: [
+      "Gutter work is triggered by two things: leaves coming down in autumn, and water visibly overflowing during heavy rain. Neither is something people plan for, which makes this an intensely reactive trade.",
+      "The cleaning itself is low value. What makes the job worthwhile is what you find while you are up there — cracked sections, loose brackets, failed joints and fascia damage — and the firms that do well are the ones that inspect properly and quote on the spot.",
+    ],
+    run: [
+      {
+        name: "Autumn season campaigns",
+        text: "Concentrated into leaf-fall, when the problem is visible and people act.",
+      },
+      {
+        name: "Wet-weather reactive campaigns",
+        text: "Prepared in advance and lifted during prolonged rain, when overflowing gutters are on show.",
+      },
+      {
+        name: "Repair and replacement messaging",
+        text: "The higher-value half of the trade, advertised alongside rather than buried under cleaning.",
+      },
+      {
+        name: "Annual reminder campaigns",
+        text: "To your own past customers. Gutters need doing every year and most firms never follow up.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, jobs booked and cost per job.",
+      },
+    ],
+    qualify: [
+      "Is this cleaning or a repair?",
+      "How many storeys is the property?",
+      "Are the gutters currently overflowing?",
+      "When was it last done?",
+    ],
+    proof: [
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "The repairs are the business",
+        body: [
+          "A clean is an hour's work at modest value. A length of replacement guttering, a fascia repair or a set of new brackets is several times that, and a proportion of every clean turns into one.",
+          "Advertising cleaning alone under-sells what you do. Firms that present themselves as gutter maintenance rather than gutter cleaning win the same jobs at a considerably higher average value.",
+        ],
+      },
+      {
+        heading: "Your past customers are next year's diary",
+        body: [
+          "Gutters fill every autumn without fail. A customer from last October needs the same job this October and has almost certainly not thought about it.",
+          "A reminder campaign to your own list is the cheapest work available in this trade and almost nobody sends one.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "When should we advertise?",
+        a: "Late autumn primarily, plus reactive bursts during sustained heavy rain when the problem is visible from the ground.",
+      },
+      {
+        q: "Should we advertise repairs separately?",
+        a: "Alongside, not separately. Most repair jobs start as a clean, so the message should be maintenance rather than cleaning alone.",
+      },
+      {
+        q: "Is this worth advertising given the job value?",
+        a: "On cleaning alone, marginally. Once repairs and annual repeats are counted, the customer value is several times the first invoice.",
+      },
+      {
+        q: "How do we handle two-storey work?",
+        a: "Ask about it in the form. Access and height change the price and the equipment, and finding out on site wastes a visit.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["roofers", "powerwashing", "chimney-sweeps"],
+  },
+  {
+    slug: "mobile-mechanics",
+    label: "Mobile mechanics",
+    title: "Mobile Mechanic Leads Ireland | Marketing for Mobile Servicing",
+    description:
+      "Lead generation for Irish mobile mechanics. Convenience is the product, and there is no map pack to win. From €1,500 a month.",
+    h1: "Mobile mechanic leads, where convenience is the whole pitch.",
+    intro: [
+      "A mobile mechanic is not competing with garages on price. They are competing on the hour a customer does not have to take off work, the lift they do not have to arrange, and the car they do not have to leave anywhere.",
+      "There is also a structural difference that shapes everything: with no premises, there is no verified address, which means the Google map results are largely closed. The ordinary search results and paid are where this business has to win.",
+    ],
+    run: [
+      {
+        name: "Convenience-led campaigns",
+        text: "Selling the thing that actually differentiates you — the disruption avoided, not the price.",
+      },
+      {
+        name: "Service and repair-at-home campaigns",
+        text: "Servicing, diagnostics, brakes and batteries, advertised as coming to the customer.",
+      },
+      {
+        name: "Fleet and business campaigns",
+        text: "Vans and company cars serviced on site, which is worth far more than domestic work and repeats.",
+      },
+      {
+        name: "Radius and callout clarity",
+        text: "How far you travel and what it costs, stated plainly, because it is the first question.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, jobs booked and cost per booking.",
+      },
+    ],
+    qualify: [
+      "What make and model is the vehicle?",
+      "What do you need done?",
+      "Where is the vehicle located?",
+      "Is it drivable?",
+    ],
+    proof: [
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "#1", label: "on Google for emergency callouts, Dublin trade" },
+    ],
+    sections: [
+      {
+        heading: "No premises means no map pack",
+        body: [
+          "Google's local results are built around verified physical addresses, so a mobile business is structurally disadvantaged there and no amount of optimisation changes it.",
+          "That is not fatal — it simply means the budget belongs in ordinary search results and paid, where location is not the deciding factor. Any agency promising you the map pack without an address either does not know this or is not telling you.",
+        ],
+      },
+      {
+        heading: "Fleet work is the stable half",
+        body: [
+          "Domestic customers come when something breaks. A small fleet of vans needs servicing on a schedule, values not losing a vehicle to a garage for a day, and pays without haggling.",
+          "It repeats, it is planned, and it is worth pursuing with its own campaign and its own language.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Can we rank in the map results?",
+        a: "Largely not, without a verified address. It is a structural limitation of mobile businesses and we would rather say so than sell you optimisation that cannot work.",
+      },
+      {
+        q: "What should we lead with?",
+        a: "Convenience. You are not the cheapest and should not try to be — you are the option that does not cost the customer a day.",
+      },
+      {
+        q: "Is fleet work worth chasing?",
+        a: "It is usually the most stable revenue available to a mobile mechanic. Scheduled, repeating, and far less price-driven than domestic work.",
+      },
+      {
+        q: "Should we publish a callout fee?",
+        a: "Yes, and the radius. Both are the first things people want to know and vagueness costs you the call.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["car-garages", "equipment-hire", "drainage"],
+  },
+  {
+    slug: "recruitment-agencies",
+    label: "Recruitment agencies",
+    title: "Recruitment Agency Marketing Ireland | Client & Candidate Leads",
+    description:
+      "Marketing for Irish recruitment agencies. A two-sided market where the scarce side changes, and the fee per placement is large. From €1,500 a month.",
+    h1: "Recruitment marketing for whichever side is currently scarce.",
+    intro: [
+      "Recruitment is two markets that have to balance. Some months the difficulty is finding clients with roles; other months roles are plentiful and candidates are the constraint. An agency running one fixed campaign is always half wrong.",
+      "The fee per placement also changes the arithmetic completely. A single placement can be worth several thousand, which means an acquisition cost that would be absurd for most businesses is comfortable here — and almost no Irish agency spends accordingly.",
+    ],
+    run: [
+      {
+        name: "Client-side campaigns",
+        text: "Aimed at employers with a vacancy and no time, particularly in sectors where you place well.",
+      },
+      {
+        name: "Candidate-side campaigns",
+        text: "For the roles where candidates are the bottleneck. Frequently the harder and more valuable side.",
+      },
+      {
+        name: "Sector specialisation",
+        text: "Generalist recruitment advertising performs poorly. Campaigns built around the two or three sectors you genuinely own work far better.",
+      },
+      {
+        name: "Placement-value-aware bidding",
+        text: "Budgets set against the fee a placement produces rather than against a generic cost-per-lead benchmark.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries and applications, reported separately by side of the market.",
+      },
+    ],
+    qualify: [
+      "Are you hiring or looking for a role?",
+      "Which sector?",
+      "Is this permanent or contract?",
+      "What is the timeline?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Work out what a placement is worth first",
+        body: [
+          "A permanent placement fee is typically a meaningful percentage of salary, which puts it in the thousands.",
+          "Judged against that, an acquisition cost of a few hundred euro for a client with a live vacancy is comfortable. Agencies that benchmark against generic cost-per-lead figures systematically underspend and lose to those that do not.",
+        ],
+      },
+      {
+        heading: "Advertise the scarce side, and change it",
+        body: [
+          "The constraint moves. Some quarters it is roles, others it is candidates, and it differs by sector within the same agency.",
+          "Campaigns should shift with it rather than running fixed all year. That is a monthly decision, and making it deliberately is worth more than any change to the ads themselves.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Which side should we advertise to?",
+        a: "Whichever is currently scarce, and that changes. Running both fixed all year wastes half the budget on the side you already have covered.",
+      },
+      {
+        q: "Is LinkedIn essential?",
+        a: "For candidate attraction in professional sectors, largely yes. For client acquisition it is one channel among several and dearer than search.",
+      },
+      {
+        q: "Does generalist recruitment advertise well?",
+        a: "Poorly. Specialisation is what makes campaigns efficient — an employer looking for a specific skill wants a specialist, not a general agency.",
+      },
+      {
+        q: "What about job boards?",
+        a: "A different spend with a different purpose. This is about generating client relationships and candidate registrations that you own.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["it-support", "accountants", "solicitors"],
+  },
+  {
+    slug: "equine-services",
+    label: "Equine services",
+    title: "Equine Marketing Ireland | Leads for Yards, Farriers & Services",
+    description:
+      "Marketing for Irish equine businesses: livery yards, farriers, equine dentists, transport and training. A relationship market with a real season. From €1,500 a month.",
+    h1: "Equine marketing for a market that runs on reputation.",
+    intro: [
+      "Ireland's equine sector is unusually concentrated — Kildare, Tipperary, Meath and Limerick hold much of it — and unusually relationship-driven. Owners take recommendations from other owners, from yards and from vets, and they change provider rarely.",
+      "That makes advertising a supporting act rather than the main one. It works for filling livery vacancies, reaching owners new to an area, and being findable for the services people genuinely search for, such as transport and dentistry.",
+    ],
+    run: [
+      {
+        name: "Livery vacancy campaigns",
+        text: "Specific available spaces rather than the yard in general, targeted tightly to the area owners will realistically travel.",
+      },
+      {
+        name: "Service-specific campaigns",
+        text: "Farriery, dentistry, transport and physiotherapy are searched by name and are far less relationship-locked than livery.",
+      },
+      {
+        name: "New-to-area owner targeting",
+        text: "People who have moved and need to rebuild a whole set of providers at once.",
+      },
+      {
+        name: "Facility-led creative",
+        text: "Arenas, stabling, turnout and hacking shown properly. Owners choose on the facilities and the standard of care they can see.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, viewings and cost per enquiry.",
+      },
+    ],
+    qualify: [
+      "What service are you looking for?",
+      "How many horses?",
+      "What area are you in?",
+      "When do you need it from?",
+    ],
+    proof: [
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Recommendation beats advertising, so support it",
+        body: [
+          "An owner asks their yard, their vet or the person in the next box. That is how most equine business changes hands and no campaign overrides it.",
+          "What advertising does is make you the name that gets recommended confidently — visible, obviously professional, with facilities and credentials people can see before they ring.",
+        ],
+      },
+      {
+        heading: "The concentration is an advantage",
+        body: [
+          "Because so much of the sector sits in a handful of counties, campaigns can be drawn extremely tightly and still reach a meaningful share of the market.",
+          "That makes a small budget go considerably further here than in a dispersed industry, and it means being visible in your own area is achievable rather than aspirational.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Do equine owners search online?",
+        a: "For services like transport, dentistry and farriery, yes. For livery they ask people first and search second, so the aim is to be findable and credible when they do.",
+      },
+      {
+        q: "Is Facebook worth it?",
+        a: "Genuinely, yes. Equine community groups in Ireland are large, active and well followed, and content from yards performs well.",
+      },
+      {
+        q: "Should we advertise livery prices?",
+        a: "A range helps. Owners are comparing and vague pricing produces viewings from people whose budget was never going to work.",
+      },
+      {
+        q: "How wide should targeting be?",
+        a: "Tight. Owners travel to a yard daily and will not go far, though for transport and specialist services the radius is much larger.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["agricultural-contractors", "veterinary", "farm-buildings"],
+  },
+  {
+    slug: "farm-buildings",
+    label: "Farm buildings",
+    title: "Farm Building Leads Ireland | Marketing for Agri Construction",
+    description:
+      "Lead generation for Irish agricultural building contractors: sheds, slatted units, slurry storage and TAMS-funded work. From €1,500 a month.",
+    h1: "Farm building leads timed to the grant and the weather.",
+    intro: [
+      "Agricultural building in Ireland is shaped by two calendars. Grant schemes decide what farmers can afford and when they apply, and the weather decides when anything can actually be built. Both are outside your control and both are predictable.",
+      "The jobs are also large and infrequent. A slatted unit or a slurry store is a substantial investment made once in many years, which means low enquiry volume and a very high value per enquiry — the opposite of how most trade advertising is judged.",
+    ],
+    run: [
+      {
+        name: "Grant-cycle campaigns",
+        text: "Timed to scheme announcements and application windows, when farmers are actively costing work.",
+      },
+      {
+        name: "Building-type campaigns",
+        text: "Slatted units, slurry storage, machinery sheds and handling facilities are different projects with different drivers.",
+      },
+      {
+        name: "Compliance and spec clarity",
+        text: "Slurry storage requirements and specification standards, explained plainly, because getting it wrong is expensive.",
+      },
+      {
+        name: "Local and regional targeting",
+        text: "Agricultural contractors work a defined area, and campaigns should match it.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, site visits and cost per enquiry.",
+      },
+    ],
+    qualify: [
+      "What type of building do you need?",
+      "Roughly what size?",
+      "Are you applying for grant funding?",
+      "When would you want it built?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Grants decide the timing",
+        body: [
+          "Farmers plan substantial capital work around what is funded and when applications open. Advertising outside those windows reaches people who are interested but not yet able to act.",
+          "Campaigns concentrated around scheme announcements and application periods reach farmers while they are actually costing projects, which is a different conversation entirely from general awareness.",
+        ],
+      },
+      {
+        heading: "Low volume, very high value",
+        body: [
+          "A handful of enquiries a month is a strong result here. Judged against a trades benchmark of cost per lead the numbers look alarming; judged against the value of a slatted unit they are comfortable.",
+          "Setting that expectation before a campaign starts prevents the usual mistake of switching something off that was working.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "How many enquiries should we expect?",
+        a: "Few. This is a low-volume, high-value market and a campaign producing large numbers is almost certainly reaching the wrong people.",
+      },
+      {
+        q: "When should we advertise?",
+        a: "Around grant scheme windows and in the run-up to the building season. Farmers cost projects when funding is in view.",
+      },
+      {
+        q: "Do farmers search online?",
+        a: "Increasingly, particularly younger farmers and for larger projects where they want to compare specification and price before ringing anyone.",
+      },
+      {
+        q: "Is Facebook worth it?",
+        a: "In rural areas, often more than search. Farming community pages are well followed and photographs of completed buildings travel.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["agricultural-contractors", "equine-services", "builders-and-extensions"],
+  },
+  {
+    slug: "self-storage",
+    label: "Self storage",
+    title: "Self Storage Marketing Ireland | Enquiries & Occupancy",
+    description:
+      "Marketing for Irish self storage facilities. Occupancy is the only number, and life events are the trigger. From €1,500 a month.",
+    h1: "Self storage marketing built around occupancy, not enquiries.",
+    intro: [
+      "A storage facility has one number that matters: occupancy. An empty unit costs the same as a full one and earns nothing, and a customer who stays fourteen months instead of four is worth three times as much with no additional marketing.",
+      "The demand is almost entirely event-driven. People rent storage because of a move, a renovation, a bereavement, a separation, a business outgrowing its premises, or a student year ending. Nobody rents storage speculatively.",
+    ],
+    run: [
+      {
+        name: "Life-event campaigns",
+        text: "Built around the moments that actually create demand — moving, renovating, downsizing, a business expanding.",
+      },
+      {
+        name: "Local radius targeting",
+        text: "People choose storage close to home or to the route they already drive. The catchment is small and should be targeted that way.",
+      },
+      {
+        name: "Business storage campaigns",
+        text: "Stock, archives and equipment. Longer stays, less price-sensitive and considerably more valuable than domestic.",
+      },
+      {
+        name: "Occupancy-led budgeting",
+        text: "Spend weighted towards the unit sizes actually standing empty rather than the facility in general.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, units let and cost per let.",
+      },
+    ],
+    qualify: [
+      "What size unit do you need?",
+      "How long do you expect to need it?",
+      "Is this personal or business storage?",
+      "When would you need to move in?",
+    ],
+    proof: [
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Length of stay is worth more than the enquiry count",
+        body: [
+          "A domestic customer storing between houses may stay six weeks. A business storing stock or archives may stay years.",
+          "Both cost roughly the same to acquire, which means business enquiries are worth far more and deserve their own campaign, their own message and a higher bid.",
+        ],
+      },
+      {
+        heading: "Advertise the sizes that are empty",
+        body: [
+          "Most facilities advertise storage in general while their small units are full and their large ones sit idle, or the reverse.",
+          "Pointing budget at the sizes actually available shifts occupancy, which is the only number that matters. It requires knowing your own inventory weekly, and it is worth the effort.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "What drives demand?",
+        a: "Life events, almost entirely — moves, renovations, bereavements, separations, business growth. Campaigns built around those outperform generic storage advertising.",
+      },
+      {
+        q: "Is business storage worth targeting?",
+        a: "It is usually the most valuable customer you can get. Longer stays, steadier payment and far less price sensitivity than domestic.",
+      },
+      {
+        q: "Should we publish prices?",
+        a: "Yes, by unit size. It is the first thing people check and hiding it sends them to a competitor who did not.",
+      },
+      {
+        q: "How wide should the radius be?",
+        a: "Small. People choose storage near home or on a route they already drive, and advertising across a county wastes most of the budget.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["equipment-hire", "skip-hire", "estate-agents"],
+  },
 ];
 
 export const industryBySlug = (slug: string) =>
