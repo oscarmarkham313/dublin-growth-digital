@@ -2827,6 +2827,1002 @@ export const industries: Industry[] = [
     ],
     related: ["physiotherapy", "skin-clinics", "med-spas"],
   },
+  {
+    slug: "mortgage-brokers",
+    label: "Mortgage brokers",
+    title: "Mortgage Broker Marketing Ireland | Leads for Brokerages",
+    description:
+      "Marketing for Irish mortgage brokers: first-time buyers, switchers and self-employed applicants. Central Bank aware, reported in booked consultations. From €1,500 a month.",
+    h1: "Mortgage broker marketing built around approval, not rates.",
+    intro: [
+      "A mortgage broker cannot win a rate comparison and should stop entering one. The lenders advertise their own rates with budgets no brokerage can match, and a borrower sorting by the lowest number was never going to use an intermediary anyway.",
+      "What a broker sells is approval — getting a mortgage over the line when the application is awkward. Self-employed income, contract work, a recent job change, a borrower who has been declined once already. Those are the searches where advice beats price, and almost nobody advertises against them.",
+    ],
+    run: [
+      {
+        name: "Approval-led campaigns",
+        text: "Aimed at the applications banks handle badly: self-employed, contractors, recent movers, previously declined. The searches are specific and barely contested.",
+      },
+      {
+        name: "Switcher campaigns",
+        text: "Timed to rate movements and to the point where fixed terms roll off, which is when a switcher is genuinely reachable.",
+      },
+      {
+        name: "First-time buyer content",
+        text: "The longest research cycle in Irish financial services. Being useful early is what gets the call when they are finally ready.",
+      },
+      {
+        name: "Compliance-aware creative",
+        text: "You are Central Bank regulated and your advertising carries obligations. Everything is written to respect them and sent for your approval.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, consultations booked and cost per consultation, split by applicant type.",
+      },
+    ],
+    qualify: [
+      "Are you buying, switching or remortgaging?",
+      "Is this your first mortgage?",
+      "Are you employed or self-employed?",
+      "Have you approval in principle already?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Why rate advertising loses money for brokers",
+        body: [
+          "Lenders spend on rate messaging because they are selling the rate. A broker advertising the same thing is competing on somebody else's product with a fraction of the budget, and attracting the borrowers least likely to need a broker.",
+          "The brokerage advantage sits entirely in complexity. A straightforward PAYE applicant with a large deposit does not need you and knows it. Somebody self-employed two years with variable income needs you badly and has nowhere obvious to look.",
+        ],
+      },
+      {
+        heading: "The switcher window nobody times",
+        body: [
+          "Switchers are only reachable in a narrow period — when a fixed term is ending, or when rates move enough to make the arithmetic obvious.",
+          "Advertising to switchers in a flat monthly spend wastes most of it on people locked in for another three years. Weighting campaigns to rate news and to the months when fixed terms commonly roll off changes cost per enquiry substantially.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Can we advertise specific rates?",
+        a: "Only within your regulatory obligations, and it is rarely the best use of budget anyway. You will be outspent by the lenders on their own product. Approval and complexity are where a brokerage can actually win.",
+      },
+      {
+        q: "Which applicants are worth targeting?",
+        a: "The ones banks find awkward — self-employed, contractors, previously declined, non-standard income. Those searches have clear intent, little competition and a borrower who genuinely needs the service.",
+      },
+      {
+        q: "Is LinkedIn worth it?",
+        a: "For self-employed and professional applicants it can be, though it is dearer per click than search. We would establish search first.",
+      },
+      {
+        q: "How long is the cycle?",
+        a: "First-time buyers research for months before they are ready. Switchers act in weeks. They need entirely different campaigns and different patience.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["insurance-brokers", "accountants", "estate-agents"],
+  },
+  {
+    slug: "architects",
+    label: "Architects",
+    title: "Architect Marketing Ireland | Client Leads for Practices",
+    description:
+      "Marketing for Irish architects and architectural designers: extensions, new builds and planning work. Campaigns built around the enquiry worth taking. From €1,500 a month.",
+    h1: "Architect marketing built around the projects you want.",
+    intro: [
+      "Architecture has the longest gap between enquiry and fee of any service we work with, and the widest spread in what an enquiry is worth. A loft conversion drawing and a new build differ by a factor of twenty, and both arrive through the same contact form.",
+      "The other difficulty is that many enquiries are not projects at all. Someone who has not spoken to a bank, has no site and no budget is a conversation, not a client. Filtering that before it reaches you is worth more than any increase in volume.",
+    ],
+    run: [
+      {
+        name: "Project-type campaigns",
+        text: "Extensions, new builds, retrofits and commercial work run separately, because the budgets and the timelines have almost nothing in common.",
+      },
+      {
+        name: "Planning-led content",
+        text: "The exemption rules, what permission actually involves and how long it takes. It is what people search and it establishes competence immediately.",
+      },
+      {
+        name: "Qualification before the call",
+        text: "Site status, budget band and whether finance is arranged, asked in the form so your consultations are with people who can proceed.",
+      },
+      {
+        name: "Finished-project creative",
+        text: "Completed work photographed properly. Architecture is chosen visually more than practices like to admit.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, consultations booked and cost per consultation, split by project type.",
+      },
+    ],
+    qualify: [
+      "What type of project is it?",
+      "Do you own the site or property already?",
+      "Do you have a budget range in mind?",
+      "Have you applied for planning before?",
+    ],
+    proof: [
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "The enquiry that costs you a morning",
+        body: [
+          "Every practice knows the one: an enthusiastic homeowner, no site, no finance, an idea from a television programme. Two hours of goodwill and no project.",
+          "Three questions in the form removes most of them without deterring anyone real. Somebody with a site and a budget answers them happily; somebody without quietly does not submit, which is the outcome you want.",
+        ],
+      },
+      {
+        heading: "Planning content is the best marketing an architect can do",
+        body: [
+          "Homeowners are confused about exemptions, permission timelines and what is possible on their site, and they search constantly for answers.",
+          "A practice that explains it plainly gets found early, is remembered, and is the obvious call when the project becomes real. It also filters — people who learn their idea needs permission and walk away were never going to be clients.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "How do we avoid unpaid consultations?",
+        a: "Ask about site ownership, budget and finance in the form. It reduces enquiry numbers and raises the proportion that become fee-paying work.",
+      },
+      {
+        q: "Should we advertise fees?",
+        a: "A fee structure or a starting point helps more than it hurts. It is what people are trying to establish and hiding it produces enquiries from people with no budget.",
+      },
+      {
+        q: "Is social worth it for a practice?",
+        a: "For domestic extension work, yes — it is visual and people save what they like. For commercial work, search and reputation do more.",
+      },
+      {
+        q: "What about competitions and public work?",
+        a: "That is a different pipeline entirely and marketing plays little part. This is about private and domestic work.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["builders-and-extensions", "attic-conversions", "sunrooms-and-conservatories"],
+  },
+  {
+    slug: "pest-control",
+    label: "Pest control",
+    title: "Pest Control Leads Ireland | Marketing for Pest Controllers",
+    description:
+      "Lead generation for Irish pest control companies: domestic callouts and commercial contracts. Seasonal, urgent, and reported in booked jobs. From €1,500 a month.",
+    h1: "Pest control leads, domestic and commercial.",
+    intro: [
+      "Pest control has two businesses and they could not be less alike. Domestic work is urgent, emotional and frequently embarrassing — somebody wants the problem gone today and does not want the neighbours to know. Commercial work is contractual, compliance-driven and worth many times more over a year.",
+      "The seasons are as sharp as any trade in Ireland. Wasps in high summer, rodents moving indoors from September, and a long quiet stretch in spring. A flat budget across that curve overspends badly in the months nobody is calling.",
+    ],
+    run: [
+      {
+        name: "Seasonal domestic campaigns",
+        text: "Budget weighted to the wasp and rodent seasons, where the demand actually is, rather than spread evenly across a year.",
+      },
+      {
+        name: "Discretion in the messaging",
+        text: "Domestic callers are frequently mortified. Advertising that acknowledges an unmarked van and a discreet visit converts noticeably better than advertising that does not.",
+      },
+      {
+        name: "Commercial contract campaigns",
+        text: "Food businesses, hospitality, warehousing and management companies, where compliance requirements make the contract recurring and far less price-driven.",
+      },
+      {
+        name: "Speed-first domestic ads",
+        text: "A phone action rather than a form, because nobody fills in a contact form with a rat in the kitchen.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, jobs booked and cost per job, split domestic and commercial.",
+      },
+    ],
+    qualify: [
+      "What type of pest is it?",
+      "Is this a home or a business premises?",
+      "How long has the problem been there?",
+      "How soon do you need someone out?",
+    ],
+    proof: [
+      { value: "#1", label: "on Google for emergency callouts, Dublin trade" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "The season is the strategy",
+        body: [
+          "Wasp enquiries arrive in a concentrated summer burst and stop almost overnight. Rodent work rises from September as the weather turns and runs through winter. Spring is genuinely quiet.",
+          "Budget that follows that curve produces materially cheaper enquiries than the same money spread flat, because you are advertising while the problem exists rather than while it is being remembered.",
+        ],
+      },
+      {
+        heading: "Commercial is where the business is worth something",
+        body: [
+          "A domestic callout is a one-off with a modest fee. A commercial contract is recurring revenue with compliance behind it, which makes it stickier and considerably less price-sensitive.",
+          "Food businesses, hospitality and any premises subject to inspection need documented pest management, and they switch provider when service slips rather than when price rises. That is an easier market to win than it looks.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should we advertise at weekends?",
+        a: "Domestic pest problems do not respect office hours and weekend clicks convert well — but only if somebody answers. If not, switch the hours off rather than pay for missed calls.",
+      },
+      {
+        q: "Is commercial work worth chasing?",
+        a: "It is usually what makes a pest control business valuable. Contracts recur, compliance drives renewal, and the buyer is not choosing on price alone.",
+      },
+      {
+        q: "How do we handle the embarrassment factor?",
+        a: "By naming it. Mentioning unmarked vehicles and discreet visits converts better than pretending the caller is not mortified, because a great many of them are.",
+      },
+      {
+        q: "How seasonal is it really?",
+        a: "Very. Two distinct peaks and a genuinely quiet spring. Planning budget around that is the single biggest efficiency available in this trade.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["drainage", "damp-proofing", "security-and-alarms"],
+  },
+  {
+    slug: "locksmiths",
+    label: "Locksmiths",
+    title: "Locksmith Leads Ireland | Marketing for Locksmiths",
+    description:
+      "Lead generation for Irish locksmiths: emergency lockouts, lock changes and security upgrades. Built for the fifteen minutes that decide the job. From €1,500 a month.",
+    h1: "Locksmith leads, at the moment the phone should ring.",
+    intro: [
+      "Nobody researches a locksmith. They are standing outside a door, they search, they ring the first number that looks local, and the job is gone within about fifteen minutes. There is no consideration phase and no second chance.",
+      "This trade also has a reputation problem it did not create. National call centres advertise as local locksmiths, subcontract the job to whoever is nearest, and quote one price on the phone and another at the door. Every genuine locksmith in Ireland is competing against that, and it is an opportunity as much as an obstacle.",
+    ],
+    run: [
+      {
+        name: "Emergency search campaigns",
+        text: "Built around the phone rather than a form, running at the hours you will actually answer, targeted to the area you can genuinely reach quickly.",
+      },
+      {
+        name: "Local proof in the messaging",
+        text: "A real address, a named person and local reviews — the things the call centres cannot show and the caller is quietly worried about.",
+      },
+      {
+        name: "Fixed callout pricing",
+        text: "Publishing a callout fee directly answers the fear of a doorstep price change. It converts better than any claim about being trustworthy.",
+      },
+      {
+        name: "Planned security work",
+        text: "Lock upgrades, insurance-standard cylinders and post-break-in work, advertised separately from lockouts.",
+      },
+      {
+        name: "The weekly report",
+        text: "Calls, cost per call and which campaign produced them.",
+      },
+    ],
+    qualify: [
+      "Are you locked out right now?",
+      "Is this a home, business or vehicle?",
+      "What type of lock is it?",
+      "What area are you in?",
+    ],
+    proof: [
+      { value: "#1", label: "on Google for emergency callouts, Dublin trade" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Why local proof beats everything else",
+        body: [
+          "The caller's real anxiety is not whether you can open the door. It is whether the price quoted on the phone is the price they will be asked for at the door, and whether the person arriving is who they think they called.",
+          "A real address, a face, a named business and reviews from the same town settle that in seconds, and they are precisely what a national call centre operating under a local-sounding name cannot produce.",
+        ],
+      },
+      {
+        heading: "Publish the callout fee",
+        body: [
+          "Most locksmiths resist this because jobs vary. But the variation is the problem being solved: the caller has heard about doorstep prices and is deciding who to trust.",
+          "A clear callout fee with an honest note that the total depends on the lock removes the single biggest objection in the trade, and it filters out the callers who were only ever going to price-shop.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should we advertise 24 hours?",
+        a: "Only for the hours you will answer. Out-of-hours clicks in this trade are expensive and convert extremely well, and an unanswered one is the most wasteful thing you can buy.",
+      },
+      {
+        q: "How do we compete with the national call centres?",
+        a: "By being visibly local in a way they cannot copy — address, name, photograph, reviews from your own town. The callers who value that are also the ones who do not haggle.",
+      },
+      {
+        q: "Is a form worth having?",
+        a: "Barely, for emergency work. Almost nobody types while locked out. Forms make sense only for planned security work, which should be its own campaign.",
+      },
+      {
+        q: "What about vehicle work?",
+        a: "If you do it, it deserves its own campaign — the search terms, the urgency and the price point are all different from domestic lockouts.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["security-and-alarms", "drainage", "electricians"],
+  },
+  {
+    slug: "powerwashing",
+    label: "Powerwashing",
+    title: "Powerwashing Leads Ireland | Marketing for Exterior Cleaning",
+    description:
+      "Lead generation for Irish powerwashing and exterior cleaning businesses: driveways, roofs, patios and render. Photograph-led and sharply seasonal. From €1,500 a month.",
+    h1: "Powerwashing leads, in the months people actually look outside.",
+    intro: [
+      "Powerwashing is the most photogenic trade in Ireland. A half-cleaned driveway with a hard line down the middle is among the most persuasive images in home improvement, and it costs nothing to capture.",
+      "It is also brutally seasonal. Enquiries run from roughly March to September and all but stop after that, because nobody is looking at their patio in January. Firms that advertise evenly across the year spend half their budget into an empty room.",
+    ],
+    run: [
+      {
+        name: "Half-and-half creative",
+        text: "The single most effective image in this trade, and the reason social outperforms search for most powerwashing businesses.",
+      },
+      {
+        name: "Season-weighted budget",
+        text: "Concentrated into the months people are outside, rather than spread flat across a year that is half dead.",
+      },
+      {
+        name: "Estate and street targeting",
+        text: "One cleaned driveway sells the next three on the same road. Campaigns built around specific estates rather than counties.",
+      },
+      {
+        name: "Roof and render as separate work",
+        text: "Considerably higher value than a driveway and a different decision. Advertised on its own so it is not priced against patio cleaning.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, jobs booked and cost per job.",
+      },
+    ],
+    qualify: [
+      "What needs cleaning — driveway, patio, roof or render?",
+      "Roughly what area?",
+      "When was it last done?",
+      "When would you like it done?",
+    ],
+    proof: [
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "The neighbour effect is the whole business",
+        body: [
+          "Powerwashing sells itself down a street. A driveway cleaned on Tuesday is seen by every household that passes it, and the enquiries that follow cost nothing.",
+          "That makes estate-level targeting unusually powerful here. Advertising to the road you are already working on, while you are working on it, is the cheapest work in the trade — and almost nobody does it deliberately.",
+        ],
+      },
+      {
+        heading: "Roof cleaning is the job worth advertising for",
+        body: [
+          "A driveway is a few hundred euro. Roof moss removal and render cleaning are worth several times that, involve access equipment and are far less contested.",
+          "They are also a different decision — the homeowner is worried about damage rather than appearance — so the messaging has to change completely. Run inside a general powerwashing campaign it gets buried under cheaper enquiries.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is social better than Google here?",
+        a: "Usually yes, by a distance. The before-and-after image does the selling, and most people did not wake up searching for a powerwasher — they saw one.",
+      },
+      {
+        q: "What about winter?",
+        a: "Largely dead for domestic work. Some firms fill it with commercial contracts, gutter clearing and render work; most are better off pausing and saving the budget for March.",
+      },
+      {
+        q: "Should we publish prices?",
+        a: "A from-price per standard driveway helps, because it is what people are trying to establish and it filters out the ones expecting fifty euro.",
+      },
+      {
+        q: "Do you need photographs?",
+        a: "Yes, and they matter more here than in any other trade. Half-cleaned shots, taken in daylight, from your own jobs.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["driveways-and-paving", "roofers", "landscapers"],
+  },
+  {
+    slug: "carpentry-and-joinery",
+    label: "Carpentry & joinery",
+    title: "Joinery Leads Ireland | Marketing for Carpenters & Fitted Furniture",
+    description:
+      "Lead generation for Irish carpenters and joinery businesses: fitted wardrobes, bespoke furniture and second-fix work. Reported in booked consultations. From €1,500 a month.",
+    h1: "Joinery leads for the work worth making.",
+    intro: [
+      "Carpentry covers two businesses with very different economics. Second-fix and site work is steady, subcontracted and priced by the day. Fitted wardrobes, bespoke furniture and made-to-measure joinery are direct to homeowner, worth several thousand a job, and chosen on how the finished work looks.",
+      "Most carpenters advertise neither, because the work arrives through builders and word of mouth. That is fine until a site finishes, and it is why the ones with their own enquiries are less exposed than the ones without.",
+    ],
+    run: [
+      {
+        name: "Fitted furniture campaigns",
+        text: "Wardrobes, alcove units, home offices and understairs storage — the direct-to-homeowner work with real margin.",
+      },
+      {
+        name: "Photograph-led social",
+        text: "Joinery is bought visually. Finished installs in real rooms outperform anything written.",
+      },
+      {
+        name: "Search for the ready",
+        text: "Google Ads on fitted wardrobe and bespoke joinery searches for people already costing it up.",
+      },
+      {
+        name: "Room and spec qualification",
+        text: "How many rooms, what style, and whether they have measurements — asked before your time is spent.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, consultations booked and cost per consultation.",
+      },
+    ],
+    qualify: [
+      "What type of joinery do you need?",
+      "How many rooms or units?",
+      "Do you have a style or finish in mind?",
+      "When would you want it fitted?",
+    ],
+    proof: [
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Why fitted furniture is the campaign worth running",
+        body: [
+          "A set of fitted wardrobes is several thousand euro, takes a few days, and is decided by the homeowner rather than by a main contractor. There is no subcontract rate and nobody taking a margin above you.",
+          "It also repeats. A household that has one room done frequently comes back for the next, which makes the value of winning one considerably higher than the first invoice suggests.",
+        ],
+      },
+      {
+        heading: "Getting off the subcontract treadmill",
+        body: [
+          "Site work through builders is reliable until it is not. When a site ends or a contractor finds somebody cheaper, the diary empties with no warning and no pipeline behind it.",
+          "Direct work will not replace it overnight, and it does not need to. It needs to exist, so that a quiet month is a quiet month rather than a crisis.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is there enough direct demand?",
+        a: "In most areas yes, and it is thinly contested because so few carpenters advertise at all. Fitted wardrobes in particular are searched constantly.",
+      },
+      {
+        q: "Do you need photographs?",
+        a: "Yes, more than almost any trade. Finished joinery in a furnished room, in daylight. It does nearly all the selling.",
+      },
+      {
+        q: "Should we keep contractor work?",
+        a: "Of course. The point is not replacing it but having something underneath it when a site finishes.",
+      },
+      {
+        q: "Should we publish prices?",
+        a: "A from-price per wardrobe or per metre helps, because the range in this work is enormous and vague enquiries waste consultations.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["kitchens", "flooring", "builders-and-extensions"],
+  },
+  {
+    slug: "asbestos-removal",
+    label: "Asbestos removal",
+    title: "Asbestos Removal Leads Ireland | Marketing for Licensed Contractors",
+    description:
+      "Lead generation for Irish asbestos surveying and removal contractors, domestic and commercial. Urgent, regulated, and reported in booked surveys. From €1,500 a month.",
+    h1: "Asbestos leads, from people who have just found it.",
+    intro: [
+      "Asbestos enquiries are almost always triggered by a discovery. A builder opens a ceiling mid-renovation, a survey flags it before a sale, a demolition is halted. In every case a project has just stopped and somebody needs it moving again quickly.",
+      "That urgency makes intent extremely high and price sensitivity low, but it also means the enquiry arrives frightened and uninformed. The contractor who explains the process calmly — survey, notification, removal, clearance — usually gets the job.",
+    ],
+    run: [
+      {
+        name: "Discovery-triggered campaigns",
+        text: "Built around the searches people make in the hour after finding something: identification, what to do next, is it dangerous.",
+      },
+      {
+        name: "Survey-first messaging",
+        text: "Most enquiries do not yet know what they have. Selling the survey rather than the removal matches where the caller actually is.",
+      },
+      {
+        name: "Commercial and demolition campaigns",
+        text: "Contractors, management companies and demolition firms, where the work is larger, planned and repeats.",
+      },
+      {
+        name: "Licensing made visible",
+        text: "Licensed status and HSA notification handled prominently, because it is what separates you from a general builder offering to take it out.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, surveys booked and cost per survey, split domestic and commercial.",
+      },
+    ],
+    qualify: [
+      "Where is the suspected asbestos?",
+      "Is a project currently stopped because of it?",
+      "Is this a home or a commercial premises?",
+      "Do you need a survey or removal?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "The caller is frightened, not shopping",
+        body: [
+          "Somebody who has just opened a ceiling and seen something they think is asbestos is not comparing three quotes. They want to know whether their family is in danger and when work can restart.",
+          "Advertising that answers those two questions calmly converts far better than advertising about capability. The competence is assumed; the reassurance is not.",
+        ],
+      },
+      {
+        heading: "Commercial repeats, domestic does not",
+        body: [
+          "A domestic removal happens once. A relationship with a demolition contractor, a management company or a local authority repeats indefinitely.",
+          "Both are worth having, but they justify completely different acquisition costs, and running them in one campaign means the cheaper domestic enquiries take the budget.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should we advertise removal or surveys?",
+        a: "Surveys, mostly. Most enquiries do not yet know what they have, and a survey-led message meets them where they are while still leading to the removal work.",
+      },
+      {
+        q: "How do we stand out from general builders?",
+        a: "Licensing, notification and clearance certification, stated plainly. Homeowners increasingly know enough to ask, and the ones who do are the ones worth having.",
+      },
+      {
+        q: "Is this seasonal?",
+        a: "Less than most trades. It follows construction and renovation activity rather than weather, with a mild dip over the Christmas shutdown.",
+      },
+      {
+        q: "Is commercial worth targeting separately?",
+        a: "Yes. Contractors and management companies generate repeat work and are far less price-driven than a one-off domestic caller.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["damp-proofing", "builders-and-extensions", "insulation"],
+  },
+  {
+    slug: "skip-hire",
+    label: "Skip hire & waste",
+    title: "Skip Hire Leads Ireland | Marketing for Waste & Skip Companies",
+    description:
+      "Lead generation for Irish skip hire and waste collection companies, domestic and trade. Same-day, price-led and reported in booked deliveries. From €1,500 a month.",
+    h1: "Skip hire leads, for a decision made in four minutes.",
+    intro: [
+      "Skip hire is bought faster than almost anything else in this list. Somebody is clearing a house or mid-renovation, they need a skip today or tomorrow, and they will ring two numbers. Price and availability decide it, in that order.",
+      "That makes this an unusually pure search business. There is no consideration phase to influence and no brand loyalty to build — but there is a significant difference between firms that answer immediately with a price and firms that offer to call back.",
+    ],
+    run: [
+      {
+        name: "Availability-led search campaigns",
+        text: "Same-day and next-day messaging, because that is the actual question behind the search.",
+      },
+      {
+        name: "Size and price clarity",
+        text: "Skip sizes and prices published, since the caller is comparing and will simply ring someone who did.",
+      },
+      {
+        name: "Permit handling as a differentiator",
+        text: "Whether a permit is needed and who arranges it is the thing domestic customers understand least and worry about most.",
+      },
+      {
+        name: "Trade account campaigns",
+        text: "Builders, landscapers and shopfitters who need skips repeatedly. Worth many times a one-off domestic hire.",
+      },
+      {
+        name: "The weekly report",
+        text: "Calls, bookings and cost per booking, split domestic and trade.",
+      },
+    ],
+    qualify: [
+      "What size skip do you need?",
+      "What are you disposing of?",
+      "Is it going on a driveway or the road?",
+      "When do you need it?",
+    ],
+    proof: [
+      { value: "#1", label: "on Google for emergency callouts, Dublin trade" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Publish the prices",
+        body: [
+          "Firms in this trade hesitate to publish because prices vary by waste type and location. The hesitation costs them, because the caller's first question is price and they will get an answer somewhere.",
+          "A clear table of sizes with from-prices, plus an honest line about what affects the total, wins the call. Vagueness sends people to the next result.",
+        ],
+      },
+      {
+        heading: "Trade accounts are the business worth building",
+        body: [
+          "A domestic customer hires one skip and disappears. A builder hires forty a year and a landscaper twenty, and neither is choosing on a few euro once a relationship exists.",
+          "That work needs its own campaign and its own message — reliability, account terms and same-day availability rather than one-off price.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should we publish prices?",
+        a: "Yes. It is the first thing callers want and the reason they ring one firm over another. Vagueness loses the call before you can explain anything.",
+      },
+      {
+        q: "How important is same-day?",
+        a: "It is frequently the deciding factor. If you can do it, say so prominently; if you cannot, be clear about lead times rather than let people find out.",
+      },
+      {
+        q: "Who handles the permit?",
+        a: "Whoever explains it. Domestic customers do not know a road permit exists until told, and the firm that handles it sounds like the easy option.",
+      },
+      {
+        q: "Is trade work worth chasing?",
+        a: "It is what makes the business stable. Repeat commercial hire is worth many times a one-off domestic skip and is far less price-sensitive.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["builders-and-extensions", "landscapers", "drainage"],
+  },
+  {
+    slug: "it-support",
+    label: "IT support & MSPs",
+    title: "IT Support Marketing Ireland | Leads for Managed Service Providers",
+    description:
+      "Marketing for Irish IT support companies and managed service providers. Built around the moments businesses actually switch, reported in booked discovery calls. From €1,500 a month.",
+    h1: "IT support marketing built around the moment businesses switch.",
+    intro: [
+      "Nobody shops for IT support while everything is working. A business changes provider after an event — an outage that lasted too long, a security incident, a support ticket nobody answered, or a growth step their current provider cannot handle.",
+      "That makes this a timing problem rather than a persuasion problem. The marketing that works is visible when the event happens, and useful enough beforehand that you are the name that comes to mind.",
+    ],
+    run: [
+      {
+        name: "Switch-trigger campaigns",
+        text: "Aimed at the searches businesses make after an incident: slow response, outages, provider comparisons, exit from a contract.",
+      },
+      {
+        name: "Compliance and security content",
+        text: "Cyber insurance requirements, backup obligations and security basics — searched by the person who has just been asked a question they cannot answer.",
+      },
+      {
+        name: "Sector-specific campaigns",
+        text: "Practices, clinics, professional services and manufacturers all have different requirements and different language.",
+      },
+      {
+        name: "Discovery call as the conversion",
+        text: "The campaign optimises for a booked call, because an IT relationship is never bought from a form.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, discovery calls booked and cost per booked call.",
+      },
+    ],
+    qualify: [
+      "How many staff and devices?",
+      "Do you have an IT provider currently?",
+      "What prompted you to look?",
+      "Are there compliance requirements involved?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Client value changes everything here",
+        body: [
+          "A managed service client is monthly recurring revenue that typically lasts years, and the contract usually grows with the business.",
+          "Measured over a realistic lifetime, most MSPs can afford acquisition costs several times what they currently assume. Judging a discovery call against one month's fee is why so many conclude marketing does not work for them.",
+        ],
+      },
+      {
+        heading: "What to publish that competitors will not",
+        body: [
+          "Response times and what is actually included. The sector is notoriously vague about both, which is precisely why stating them plainly stands out.",
+          "A prospect who has just spent three days waiting on their current provider is not looking for another vague promise. They are looking for somebody who will commit to a number.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is search worth it when nobody shops proactively?",
+        a: "Yes, because the switch searches are specific and high intent — comparisons, provider problems, contract exits. Low volume, excellent quality.",
+      },
+      {
+        q: "Is LinkedIn better for B2B here?",
+        a: "It can work for larger targets, and it is dearer. For most Irish MSPs, search plus content aimed at the switch triggers produces better value.",
+      },
+      {
+        q: "What should we publish?",
+        a: "Response times, what is in the contract, and what happens out of hours. The sector avoids all three, so saying them is a differentiator on its own.",
+      },
+      {
+        q: "How long is the cycle?",
+        a: "Weeks after a trigger event, months without one. Retargeting matters because the person researching today may not be able to switch until a contract ends.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["accountants", "solicitors", "security-and-alarms"],
+  },
+  {
+    slug: "agricultural-contractors",
+    label: "Agricultural contractors",
+    title: "Agricultural Contractor Leads Ireland | Marketing for Ag Contractors",
+    description:
+      "Lead generation for Irish agricultural contractors: silage, slurry, reseeding, hedge cutting and tillage. Built around the weeks that matter. From €1,500 a month.",
+    h1: "Agricultural contractor marketing built around a very short year.",
+    intro: [
+      "Agricultural contracting is decided in a handful of weeks. Silage, slurry spreading and tillage all happen inside narrow weather-dependent windows, and a farmer who has not chosen a contractor by then is ringing whoever answers.",
+      "It is also a relationship business more than almost any other in this list. Farmers use the same contractor for years and switch reluctantly, usually after a season where the contractor did not turn up when the weather allowed. That makes acquisition hard and retention extremely valuable.",
+    ],
+    run: [
+      {
+        name: "Pre-season campaigns",
+        text: "Visible in the weeks before each window opens, because once it opens nobody is researching — they are ringing.",
+      },
+      {
+        name: "Service-specific campaigns",
+        text: "Silage, slurry, reseeding and hedge cutting searched separately and by different farmers at different times of year.",
+      },
+      {
+        name: "Local and parish-level targeting",
+        text: "Farm contracting is intensely local. A campaign drawn tightly around the area you genuinely travel outperforms a county one.",
+      },
+      {
+        name: "Kit and capacity as the message",
+        text: "Machinery, crew size and turnaround are what farmers actually judge. Photographs of the fleet working do more than any claim.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, bookings and cost per booking, by service.",
+      },
+    ],
+    qualify: [
+      "What service do you need?",
+      "Roughly what acreage?",
+      "What area are you in?",
+      "When do you need it done?",
+    ],
+    proof: [
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Everything happens in about six weeks",
+        body: [
+          "Silage is the clearest example: the window opens when the weather allows, every farmer wants the same fortnight, and capacity decides who gets served.",
+          "Advertising during that window is largely wasted — people are ringing, not researching. The campaign that matters runs in the weeks beforehand, when farmers are deciding who to ring.",
+        ],
+      },
+      {
+        heading: "Retention is worth more than acquisition",
+        body: [
+          "Farmers stay with a contractor for years and change only after being let down, usually on timing rather than price.",
+          "That means the marketing budget is better aimed at replacing natural churn and filling genuine capacity than at trying to take clients from a contractor who is doing a decent job. It also means one bad season costs more than any campaign can recover.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Do farmers actually search online?",
+        a: "Increasingly, yes — particularly younger farmers and for services outside their usual contractor's range. It is a smaller market than most trades, and correspondingly uncontested.",
+      },
+      {
+        q: "Is Facebook worth it?",
+        a: "Often more than search in rural areas. Parish and farming community pages are well followed and machinery content gets genuine engagement.",
+      },
+      {
+        q: "When should we advertise?",
+        a: "In the weeks before each window, not during. Once silage starts, nobody is reading anything.",
+      },
+      {
+        q: "What matters most in the message?",
+        a: "Capacity and timing. Farmers are judging whether you will turn up when the weather allows, which is the thing that actually decides the season.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["fencing-and-gates", "tree-surgery", "drainage"],
+  },
+  {
+    slug: "home-care",
+    label: "Home care",
+    title: "Home Care Marketing Ireland | Enquiries for Care Providers",
+    description:
+      "Marketing for Irish home care and elder care providers. Written for the family member making the decision, reported in booked assessments. From €1,500 a month.",
+    h1: "Home care marketing written for the person actually deciding.",
+    intro: [
+      "The person who needs home care is almost never the person searching for it. It is an adult son or daughter, usually after a fall, a hospital discharge or a slow realisation that a parent is not coping — and usually feeling guilty about it.",
+      "Almost all home care advertising speaks to the wrong person, in the wrong tone. It lists services when the reader is looking for reassurance that they are doing the right thing, and that mismatch is why so much of it performs poorly.",
+    ],
+    run: [
+      {
+        name: "Family-facing campaigns",
+        text: "Written for the adult child making the decision, addressing the questions and the guilt they actually arrive with.",
+      },
+      {
+        name: "Trigger-event targeting",
+        text: "Hospital discharge, a fall, a diagnosis. These are the moments the search happens, and the messaging should match them.",
+      },
+      {
+        name: "Assessment as the conversion",
+        text: "The campaign optimises for a booked home assessment, which is the step that leads to care actually starting.",
+      },
+      {
+        name: "Funding and HSE content",
+        text: "What is funded, what is not and how the two combine. It is the most searched and least clearly answered question in the sector.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, assessments booked and cost per assessment.",
+      },
+    ],
+    qualify: [
+      "Who is the care for?",
+      "What kind of support is needed?",
+      "Is this after a hospital stay or a change at home?",
+      "How soon is it needed?",
+    ],
+    proof: [
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Write to the daughter, not the patient",
+        body: [
+          "The searcher is typically a working adult in their forties or fifties, coordinating siblings, worried about cost and quietly wondering whether they are failing their parent.",
+          "Advertising that acknowledges that converts several times better than advertising describing personal care services. The decision is emotional before it is practical, and pretending otherwise reads as cold.",
+        ],
+      },
+      {
+        heading: "The constraint is staff, not enquiries",
+        body: [
+          "Most Irish home care providers can generate more enquiries than they can serve, because carers are the bottleneck.",
+          "That changes what marketing should do. Generating demand you cannot meet damages your reputation with families and with the discharge coordinators who refer. Recruitment campaigns are frequently the more valuable spend, and we will say so rather than sell you enquiries you cannot fulfil.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Who should the advertising speak to?",
+        a: "The adult child, nearly always. They are the one searching, comparing and deciding, and they are the one who needs reassuring.",
+      },
+      {
+        q: "Should we advertise if we cannot staff the hours?",
+        a: "No, and we will tell you so. Taking enquiries you cannot serve damages you with families and with the people who refer to you. Recruitment first in that case.",
+      },
+      {
+        q: "What about HSE funded work?",
+        a: "Different pipeline, largely relationship-driven. This is about private enquiries, though families frequently search for both at once and need the difference explained.",
+      },
+      {
+        q: "Is social appropriate here?",
+        a: "Yes, carefully. It reaches the right age group well, but the tone has to be respectful — no fear, no stock photographs of distressed older people.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["physiotherapy", "veterinary", "dentists"],
+  },
+  {
+    slug: "opticians",
+    label: "Opticians",
+    title: "Optician Marketing Ireland | Patient Leads for Practices",
+    description:
+      "Marketing for Irish opticians and optometry practices. Built around the recall cycle and the tests people do not know they are entitled to. From €1,500 a month.",
+    h1: "Optician marketing built around recall, not offers.",
+    intro: [
+      "An optical practice has an unusual advantage: a built-in two-year recall cycle and a patient list that should return without being persuaded. Most of the revenue that gets chased with discounting is already sitting in the database.",
+      "The second opportunity is entitlement. A significant number of people in Ireland do not know they can get an eye test through PRSI, or that children's tests are covered, and they postpone indefinitely because they assume it will cost them.",
+    ],
+    run: [
+      {
+        name: "Recall campaigns to your own list",
+        text: "The cheapest revenue in the practice, and the one most often left to an automated email nobody opens.",
+      },
+      {
+        name: "Entitlement campaigns",
+        text: "PRSI and medical card eligibility explained plainly, reaching people who have been postponing on a false assumption.",
+      },
+      {
+        name: "Children's eye test campaigns",
+        text: "Timed to the school year, aimed at parents, and among the least contested searches in the sector.",
+      },
+      {
+        name: "Specialist service campaigns",
+        text: "Dry eye, myopia management and contact lens work, advertised separately from general testing.",
+      },
+      {
+        name: "The weekly report",
+        text: "Enquiries, appointments booked and cost per appointment.",
+      },
+    ],
+    qualify: [
+      "Is this for an adult or a child?",
+      "When was your last eye test?",
+      "Do you have PRSI or a medical card?",
+      "Which days suit you best?",
+    ],
+    proof: [
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "The list is the asset",
+        body: [
+          "Two years is long enough that people forget, move practice or simply drift. A recall that is a single automated email two years later loses a large share of them.",
+          "A proper recall sequence — reminder, follow-up, and a campaign to those who did not respond — routinely recovers more appointments than any acquisition spend, and costs a fraction.",
+        ],
+      },
+      {
+        heading: "Entitlement is the best acquisition message available",
+        body: [
+          "Plenty of adults in Ireland have never checked whether they are entitled to a funded eye test, and assume it will cost them sixty euro they would rather not spend.",
+          "Explaining it clearly reaches people who have postponed for years, and they arrive grateful rather than price-shopping. Very few practices lead with it.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is discounting frames worth it?",
+        a: "It attracts people comparing on price and trains your existing patients to wait for offers. Recall and entitlement messaging generally produce better appointments at lower cost.",
+      },
+      {
+        q: "How important is the recall list?",
+        a: "It is the single most valuable asset in the practice, and the most neglected. A proper sequence beats any acquisition campaign we could run.",
+      },
+      {
+        q: "Should we advertise children's tests?",
+        a: "Yes, timed to the school year. Parents search for it, coverage is widely misunderstood, and competition is minimal.",
+      },
+      {
+        q: "Is social worth it?",
+        a: "For frames and for children's testing, moderately. For general eye tests, search and your Google profile do most of the work.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+      },
+    ],
+    related: ["dentists", "physiotherapy", "skin-clinics"],
+  },
 ];
 
 export const industryBySlug = (slug: string) =>
