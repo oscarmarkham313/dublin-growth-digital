@@ -1202,6 +1202,396 @@ const corkWeb: ServicePage = {
   ],
 };
 
+/* ────────────────────────────────────────────────────────────────
+   DUBLIN — the home market and the brand name. The only county where
+   this agency can honestly claim to be local, and the most expensive
+   and contested advertising market in the country. Both facts drive
+   the copy.
+   ──────────────────────────────────────────────────────────────── */
+
+const dublinDigitalMarketing: ServicePage = {
+  county: "Dublin",
+  countySlug: "dublin",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Dublin | Agency for Dublin Businesses",
+  description:
+    "A Dublin digital marketing agency for Dublin businesses: Google Ads, Meta ads, SEO, web design and social, from the city centre to Swords, Tallaght, Dun Laoghaire and Blanchardstown. Reported in enquiries.",
+  h1: "Digital marketing in Dublin, measured in enquiries.",
+  intro: [
+    "Dublin is the most expensive and most contested advertising market in Ireland, and it is not close. Every agency in the country targets it, national brands bid on the same keywords as your local business, and a click here can cost several times what the identical search costs in Mayo. None of that is a reason to avoid it — it is the largest concentration of customers in the country — but it does mean a Dublin campaign built like a national one will burn through a budget with very little to show.",
+    "We are based here, which for once is a genuine advantage rather than a line on a page. We know that a customer in Rathmines will not travel to Swords, that a Dublin 4 audience and a Dublin 24 audience respond to completely different messaging, and that the difference between advertising to the county and advertising to the right six postcodes is usually the difference between a campaign working and not.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Dublin businesses",
+      body: [
+        "Five services, and in Dublin more than anywhere we would rather do one properly than spread a budget thin. The competition here punishes half-measures faster than any other market in the country.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "The fastest route to enquiries, and the one that needs the most discipline in Dublin. Tight postcode targeting, aggressive negative keywords, and a willingness to sit out the most expensive terms entirely when the maths does not work.",
+        },
+        {
+          title: "Meta ads",
+          body: "Frequently the better value channel in Dublin precisely because everyone else is fighting over search. Lower cost per thousand, enormous reach, and it works well for anything visual or discretionary.",
+        },
+        {
+          title: "SEO",
+          body: "The compounding one, and the only realistic long-term answer to Dublin click prices. Postcode and suburb-level searches, the on-page foundations most sites never had, and a Google Business Profile that can hold its own in a crowded map.",
+        },
+        {
+          title: "Web design",
+          body: "In a market where you are paying premium prices for every click, a site that loses half of them is far more expensive here than anywhere else. Conversion work usually pays back faster in Dublin than an increase in budget.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, in your own voice. Dublin customers check before they call, and a page last posted to in 2023 answers that question badly.",
+        },
+      ],
+    },
+    {
+      heading: "Why Dublin campaigns burn money",
+      body: [
+        "Four failures, and they are more expensive here than anywhere else in the country because the click prices magnify every one of them.",
+      ],
+      list: [
+        {
+          title: "Targeting the county instead of the catchment",
+          body: "Dublin is not one market and no local business serves all of it. A plumber in Swords is not taking a job in Tallaght, and a restaurant in Ranelagh has no interest in reaching Balbriggan. Advertising to County Dublin means paying Dublin prices to reach people who will never become customers.",
+        },
+        {
+          title: "Bidding against national brands head-on",
+          body: "On the broadest, most obvious keywords you are competing with companies whose budgets are set nationally and who can lose money on the term indefinitely. The winnable searches are longer, more specific and far cheaper, and there are plenty of them.",
+        },
+        {
+          title: "Ignoring what a Dublin lead is worth",
+          body: "Higher click prices are not automatically a problem. If a Dublin job is worth more than the same job elsewhere, a higher cost per lead is still profitable. Firms that benchmark Dublin costs against national averages talk themselves out of campaigns that are working.",
+        },
+        {
+          title: "No conversion work at all",
+          body: "Paying premium prices for traffic and sending it to a slow site with the phone number buried is the most expensive mistake available in this market, and it is astonishingly common.",
+        },
+      ],
+    },
+    {
+      heading: "How we work",
+      body: [
+        "You deal directly with the person running your account. No account managers, no quarterly strategy deck, and no retainer dressed up as a partnership.",
+        "Week one we take access, fix what is obviously broken and get tracking in place so the numbers from week two are real. After that, one short report a week: enquiries, cost per enquiry, and what we changed. Being in Dublin, we can sit down with you if it helps — but nothing in the process requires it.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Dublin we work",
+    body: "Campaigns are built around the postcodes and suburbs you actually serve. In a city where people will not cross town for a service they can get locally, that distinction decides whether the budget produces work.",
+    towns: [
+      "Dublin city centre",
+      "Rathmines",
+      "Ranelagh",
+      "Dun Laoghaire",
+      "Blackrock",
+      "Dundrum",
+      "Sandyford",
+      "Clontarf",
+      "Malahide",
+      "Swords",
+      "Blanchardstown",
+      "Castleknock",
+      "Lucan",
+      "Clondalkin",
+      "Tallaght",
+      "Stillorgan",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. €2,500 a month covers both channels, a new website, and everything in the first package.",
+      "Month to month, cancel any time, no setup fee. Advertising spend is separate and paid by you directly to Google or Meta from your own account, so you keep control of the budget and own the account when you leave.",
+      "If a website is the only thing you need, that is a one-off €1,500 with no monthly fee at all.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Are you actually based in Dublin?",
+      a: "Yes. Dublin Growth Digital is a Dublin agency and this is our home market, which is not something we claim on our Limerick or Cork pages because it would not be true there. If meeting in person matters to you, that is straightforward here.",
+    },
+    {
+      q: "Is Dublin too expensive to advertise in?",
+      a: "It is the most expensive market in the country, and for some businesses with low job values the arithmetic genuinely does not work on search. We will tell you if you are one of them rather than take the money. For most, the answer is not to avoid Dublin but to stop bidding on the broadest terms and to target catchments rather than the county.",
+    },
+    {
+      q: "How specific can the targeting get?",
+      a: "Down to individual postcodes and suburbs, and in Dublin it should be. A campaign aimed at four postcodes you genuinely serve will outperform one aimed at the whole county on the same budget, usually by a wide margin.",
+    },
+    {
+      q: "Will I show up in the Google map results?",
+      a: "If you have a verified Dublin address, yes, and it is worth real effort here because the map pack takes most of the attention on local searches. Proximity is a factor we cannot change, which is why a single profile rarely dominates the whole city — the aim is to own your own catchment.",
+    },
+    {
+      q: "How quickly will I see something?",
+      a: "Paid channels produce enquiries within days. SEO in Dublin is slower than elsewhere because the competition is better resourced, so we are conservative about search timelines and explicit about which one you are buying.",
+    },
+    {
+      q: "Can I see what you would do before paying anything?",
+      a: "Yes. Ask for the free growth audit and we will check where you appear in Dublin search results, who is outranking you, what your competitors are advertising and what your website does to visitors. Back within 24 hours as a PDF, no call attached.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Dublin", href: "/locations/dublin/social-media-marketing/" },
+    { label: "Web design in Dublin", href: "/locations/dublin/web-design/" },
+    { label: "All Dublin services", href: "/locations/dublin/" },
+  ],
+};
+
+const dublinSocial: ServicePage = {
+  county: "Dublin",
+  countySlug: "dublin",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Dublin | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Dublin businesses: Facebook and Instagram content and paid campaigns, managed end to end. City centre, Southside, Northside and across the county.",
+  h1: "Social media marketing in Dublin that produces customers, not followers.",
+  intro: [
+    "Social is frequently the better value channel in Dublin, and the reason is simple arithmetic: everyone is fighting over search. Google click prices here are the highest in the country, while the cost of reaching the same person on Facebook or Instagram is a fraction of it. For a lot of Dublin businesses the sensible move is to let the national brands outbid each other on search and go where they are not looking.",
+    "What Dublin does not give you is the community effect that makes social so cheap in a small town. There is no single page that everyone in the city follows, and a job done well in Terenure is not seen by the rest of the county. That means Dublin social has to be bought deliberately rather than hoped for, and targeted tightly enough that you are not paying to reach the entire city.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "Two halves, and in Dublin the paid half matters more than anywhere. Organic reach alone will not carry a business in a city this size.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule across Facebook and Instagram in your own voice — finished work, the people who do it, the questions customers keep asking. You send photos; we do the rest.",
+        },
+        {
+          title: "Postcode-level paid targeting",
+          body: "The part that makes Dublin social work. Audiences drawn around the suburbs you actually serve rather than the county, so you are not paying to reach people on the other side of the city.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured inside Facebook and Instagram rather than sent to a website to get lost. On a phone this roughly doubles completion.",
+        },
+        {
+          title: "Retargeting, which is where Dublin pays",
+          body: "Because traffic here is expensive, letting a visitor leave without a way to reach them again is costly. Retargeting is usually the cheapest enquiry source in a Dublin account and most are not running it.",
+        },
+        {
+          title: "Replies handled",
+          body: "Comments and messages answered within the working day. A large share of social enquiries arrive as messages, and unanswered ones are lost customers.",
+        },
+      ],
+    },
+    {
+      heading: "Which Dublin businesses this suits",
+      body: [
+        "Social works hardest where the work is visual, the decision is discretionary, and the customer is genuinely local to a part of the city rather than all of it.",
+        "Home improvement and trades where a before-and-after sells the job. Salons, barbers, clinics, gyms and studios, where people want to see the room and the staff before they book — and where Dublin's density means a tight radius still holds a large audience. Restaurants and cafés, where a Thursday post fills a Saturday. Retailers who need people to know what has just come in.",
+        "It works less well for emergency trades, where the customer is searching rather than scrolling, and for anything where you genuinely serve the whole county and cannot narrow the audience.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send us photographs. That is genuinely the whole of it.",
+        "Managed social fails when the agency runs out of real material and falls back on stock images and motivational quotes, which any customer recognises instantly. A few phone photos a week of actual work, actual staff and actual premises will outperform anything we could buy. We handle writing, scheduling, design, budget and replies.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Dublin areas we target",
+    body: "Paid social in Dublin lives or dies on how tightly the audience is drawn. These are the areas that come up most often, and campaigns usually run to four or five of them rather than the county.",
+    towns: [
+      "Dublin city centre",
+      "Rathmines",
+      "Ranelagh",
+      "Terenure",
+      "Dun Laoghaire",
+      "Blackrock",
+      "Dundrum",
+      "Clontarf",
+      "Drumcondra",
+      "Malahide",
+      "Swords",
+      "Blanchardstown",
+      "Castleknock",
+      "Lucan",
+      "Clondalkin",
+      "Tallaght",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. It is not sold separately, because a page posted to with no budget behind it rarely earns its keep — least of all in Dublin.",
+      "€2,500 a month adds the second advertising channel and a new website.",
+      "Month to month, cancel any time. Ad spend is paid by you directly to Meta from your own account, and the account stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is social cheaper than Google Ads in Dublin?",
+      a: "To reach someone, yes, usually by a wide margin. But it reaches people who were not actively looking, so the enquiries take longer to warm up. Search catches demand that already exists; social creates it. Most Dublin businesses should be on both, and if the budget only stretches to one we start with whichever your current enquiries point to.",
+    },
+    {
+      q: "How tightly should we target?",
+      a: "Tighter than feels comfortable. Advertising to all of Dublin sounds like reach and is usually waste. Four or five suburbs you genuinely serve will outperform the county on the same money.",
+    },
+    {
+      q: "Do I need to be on TikTok?",
+      a: "More plausibly in Dublin than elsewhere, because of the age profile in parts of the city. Still, for most Dublin businesses Facebook holds the buying audience with Instagram second, and doing those two properly beats spreading across four.",
+    },
+    {
+      q: "Can you use my existing page?",
+      a: "Yes, and usually we should — it carries followers, reviews and history a new page throws away. We want editor access rather than ownership, and you can remove it the day you stop.",
+    },
+    {
+      q: "What if I have no photos?",
+      a: "Then that is the first thing to fix, because it constrains everything else. Five minutes on a job with a phone camera and a short list from us of what to capture is enough to start.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. Follower counts can be bought and are worth nothing. What we report is how many people enquired and what each enquiry cost.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Dublin", href: "/locations/dublin/digital-marketing/" },
+    { label: "Web design in Dublin", href: "/locations/dublin/web-design/" },
+    { label: "All Dublin services", href: "/locations/dublin/" },
+  ],
+};
+
+const dublinWeb: ServicePage = {
+  county: "Dublin",
+  countySlug: "dublin",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Dublin | Website Design & Development, €1,500",
+  description:
+    "Web design and development for Dublin businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500. No monthly fee and you own every file.",
+  h1: "Web design and development for Dublin businesses.",
+  intro: [
+    "In Dublin, a website that loses visitors is more expensive than anywhere else in the country, because you paid more to get them there. Clicks here cost multiples of what the same search costs elsewhere, so every visitor who lands, hesitates and leaves represents money already spent. Conversion work in this market frequently pays back faster than any increase in advertising budget.",
+    "Most Dublin businesses we speak to do not have a traffic problem. People are finding them through search, the map results or a recommendation, and then leaving without getting in touch — because the site is slow, awkward on a phone, buries the phone number, and describes the business at length without ever asking anyone to act.",
+  ],
+  sections: [
+    {
+      heading: "What you get",
+      body: [
+        "One fixed price of €1,500, paid once, for a site designed and written from scratch for your business. No monthly fee, no contract, no retainer at the end of it.",
+      ],
+      list: [
+        {
+          title: "Designed for you, not assembled from a template",
+          body: "Up to seven pages, laid out around what your customers need to see before they pick up the phone — not a stock theme with your logo dropped in the corner.",
+        },
+        {
+          title: "Every word written for you",
+          body: "Headlines, service pages, the about page, calls to action. You do not write a sentence. We read your reviews, your competitors and your existing site first.",
+        },
+        {
+          title: "Built for the phone first",
+          body: "Designed on mobile and scaled up. In a city where a great many people search on the move, between things, a site that takes six seconds has already lost.",
+        },
+        {
+          title: "Technical SEO from day one",
+          body: "Page titles, meta descriptions, heading structure, schema markup, sitemap and robots.txt, plus Google Search Console and Analytics set up in your name. In a market this competitive these are the minimum, not an extra.",
+        },
+        {
+          title: "Your Google Business Profile rebuilt",
+          body: "Categories, services and description rewritten around the searches you want to win in your part of the city, where the map results take most of the attention.",
+        },
+        {
+          title: "Hosting, SSL and your domain connected",
+          body: "The first twelve months included. We connect the domain you already own or register a new one for you.",
+        },
+      ],
+    },
+    {
+      heading: "Ten working days, and about forty minutes of your time",
+      body: [
+        "Website projects normally drag on for months because they are run as a conversation. This one is run as a build with a finish date.",
+        "You answer six short questions and send your logo. We research and write, then design and build, with a preview link halfway through so nothing is a surprise. On day eight you send one list of everything you want changed, however long it is. We make the changes, connect the domain and launch. Then thirty days of unlimited further changes at no charge.",
+        "Your site does not go live until you have looked at it and said it is right. Unlimited revision rounds, no cut-off date.",
+      ],
+    },
+    {
+      heading: "Web development, and where the line is",
+      body: [
+        "This covers business websites: service pages, galleries, contact and quote forms, click-to-call, maps, and connections to booking or payment tools you already use such as Stripe, Calendly, Square or Fresha.",
+        "It does not cover custom software. A large e-commerce store with live stock control, a client portal, a booking engine built from scratch or a mobile app are different jobs with different prices. Tell us before you pay and we will quote it properly or tell you we are not the right people for it.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Working with Dublin businesses",
+    body: "We are based in Dublin, so meeting in person is straightforward if you want it — though nothing in the process requires it. The build runs on a six-question form, email and WhatsApp.",
+    towns: [
+      "Dublin city centre",
+      "Rathmines",
+      "Ranelagh",
+      "Terenure",
+      "Dun Laoghaire",
+      "Blackrock",
+      "Dundrum",
+      "Sandyford",
+      "Clontarf",
+      "Malahide",
+      "Swords",
+      "Blanchardstown",
+      "Castleknock",
+      "Lucan",
+      "Clondalkin",
+      "Tallaght",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500, paid once. That covers the design, the writing, the build, the launch, the SEO foundations, the analytics setup, the Google Business Profile work, the first twelve months of hosting and thirty days of unlimited changes after launch.",
+      "No monthly fee and no contract. Every file, login and account is created in your name from the start, so you can take the site elsewhere whenever you want.",
+      "If you also want advertising run afterwards, that is a separate decision made after the site is live, and nobody has to buy it.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is €1,500 cheap for Dublin?",
+      a: "It is well below what most Dublin studios quote for the same scope, and the reason is process rather than corner-cutting: a fixed scope, a ten-day build and no open-ended discovery phase. What you do not get is months of workshops. If that is what you want, you want a different kind of agency.",
+    },
+    {
+      q: "Can we meet in person?",
+      a: "Yes, we are based here. It is genuinely optional though — the build runs on a form, email and WhatsApp, and most clients never ask for a meeting.",
+    },
+    {
+      q: "Who owns the website when it is finished?",
+      a: "You do, entirely. The domain, files, hosting account, analytics and Search Console property are all in your name from the start. There is no situation where you have to ask our permission or buy your own site back.",
+    },
+    {
+      q: "Will the new site rank in Dublin?",
+      a: "The build gives it the foundations, and for a business with a defined local catchment that is often enough to compete in its own area. Dublin-wide competitive terms are a different matter — those need time, reviews and links as well as a good site, and we will tell you honestly which situation you are in.",
+    },
+    {
+      q: "I already have a website. Is it worth replacing?",
+      a: "If it brings you steady enquiries, keep it. If it is more than three or four years old, looks wrong on a phone, or you cannot remember the last enquiry through it, it is costing you more than €1,500 a year — and more in Dublin than elsewhere, because your traffic costs more to acquire.",
+    },
+    {
+      q: "What happens if I want changes in a year?",
+      a: "Small things we do as a favour. Anything substantial is charged at a flat rate agreed in advance and always quoted before we start. You are never locked into a support plan to keep your own website working.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Dublin", href: "/locations/dublin/digital-marketing/" },
+    { label: "Social media marketing in Dublin", href: "/locations/dublin/social-media-marketing/" },
+    { label: "The full €1,500 website offer", href: "/offer/" },
+  ],
+};
+
 export const servicePages: ServicePage[] = [
   limerickDigitalMarketing,
   limerickSocial,
@@ -1212,6 +1602,9 @@ export const servicePages: ServicePage[] = [
   corkDigitalMarketing,
   corkSocial,
   corkWeb,
+  dublinDigitalMarketing,
+  dublinSocial,
+  dublinWeb,
 ];
 
 export const servicePageBy = (countySlug: string, serviceSlug: string) =>
