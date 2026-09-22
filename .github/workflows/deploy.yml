@@ -55,19 +55,12 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      # Single deploy. The retry-and-sleep dance that used to live here
+      # existed only to out-race the legacy branch-deploy pipeline, which
+      # published from the repo root and would sometimes land last and
+      # revert the whole site to the 2024 static files. On 22 Sep 2026 that
+      # pipeline won a race and took every page down until this workflow
+      # finished. Pages is now set to build_type "workflow", so Actions is
+      # the only publisher and there is nothing left to race.
       - id: deployment
-        uses: actions/deploy-pages@v4
-        continue-on-error: true
-      # The legacy branch-deploy pipeline can hold the deployment lock and
-      # make the first attempt fail. Wait for it to clear and try once more.
-      - if: steps.deployment.outcome == 'failure'
-        run: sleep 30
-      - id: deployment-retry
-        if: steps.deployment.outcome == 'failure'
-        uses: actions/deploy-pages@v4
-      # The legacy branch-deploy pipeline races this workflow and can land
-      # last, reverting the site to the old files at the repo root. Deploy
-      # once more after it has definitely finished so we always win.
-      - run: sleep 120
-      - id: deployment-final
         uses: actions/deploy-pages@v4
