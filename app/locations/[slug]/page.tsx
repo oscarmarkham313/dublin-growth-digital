@@ -3,7 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { counties, countyBySlug } from "@/config/counties";
 import { servicePagesForCounty, isCountyIndexable } from "@/config/county-services";
-import { industries, industryBySlug } from "@/config/industries";
+import { industryBySlug } from "@/config/industries";
 import { site } from "@/config/copy";
 import Reveal from "@/components/Reveal";
 import MagneticButton from "@/components/MagneticButton";
@@ -53,7 +53,6 @@ export default async function CountyPage({
   const focus = c.focus
     .map((s) => industryBySlug(s))
     .filter((x): x is NonNullable<typeof x> => Boolean(x));
-  const others = industries.filter((i) => !c.focus.includes(i.slug));
   const neighbours = counties.filter((x) => x.province === c.province && x.slug !== c.slug);
   const deepServices = servicePagesForCounty(c.slug);
 
@@ -225,17 +224,6 @@ export default async function CountyPage({
                 </li>
               ))}
             </ul>
-            <p className="mt-5 text-sm leading-relaxed text-text-3">
-              Also in {c.name}:{" "}
-              {others.map((o, i) => (
-                <span key={o.slug}>
-                  <Link href={`/industries/${o.slug}/`} className="underline underline-offset-2 hover:text-ink">
-                    {o.label.toLowerCase()}
-                  </Link>
-                  {i < others.length - 1 ? ", " : "."}
-                </span>
-              ))}
-            </p>
           </Reveal>
 
           <Reveal delay={0.1}>

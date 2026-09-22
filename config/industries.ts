@@ -5815,6 +5815,1242 @@ export const industries: Industry[] = [
     ],
     related: ["equipment-hire", "skip-hire", "estate-agents"],
   },
+  {
+    slug: "ev-charger-installers",
+    label: "EV charger installers",
+    title: "EV Charger Installation Leads Ireland | Installer Marketing",
+    description:
+      "Lead generation for Irish EV charger installers. Meta and Google campaigns aimed at new EV owners claiming the SEAI grant, reported in booked surveys. From €1,500 a month.",
+    h1: "EV charger installation leads, timed to the car purchase.",
+    intro: [
+      "An EV charger is bought in a narrow window. Somebody orders a car, waits somewhere between a fortnight and four months for delivery, and organises the charger in the last two weeks of that wait. Reach them early and they forget you; reach them late and they have already rung whoever the dealer mentioned.",
+      "That timing problem is the whole job. We run campaigns for Safe Electric registered installers across Ireland aimed at people in the middle of that wait, with a form that captures the delivery date so you know exactly when to follow up.",
+    ],
+    run: [
+      {
+        name: "New-EV-owner campaigns",
+        text: "Meta ads aimed at people who have ordered rather than people who already drive, which is a much smaller and far more valuable audience.",
+      },
+      {
+        name: "SEAI grant searches on Google",
+        text: "The grant is the thing people search for. Ads on the SEAI home charger grant terms, landing on a page that explains what you handle for them.",
+      },
+      {
+        name: "Dealer and forecourt catchments",
+        text: "Targeting drawn around the dealerships that actually sell volume in your area, because that is where the orders come from.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Installs posted and promoted, so an installer looks established when a buyer checks before booking a survey.",
+      },
+      {
+        name: "Follow-up on delivery dates",
+        text: "Every lead is captured with the expected delivery date, so nobody is chased in month one and forgotten in month three.",
+      },
+    ],
+    qualify: [
+      "Have you ordered the car, and when is it due?",
+      "Is it a house with off-street parking, or an apartment?",
+      "How far is the consumer unit from where the car will park?",
+      "Are you claiming the SEAI grant?",
+      "County and Eircode",
+    ],
+    proof: [
+      { value: "54", label: "residential EV charger enquiries in three weeks for a Cork installer" },
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+    ],
+    sections: [
+      {
+        heading: "Why the grant changes the conversation",
+        body: [
+          "The SEAI home charger grant is the single most searched thing in this category, and most installer websites mention it in one line at the bottom of a page.",
+          "That is a missed opportunity, because the person searching is not really asking about money. They are asking whether the paperwork is going to be their problem. An installer who says plainly that the grant application is handled for them converts noticeably better than one who simply lists the amount.",
+        ],
+      },
+      {
+        heading: "Apartments are a different business",
+        body: [
+          "An apartment install involves a management company, shared parking and frequently a landlord, and the job can take months to approve or never happen at all.",
+          "Unless you specialise in them, the lead form should filter them out early rather than filling your diary with surveys that cannot proceed. We ask the question on the form for exactly that reason.",
+        ],
+      },
+      {
+        heading: "Competing with the dealership",
+        body: [
+          "Most buyers are offered a charger by the dealer at the point of sale, usually at a price that includes a comfortable margin for the dealer.",
+          "You are not competing on convenience there and you will rarely win on it. What you can win on is price transparency, a named local installer and a date that suits the customer rather than the dealership's partner network.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is this market not dominated by the big national installers?",
+        a: "They have scale and dealer relationships. They do not have local presence or flexibility on dates, and both of those win a good share of jobs when a buyer actually compares.",
+      },
+      {
+        q: "How far ahead of delivery should we advertise?",
+        a: "Reach them during the wait, not before the order. The form captures the delivery date so the follow-up is timed rather than guessed.",
+      },
+      {
+        q: "Do you handle the SEAI grant messaging?",
+        a: "We write it. Whether you actually complete the application for the customer is your call, but saying so clearly is worth real money either way.",
+      },
+      {
+        q: "What about commercial and fleet installs?",
+        a: "A separate campaign entirely. The buyer, the budget cycle and the sales length have nothing in common with a homeowner.",
+      },
+      {
+        q: "Do I need to be Safe Electric registered?",
+        a: "For the grant, yes, and we will not run grant-led campaigns for an installer who is not. It would generate enquiries you cannot fulfil.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included. No setup fee, month to month, and ad spend is paid directly to the platforms.",
+      },
+    ],
+    related: ["solar-installers", "electricians", "heat-pumps"],
+  },
+  {
+    slug: "septic-tank-services",
+    label: "Septic tank services",
+    title: "Septic Tank Leads Ireland | Marketing for Tank Services",
+    description:
+      "Lead generation for Irish septic tank desludging, repair and replacement companies. Campaigns built around EPA inspections and the remediation grant. From €1,500 a month.",
+    h1: "Septic tank leads, from a market driven by inspections.",
+    intro: [
+      "Roughly half a million Irish homes are on a septic tank, and almost nobody thinks about theirs until something forces them to: a failed EPA inspection, a house sale, a smell, or a tank that has not been desludged in a decade.",
+      "That makes this a reactive market with a predictable trigger, which is unusually good news for advertising. We run campaigns for tank services across Ireland aimed at the households currently inside one of those triggers.",
+    ],
+    run: [
+      {
+        name: "Inspection-failure campaigns",
+        text: "Ads aimed at the counties currently being inspected under the National Inspection Plan, where failure notices are actively landing on doormats.",
+      },
+      {
+        name: "Grant-led campaigns",
+        text: "The remediation grant is substantial and poorly understood. Ads that explain eligibility plainly, landing on a page that does the same.",
+      },
+      {
+        name: "House-sale campaigns",
+        text: "A tank certificate is frequently needed to close a sale, and those jobs are urgent and price-insensitive. Targeted separately.",
+      },
+      {
+        name: "Desludging reminders",
+        text: "The routine revenue underneath the emergencies. A recurring campaign to households due a service.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, so a company looks real when a worried homeowner checks it at ten at night.",
+      },
+    ],
+    qualify: [
+      "Is this a desludge, a repair, or a full replacement?",
+      "Has the tank failed an EPA inspection?",
+      "Is the property being sold?",
+      "When was the tank last serviced?",
+      "County and Eircode",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "The grant is the most misunderstood thing in this category",
+        body: [
+          "The remediation grant is means-tested, tied to inspection failure and restricted by registration date, and the conditions catch a great many people out.",
+          "Explaining it accurately is worth more than advertising a headline figure, because a homeowner who arrives expecting a grant they cannot get becomes a difficult job rather than a good one. We write the copy to qualify rather than to excite, which produces fewer and better enquiries.",
+        ],
+      },
+      {
+        heading: "Urgency splits this market in two",
+        body: [
+          "A failed inspection or a stalled house sale produces an urgent, price-tolerant customer who will book the first credible company that answers.",
+          "A routine desludge produces a customer who will ring three companies and pick the cheapest. Advertising to both with the same message and the same price gets you the worst of each.",
+        ],
+        list: [
+          {
+            title: "Urgent",
+            body: "Inspection failure, sale, overflow. Answer fast, quote confidently, do not lead on price.",
+          },
+          {
+            title: "Routine",
+            body: "Scheduled desludging. Compete on reliability and a reminder system rather than on being cheapest.",
+          },
+          {
+            title: "Capital",
+            body: "Full replacement or new percolation. Long consideration, grant involved, needs real explanation rather than a price.",
+          },
+        ],
+      },
+      {
+        heading: "Why local matters more than usual here",
+        body: [
+          "Tank work is dictated by ground conditions, county council requirements and site access, and homeowners know it.",
+          "A company that names the counties it works in and references local site conditions is trusted more quickly than a national number. It is also cheaper to advertise, because the targeting is tighter.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is the market not too seasonal?",
+        a: "Less than people expect. Inspections and house sales run year-round; only weather-driven overflow work is genuinely seasonal.",
+      },
+      {
+        q: "Should we advertise the grant amount?",
+        a: "Advertise eligibility, not the number. A homeowner who does not qualify and thinks they do wastes your time and leaves annoyed.",
+      },
+      {
+        q: "Which counties are worth targeting?",
+        a: "Wherever inspections are active and wherever you genuinely travel. Tanker jobs have a real distance limit and pretending otherwise costs money.",
+      },
+      {
+        q: "Do house-sale jobs actually convert?",
+        a: "Well, and fast. There is a closing date driving it, which is the most reliable urgency there is.",
+      },
+      {
+        q: "Can you run this alongside a drainage business?",
+        a: "Yes, and they should be separate campaigns. The customers and the urgency are different.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, no setup fee, month to month.",
+      },
+    ],
+    related: ["drainage", "agricultural-contractors", "plumbers-and-heating"],
+  },
+  {
+    slug: "grinds-and-tutoring",
+    label: "Grinds and tutoring",
+    title: "Grinds & Tutoring Leads Ireland | Marketing for Tutors",
+    description:
+      "Lead generation for Irish grinds schools and tutoring services. Campaigns timed to the Leaving Cert year and aimed at parents, not students. From €1,500 a month.",
+    h1: "Grinds enquiries, timed to the school year.",
+    intro: [
+      "Tutoring has three buying moments in a year and almost nothing in between. September, when the year starts and resolutions are fresh. January, when the Christmas exam results land. And February into March, when the mocks come back and panic sets in.",
+      "A grinds business that spends evenly across twelve months is spending most of it in months where nobody is buying. We build the calendar around those spikes instead.",
+    ],
+    run: [
+      {
+        name: "Results-driven campaign timing",
+        text: "Budget concentrated into the weeks after Christmas exams and mocks, when the decision is actually being made.",
+      },
+      {
+        name: "Parent-facing creative",
+        text: "The student is the user; the parent is the buyer and almost always the one who pays. The advertising speaks to the parent.",
+      },
+      {
+        name: "Subject-level campaigns",
+        text: "Higher Level Maths is not the same sale as Leaving Cert Irish. Separate campaigns for the subjects that actually carry your margin.",
+      },
+      {
+        name: "Online and in-person split",
+        text: "Two different products with different catchments. Online can be national; in-person is a twenty-minute drive.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, so a parent checking at eleven at night finds a business that looks established and safe.",
+      },
+    ],
+    qualify: [
+      "Which year is the student in?",
+      "Which subjects, and at what level?",
+      "Online or in person?",
+      "Is this for exam preparation or ongoing support?",
+      "County or area",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "You are advertising to the parent",
+        body: [
+          "Almost every grinds enquiry is made or approved by a parent, and parents buy differently from students. They want reassurance about safety, about the tutor's qualifications and about whether this will actually change a grade.",
+          "Creative aimed at students — energetic, informal, results-focused — consistently underperforms creative aimed at a worried parent who wants to know their child is in safe hands. It is the most common mistake in this category.",
+        ],
+      },
+      {
+        heading: "Garda vetting is a selling point, not a footnote",
+        body: [
+          "Every parent wonders about it and very few ask directly. A business that states its vetting and qualification position plainly, up front, removes the unspoken objection before it forms.",
+          "This is one of the rare cases where putting compliance information in the advertising improves performance rather than dulling it.",
+        ],
+      },
+      {
+        heading: "The three spikes",
+        body: [
+          "The buying calendar is sharper here than in almost any other category, and budget should follow it rather than sit flat.",
+        ],
+        list: [
+          {
+            title: "September",
+            body: "New school year, new intentions. Good for ongoing weekly enrolment rather than crash courses.",
+          },
+          {
+            title: "January",
+            body: "Christmas exam results. The single strongest window of the year for exam-year students.",
+          },
+          {
+            title: "February to March",
+            body: "Mocks. Short, intense and price-insensitive — parents are buying reassurance under time pressure.",
+          },
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should we advertise in summer?",
+        a: "Lightly, for next year's exam cohort and for crash courses only. Most of the year's budget belongs in January and after the mocks.",
+      },
+      {
+        q: "Do we target students or parents?",
+        a: "Parents, almost always. They decide and they pay. Student-facing creative wins attention and loses enquiries.",
+      },
+      {
+        q: "Is online tutoring worth advertising nationally?",
+        a: "Yes, and it is a genuinely different campaign from in-person. Wider catchment, lower price tolerance, more competition.",
+      },
+      {
+        q: "Which subjects should we push?",
+        a: "Whichever carry your margin and your best tutors. Higher Level Maths and the sciences are the most searched, and the most competed for.",
+      },
+      {
+        q: "How do we handle the safety question?",
+        a: "State vetting and qualifications plainly in the advertising. It improves conversion rather than hurting it.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["creches", "driving-schools", "recruitment-agencies"],
+  },
+  {
+    slug: "cleaning-companies",
+    label: "Cleaning companies",
+    title: "Cleaning Company Leads Ireland | Domestic & Commercial",
+    description:
+      "Lead generation for Irish cleaning companies. Campaigns for recurring domestic contracts and commercial accounts, reported in contracts won. From €1,500 a month.",
+    h1: "Cleaning leads worth keeping, not one-off jobs.",
+    intro: [
+      "Cleaning is one of the few trades where a single customer can be worth thousands a year, and one of the few where most advertising chases the customers worth the least. A one-off end-of-tenancy clean pays once. A weekly domestic contract pays fifty times.",
+      "We build campaigns for cleaning companies around the recurring work, which means accepting a higher cost per enquiry in exchange for a customer who is still paying next year.",
+    ],
+    run: [
+      {
+        name: "Recurring domestic campaigns",
+        text: "Aimed at households likely to want a regular cleaner rather than a one-off, and priced to reflect what that customer is actually worth.",
+      },
+      {
+        name: "Commercial account campaigns",
+        text: "Offices, clinics and premises. A longer sale with a much larger contract at the end of it, run separately from domestic.",
+      },
+      {
+        name: "End-of-tenancy and one-off",
+        text: "Real revenue and easy to win, but run as its own campaign so it does not consume the budget meant for contracts.",
+      },
+      {
+        name: "Specialist service campaigns",
+        text: "Carpet, upholstery, post-construction and deep cleans, where the margin is better and the competition thinner.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because people are letting you into their home and they check first.",
+      },
+    ],
+    qualify: [
+      "Is this a one-off clean or a regular contract?",
+      "Domestic or commercial?",
+      "How often — weekly, fortnightly, monthly?",
+      "Roughly how many rooms, or what floor area?",
+      "County and area",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Cost per lead is the wrong number here",
+        body: [
+          "Most cleaning companies judge advertising on cost per enquiry, which is exactly the wrong measure in a business with recurring revenue.",
+          "A €40 lead that becomes a weekly contract for two years is a far better outcome than a €6 lead for a one-off clean, and a campaign optimised for cheap leads will reliably produce the latter. We report both, and we build towards contract value rather than enquiry count.",
+        ],
+      },
+      {
+        heading: "Commercial is a completely different sale",
+        body: [
+          "A domestic customer decides in an evening. A commercial one has a procurement process, an incumbent supplier and a notice period, and the sale can take months.",
+          "They should never share a campaign, a landing page or a lead form. Most cleaning companies run one campaign for both and wonder why the commercial pipeline is empty.",
+        ],
+        list: [
+          {
+            title: "Domestic recurring",
+            body: "Fast decision, trust-led, repeat revenue. The core of most cleaning businesses.",
+          },
+          {
+            title: "Commercial contract",
+            body: "Slow, procurement-led, large. Needs insurance, references and staff-vetting detail up front.",
+          },
+          {
+            title: "One-off and specialist",
+            body: "Immediate, price-competitive, no repeat. Useful for filling gaps rather than building a business.",
+          },
+        ],
+      },
+      {
+        heading: "Trust does more work than price",
+        body: [
+          "People are handing over keys. Insurance, vetting, named staff and a consistent uniform matter more in this category than in almost any other trade.",
+          "Advertising that leads on cheapness attracts the customers most likely to cancel. Advertising that leads on reliability and vetting costs more per enquiry and produces customers who stay.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should we advertise one-off cleans at all?",
+        a: "Yes, but in their own campaign with their own budget. Mixed in with contract advertising they will eat it, because they are cheaper to generate.",
+      },
+      {
+        q: "How do we win commercial accounts?",
+        a: "Slowly and with proof. Insurance, vetting and references have to be visible before anyone will shortlist you, and the campaign has to allow for a long cycle.",
+      },
+      {
+        q: "Is domestic cleaning too price-competitive?",
+        a: "At the bottom, yes. The recurring end is far less so, because reliability matters more to that customer than five euro an hour.",
+      },
+      {
+        q: "What should we measure?",
+        a: "Contract value won, not enquiries received. We report both, but only one of them pays you.",
+      },
+      {
+        q: "Do reviews matter here?",
+        a: "More than in most categories. You are being let into somebody's home and they will read what other people said first.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["powerwashing", "gutter-cleaning", "home-care"],
+  },
+  {
+    slug: "removals-companies",
+    label: "Removals companies",
+    title: "Removals Leads Ireland | Marketing for Moving Companies",
+    description:
+      "Lead generation for Irish removals and moving companies. Campaigns timed to property closings and the summer peak, reported in booked moves. From €1,500 a month.",
+    h1: "Removals leads, timed to the closing date.",
+    intro: [
+      "A removals company's year is decided by somebody else's calendar. Moves cluster around property closings, school holidays and the end of the month, and the summer carries a disproportionate share of the whole year's work.",
+      "That concentration is the opportunity and the risk. We build campaigns around when moves actually happen rather than spreading a budget evenly across a year that is anything but even.",
+    ],
+    run: [
+      {
+        name: "Seasonal budget weighting",
+        text: "Spend concentrated into the summer peak and the end-of-month clusters, rather than flat across twelve months.",
+      },
+      {
+        name: "Home-mover campaigns",
+        text: "Aimed at people who have sale-agreed or signed, which is a much smaller and far more valuable audience than people who are idly considering.",
+      },
+      {
+        name: "Office and commercial moves",
+        text: "A separate, larger, slower sale run as its own campaign.",
+      },
+      {
+        name: "Storage cross-sell",
+        text: "If you have storage, it should be advertised to the movers you already have rather than bought separately.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because people are handing over everything they own and they look you up first.",
+      },
+    ],
+    qualify: [
+      "What is the moving date?",
+      "Moving from where, to where?",
+      "House size, or roughly how many rooms?",
+      "Do you need packing, or transport only?",
+      "Do you need storage between dates?",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Timing beats targeting in this category",
+        body: [
+          "Almost everybody moves house eventually, so audience targeting does relatively little work here. What matters is catching somebody in the four to six weeks between agreeing a sale and needing a van.",
+          "Reach them earlier and they will not remember you. Reach them later and they have booked. The whole campaign is built to hit that window, which is why the lead form asks for the date first.",
+        ],
+      },
+      {
+        heading: "The summer peak cuts both ways",
+        body: [
+          "Summer carries the volume, and it is also when every competitor is advertising and when your own capacity is tightest.",
+          "The companies that do well here advertise hardest slightly before the peak, to book the diary in advance, and then pull back when they are full rather than paying to generate enquiries they have to turn away.",
+        ],
+      },
+      {
+        heading: "Quotes are where the money leaks",
+        body: [
+          "Most removals enquiries end in a quote, and most quotes are lost to the company that responded first with a real number rather than a request for a survey.",
+          "That is a follow-up problem, not an advertising problem, and it is the single biggest thing we look at before recommending any increase in budget.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "When should we advertise hardest?",
+        a: "Slightly before the summer peak, to fill the diary in advance. Advertising at the peak means competing with everyone at the highest prices.",
+      },
+      {
+        q: "Should we stop when we are full?",
+        a: "Yes, and most companies do not. Paying to generate enquiries you turn away costs money and reputation at the same time.",
+      },
+      {
+        q: "Are commercial moves worth chasing?",
+        a: "Larger and steadier, but a slower and more procurement-led sale. They need their own campaign, not a line on the domestic page.",
+      },
+      {
+        q: "Do people book on price?",
+        a: "Many do, which is why response speed matters more than budget. The first credible quote wins a large share of moves.",
+      },
+      {
+        q: "Can we advertise storage separately?",
+        a: "You can, but it is usually cheaper to sell it to movers you already have than to buy storage enquiries cold.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["self-storage", "estate-agents", "equipment-hire"],
+  },
+  {
+    slug: "audiologists",
+    label: "Audiologists",
+    title: "Audiology Leads Ireland | Marketing for Hearing Clinics",
+    description:
+      "Lead generation for Irish audiology and hearing clinics. Campaigns built around free hearing tests and the PRSI treatment benefit, reported in appointments. From €1,500 a month.",
+    h1: "Hearing test bookings, from a slow decision made by families.",
+    intro: [
+      "Hearing loss is noticed by the family long before it is admitted by the person who has it. The average gap between first noticing and doing something about it runs to years, and most of that time is spent not searching for anything at all.",
+      "That makes this a patience business rather than an urgency one. The clinics that grow are the ones visible for a long time to two audiences at once: the person and the adult child who eventually makes the appointment.",
+    ],
+    run: [
+      {
+        name: "Free hearing test campaigns",
+        text: "The standard and correct entry point. A low-commitment appointment that starts a relationship rather than trying to sell a device.",
+      },
+      {
+        name: "Family-facing campaigns",
+        text: "Aimed at adult children, who are frequently the ones who book. A completely different message from the patient-facing one.",
+      },
+      {
+        name: "PRSI treatment benefit campaigns",
+        text: "The entitlement is widely held and poorly understood, and explaining it plainly generates appointments.",
+      },
+      {
+        name: "Follow-up over months, not days",
+        text: "A hearing enquiry that does not convert this month frequently converts next year. The system keeps them rather than discarding them.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, so the clinic looks settled and professional when somebody checks.",
+      },
+    ],
+    qualify: [
+      "Is this for yourself or for a family member?",
+      "Have you had a hearing test before, and roughly when?",
+      "Are you currently wearing hearing aids?",
+      "Are you claiming PRSI treatment benefit?",
+      "County and clinic preference",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Two audiences, two messages",
+        body: [
+          "The person with hearing loss and the family member noticing it want completely different things said to them, and clinics that use one message for both underperform badly.",
+          "The patient responds to dignity, discretion and independence. The family member responds to being told plainly that this is common, fixable and worth raising. Running one campaign at both dilutes both.",
+        ],
+      },
+      {
+        heading: "The treatment benefit is a booking trigger",
+        body: [
+          "A large share of the working and retired population has an entitlement under PRSI treatment benefit towards hearing aids, and a great many of them do not know it.",
+          "Clinics that explain the entitlement clearly, without overstating what it covers, generate appointments from people who had assumed the cost put it out of reach. Accuracy matters here — overpromising produces angry consultations rather than sales.",
+        ],
+      },
+      {
+        heading: "Why the follow-up is the business",
+        body: [
+          "Somebody who attends a free test and declines aids is not a lost lead. They are a customer who is not ready, and the average gap before they return is measured in months or years.",
+          "Most clinics let those contacts go cold. Keeping them, and contacting them properly, is usually worth more than increasing the advertising budget.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is a free hearing test the right offer?",
+        a: "It is the standard entry point in this category for good reason: low commitment, high attendance, and it starts the relationship without asking for a decision.",
+      },
+      {
+        q: "Should we advertise to family members?",
+        a: "Yes, as a separate campaign. Adult children book a large share of first appointments and they respond to a different message entirely.",
+      },
+      {
+        q: "How should we handle the PRSI entitlement?",
+        a: "Explain it accurately and do not overstate it. It is a genuine booking trigger and a genuine source of complaints when it is oversold.",
+      },
+      {
+        q: "How long is the sales cycle?",
+        a: "Long. Months at minimum, frequently years from first contact. The follow-up system matters more than the advertising volume.",
+      },
+      {
+        q: "Is this too competitive because of the chains?",
+        a: "They advertise heavily and nationally. Independent clinics win on continuity of care and on being genuinely local, which is a real and defensible difference.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["opticians", "home-care", "physiotherapy"],
+  },
+  {
+    slug: "stairlifts-and-mobility",
+    label: "Stairlifts and mobility",
+    title: "Stairlift Leads Ireland | Marketing for Mobility Installers",
+    description:
+      "Lead generation for Irish stairlift and mobility installers. Campaigns built around the Housing Adaptation Grant and aimed at families, reported in surveys booked. From €1,500 a month.",
+    h1: "Stairlift leads, from families making a hard decision.",
+    intro: [
+      "A stairlift is rarely bought happily. It is bought after a fall, after a hospital discharge, or after a family finally accepts that the stairs have become the thing keeping a parent from staying in their own home.",
+      "Advertising that ignores that context reads badly and performs worse. We run campaigns for mobility installers that treat this as what it is: a difficult family decision with a grant attached and a real deadline behind it.",
+    ],
+    run: [
+      {
+        name: "Housing Adaptation Grant campaigns",
+        text: "The grant drives a large share of this market and the application is daunting. Ads that address the paperwork, not just the product.",
+      },
+      {
+        name: "Family-facing campaigns",
+        text: "The adult child usually researches, rings and pays. The advertising is written for them.",
+      },
+      {
+        name: "Hospital-discharge urgency",
+        text: "A discharge date creates a hard deadline and a fast decision. Targeted and messaged separately from planned purchases.",
+      },
+      {
+        name: "Rental and short-term campaigns",
+        text: "For temporary needs after surgery, which is a different customer and a different price point.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because families check carefully before letting a company into a parent's house.",
+      },
+    ],
+    qualify: [
+      "Is this for yourself or for a family member?",
+      "Is the staircase straight or curved?",
+      "Is there a hospital discharge date driving this?",
+      "Are you applying for the Housing Adaptation Grant?",
+      "County and Eircode",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "The grant is the sale",
+        body: [
+          "The Housing Adaptation Grant for People with a Disability covers a substantial share of the cost for many households, and it is administered by the local authority with means testing and a real waiting time.",
+          "Families find the process intimidating, and the installer who explains it clearly — what is covered, how long it takes, what happens if it is refused — wins the job far more often than the one who simply quotes a price. This is the clearest example in any category we work in of paperwork being the product.",
+        ],
+      },
+      {
+        heading: "Curved is a different business from straight",
+        body: [
+          "A straight stairlift is close to a commodity, available quickly and priced competitively. A curved one is manufactured to the staircase, costs several times more and takes weeks.",
+          "If you fit both, they need separate campaigns and separate expectations. If you fit only straight lifts, the form should say so before somebody books a survey you cannot fulfil.",
+        ],
+        list: [
+          {
+            title: "Straight",
+            body: "Fast, competitive, frequently ex-demonstration or reconditioned. Decision made on price and speed.",
+          },
+          {
+            title: "Curved",
+            body: "Bespoke, expensive, weeks to manufacture. Decision made on trust and on survey quality.",
+          },
+          {
+            title: "Rental",
+            body: "Post-surgery and temporary. Low value individually but steady, and it feeds referrals.",
+          },
+        ],
+      },
+      {
+        heading: "Tone is not a detail here",
+        body: [
+          "Advertising in this category fails more often on tone than on targeting. Language about independence and staying at home works; language about decline and disability does not.",
+          "The family is already uncomfortable. Copy that treats the decision as sensible and ordinary converts better than copy that emphasises how serious the situation is.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should we lead with the grant?",
+        a: "For a large share of this market, yes — but lead with the help rather than the amount. Families are more worried about the process than the price.",
+      },
+      {
+        q: "Do hospital discharges really drive enquiries?",
+        a: "They create the hardest deadlines in this category. Those enquiries convert fast and deserve their own fast response.",
+      },
+      {
+        q: "Who are we actually advertising to?",
+        a: "Usually the adult child. They search, they ring and they frequently pay. The copy should speak to them.",
+      },
+      {
+        q: "Is reconditioned stock worth advertising?",
+        a: "If you carry it, yes. It answers the price objection honestly and brings in families the full price would have excluded.",
+      },
+      {
+        q: "How do we handle a grant refusal?",
+        a: "Have an answer ready before it happens. Families who are refused and then abandoned leave reviews, and this is a category where reviews are read closely.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["home-care", "attic-conversions", "bathroom-renovations"],
+  },
+  {
+    slug: "blinds-and-curtains",
+    label: "Blinds and curtains",
+    title: "Blinds & Curtains Leads Ireland | Marketing for Fitters",
+    description:
+      "Lead generation for Irish blinds and curtain companies. Meta and Google campaigns aimed at new homeowners and renovators, reported in measures booked. From €1,500 a month.",
+    h1: "Blinds and curtain leads, from houses that have just moved.",
+    intro: [
+      "Window dressing is bought at a moment, not over time. People buy blinds when they move in, when they finish an extension, or when they finally redecorate a room they have hated for years — and then they do not buy again for a decade.",
+      "That makes the trigger far more important than the audience. We build campaigns for blinds and curtain companies aimed at households currently inside one of those moments.",
+    ],
+    run: [
+      {
+        name: "New-homeowner campaigns",
+        text: "Aimed at people who have recently moved, who buy for the whole house at once rather than a window at a time.",
+      },
+      {
+        name: "Extension and renovation campaigns",
+        text: "A finished build needs dressing, and the budget is already allocated. A better customer than a single-room replacement.",
+      },
+      {
+        name: "Showroom and home-visit split",
+        text: "Two different offers. A home measure converts better and costs more to deliver; the campaign should reflect which you want.",
+      },
+      {
+        name: "Visual-led creative",
+        text: "This is a product people buy with their eyes. Real installs in real Irish houses, not manufacturer stock photography.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because the portfolio is the sales pitch in this category.",
+      },
+    ],
+    qualify: [
+      "Is this for a whole house or specific rooms?",
+      "How many windows roughly?",
+      "Blinds, curtains, shutters, or a mix?",
+      "Have you recently moved or finished building work?",
+      "County and area",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Your photographs are the campaign",
+        body: [
+          "Almost nobody buys blinds from a description. They buy from a picture of a room that looks like theirs, which is why manufacturer stock imagery consistently underperforms photographs of your own work.",
+          "Irish houses look like Irish houses. A campaign built on real local installs in recognisable house types outperforms polished catalogue photography by a wide margin, and it costs nothing but the habit of photographing every job.",
+        ],
+      },
+      {
+        heading: "Whole-house buyers are worth chasing hard",
+        body: [
+          "A customer dressing one room is worth a few hundred euro. A customer who has just moved and is dressing twelve windows is worth several thousand, and they are reachable at a predictable moment.",
+          "Campaigns that treat both the same way will fill the diary with single-window jobs, because those enquiries are cheaper to generate and far more numerous.",
+        ],
+      },
+      {
+        heading: "Shutters are a separate sale",
+        body: [
+          "Plantation shutters carry a much higher price and a much longer consideration than blinds, and they attract a different customer.",
+          "If you sell them, they deserve their own campaign and their own landing page. Bundled in with blinds they get lost, and the margin goes with them.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should we advertise to renters?",
+        a: "Generally not. Renters rarely buy window dressing and landlords buy on price alone. Both are poor customers relative to homeowners who have just moved.",
+      },
+      {
+        q: "Do home visits convert better than showroom?",
+        a: "Considerably, and they cost more to deliver. Whether that trade is worth it depends on your average order value, and we will look at it before choosing.",
+      },
+      {
+        q: "Is stock photography really that bad?",
+        a: "Yes. People recognise it, and they cannot picture their own room in it. Photographs of your own installs are the single cheapest improvement available.",
+      },
+      {
+        q: "When is the best time of year?",
+        a: "Spring and early autumn are strongest, and January is better than most expect because people are looking at rooms they have been stuck in.",
+      },
+      {
+        q: "Should shutters have their own campaign?",
+        a: "Yes. Higher price, longer decision, different customer. Bundled with blinds they underperform.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["kitchens", "flooring", "windows-and-doors"],
+  },
+  {
+    slug: "water-treatment",
+    label: "Water treatment",
+    title: "Water Treatment Leads Ireland | Well & Filtration Marketing",
+    description:
+      "Lead generation for Irish water treatment and filtration companies. Campaigns aimed at private well owners and hard-water households. From €1,500 a month.",
+    h1: "Water treatment leads, from households with a problem they can see.",
+    intro: [
+      "A very large number of Irish households are on a private well, and a great many more are on mains water hard enough to ruin a kettle in a year. Neither group thinks about water treatment until something visible happens: staining, smell, a failed test, or a new appliance destroyed by limescale.",
+      "That visibility is what makes this advertisable. We build campaigns for water treatment companies around the specific problems households can actually see, rather than around the technology that fixes them.",
+    ],
+    run: [
+      {
+        name: "Problem-led campaigns",
+        text: "Separate campaigns for iron staining, hard water, smell and bacterial failure, because people search the symptom rather than the solution.",
+      },
+      {
+        name: "Free water test campaigns",
+        text: "The natural entry point. A test produces a result, and a result produces a quote with evidence behind it.",
+      },
+      {
+        name: "Well-owner targeting",
+        text: "Aimed at the rural areas where private wells are the norm, which is far more efficient than advertising water treatment generally.",
+      },
+      {
+        name: "New-build and renovation campaigns",
+        text: "The cheapest moment to install treatment is during a build, and builders rarely raise it. The homeowner will if asked.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because before-and-after water photographs are unusually persuasive.",
+      },
+    ],
+    qualify: [
+      "Are you on a private well or mains water?",
+      "What is the problem — staining, smell, limescale, or a failed test?",
+      "Has the water been tested, and do you have the results?",
+      "Is this a new build or an existing house?",
+      "County and Eircode",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "People search the symptom, not the solution",
+        body: [
+          "Almost nobody searches for a water softener or a UV filtration system. They search for why their water smells, why the bath is staining orange, or why their shower screen will not come clean.",
+          "Campaigns built around product names miss that traffic entirely. Campaigns built around symptoms capture people at the exact moment they are trying to work out what is wrong, which is well before they have decided what to buy.",
+        ],
+      },
+      {
+        heading: "The test does the selling",
+        body: [
+          "A water test converts far better than a quote, because it turns an argument into evidence. A homeowner who has been told their water is hard will haggle; a homeowner holding a result will not.",
+          "It also filters properly. Households with no real problem drop out at the test stage rather than after a survey, which saves everyone time.",
+        ],
+      },
+      {
+        heading: "Wells and mains are different markets",
+        body: [
+          "A private well owner worries about safety — bacteria, iron, a failed test. A mains customer worries about limescale, appliances and their skin.",
+          "They respond to different language, sit in different places, and buy different equipment. One campaign for both consistently underperforms two campaigns run properly.",
+        ],
+        list: [
+          {
+            title: "Private well",
+            body: "Safety-led. Testing, bacteria, iron and manganese. Rural targeting, higher urgency.",
+          },
+          {
+            title: "Hard mains water",
+            body: "Cost-led. Limescale, appliances, heating efficiency. Suburban targeting, longer consideration.",
+          },
+          {
+            title: "New build",
+            body: "Cheapest to install, hardest to reach. Requires catching people during construction.",
+          },
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is a free water test worth giving away?",
+        a: "It is the strongest tool in this category. It creates evidence, it filters out households without a real problem, and it makes the quote almost automatic.",
+      },
+      {
+        q: "Should we target by county?",
+        a: "Target by water source and ground conditions rather than by county line. Well density and water hardness do not respect boundaries.",
+      },
+      {
+        q: "Do people understand what they are buying?",
+        a: "Rarely, and that is an advantage. The company that explains it plainly without jargon wins against the ones quoting specifications.",
+      },
+      {
+        q: "Is new build worth pursuing?",
+        a: "It is the cheapest install and the hardest to reach, because the decision sits with a homeowner who is overwhelmed with other choices.",
+      },
+      {
+        q: "How seasonal is this?",
+        a: "Mildly. Well problems spike after heavy rain and after dry spells, which is worth watching but not worth planning the whole year around.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["plumbers-and-heating", "drainage", "septic-tank-services"],
+  },
+  {
+    slug: "interior-designers",
+    label: "Interior designers",
+    title: "Interior Design Leads Ireland | Marketing for Designers",
+    description:
+      "Lead generation for Irish interior designers. Campaigns that reach homeowners during a renovation, filtered for budget before the consultation. From €1,500 a month.",
+    h1: "Interior design enquiries, filtered for budget before you meet.",
+    intro: [
+      "Interior design has the worst enquiry-to-client ratio of almost any category we work in, and it is not a marketing problem. It is a filtering problem. Most enquiries come from people who want the outcome and have not understood the cost, and every one of them consumes a consultation.",
+      "So the job here is not more enquiries. It is fewer and better ones, which means putting the uncomfortable questions on the form rather than discovering the answers in a meeting.",
+    ],
+    run: [
+      {
+        name: "Budget-qualified lead forms",
+        text: "The project budget asked before the consultation, plainly. It reduces enquiry volume and raises conversion, which is the trade worth making.",
+      },
+      {
+        name: "Renovation-stage targeting",
+        text: "Aimed at homeowners who have planning permission or a builder engaged, rather than people gathering ideas.",
+      },
+      {
+        name: "Portfolio-led creative",
+        text: "Real completed Irish projects. This is a category bought entirely on visual evidence.",
+      },
+      {
+        name: "Service-tier campaigns",
+        text: "Full-service, consultation-only and e-design are different products at different prices and should not share a campaign.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because the portfolio is the credential and it has to look current.",
+      },
+    ],
+    qualify: [
+      "What is the project — full house, single room, or new build?",
+      "What is your budget range for the works?",
+      "Do you have a builder or architect engaged?",
+      "What is your timeline?",
+      "County and area",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Asking about budget costs you enquiries and makes you money",
+        body: [
+          "Every designer worries that asking about budget on the form will frighten people away. It does, and that is the point.",
+          "The enquiries it frightens away are overwhelmingly the ones that would have consumed a consultation and gone nowhere. What remains is a smaller number of people who have already accepted that this costs money, which is the only useful kind of enquiry in this category.",
+        ],
+      },
+      {
+        heading: "Stage matters more than intent",
+        body: [
+          "Somebody collecting ideas on Pinterest is not a customer, however enthusiastic. Somebody with planning permission and a builder booked is a customer with a deadline.",
+          "Targeting and creative should both be aimed at the second group, even though the first is far larger and far cheaper to reach.",
+        ],
+      },
+      {
+        heading: "Three products, not one",
+        body: [
+          "Most designers offer several levels of service and advertise as though they offer one, which confuses the enquiry and attracts the wrong end of the market.",
+        ],
+        list: [
+          {
+            title: "Full service",
+            body: "Highest value, longest commitment, smallest audience. Needs budget qualification above everything else.",
+          },
+          {
+            title: "Consultation only",
+            body: "A fixed-fee entry point that converts a share of clients upward. Genuinely useful as a first step.",
+          },
+          {
+            title: "E-design or remote",
+            body: "Lower price, wider catchment, no site visits. A different business and it should be advertised as one.",
+          },
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Will asking about budget reduce our enquiries?",
+        a: "Yes, substantially, and that is the intended result. You will meet fewer people and sign more of them.",
+      },
+      {
+        q: "Should we advertise to people at the ideas stage?",
+        a: "Only if you have a low-cost entry product for them. Otherwise you are paying to reach people who are years from spending.",
+      },
+      {
+        q: "How important is the portfolio?",
+        a: "It is the entire credential. Campaigns in this category succeed or fail on the quality and recency of the work shown.",
+      },
+      {
+        q: "Is a consultation-only tier worth offering?",
+        a: "For most designers, yes. It converts curiosity into a paid first step and filters out people who were never going to commit.",
+      },
+      {
+        q: "Do we need to be on Instagram?",
+        a: "In this category, genuinely yes. It is where the work gets judged, and an out-of-date grid costs you clients.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["architects", "kitchens", "builders-and-extensions"],
+  },
+  {
+    slug: "health-and-safety-consultants",
+    label: "Health & safety consultants",
+    title: "Health & Safety Consultant Leads Ireland | B2B Marketing",
+    description:
+      "Lead generation for Irish health and safety consultants. Campaigns aimed at businesses facing HSA inspections, tenders and safety statement obligations. From €1,500 a month.",
+    h1: "Health and safety leads, from businesses with a deadline.",
+    intro: [
+      "Nobody buys health and safety consultancy because they want to. They buy it because a main contractor will not let them on site without a safety statement, because a tender requires certification, or because the HSA has been and left a list.",
+      "Every one of those is a deadline, and deadlines are the most reliable advertising trigger there is. We build campaigns for safety consultants around the specific obligations that force the purchase.",
+    ],
+    run: [
+      {
+        name: "Obligation-led campaigns",
+        text: "Separate campaigns for safety statements, risk assessments, tender requirements and post-inspection remediation, because each is a different deadline.",
+      },
+      {
+        name: "Construction-sector campaigns",
+        text: "PSDP and PSCS duties, site safety and contractor prequalification, which is the densest concentration of demand in this market.",
+      },
+      {
+        name: "Retainer campaigns",
+        text: "The recurring revenue underneath the one-off documents, advertised as an ongoing service rather than a product.",
+      },
+      {
+        name: "Training and certification",
+        text: "Where you offer it, run separately — a different buyer and a different price point from consultancy.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "LinkedIn and Facebook kept current, because B2B buyers check whether a consultancy is real before they ring.",
+      },
+    ],
+    qualify: [
+      "What is driving this — a tender, an inspection, or a contractor requirement?",
+      "What sector, and roughly how many employees?",
+      "Do you have a current safety statement?",
+      "Is there a deadline?",
+      "County and area",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Sell the deadline, not the service",
+        body: [
+          "A business owner does not search for a health and safety consultant. They search for what they have been told they need: a safety statement, a risk assessment, a Safe-T-Cert, a contractor prequalification pack.",
+          "Campaigns built around those specific obligations reach people at the moment of compulsion. Campaigns built around 'health and safety consultancy' reach people who are not currently being compelled by anything.",
+        ],
+      },
+      {
+        heading: "One-off documents are the way into a retainer",
+        body: [
+          "A safety statement is a single fee. An ongoing retainer covering reviews, audits and updates is worth many times more over the same period.",
+          "Most consultants advertise the document and hope the retainer follows. It converts far better when the recurring service is presented at the point of sale rather than raised months later.",
+        ],
+      },
+      {
+        heading: "Construction is a different market from everything else",
+        body: [
+          "Construction carries specific statutory duties, a prequalification culture and main contractors who enforce compliance down the chain, which produces constant, predictable demand.",
+          "Offices, retail and hospitality buy far less often and usually only after an incident or an inspection. If you serve both, they should not share a campaign — the urgency and the language are entirely different.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is B2B advertising worth it for a small consultancy?",
+        a: "Yes, because the trigger is a legal obligation rather than a preference. You are reaching people who have to buy something, which is rare and valuable.",
+      },
+      {
+        q: "Should we advertise on LinkedIn?",
+        a: "Sometimes, and it is more expensive than people expect. Google captures the deadline-driven searches more cheaply, and we usually start there.",
+      },
+      {
+        q: "How do we sell retainers rather than documents?",
+        a: "Present the ongoing service at the point of the one-off sale. Raised later it sounds like an upsell; raised then it sounds like the sensible option.",
+      },
+      {
+        q: "Is construction the best sector to target?",
+        a: "The densest and most predictable, because compliance is enforced down the contractor chain. Other sectors buy after something goes wrong.",
+      },
+      {
+        q: "Do we need case studies?",
+        a: "They help considerably, and confidentiality makes them awkward. Sector and problem without naming the client is usually enough.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["engineers-and-surveyors", "it-support", "recruitment-agencies"],
+  },
+  {
+    slug: "photographers",
+    label: "Photographers",
+    title: "Photography Leads Ireland | Marketing for Photographers",
+    description:
+      "Lead generation for Irish wedding, family and commercial photographers. Campaigns timed to engagement season and booked well ahead. From €1,500 a month.",
+    h1: "Photography bookings, made a year before the date.",
+    intro: [
+      "Wedding photography is booked further in advance than almost anything else people buy, and the booking rush is concentrated into the weeks after Christmas and New Year when most engagements happen.",
+      "That means a photographer advertising in June for a June wedding is a year and a half too late. The calendar, not the creative, is what most photography campaigns get wrong.",
+    ],
+    run: [
+      {
+        name: "Engagement-season campaigns",
+        text: "Budget concentrated into January and February, when the year's engagements convert into enquiries.",
+      },
+      {
+        name: "Package-led creative",
+        text: "Real weddings at recognisable Irish venues, which is how couples actually shortlist.",
+      },
+      {
+        name: "Venue-catchment targeting",
+        text: "Aimed at the venues you already shoot at and want more of, rather than at a county.",
+      },
+      {
+        name: "Family and commercial campaigns",
+        text: "Separate, counter-seasonal work that fills the months weddings do not. Run as its own campaign.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because the feed is the portfolio and a stale one loses bookings.",
+      },
+    ],
+    qualify: [
+      "What is the date, and is the venue booked?",
+      "Wedding, family, or commercial?",
+      "Which venue, or which area?",
+      "What is your budget range?",
+      "How did you hear about us?",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "The calendar decides the campaign",
+        body: [
+          "Engagements cluster around Christmas, New Year and Valentine's Day, and enquiries follow within weeks. A photographer who is not visible in January has missed a disproportionate share of the year's bookings.",
+          "Budget should be heavily weighted into that window and lighter through the summer, when you are shooting rather than selling and when every competitor is advertising into the same feed.",
+        ],
+      },
+      {
+        heading: "Venues are the best targeting signal available",
+        body: [
+          "Couples choose a venue before a photographer, almost without exception. That makes the venue the single most useful piece of information about a couple.",
+          "Campaigns built around the venues you want to shoot at — with real images from those venues — outperform county-wide advertising substantially, and they build the relationship with the venue at the same time.",
+        ],
+      },
+      {
+        heading: "Counter-seasonal work is what makes the year survivable",
+        body: [
+          "Weddings concentrate into a short season and leave long gaps either side, and photographers who rely on them alone have a difficult winter.",
+          "Family sessions, communions, and commercial and property work fill exactly those gaps, and they need their own campaigns rather than a mention on the wedding page.",
+        ],
+        list: [
+          {
+            title: "Weddings",
+            body: "Booked 12-18 months ahead, highest value, concentrated season. Won in January.",
+          },
+          {
+            title: "Family and portrait",
+            body: "Short lead time, autumn and Christmas heavy, repeatable year after year.",
+          },
+          {
+            title: "Commercial and property",
+            body: "Year-round, invoice-based, unglamorous and steady. The most under-advertised of the three.",
+          },
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "When should we advertise hardest?",
+        a: "January and February. Engagements cluster around Christmas and New Year and the enquiries follow immediately.",
+      },
+      {
+        q: "Should we advertise during the summer?",
+        a: "Lightly. You are shooting rather than selling, and everybody else is bidding into the same feed at the same time.",
+      },
+      {
+        q: "Is venue targeting really better than county targeting?",
+        a: "Considerably. The venue is chosen first, so it is the strongest signal about a couple that exists, and the imagery becomes far more relevant.",
+      },
+      {
+        q: "Should we publish prices?",
+        a: "A starting price at minimum. Couples filter hard on budget and hiding it generates enquiries from people who were never going to book.",
+      },
+      {
+        q: "What about family and commercial work?",
+        a: "Run them as separate campaigns. They fill the months weddings do not, and commercial is the most under-advertised of the three.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["wedding-venues", "hotels-and-guesthouses", "signage-and-print"],
+  },
 ];
 
 export const industryBySlug = (slug: string) =>

@@ -61,6 +61,13 @@ FAIL = 0.45
 def text(path):
     h = io.open(path, encoding="utf-8").read()
     h = re.sub(r"<(script|style)[^>]*>.*?</\1>", "", h, flags=re.S)
+    # Strip site chrome by tag. The footer links every industry page --
+    # 84 labels and growing with each niche batch -- and that list is
+    # identical on all 214 pages. Removing a fixed 700-char window at a
+    # marker phrase never covered it, so it was counted as shared
+    # content and inflated every cohort by about three points.
+    h = re.sub(r"<(nav|footer|header)\b[^>]*>.*?</\1>", " ", h,
+               flags=re.S | re.I)
     t = re.sub(r"<[^>]+>", " ", h)
     t = re.sub(r"&#x27;|&#39;", "'", t)
     t = re.sub(r"&amp;", "&", t)
