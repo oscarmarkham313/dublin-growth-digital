@@ -2994,6 +2994,841 @@ export const posts: Post[] = [
     ],
     related: ["kitchens", "bathroom-renovations", "interior-designers"],
   },
+  {
+    slug: "why-google-is-not-indexing-your-pages",
+    title: "Why Google is not indexing your pages",
+    description:
+      "The difference between crawled, discovered and indexed, the six reasons pages get left out, and how to tell which one applies to you.",
+    date: "2026-09-23",
+    minutes: 7,
+    intro:
+      "You publish twenty pages, submit a sitemap, and three weeks later Search Console says five are indexed. This is one of the most common and least understood problems in small business SEO, and the fix depends entirely on which of several quite different things is happening.",
+    sections: [
+      {
+        h: "Read the status before doing anything",
+        p: [
+          "Search Console's Pages report groups your URLs by reason. 'Discovered — currently not indexed' means Google knows the page exists and has not bothered to fetch it. 'Crawled — currently not indexed' means it fetched it and chose not to include it. Those are opposite problems.",
+          "The first is a crawl budget and authority problem. The second is a quality judgement. Treating one as the other wastes months.",
+        ],
+      },
+      {
+        h: "Discovered but not crawled",
+        p: [
+          "This is normal on a new or low-authority site, and it means Google is rationing attention. It has a queue and you are not near the top of it.",
+          "What helps: submitting an accurate sitemap, having real links from other sites, and internal links from pages Google already visits often. What does not help: publishing more pages, which lengthens the queue.",
+        ],
+      },
+      {
+        h: "Crawled but not indexed",
+        p: [
+          "Google fetched the page and decided it was not worth including. Usually that means it is too similar to other pages on your site, too thin, or duplicates something that exists elsewhere.",
+          "The classic cause in small business sites is a set of location pages that are the same page with the town name swapped. Google treats the set as low value and indexes one or none.",
+        ],
+        list: [
+          "Discovered, not crawled — authority and crawl budget problem",
+          "Crawled, not indexed — quality or duplication problem",
+          "Duplicate without canonical — you have two URLs for one page",
+          "Excluded by noindex — usually intentional, sometimes left on by accident",
+          "Soft 404 — the page returns 200 but looks empty to Google",
+          "Blocked by robots.txt — rare, and usually a developer mistake",
+        ],
+      },
+      {
+        h: "The lastmod trap",
+        p: [
+          "Many sites stamp the current date on every URL in the sitemap on every deploy. Google uses that field to decide what to re-crawl, and when a site claims all 200 pages changed every day, Google stops believing the signal entirely.",
+          "Accurate lastmod dates — the date the page genuinely changed — are worth more than any submission frequency.",
+        ],
+      },
+      {
+        h: "What actually speeds it up",
+        p: [
+          "Links from sites Google already crawls often. That is the honest answer and it is the one nobody wants, because it is slower and harder than publishing more content.",
+          "A single link from a real local business directory, a supplier, a trade association or a local news site does more for indexing than twenty new pages.",
+        ],
+      },
+    ],
+    related: ["it-support", "estate-agents", "accountants"],
+  },
+  {
+    slug: "first-backlinks-for-an-irish-business",
+    title: "Where an Irish business gets its first real backlinks",
+    description:
+      "Fifteen places a genuine Irish small business can get a link without paying for one, and why the first five are worth more than the rest.",
+    date: "2026-09-23",
+    minutes: 7,
+    intro:
+      "Links remain the strongest signal Google has for whether a site deserves to rank, and a new business site has none. The standard advice — create great content and links will come — is not useful to a plumber. Here is the unglamorous list that actually works in Ireland.",
+    sections: [
+      {
+        h: "Start with the relationships you already have",
+        p: [
+          "Your suppliers, your trade association, your accountant, the manufacturers whose products you install. Many of them have 'where to buy' or 'approved installer' pages and will add you for the asking.",
+          "These are the best links available to you: relevant, real, and from sites in your own industry. Most businesses never ask.",
+        ],
+        list: [
+          "Suppliers and manufacturers — approved installer or stockist pages",
+          "Trade associations and registration bodies you already belong to",
+          "Your chamber of commerce",
+          "Local business directories run by the county council or LEO",
+          "Sponsorship: clubs, schools, community groups you already support",
+        ],
+      },
+      {
+        h: "Sponsorship you are already paying for",
+        p: [
+          "If you sponsor a GAA club, a school event or a local festival, they almost certainly have a website with a sponsors page. Ask for a link. You have already paid for it.",
+          "This is the most commonly wasted link opportunity in Ireland, because the money is spent and the link is simply never requested.",
+        ],
+      },
+      {
+        h: "Local and genuinely local",
+        p: [
+          "County council business directories, Local Enterprise Office listings, chambers of commerce, and legitimate local news. A local paper covering a genuine story — a new premises, an apprenticeship, an award — produces a link that is worth far more than its traffic.",
+          "These take effort and they are slow. They are also close to unbeatable by a competitor who is buying links instead.",
+        ],
+      },
+      {
+        h: "What to avoid",
+        p: [
+          "Anybody selling you a hundred links for a hundred euro. Private blog networks. Directories that exist only for links and have no visitors. Paid guest posts on sites unrelated to your trade.",
+          "These range from useless to actively harmful, and the harmful ones are difficult to undo.",
+        ],
+      },
+      {
+        h: "How many you actually need",
+        p: [
+          "Fewer than you think. A local trades business competing in one county typically needs a handful of genuine, relevant links to compete, not hundreds.",
+          "Five real links from Irish sites in or near your industry will do more than any amount of content, and they are all obtainable by asking people you already know.",
+        ],
+      },
+    ],
+    related: ["roofers", "solar-installers", "accountants"],
+  },
+  {
+    slug: "what-ai-search-means-for-local-business",
+    title: "What AI search actually means for a local business",
+    description:
+      "How AI assistants pick which businesses to mention, what you can influence, and why most of the advice being sold about this is premature.",
+    date: "2026-09-23",
+    minutes: 6,
+    intro:
+      "People increasingly ask an AI assistant rather than typing into a search box, and every agency in the country has started selling a service about it. Most of that is speculation. Here is what can be said with reasonable confidence, and what you can genuinely do about it.",
+    sections: [
+      {
+        h: "Where the answers come from",
+        p: [
+          "AI assistants answering a local question are mostly reading the same public web that search engines index — your website, your Google profile, directories, reviews and news. They are not reading a separate AI index you can submit to.",
+          "Which means the work that makes you findable in search is largely the same work that makes you quotable by an assistant. That is the single most useful thing to understand about this.",
+        ],
+      },
+      {
+        h: "What appears to matter",
+        p: [
+          "Clear, factual, consistent information. An assistant summarising your business needs to find what you do, where you work and what it costs, stated plainly and matching across your site, your profile and directories.",
+          "Contradictions hurt. If your website says you cover three counties and your Google profile says one, an assistant has no way to resolve that and may simply use a competitor whose details are consistent.",
+        ],
+        list: [
+          "Consistent name, address and phone number everywhere",
+          "Plain statements of what you do and where",
+          "Prices or ranges, stated in text rather than in an image",
+          "Real FAQs answering what people actually ask",
+          "Structured data marking up your services and location",
+          "Reviews, which assistants frequently summarise",
+        ],
+      },
+      {
+        h: "The thing you can do that most cannot",
+        p: [
+          "Answer questions directly on your site, in text, in the words a customer would use. Assistants extract answers; they cannot extract from a PDF brochure, an image of a price list or a page written entirely in marketing language.",
+          "A page that says 'a standard boiler service in Kildare costs €90 and takes about an hour' is quotable. A page that says 'we pride ourselves on exceptional service' is not.",
+        ],
+      },
+      {
+        h: "What is being oversold",
+        p: [
+          "Submission services promising to register you with AI engines. Schema packages sold as an AI ranking fix. Anyone quoting a guaranteed position in an AI answer.",
+          "There is no submission process, no ranking to buy, and no reliable way to verify a guarantee. Treat all of it with suspicion.",
+        ],
+      },
+      {
+        h: "The honest position",
+        p: [
+          "This is early and it is moving. The defensible strategy is the one that was already correct: accurate information, stated plainly, consistent everywhere, with real reviews behind it.",
+          "If something specific and reliable emerges, it will be worth doing then. Paying for it now is paying for a guess.",
+        ],
+      },
+    ],
+    related: ["it-support", "estate-agents", "solicitors"],
+  },
+  {
+    slug: "conversion-tracking-done-properly",
+    title: "Conversion tracking, done properly",
+    description:
+      "What to count as a conversion, why counting the wrong thing is worse than counting nothing, and the setup that survives a website change.",
+    date: "2026-09-23",
+    minutes: 6,
+    intro:
+      "Most small business ad accounts are optimising toward the wrong event. The platforms will happily spend your budget chasing whatever you told them to chase, and if you told them to chase page views you will get page views. Getting this right is usually worth more than any change to targeting or creative.",
+    sections: [
+      {
+        h: "Count the thing that makes you money",
+        p: [
+          "A conversion should be an event that correlates with revenue. A form submission, a phone call over thirty seconds, a booking. Not a page view, not a click on the contact page, not time on site.",
+          "The platforms optimise toward whatever you define, so a badly chosen conversion actively steers your budget toward the wrong people.",
+        ],
+      },
+      {
+        h: "Phone calls are usually the gap",
+        p: [
+          "In most trades the majority of enquiries are calls, and calls are usually untracked. That means the optimisation is learning from half the data and the half it can see is unrepresentative.",
+          "Tracked calls, even crudely, change what the platform learns. This is the most common single improvement available to a trades ad account.",
+        ],
+        list: [
+          "Form submissions — the easy one, usually already working",
+          "Phone calls over a threshold length — the one most people miss",
+          "WhatsApp and Messenger conversations started",
+          "Bookings or quote requests, where they exist",
+          "Not: page views, scroll depth, time on site, contact page visits",
+        ],
+      },
+      {
+        h: "Value, not just count",
+        p: [
+          "If you can attach a value to conversions — even a rough average — the platforms can optimise toward revenue rather than volume. A business where some jobs are worth €200 and others €8,000 is badly served by counting both as one conversion.",
+          "An estimated value is far better than none. It does not need to be exact to be useful.",
+        ],
+      },
+      {
+        h: "Make it survive a website change",
+        p: [
+          "The most common way tracking breaks is a website update that removes the tag. Nobody notices for a month, the campaign appears to collapse, and the cause is invisible.",
+          "Check after every site change. Submit your own form and confirm it registers. Put a reminder in the calendar if that is what it takes.",
+        ],
+      },
+      {
+        h: "Do not optimise on tiny numbers",
+        p: [
+          "A campaign producing eight conversions a month does not have enough data for the platform to learn from, and switching optimisation targets weekly guarantees it never will.",
+          "Below roughly thirty conversions a month, optimise toward a more common upstream event — a landing page reached, a call button tapped — and judge the account on the real outcome manually.",
+        ],
+      },
+    ],
+    related: ["solar-installers", "gyms-and-fitness", "car-garages"],
+  },
+  {
+    slug: "how-to-choose-a-web-designer",
+    title: "How to choose a web designer without getting stung",
+    description:
+      "The questions that separate a designer who will help from one who will leave you with a site you cannot edit, own or move.",
+    date: "2026-09-23",
+    minutes: 6,
+    intro:
+      "Most small business owners choose a web designer on price and portfolio. Both matter less than ownership, speed and what happens after launch — which are precisely the things nobody asks about until it is too late.",
+    sections: [
+      {
+        h: "Ask who owns what",
+        p: [
+          "The domain should be registered in your name, on an account you control. The hosting should be in your name. The site files should be yours. None of this is unusual to ask for and a reluctance to answer is the single clearest warning sign in this industry.",
+          "Businesses regularly discover they cannot move their website because the designer owns the domain, and the negotiation from that position is unpleasant.",
+        ],
+        list: [
+          "Is the domain registered in my name, on my account?",
+          "Is the hosting in my name?",
+          "Can I move the site elsewhere without your permission?",
+          "What happens if you stop trading?",
+          "Can I edit text and add photographs myself?",
+          "What does it cost to make a change after launch?",
+          "How fast will the site be on a phone on 4G?",
+          "Who writes the copy?",
+        ],
+      },
+      {
+        h: "Ask about speed, specifically",
+        p: [
+          "Ask what the site will score on mobile and what page weight they are targeting. A designer who has no answer builds slow sites, and slow sites lose enquiries silently.",
+          "This matters more in rural Ireland than most designers allow for. A beautiful site that fails on poor coverage is a worse site.",
+        ],
+      },
+      {
+        h: "Ask who writes the words",
+        p: [
+          "Many quotes assume you will supply the copy, and most business owners never do, which is why so many sites launch with placeholder text still on the about page.",
+          "If writing is included, ask to see an example. If it is not, price the fact that you will need to do it or pay someone else.",
+        ],
+      },
+      {
+        h: "Be careful with monthly website deals",
+        p: [
+          "A website for €99 a month with no upfront cost can be reasonable or can be a lease you never stop paying, where you own nothing and leaving means starting again.",
+          "Read what happens at the end. If there is no point at which the site becomes yours, you are renting, and you should price it as rent over five years rather than as a website.",
+        ],
+      },
+      {
+        h: "What a fair arrangement looks like",
+        p: [
+          "A one-off build cost, the domain and hosting in your name, the ability to edit your own content, and a clear rate for changes. Anything that makes leaving difficult is designed to make leaving difficult.",
+          "Good designers are relaxed about all of this, because their clients stay for the work rather than for the lock-in.",
+        ],
+      },
+    ],
+    related: ["restaurants-and-cafes", "builders-and-extensions", "gyms-and-fitness"],
+  },
+  {
+    slug: "domain-and-hosting-who-owns-them",
+    title: "Who actually owns your domain, and why it matters",
+    description:
+      "How to check in five minutes whether you control your own domain, what to do if you do not, and why this is the most expensive thing to get wrong.",
+    date: "2026-09-23",
+    minutes: 5,
+    intro:
+      "A surprising number of Irish businesses do not own their own domain name. They paid for a website years ago, the person who built it registered everything, and nobody has thought about it since. It costs nothing until the day it costs everything.",
+    sections: [
+      {
+        h: "Why it is the worst thing to lose",
+        p: [
+          "Your domain is your email address, your website, your Google profile link and every printed van, card and sign you have ever paid for. Losing it is not a website problem, it is a business continuity problem.",
+          "Websites can be rebuilt in a fortnight. A domain somebody else controls can take months to recover, or may not be recoverable at all.",
+        ],
+      },
+      {
+        h: "How to check",
+        p: [
+          "Look up your domain on a WHOIS service. For a .ie domain, the registry publishes the registrant. If the name shown is your web designer, an agency or a company you do not recognise, you have a problem worth fixing now rather than later.",
+          "Also check who receives the renewal emails. If they do not come to you, you will not know when it expires.",
+        ],
+        list: [
+          "Look up the WHOIS record for your domain",
+          "Check the registrant name is your business",
+          "Confirm renewal notices come to an address you control",
+          "Check your hosting account is in your name",
+          "Make sure at least two people in the business can access both",
+          "Note the renewal date somewhere that is not one person's inbox",
+        ],
+      },
+      {
+        h: "How to fix it without a fight",
+        p: [
+          "Ask politely and in writing for the domain to be transferred to an account in your name. Most designers will do this without argument; it is a normal request.",
+          "If there is resistance, that tells you what you need to know about the relationship and you should resolve it before you need something urgently.",
+        ],
+      },
+      {
+        h: "Expiry is the common disaster",
+        p: [
+          "Domains lapse because the renewal notice went to somebody who left the company, or to a designer who has stopped trading. The site and the email stop on the same morning with no warning.",
+          "Set the renewal to auto-renew on a card that will not expire, and make sure more than one person can see the account.",
+        ],
+      },
+      {
+        h: "While you are in there",
+        p: [
+          "Check the same for your Google Business Profile, your social accounts and your email. The pattern is identical: one person set them up, nobody else has access, and that person may not always be reachable.",
+          "An afternoon spent documenting who owns what is the cheapest insurance in the business.",
+        ],
+      },
+    ],
+    related: ["it-support", "accountants", "solicitors"],
+  },
+  {
+    slug: "the-real-cost-of-a-cheap-website",
+    title: "The real cost of a cheap website",
+    description:
+      "What a €400 website actually leaves out, how to tell whether yours is costing you enquiries, and when cheap is genuinely the right answer.",
+    date: "2026-09-23",
+    minutes: 6,
+    intro:
+      "A cheap website is not a bad decision by definition. For some businesses it is exactly right. The problem is that the costs of a bad one are invisible — they show up as enquiries that never happened, which is the hardest thing in business to notice.",
+    sections: [
+      {
+        h: "What usually gets left out",
+        p: [
+          "Speed, almost always. Cheap builds lean on page builders and unoptimised images, and the result is a site that takes six seconds on a phone. Nobody tells you, because the people who leave never contact you.",
+          "Also: any thought about what the page should say, coverage areas, conversion, and whether the form actually delivers to your inbox.",
+        ],
+      },
+      {
+        h: "How to tell if yours is costing you",
+        p: [
+          "Open it on your phone, on mobile data rather than wi-fi, and count. If you are past three seconds before you see anything, that is a real cost.",
+          "Then read the first line as though you had never heard of the business. If it does not say what you do and where, visitors are having to work it out, and some will not.",
+        ],
+        list: [
+          "Load it on 4G and count the seconds",
+          "Read the first line as a stranger",
+          "Submit your own form and see if it arrives",
+          "Tap the phone number and see if it dials",
+          "Look for a real photograph of your own work",
+          "Check whether it names the areas you cover",
+        ],
+      },
+      {
+        h: "The arithmetic",
+        p: [
+          "If your average job is worth €2,000 and a better site converts two more visitors a month, that is €48,000 a year. Against a €1,500 build cost, the question answers itself.",
+          "If your average job is worth €60 and you get most work by referral, the same spend makes very little sense. The answer genuinely depends on your numbers, not on a principle.",
+        ],
+      },
+      {
+        h: "When cheap is right",
+        p: [
+          "A brand new business testing whether there is demand. A business whose work comes entirely through word of mouth and needs a site only so people can check it exists. A side venture.",
+          "In those cases a simple, fast, honest one-page site is the correct answer and anything more is premature.",
+        ],
+      },
+      {
+        h: "The version that is never right",
+        p: [
+          "Slow, on somebody else's domain, with a form that does not deliver, that you cannot edit and cannot move. That is not cheap, it is a liability with a low sticker price.",
+          "Fast and simple is fine. Cheap and trapped is not.",
+        ],
+      },
+    ],
+    related: ["builders-and-extensions", "restaurants-and-cafes", "landscapers"],
+  },
+  {
+    slug: "hiring-through-facebook-ads",
+    title: "Hiring through Facebook ads when nobody is applying",
+    description:
+      "Why job boards produce nothing for trades and small employers in Ireland, and how a modest paid social budget fills roles instead.",
+    date: "2026-09-23",
+    minutes: 6,
+    intro:
+      "Most Irish trades and small employers have a recruitment problem rather than a sales problem, and they are using the wrong tool. Job boards reach people actively looking for work. The person you want is usually employed, reasonably content, and not looking at all.",
+    sections: [
+      {
+        h: "Why job boards underperform here",
+        p: [
+          "The pool of people actively job-hunting for a skilled trade in a given county on a given week is very small. You are competing for the same handful of applicants as everyone else, and paying for the privilege.",
+          "Paid social reaches the far larger group who are not looking but would move for the right thing. That is the whole argument.",
+        ],
+      },
+      {
+        h: "What an ad that works looks like",
+        p: [
+          "Specific pay. This is the single biggest factor and the one most employers avoid. 'Competitive rates' tells a tradesperson you are probably below market, because anyone above market says so.",
+          "Then: the hours, the location, the type of work, and one genuine reason to move — a newer van, better tools, no weekends, the work being local.",
+        ],
+        list: [
+          "State the actual pay or a real range",
+          "Say where the work is and how far the travel goes",
+          "Say the hours, honestly",
+          "One or two genuine reasons somebody would move",
+          "Photographs of the actual team and vans",
+          "A way to apply that takes under two minutes",
+        ],
+      },
+      {
+        h: "Make applying trivially easy",
+        p: [
+          "A tradesperson is not writing a cover letter from a phone at lunchtime. A lead form with three questions and a phone number will out-perform a careers page by a wide margin.",
+          "Follow up the same day. Applicants who are not actively looking cool off fast and the good ones are gone within the week.",
+        ],
+      },
+      {
+        h: "Show the place, not the logo",
+        p: [
+          "People move jobs to somewhere that looks well run. Photographs of a tidy yard, decent equipment and people who look content do more than any list of benefits.",
+          "This is the same content that helps you win customers, which is why the two campaigns support each other.",
+        ],
+      },
+      {
+        h: "What it costs",
+        p: [
+          "A few hundred euro will usually fill a trade role in an Irish county, against recruitment agency fees of several thousand. The gap is large enough that it is worth trying before anything else.",
+          "It also builds an audience of people who know your business exists as an employer, which makes the next hire easier.",
+        ],
+      },
+    ],
+    related: ["roofers", "plumbers-and-heating", "recruitment-agencies"],
+  },
+  {
+    slug: "what-to-do-when-you-are-fully-booked",
+    title: "What to do with your marketing when you are fully booked",
+    description:
+      "Why switching everything off is the most expensive decision a small business makes, and what to do instead of either burning money or going dark.",
+    date: "2026-09-23",
+    minutes: 5,
+    intro:
+      "Work is good, the diary is full to Christmas, and the obvious move is to switch off the advertising and save the money. It is one of the most expensive habits in small business, and it is almost universal.",
+    sections: [
+      {
+        h: "Why going dark costs more than it saves",
+        p: [
+          "Advertising has momentum. A campaign switched off loses its optimisation, your Google profile loses recency, your social presence goes quiet, and your ranking drifts. Starting again in three months means paying to rebuild all of it.",
+          "Worse, the quiet period arrives with nothing in the pipeline, because you stopped generating enquiries exactly when they would have been maturing.",
+        ],
+      },
+      {
+        h: "What to do instead of switching off",
+        p: [
+          "Reduce the budget rather than stopping. Shift from lead generation to the things that compound. Raise your prices, which is the correct response to more demand than capacity and the one most businesses never take.",
+          "Being full is the best possible time to become more profitable, because you can afford to lose the jobs at the bottom.",
+        ],
+        list: [
+          "Cut the budget, do not stop it",
+          "Raise prices on new quotes",
+          "Ask every current customer for a review while the job is fresh",
+          "Build a waiting list rather than turning people away",
+          "Photograph everything — you will need it in the quiet season",
+          "Do the website and content work you never have time for",
+        ],
+      },
+      {
+        h: "Build a waiting list, do not turn people away",
+        p: [
+          "Somebody who rings when you are full is a customer you have already paid to acquire. Telling them no sends them to a competitor permanently; offering a date in six weeks keeps a good share of them.",
+          "Even where they cannot wait, asking to follow up later turns a dead enquiry into a future one.",
+        ],
+      },
+      {
+        h: "The review window closes fast",
+        p: [
+          "A customer is most willing to leave a review in the days immediately after a job they were happy with. A busy period is a large number of those moments happening at once.",
+          "Most businesses are too busy to ask during the busy period and then wonder in January why they have eleven reviews.",
+        ],
+      },
+      {
+        h: "Use the capacity you have on the year ahead",
+        p: [
+          "The quiet season is largely decided by what you did during the busy one. Reviews collected, photographs taken, content written and prices raised in September are what make February survivable.",
+          "Switching everything off is choosing to have the same problem again next year.",
+        ],
+      },
+    ],
+    related: ["landscapers", "roofers", "painters-and-decorators"],
+  },
+  {
+    slug: "how-to-quote-faster",
+    title: "How to quote faster without underpricing",
+    description:
+      "Why the first quote wins a disproportionate share of jobs, and a practical system for getting quotes out the same day without guessing.",
+    date: "2026-09-23",
+    minutes: 5,
+    intro:
+      "In most trades the business that quotes first wins far more than its share, and the gap is not small. Yet most small businesses take three to five days, because quoting happens in the evening after the work is done. Fixing that is frequently worth more than any increase in advertising.",
+    sections: [
+      {
+        h: "Why speed wins",
+        p: [
+          "A customer with three quotes coming makes a provisional decision when the first arrives and compares the others against it. Being first means being the reference point rather than the alternative.",
+          "It also signals competence. A business that quotes in a day reads as organised, and customers reasonably assume the job will run the same way.",
+        ],
+      },
+      {
+        h: "Separate the site visit from the quote",
+        p: [
+          "A large part of the delay is that quoting requires sitting down with notes. Taking standard photographs and measurements on site, in a fixed order every time, removes the thinking from the writing.",
+          "Then the quote is assembly rather than analysis, and assembly can be done in fifteen minutes.",
+        ],
+        list: [
+          "A fixed list of photographs and measurements taken on every visit",
+          "Standard line items with your own rates, reused every time",
+          "Three or four pre-written scope paragraphs you adapt",
+          "A template that only needs numbers and specifics changed",
+          "A standing slot in the week for quoting, not 'the evening'",
+        ],
+      },
+      {
+        h: "Price ranges for the simple jobs",
+        p: [
+          "A meaningful share of enquiries are for jobs you have done a hundred times. Those do not need a site visit — they need a range given on the phone and confirmed on arrival.",
+          "This frees your quoting time for the jobs where it genuinely matters and gets an answer to the customer immediately.",
+        ],
+      },
+      {
+        h: "Speed is not the same as cheap",
+        p: [
+          "Quoting quickly does not mean quoting low, and it is worth being explicit about that with yourself. The advantage comes from being first and looking organised, not from being the cheapest number.",
+          "If anything, a fast, clear, well-presented quote supports a higher price than a slow one.",
+        ],
+      },
+      {
+        h: "Follow up once",
+        p: [
+          "Most quotes are never followed up at all. A single message four or five days later asking whether they have any questions recovers a meaningful proportion of jobs.",
+          "It costs nothing and almost nobody does it.",
+        ],
+      },
+    ],
+    related: ["builders-and-extensions", "kitchens", "windows-and-doors"],
+  },
+  {
+    slug: "referral-systems-that-work",
+    title: "Referral systems that actually work for a small business",
+    description:
+      "Why most referral schemes produce nothing, and the three approaches that do — without discount vouchers or gimmicks.",
+    date: "2026-09-23",
+    minutes: 5,
+    intro:
+      "Every business says most of its work comes from word of mouth, and almost none of them do anything deliberate about it. The schemes that get tried — refer a friend for €50 off — usually fail, and it is worth understanding why before building another one.",
+    sections: [
+      {
+        h: "Why voucher schemes fail",
+        p: [
+          "They ask the customer to sell on your behalf in exchange for a small sum, which most people find slightly embarrassing and not worth the money.",
+          "They also arrive at the wrong moment, usually in an email weeks after the job when the enthusiasm has faded.",
+        ],
+      },
+      {
+        h: "Ask at the moment of satisfaction",
+        p: [
+          "The best time is the moment the customer is visibly pleased — standing in the finished room, on the day. Not later, not by email.",
+          "'If anyone asks, I'd be glad of the mention' is enough. It works because it is small, human and timed correctly.",
+        ],
+        list: [
+          "Ask on the day, in person, once",
+          "Make it small: a mention, not a sales job",
+          "Give them something concrete to pass on — a card, a number, a name",
+          "Thank people who refer, visibly and promptly",
+          "Never make it transactional unless it genuinely is",
+        ],
+      },
+      {
+        h: "Referral from other businesses is the underused one",
+        p: [
+          "The strongest referral relationships are usually with businesses adjacent to yours — a plumber and a tiler, an estate agent and a photographer, a funeral director and a stonemason.",
+          "These are reciprocal, professional, and far more productive than customer schemes, because each party sends work regularly rather than once.",
+        ],
+      },
+      {
+        h: "Make it easy to pass you on",
+        p: [
+          "A customer recommending you has to produce a name, a number, or a website. If they have to search for it, the referral frequently dies there.",
+          "Leaving a card, sending a message with your details after the job, or simply having a name that is easy to spell removes that friction.",
+        ],
+      },
+      {
+        h: "Close the loop",
+        p: [
+          "When somebody refers you, tell them it happened and thank them. People repeat behaviour that gets acknowledged, and most businesses never acknowledge it at all.",
+          "That single habit does more than any scheme, and it costs a phone call.",
+        ],
+      },
+    ],
+    related: ["plumbers-and-heating", "estate-agents", "funeral-directors"],
+  },
+  {
+    slug: "how-to-win-back-old-customers",
+    title: "How to win back customers you have not heard from in two years",
+    description:
+      "The cheapest source of work most small businesses have, why they never use it, and how to approach it without sounding desperate.",
+    date: "2026-09-23",
+    minutes: 5,
+    intro:
+      "Every business has a list of people who paid them once and were happy, and almost none of them ever contact those people again. It is the cheapest work available anywhere — no advertising, no competition, and the trust already exists.",
+    sections: [
+      {
+        h: "Why it gets ignored",
+        p: [
+          "It feels like admitting you need work, and there is a fear of annoying people. Both are overstated. A past customer who was happy is generally pleased to hear from a tradesperson who did a good job.",
+          "The other reason is practical: most small businesses have no list. The details are in a notebook, in an email inbox and in a phone, and were never gathered into one place.",
+        ],
+      },
+      {
+        h: "Build the list first",
+        p: [
+          "An hour with your invoices will produce most of it. Name, what you did, when, and a contact. That is a genuine business asset and almost nobody has one.",
+          "Be mindful of the data protection position: you can contact past customers about similar services, but keep marketing consent separate and always give a way to opt out.",
+        ],
+        list: [
+          "Pull names and dates from your invoices",
+          "Note what you did for each one",
+          "Sort by how long ago and by what would naturally be due",
+          "Contact the ones where there is a genuine reason",
+          "Keep it to a message, not a campaign",
+        ],
+      },
+      {
+        h: "Only contact people where there is a real reason",
+        p: [
+          "A boiler serviced two years ago is due. A garden landscaped three years ago needs maintenance. A roof repaired five years ago is worth an inspection after a bad winter.",
+          "That is a service, not a sales message, and it reads completely differently. Contacting people with nothing specific to say is what makes this feel like spam.",
+        ],
+      },
+      {
+        h: "Keep it personal and short",
+        p: [
+          "A message from a person, mentioning the specific job, is worth far more than a designed newsletter. Two or three sentences.",
+          "Send them individually if the list is small enough. It will out-perform anything bulk by a wide margin.",
+        ],
+      },
+      {
+        h: "What to expect",
+        p: [
+          "A low response rate in absolute terms and an extremely high return relative to cost, because there is no acquisition cost at all.",
+          "Do it twice a year, not monthly. The value of this list comes from being used sparingly.",
+        ],
+      },
+    ],
+    related: ["plumbers-and-heating", "landscapers", "car-garages"],
+  },
+  {
+    slug: "when-to-turn-down-work",
+    title: "When to turn down work",
+    description:
+      "The jobs and customers that cost more than they pay, how to recognise them at the enquiry stage, and how to decline without burning the relationship.",
+    date: "2026-09-23",
+    minutes: 5,
+    intro:
+      "Growing businesses take everything, and for a while that is the right instinct. There comes a point where the jobs at the bottom are costing you the capacity to do the ones at the top, and recognising that point is worth more than any marketing.",
+    sections: [
+      {
+        h: "The jobs that cost more than they pay",
+        p: [
+          "Work outside your travel radius where the driving eats the margin. Jobs outside your actual specialism that take twice as long. Customers who negotiated hard before you started, who will negotiate harder at the end.",
+          "And anything where the scope was never really agreed, which is the most reliable predictor of a difficult job there is.",
+        ],
+        list: [
+          "Far outside your normal travel distance",
+          "Outside what you actually do well",
+          "Heavy price negotiation before any work has started",
+          "Vague scope the customer will not pin down",
+          "A previous tradesperson who left mid-job, with no clear explanation",
+          "Unrealistic timescale they will not move on",
+        ],
+      },
+      {
+        h: "Recognise it at the enquiry, not on site",
+        p: [
+          "Most of these are visible in the first conversation if you are listening for them. That is what a qualifying form and a proper first call are for.",
+          "The cost of declining at enquiry stage is nothing. The cost of declining after a site visit is an afternoon. The cost of finding out three weeks in is considerable.",
+        ],
+      },
+      {
+        h: "Raise the price instead of refusing",
+        p: [
+          "For borderline jobs, quoting a price that makes the difficulty worth it is better than declining. If they accept, it is now a good job. If they decline, you have lost nothing.",
+          "This is also the correct response to being busy, and it is how most trades gradually move upmarket.",
+        ],
+      },
+      {
+        h: "How to decline well",
+        p: [
+          "Quickly, plainly, and with a recommendation if you have one. 'That is outside what we do, but try X' costs you nothing and frequently comes back as a referral later.",
+          "What damages you is going quiet, or stringing somebody along for a fortnight before saying no.",
+        ],
+      },
+      {
+        h: "The test",
+        p: [
+          "If you would be relieved to hear they had gone elsewhere, do not take the job. That instinct is almost always accurate and almost always ignored.",
+          "Businesses rarely regret the work they turned down. They regret the work they took.",
+        ],
+      },
+    ],
+    related: ["builders-and-extensions", "roofers", "interior-designers"],
+  },
+  {
+    slug: "should-you-do-your-own-marketing",
+    title: "Should you do your own marketing?",
+    description:
+      "An honest look at when running it yourself is the right call, when it is not, and how to tell which situation you are in.",
+    date: "2026-09-23",
+    minutes: 6,
+    intro:
+      "This is written by an agency, so read it with that in mind. There are businesses that should not hire anyone, and pretending otherwise is how agencies end up with clients who resent them within three months. Here is the genuine distinction.",
+    sections: [
+      {
+        h: "When you should do it yourself",
+        p: [
+          "If your budget is under roughly €500 a month in ad spend, management fees will consume most of the value and you would be better learning the basics yourself.",
+          "If you enjoy it, have the time, and your market is small enough to be covered by one campaign, there is no mystery here that you cannot learn in a few months.",
+        ],
+        list: [
+          "Ad budget under about €500 a month",
+          "You have genuine time and some interest",
+          "One service, one small area",
+          "Your main problem is that the website is bad — fix that first",
+          "You are testing whether demand exists at all",
+        ],
+      },
+      {
+        h: "When you should not",
+        p: [
+          "If you are the person who does the work, marketing gets done at eleven at night or not at all, and the 'not at all' usually wins during the busy months. That inconsistency costs more than a fee.",
+          "Also if you have several services and areas, if you are spending enough that a percentage improvement exceeds the fee, or if you have tried twice and it did not work.",
+        ],
+      },
+      {
+        h: "The middle option nobody offers",
+        p: [
+          "Pay someone to set it up properly and hand it over. The set-up is where most of the expertise sits; the ongoing running of a small, stable campaign is not difficult.",
+          "Plenty of businesses are best served this way and very few agencies will suggest it, because it is a one-off fee rather than a retainer.",
+        ],
+      },
+      {
+        h: "What to fix before hiring anyone",
+        p: [
+          "If the website is slow, the phone goes unanswered, or you have no reviews, an agency will spend your first three months' fee on problems you could have fixed yourself for nothing.",
+          "Any agency worth hiring will tell you this before taking the money. If they do not, that is the answer to whether to hire them.",
+        ],
+      },
+      {
+        h: "The honest summary",
+        p: [
+          "Marketing is not complicated, it is just relentless. What you are actually buying is that somebody does it every week whether or not you had a bad Tuesday.",
+          "If you will genuinely do it yourself every week, do it yourself. Most people will not, and being honest about that is the whole decision.",
+        ],
+      },
+    ],
+    related: ["gyms-and-fitness", "restaurants-and-cafes", "accountants"],
+  },
+  {
+    slug: "one-number-to-measure",
+    title: "If you only measure one thing, measure this",
+    description:
+      "Why most small business marketing reports track the wrong numbers, and the single metric that tells you whether any of it is working.",
+    date: "2026-09-23",
+    minutes: 5,
+    intro:
+      "Marketing reports are full of numbers that feel informative and change nothing: impressions, reach, followers, clicks, time on page. If you only had one figure to run your business on, none of those would be it.",
+    sections: [
+      {
+        h: "The number",
+        p: [
+          "Cost per job won. Not cost per click, not cost per lead, not cost per enquiry. What it cost you in advertising to end up with one customer who paid you.",
+          "Everything upstream of that is a diagnostic. Only this one connects to whether you should spend more money or less.",
+        ],
+      },
+      {
+        h: "How to work it out",
+        p: [
+          "Total advertising spend for the month, divided by the number of jobs that came from advertising. The second number requires you to ask every customer where they came from, and to write it down.",
+          "That is the hard part, and it is the reason most businesses do not have this figure. It is also an hour a month of work at most.",
+        ],
+        list: [
+          "Total ad spend for the month",
+          "Number of jobs won that came from advertising",
+          "Divide one by the other",
+          "Compare against the contribution margin of an average job",
+          "If it is well below, spend more. If it is close, fix conversion before spending more",
+        ],
+      },
+      {
+        h: "What it tells you that the other numbers do not",
+        p: [
+          "A campaign with a rising cost per lead may be perfectly healthy if those leads convert far better. A campaign with a falling cost per lead may be quietly destroying your margin by attracting price shoppers.",
+          "Only the cost per job won shows you which is happening, and it frequently contradicts what the platform dashboards appear to say.",
+        ],
+      },
+      {
+        h: "The numbers worth keeping as diagnostics",
+        p: [
+          "Cost per lead, to spot when something breaks. Lead-to-job conversion, because it tells you whether the problem is marketing or sales. Response time, because it explains most conversion problems.",
+          "Those three explain why the main number moved. They are not the main number.",
+        ],
+      },
+      {
+        h: "What to ignore entirely",
+        p: [
+          "Followers, impressions, reach, engagement rate, time on site, bounce rate. None of them pay anybody's wages and all of them can be improved while the business gets worse.",
+          "If a report you receive leads with those, ask what the cost per job won was. The answer, and the reaction, will tell you a good deal.",
+        ],
+      },
+    ],
+    related: ["roofers", "solar-installers", "gyms-and-fitness"],
+  },
 ];
 
 export const postBySlug = (slug: string) => posts.find((p) => p.slug === slug);
