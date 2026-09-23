@@ -2164,6 +2164,836 @@ export const posts: Post[] = [
     ],
     related: ["estate-agents", "insurance-brokers", "car-garages"],
   },
+  {
+    slug: "google-business-profile-checklist-ireland",
+    title: "The Google Business Profile checklist most Irish businesses fail",
+    description:
+      "Fifteen things on a Google Business Profile that decide whether you appear in the map results, and which of them almost every Irish small business leaves blank.",
+    date: "2026-09-23",
+    minutes: 7,
+    intro:
+      "The map results sit above everything else on a phone, and for a local business they are worth more than the blue links underneath. Google decides who appears mostly on proximity, prominence and relevance, and the only one of those three you directly control is how completely you have filled in your profile. Most Irish businesses have filled in about a third of it.",
+    sections: [
+      {
+        h: "The fields that actually matter",
+        p: [
+          "Your primary category does more work than anything else on the profile. Google matches searches to categories before it matches them to your description, so a business listed as Contractor when it should be listed as Roofing contractor is invisible for the searches that matter. Change it and nothing else, and you will usually see movement.",
+          "Secondary categories help, but only where they are genuinely accurate. Adding six unrelated ones dilutes the primary signal rather than broadening your reach.",
+        ],
+      },
+      {
+        h: "Services and service areas",
+        p: [
+          "If you travel to customers rather than serving them at a premises, set your service area to the towns you actually cover and hide your address. A service-area business showing a home address in a housing estate looks wrong and ranks for the wrong place.",
+          "Then list your services individually. Not 'plumbing' but boiler repair, bathroom installation, leak detection, power flushing. Each one is a phrase somebody searches, and each one is a field Google reads.",
+        ],
+      },
+      {
+        h: "The things nobody fills in",
+        p: [
+          "Opening hours including bank holidays. Attributes such as wheelchair access or free parking. The business description, which should say what you do and where, not that you are passionate about quality. Photographs, which need to be yours and recent.",
+          "Every one of these is a field Google can read and a question a customer might have. Leaving them blank is not neutral, it is a gap your competitor has filled.",
+        ],
+        list: [
+          "Primary category set to the most specific accurate option",
+          "Service area set to real towns, address hidden if you travel",
+          "Every service listed individually",
+          "Opening hours, including bank holidays",
+          "At least twenty of your own photographs, added over time not all at once",
+          "Description that names what you do and the areas you cover",
+          "Products or price ranges where they apply",
+          "Messaging turned on only if somebody will answer it",
+        ],
+      },
+      {
+        h: "Photographs and posts are not decoration",
+        p: [
+          "Profiles with regularly added photographs get more views and more calls, and the effect is not subtle. Adding twenty images in one afternoon and never returning is far less useful than adding two a week for a year.",
+          "Posts matter less than photographs but they cost nothing. A short note about a job you finished, with a picture, is enough.",
+        ],
+      },
+      {
+        h: "What will not work",
+        p: [
+          "Keyword-stuffing your business name is against the rules, and competitors report it. So do fake addresses, and Google has become good at spotting a virtual office.",
+          "The profile is one of the few places in marketing where doing the boring thing thoroughly beats being clever, because the ranking factors are largely mechanical.",
+        ],
+      },
+    ],
+    related: ["roofers", "plumbers-and-heating", "estate-agents"],
+  },
+  {
+    slug: "how-to-answer-a-bad-review",
+    title: "How to answer a bad review without making it worse",
+    description:
+      "A practical method for replying to a negative Google review: what to say, what never to say, and why the reply is written for the people reading it rather than for the reviewer.",
+    date: "2026-09-23",
+    minutes: 6,
+    intro:
+      "A bad review feels personal and the instinct is to defend yourself. That instinct is almost always wrong, not because the reviewer is right but because you are not writing to them. You are writing to the next forty people who read it while deciding whether to ring you.",
+    sections: [
+      {
+        h: "Who the reply is actually for",
+        p: [
+          "The reviewer has already made their judgement and will rarely change it. The audience is everyone who reads the review afterwards, and what they are assessing is not whether you were at fault but how you behave when something goes wrong.",
+          "A calm, specific, non-defensive reply to an unfair review is more persuasive than a page of five-star ratings, because it is the only evidence available about what happens when a job goes badly.",
+        ],
+      },
+      {
+        h: "The structure that works",
+        p: [
+          "Thank them, acknowledge the specific issue, state briefly what happened or what you have changed, and offer to continue the conversation off the platform. Four sentences is plenty.",
+          "Avoid explaining at length. A long reply reads as defensive regardless of how reasonable it is, and readers assume the longer side is the guilty one.",
+        ],
+        list: [
+          "Thank them by name if they used one",
+          "Acknowledge the specific problem, not 'your experience'",
+          "Say what you have done or will do",
+          "Offer a direct contact to resolve it",
+          "Stop",
+        ],
+      },
+      {
+        h: "What never to do",
+        p: [
+          "Do not dispute facts in public, even when you are right. Do not mention the amount they paid, what they said on the phone, or anything about their behaviour. Do not imply they are lying. Do not reply while angry, which means not replying the same day.",
+          "And do not offer a refund in exchange for removal in writing. It reads badly if screenshotted, and on some platforms it breaches the terms.",
+        ],
+      },
+      {
+        h: "The review you cannot answer",
+        p: [
+          "Sometimes the review is from somebody who was never a customer, or is plainly abusive. Those can be reported, and Google does remove a proportion of them, though slowly and inconsistently.",
+          "Report it once, reply politely in the meantime, and move on. Pursuing it further costs more time than it is worth.",
+        ],
+      },
+      {
+        h: "The real fix is volume",
+        p: [
+          "One poor review among six is damaging. One among sixty is invisible and even mildly reassuring, because a business with no criticism at all looks curated.",
+          "If a bad review has hurt you, the answer is not to fight it. It is to ask the next twenty satisfied customers for a review, which most businesses never do.",
+        ],
+      },
+    ],
+    related: ["restaurants-and-cafes", "car-garages", "dentists"],
+  },
+  {
+    slug: "should-you-buy-shared-leads",
+    title: "Should you buy shared leads?",
+    description:
+      "What shared lead platforms actually sell, why a €15 lead sold to four contractors is more expensive than a €60 exclusive one, and the narrow cases where buying them makes sense.",
+    date: "2026-09-23",
+    minutes: 6,
+    intro:
+      "Every trade in Ireland gets the same call: leads, ready to go, pay per lead, no commitment. The price sounds excellent compared to running your own advertising. The arithmetic underneath is worth doing properly before you sign up, because it is not the comparison it appears to be.",
+    sections: [
+      {
+        h: "What you are actually buying",
+        p: [
+          "Most lead platforms sell the same enquiry to three, four or five businesses. You are not buying a customer, you are buying a place in a race, and the customer has been told to expect several calls.",
+          "That changes the economics completely. If a lead costs €15 and is sold to four contractors, one of you converts it, so the true cost per job is at least €60 before you have driven anywhere.",
+        ],
+      },
+      {
+        h: "Why conversion rates are lower than you expect",
+        p: [
+          "A homeowner expecting four calls behaves differently from one who rang you directly. They compare on price, because that is the only variable they can see across four near-identical quotes.",
+          "So shared leads push you toward competing on price with people you have never met, on a job you have not seen. That is the worst position in any trade.",
+        ],
+      },
+      {
+        h: "The honest comparison",
+        p: [
+          "Your own campaign produces an exclusive enquiry, from somebody who chose you, who is not being rung by three competitors, and who arrives on your website having seen your work.",
+          "It costs more per enquiry and converts at a much higher rate, and the customer is not price-anchored against three other quotes. When people compare shared leads with their own advertising, they usually compare the wrong numbers.",
+        ],
+        list: [
+          "Shared: low price per lead, low conversion, price-led customer, no asset built",
+          "Own campaign: higher price per lead, higher conversion, exclusive, and it compounds",
+          "Compare cost per WON JOB, never cost per lead",
+        ],
+      },
+      {
+        h: "When they genuinely make sense",
+        p: [
+          "Filling gaps in a slow month when the alternative is idle staff. Testing whether demand exists in a new area before committing to a campaign. Or a business with spare capacity and a very fast, very good sales process that reliably beats three competitors on the phone.",
+          "Those are real cases. What does not work is building a business on them, because you own nothing at the end of it and the platform controls your supply.",
+        ],
+      },
+      {
+        h: "The thing nobody mentions",
+        p: [
+          "Every euro spent on a shared lead buys one job. Every euro spent on your own site, your own reviews and your own campaigns makes the next euro cheaper.",
+          "That is the actual difference, and it only shows up after a year or two — which is precisely why the platforms never frame it that way.",
+        ],
+      },
+    ],
+    related: ["roofers", "solar-installers", "builders-and-extensions"],
+  },
+  {
+    slug: "what-a-good-lead-form-asks",
+    title: "What a good lead form asks (and what it should never ask)",
+    description:
+      "The five questions that separate a real job from a tyre-kicker, why every extra field costs you enquiries, and how to decide which ones are worth the loss.",
+    date: "2026-09-23",
+    minutes: 5,
+    intro:
+      "Every field you add to a lead form reduces the number of people who complete it. That is not an argument for asking nothing — it is an argument for knowing exactly what each question is buying you. A form that asks four good questions will produce fewer, better enquiries than one that asks for a name and a number.",
+    sections: [
+      {
+        h: "The trade-off, stated plainly",
+        p: [
+          "Fewer fields means more enquiries of lower average quality. More fields means fewer enquiries of higher average quality. Neither is right in general; it depends entirely on whether your constraint is volume or time.",
+          "If you are short of work, ask less. If you are drowning in quotes that go nowhere, ask more. Most businesses have the setting backwards.",
+        ],
+      },
+      {
+        h: "The questions that earn their place",
+        p: [
+          "Timing is the single most useful question, because it separates people who are doing something from people who are thinking about something. Budget is the second, and it is uncomfortable precisely because it works.",
+          "Then location, because it decides whether you can even take the job, and scope, because it tells you whether to send a quote or a surveyor.",
+        ],
+        list: [
+          "When do you want this done?",
+          "Roughly what budget do you have in mind?",
+          "Where is the property, and what is the Eircode?",
+          "What exactly needs doing?",
+          "Have you had quotes already?",
+        ],
+      },
+      {
+        h: "What to never ask",
+        p: [
+          "Anything you do not need in order to decide whether to proceed. Title, company name for a domestic job, how they heard about you, marketing consent buried in a required checkbox.",
+          "And never ask for information you could look up yourself. Asking a homeowner for their property type when you have the Eircode is a field spent on nothing.",
+        ],
+      },
+      {
+        h: "Order matters more than people think",
+        p: [
+          "Put the easy, non-threatening questions first and the contact details last. Somebody who has answered three questions about their job is considerably more likely to give you a phone number than somebody asked for it immediately.",
+          "The budget question, if you use one, works best as a range to select rather than a number to type.",
+        ],
+      },
+      {
+        h: "The follow-up is part of the form",
+        p: [
+          "A perfectly designed form is worthless if the enquiry sits unread until the evening. In most trades the first business to respond wins a disproportionate share of jobs.",
+          "Before adding any fields, check how quickly you actually reply. That number usually matters more than anything on the form.",
+        ],
+      },
+    ],
+    related: ["roofers", "windows-and-doors", "kitchens"],
+  },
+  {
+    slug: "meta-or-google-which-first",
+    title: "Meta or Google: which should a small business run first?",
+    description:
+      "A straightforward way to decide which channel to start with, based on whether people search for what you sell or have to be shown it.",
+    date: "2026-09-23",
+    minutes: 6,
+    intro:
+      "Almost every small business asks this and almost every agency answers with 'both'. That is usually self-serving. With a limited budget you should start with one, do it properly, and add the second when the first is working. Which one depends on a single question about your customers.",
+    sections: [
+      {
+        h: "The question that decides it",
+        p: [
+          "Do people search for what you sell at the moment they need it? If your boiler fails, you search. If your roof leaks, you search. If you need a solicitor, you search.",
+          "But nobody searches for a hot tub, a new kitchen or a landscaped garden at the moment the idea occurs to them. Those are shown, not sought. That distinction decides the channel.",
+        ],
+      },
+      {
+        h: "Start with Google when demand is urgent",
+        p: [
+          "Emergency trades, repairs, professional services with a deadline, anything with a legal or safety trigger. The person is typing the words, they want it solved today, and intent is as high as it ever gets.",
+          "Google costs more per click and converts far better, because you are catching somebody at the end of the decision rather than the start.",
+        ],
+      },
+      {
+        h: "Start with Meta when demand is created",
+        p: [
+          "Home improvement, anything visual, anything discretionary, anything seasonal. Also anything in a rural county where search volume alone will not fill a campaign.",
+          "Meta reaches people before they are searching, which is the only way to reach them at all for a category people do not think to look up.",
+        ],
+        list: [
+          "Google first: boiler repair, emergency roofing, drain clearance, solicitors, vets",
+          "Meta first: kitchens, landscaping, blinds, valeting, salons, gyms, tourism",
+          "Either: most trades in a large city, where both have enough volume",
+        ],
+      },
+      {
+        h: "The budget threshold",
+        p: [
+          "Below roughly a thousand euro a month in ad spend, splitting across both channels usually means neither gathers enough data to optimise. One channel with a real budget beats two with half a budget each.",
+          "Above that, adding the second channel is normally the highest-return move available, because you start catching the same customer at two different stages.",
+        ],
+      },
+      {
+        h: "What actually goes wrong",
+        p: [
+          "Most campaigns that fail do not fail because the channel was wrong. They fail because the website did not convert, the phone was not answered, or the lead form asked nothing useful.",
+          "Fix those before switching channels. Changing platform rarely fixes a problem that was never about the platform.",
+        ],
+      },
+    ],
+    related: ["plumbers-and-heating", "kitchens", "landscapers"],
+  },
+  {
+    slug: "how-much-should-a-small-business-spend-on-ads",
+    title: "How much should a small business actually spend on ads?",
+    description:
+      "A method for setting an advertising budget from the job value you need rather than from a percentage of turnover, and the point at which spending more stops helping.",
+    date: "2026-09-23",
+    minutes: 6,
+    intro:
+      "Most advice on advertising budgets is a percentage of turnover, which is useless if you do not already know whether your advertising works. A better method starts from the other end: what a job is worth, how many you need, and what you can afford to pay to win one.",
+    sections: [
+      {
+        h: "Work backwards from a job",
+        p: [
+          "Take your average job value and your gross margin. If a job is worth €3,000 and your margin is 40%, the job contributes €1,200. If you are willing to spend a quarter of that to win it, you can afford €300 to acquire a customer.",
+          "Then work out how many enquiries it takes you to win one job. If it is four, you can afford €75 a lead. That number, not a percentage of turnover, is your actual budget constraint.",
+        ],
+      },
+      {
+        h: "Then decide how many jobs you want",
+        p: [
+          "If you want six more jobs a month and you can afford €300 per job, your budget is €1,800 plus management. That is a real number derived from your own economics rather than an industry rule of thumb.",
+          "If that figure is more than you can spend, the answer is usually not to spend less. It is to improve the conversion rate so each job costs less to win.",
+        ],
+        list: [
+          "Average job value x gross margin = contribution per job",
+          "Decide what share of that you will spend to win one",
+          "Divide by your enquiry-to-job conversion rate",
+          "That is your affordable cost per lead",
+          "Multiply by the number of jobs you want",
+        ],
+      },
+      {
+        h: "The floor nobody mentions",
+        p: [
+          "Below about €500 a month in ad spend, most campaigns cannot gather enough data to improve. The platforms need a certain volume of conversions before their optimisation does anything useful.",
+          "Spending €200 a month across two channels is generally worse than spending nothing, because it costs money and teaches you nothing.",
+        ],
+      },
+      {
+        h: "The ceiling nobody mentions either",
+        p: [
+          "Every market has a point where more budget stops buying more customers and simply buys the same customers more often. In a small county that ceiling arrives quickly.",
+          "When cost per lead climbs steadily as you increase budget, you have found it. The answer then is a new channel, a wider area, or a better conversion rate — not more money into the same campaign.",
+        ],
+      },
+      {
+        h: "What to do in month one",
+        p: [
+          "Set the budget from the arithmetic above, run it for a full month without changing it, and judge it on enquiries and jobs rather than on clicks.",
+          "Changing budget or targeting every few days is the most common reason a campaign never settles. It needs a month to be worth reading.",
+        ],
+      },
+    ],
+    related: ["roofers", "solar-installers", "gyms-and-fitness"],
+  },
+  {
+    slug: "why-your-ads-stopped-working",
+    title: "Why your ads stopped working",
+    description:
+      "Six reasons a campaign that was producing leads goes quiet, in the order worth checking, and how to tell a real problem from normal fluctuation.",
+    date: "2026-09-23",
+    minutes: 6,
+    intro:
+      "A campaign that was producing enquiries goes quiet for a fortnight and the instinct is to change everything. That is usually the worst response, because most of the causes are identifiable and half of them are not the campaign at all.",
+    sections: [
+      {
+        h: "First, check it is real",
+        p: [
+          "Two weeks is not a trend in a business doing fifteen leads a month. Random variation alone will produce quiet fortnights regularly, and reacting to them is how good campaigns get broken.",
+          "Compare the same period against the previous three months rather than against last week, and look at whether spend also fell. If spend dropped, the platform is telling you something; if spend held and leads fell, something changed in the response.",
+        ],
+      },
+      {
+        h: "Creative fatigue",
+        p: [
+          "In a small county you can exhaust your audience quickly. The same advert shown to the same twenty thousand people for three months stops working, and frequency in the reporting will show it climbing.",
+          "The fix is new creative, not a new budget. New photographs of recent jobs are usually enough; it does not need to be a rebrand.",
+        ],
+      },
+      {
+        h: "Something broke",
+        p: [
+          "Forms stop submitting. Tracking gets removed in a website update. A phone number changes. A landing page starts returning an error on mobile only.",
+          "This is more common than people expect and it is invisible unless somebody checks. Submit your own form once a week; it takes a minute and it catches the most expensive failure mode there is.",
+        ],
+        list: [
+          "Submit your own lead form and confirm the email arrives",
+          "Ring your own number from a mobile",
+          "Check the landing page on a phone, not a desktop",
+          "Confirm the ad account has not been restricted or the card declined",
+          "Check whether a competitor has started bidding hard",
+        ],
+      },
+      {
+        h: "The market changed",
+        p: [
+          "Seasonality is the obvious one, and it is sharper in Ireland than people allow for. A new competitor bidding aggressively is another, and it shows up as rising cost per click rather than falling impressions.",
+          "Both are real and neither is fixed by panicking. Seasonality is planned around; a new competitor is answered with better conversion rather than a bidding war you may not win.",
+        ],
+      },
+      {
+        h: "Or the follow-up slipped",
+        p: [
+          "The most common cause of a campaign appearing to fail is that enquiries are arriving and not being answered quickly, so fewer turn into jobs and it feels like fewer leads.",
+          "Check the leads received, not the jobs won, before concluding the advertising stopped working. They are frequently different problems.",
+        ],
+      },
+    ],
+    related: ["roofers", "plumbers-and-heating", "landscapers"],
+  },
+  {
+    slug: "tracking-phone-calls-from-ads",
+    title: "How to know which ads actually made the phone ring",
+    description:
+      "Why most small businesses cannot tell which advertising produced their calls, the simplest ways to fix it, and what the GDPR position is in Ireland.",
+    date: "2026-09-23",
+    minutes: 6,
+    intro:
+      "For most trades and service businesses the majority of enquiries arrive as phone calls, and the majority of phone calls are untracked. That means the reporting shows form submissions, the business knows the phone rang more, and nobody can connect the two. It is the single biggest measurement gap in small business advertising.",
+    sections: [
+      {
+        h: "Why it matters more than it sounds",
+        p: [
+          "If half your enquiries are calls and you only count forms, your cost per lead looks twice as bad as it is. Campaigns get switched off for underperforming when they were working.",
+          "Worse, you cannot tell which campaign produced the calls, so budget gets moved toward whatever happens to generate forms rather than toward whatever generates business.",
+        ],
+      },
+      {
+        h: "The simple methods, in order of effort",
+        p: [
+          "Ask. 'How did you hear about us' is imperfect, because people misremember, but it is free and it is better than nothing.",
+          "Use a distinct number in your advertising. A separate mobile or a second line used only on ads tells you exactly how many calls came from advertising, with no software at all.",
+        ],
+        list: [
+          "Ask every caller and log it — free, imperfect, still useful",
+          "A dedicated number used only in ads — cheap and unambiguous",
+          "Call tracking with dynamic number insertion — accurate, shows which campaign",
+          "Click-to-call tracking in the ad platforms — free, catches mobile taps only",
+        ],
+      },
+      {
+        h: "Dynamic number insertion",
+        p: [
+          "This swaps the number shown on your website depending on how the visitor arrived, so a call from a Google Ads visitor shows a different number from an organic one. It is the only method that attributes calls to specific campaigns reliably.",
+          "It costs a modest monthly fee and it is the right answer for a business spending meaningfully on ads. Below a few hundred euro a month it is probably not worth the complexity.",
+        ],
+      },
+      {
+        h: "The GDPR position",
+        p: [
+          "Call recording is personal data processing and requires a lawful basis and, in practice, notification at the start of the call. Call tracking without recording is far simpler — you are recording that a call happened and from which source, not its content.",
+          "If you record calls, tell callers at the start, say why, and set a retention period. If you only need attribution, do not record; you do not need to and it avoids the whole question.",
+        ],
+      },
+      {
+        h: "What to do with the answer",
+        p: [
+          "Once you can see which campaigns produce calls, the usual discovery is that one campaign is carrying the account and another has been quietly wasting money for months.",
+          "That single reallocation typically pays for the tracking many times over in the first quarter.",
+        ],
+      },
+    ],
+    related: ["plumbers-and-heating", "car-garages", "solicitors"],
+  },
+  {
+    slug: "gdpr-basics-for-irish-small-business-websites",
+    title: "GDPR basics for an Irish small business website",
+    description:
+      "What a small business website genuinely has to do about cookies, forms and data — without the scare tactics, and without pretending the rules do not apply.",
+    date: "2026-09-23",
+    minutes: 7,
+    intro:
+      "Most Irish small business websites are not compliant, and most of the advice about it is either sold by someone with a product or so vague it is useless. Here is the practical version: what actually applies to a small site, in plain terms. This is general information rather than legal advice, and anything unusual is worth a solicitor's time.",
+    sections: [
+      {
+        h: "Cookies and consent",
+        p: [
+          "The rule is prior consent. Analytics, advertising pixels and anything that tracks a visitor must not load until the visitor agrees. A banner that says 'by continuing you accept' is not consent, and neither is a banner that loads the trackers and then asks.",
+          "Accept and Reject must be equally easy. A prominent Accept with a hidden Reject is the most common failure on Irish sites and it is one the Data Protection Commission has been explicit about.",
+        ],
+      },
+      {
+        h: "What counts as necessary",
+        p: [
+          "Strictly necessary cookies do not need consent — the ones that keep a session alive or remember a basket. Analytics is not strictly necessary, however useful you find it. Neither is a Meta pixel.",
+          "The practical consequence is that your analytics will under-report once you do this properly. That is the correct number, not a loss.",
+        ],
+      },
+      {
+        h: "Contact and enquiry forms",
+        p: [
+          "You need a lawful basis, which for an enquiry form is usually that processing is necessary to respond to the request. You do not need consent to reply to somebody who contacted you.",
+          "You do need to say what you do with the data, how long you keep it, and who else sees it — which includes the form provider, your email host and anyone else in the chain.",
+        ],
+        list: [
+          "Say what you collect and why, in plain language",
+          "Name the third parties: form provider, email host, analytics, ad platforms",
+          "State a retention period and actually apply it",
+          "Keep marketing consent separate from the enquiry itself",
+          "Give a contact point for data requests",
+        ],
+      },
+      {
+        h: "Marketing email",
+        p: [
+          "An enquiry is not consent to a newsletter. If you want to send marketing, ask separately with an unticked box, and keep a record of when and how consent was given.",
+          "There is a narrow exemption for existing customers being sold similar products, but it is narrower than most businesses assume and it still requires an opt-out in every message.",
+        ],
+      },
+      {
+        h: "What actually happens if you ignore it",
+        p: [
+          "For a small business, the realistic risk is a complaint rather than a fine, and complaints usually come from a competitor or a disgruntled customer rather than from a regulator sweeping the internet.",
+          "The more immediate cost is commercial: enterprise customers and public sector buyers increasingly ask, and a site with no privacy notice at all is an easy reason to be dropped from a shortlist.",
+        ],
+      },
+    ],
+    related: ["solicitors", "accountants", "it-support"],
+  },
+  {
+    slug: "what-a-website-needs-to-convert",
+    title: "What a website actually needs in order to convert",
+    description:
+      "The seven things that decide whether a visitor rings you, in the order they matter — and the design choices that look good and cost enquiries.",
+    date: "2026-09-23",
+    minutes: 6,
+    intro:
+      "Most small business websites are judged on whether the owner likes looking at them. The only question that matters is whether a stranger who lands on it rings you. Those are different problems, and they frequently pull in opposite directions.",
+    sections: [
+      {
+        h: "Speed, before anything else",
+        p: [
+          "A site that takes five seconds on a phone on rural coverage has lost a third of its visitors before they see the design. This is the single most common fault we find and the least visible, because the people who leave never appear in your enquiry figures.",
+          "Large uncompressed images are the usual culprit, followed by a slideshow nobody asked for and four tracking scripts.",
+        ],
+      },
+      {
+        h: "Say what you do and where, above the fold",
+        p: [
+          "A visitor decides in a couple of seconds whether they are in the right place. A headline that says 'Quality craftsmanship since 1998' does not tell them. 'Roof repairs and re-roofing across Kildare and north Dublin' does.",
+          "Name the service and name the area. It feels blunt and it converts far better than anything clever.",
+        ],
+      },
+      {
+        h: "Proof, and it has to be yours",
+        p: [
+          "Photographs of your actual work, dated and local, do more than any claim about standards. Stock images of somebody else's kitchen are recognised instantly and cost you credibility.",
+          "Reviews should be visible on the page, not hidden on a testimonials tab. Most visitors will never click to a second page.",
+        ],
+        list: [
+          "Fast on a phone, tested on a real phone",
+          "Service and area stated in the first line",
+          "Real photographs of your own recent work",
+          "Reviews visible on the main pages",
+          "A phone number that dials on tap, in the header",
+          "A short form that asks four useful questions",
+          "Coverage area named, so people know whether to ring",
+        ],
+      },
+      {
+        h: "Make contact obvious and easy",
+        p: [
+          "The number should be tappable and in the header on every page. The form should be short. If you answer messages, offer WhatsApp, because a lot of people would rather message than call.",
+          "Anything that adds a step between deciding to contact you and doing it will cost enquiries.",
+        ],
+      },
+      {
+        h: "What looks good and loses money",
+        p: [
+          "Full-screen video headers that delay the content. Scroll animations that hide text until it drifts in. Clever navigation that hides the services. Carousels, which almost nobody clicks past the first slide.",
+          "None of these are wrong in principle. They are wrong when they sit between a visitor and the information they came for, which on a small business site is nearly always.",
+        ],
+      },
+    ],
+    related: ["builders-and-extensions", "kitchens", "estate-agents"],
+  },
+  {
+    slug: "how-to-photograph-your-own-work",
+    title: "How to photograph your own work with a phone",
+    description:
+      "A short, practical method for getting usable before-and-after photographs on a job, which is the cheapest marketing improvement available to most trades.",
+    date: "2026-09-23",
+    minutes: 5,
+    intro:
+      "The single biggest difference between trades whose advertising works and trades whose advertising does not is usually photographs. Not the campaign, not the budget, not the copywriting. A modern phone is more than good enough; what is missing is a habit and about four rules.",
+    sections: [
+      {
+        h: "Take the before shot before you start",
+        p: [
+          "This is the one everybody forgets, and without it the after shot means nothing. It takes ten seconds and it doubles the value of every job you photograph.",
+          "Stand where you will stand for the after shot and take it from there. Matching angles is what makes the pair persuasive.",
+        ],
+      },
+      {
+        h: "The four rules",
+        p: [
+          "Same position, same height, same framing, similar light. A before-and-after taken from different angles reads as two unrelated pictures and convinces nobody.",
+          "Beyond that: keep the sun behind you, avoid the middle of a bright day if you can, and take more than you need. Five shots of the same thing gives you one good one.",
+        ],
+        list: [
+          "Before shot from the exact spot you will use afterwards",
+          "Hold the phone level, not tilted down",
+          "Sun behind you, not behind the subject",
+          "Tidy the frame — move the van, the tools, the wheelie bin",
+          "Take five, keep one",
+          "Landscape for a website, upright for social",
+        ],
+      },
+      {
+        h: "Tidy the frame first",
+        p: [
+          "A finished bathroom photographed with a toolbox in shot looks like an unfinished bathroom. Thirty seconds of moving things out of frame is the highest-return half minute in this whole process.",
+          "The same applies outdoors: move the van, coil the hose, close the gate.",
+        ],
+      },
+      {
+        h: "What to photograph besides the finished job",
+        p: [
+          "Work in progress, which proves the job is real. The team on site, which makes the business human. Details and joins, which is where quality is actually visible to somebody who knows.",
+          "And the street or the house from a distance, because recognition is what makes local advertising work.",
+        ],
+      },
+      {
+        h: "Build the habit, not the archive",
+        p: [
+          "The goal is not one photoshoot. It is two minutes on every job, forever, which after six months gives you more usable material than any agency could produce.",
+          "Put the phone somewhere you will see it before you pack up. That is genuinely the whole system.",
+        ],
+      },
+    ],
+    related: ["painters-and-decorators", "landscapers", "bathroom-renovations"],
+  },
+  {
+    slug: "writing-a-service-page-that-ranks",
+    title: "How to write a service page that ranks and converts",
+    description:
+      "The structure of a service page that satisfies both Google and a person deciding whether to ring, and the mistakes that make a page do neither.",
+    date: "2026-09-23",
+    minutes: 7,
+    intro:
+      "A service page has two audiences with different needs, and most pages are written for neither. Google needs to understand what the page is about and where it applies. A person needs to know whether you can solve their specific problem and what it will cost. A good page does both without the seams showing.",
+    sections: [
+      {
+        h: "One page, one service",
+        p: [
+          "A page covering plumbing, heating, bathrooms and drainage ranks for none of them properly. Google cannot tell what it is about and a visitor cannot tell whether you do their specific job.",
+          "Split them. One page per service you actually want enquiries for, each with its own title and its own detail.",
+        ],
+      },
+      {
+        h: "Say the thing in the first line",
+        p: [
+          "The opening sentence should contain the service and the area, because that is what somebody searched and what Google is matching. 'Bathroom fitting in Galway city and county' does more work than three paragraphs of introduction.",
+          "Then answer the question the visitor actually arrived with, which is usually about cost, timescale or whether you cover their area.",
+        ],
+      },
+      {
+        h: "What belongs on the page",
+        p: [
+          "What the service includes and excludes. A realistic price range. How long a typical job takes. What areas you cover, named. Photographs of that specific service. Reviews from that specific service. Answers to the questions you get asked on every call.",
+          "Most pages contain none of this and instead describe the company's values, which nobody searched for.",
+        ],
+        list: [
+          "Service and area in the first line",
+          "What is included, and what is not",
+          "A genuine price range",
+          "Typical timescale",
+          "Named coverage area",
+          "Photographs of this service specifically",
+          "Five or six real FAQs",
+          "One clear way to make contact",
+        ],
+      },
+      {
+        h: "Length matters less than completeness",
+        p: [
+          "Nobody needs two thousand words for a gutter cleaning page. They need the questions answered. A short page that answers everything beats a long page that pads.",
+          "The useful test: could somebody decide to ring you without needing to ask anything first? If not, something is missing.",
+        ],
+      },
+      {
+        h: "The mistake that kills service pages",
+        p: [
+          "Writing the same page twenty times with the town name swapped. Google recognises it, treats the set as low value, and frequently indexes none of them.",
+          "If you want pages for several areas, each one needs genuinely different content — different jobs, different photographs, different local detail. If you cannot write that, you are better off with one strong page.",
+        ],
+      },
+    ],
+    related: ["plumbers-and-heating", "electricians", "roofers"],
+  },
+  {
+    slug: "local-seo-with-no-shopfront",
+    title: "Local SEO when you have no shopfront",
+    description:
+      "How a business that travels to customers ranks locally without a premises, and why hiding your address is usually the right move.",
+    date: "2026-09-23",
+    minutes: 6,
+    intro:
+      "Most of Google's local ranking advice assumes a shop with a door. A plumber, a mobile groomer or a photographer has no such thing, and following premises-based advice actively hurts them. The rules for a service-area business are different in several specific ways.",
+    sections: [
+      {
+        h: "Hide your address",
+        p: [
+          "If you travel to customers, set your Google Business Profile as a service-area business and hide the address. Showing a home address in a housing estate makes you rank for that estate, which is not where your customers are.",
+          "It also looks unprofessional to a customer checking you, and it puts your home on a map for anybody who looks.",
+        ],
+      },
+      {
+        h: "Set the service area honestly",
+        p: [
+          "List the towns you genuinely cover, not every town in the county. An unrealistically wide service area dilutes your relevance for the places you actually work.",
+          "Twenty minutes of driving is usually a better boundary than a county line.",
+        ],
+      },
+      {
+        h: "Proximity still applies, which is the hard part",
+        p: [
+          "Google ranks map results largely on the distance between the searcher and your registered location, and a service-area business cannot escape that. You will rank best near wherever you are based.",
+          "That is not fixable by settings. It is offset by being genuinely more prominent — more reviews, more complete profile, more content about the areas you serve — which is what actually moves a service-area business.",
+        ],
+        list: [
+          "Service-area business, address hidden",
+          "Realistic towns listed, not a whole county",
+          "Every service listed individually",
+          "Reviews that mention the towns you work in",
+          "Separate website pages for your main areas, each genuinely different",
+          "Photographs geotagged naturally by being taken on site",
+        ],
+      },
+      {
+        h: "Reviews that mention places",
+        p: [
+          "A review saying 'great job on our house in Naas' does something a five-star rating alone does not. It associates you with a place in a way Google can read.",
+          "You cannot script this, and you should not try. But asking a customer to mention what you did and where, when you request the review, is legitimate and it works.",
+        ],
+      },
+      {
+        h: "What to do about the areas you cannot rank in",
+        p: [
+          "If you are based in one town and want work in another forty minutes away, organic and map results will fight you. Paid advertising will not.",
+          "That is the honest answer: use paid to cover the areas geography denies you, and use organic to own the area you are actually in.",
+        ],
+      },
+    ],
+    related: ["mobile-mechanics", "dog-grooming", "photographers"],
+  },
+  {
+    slug: "how-to-handle-out-of-hours-enquiries",
+    title: "What to do about enquiries that arrive at nine at night",
+    description:
+      "Most enquiries arrive outside working hours. A practical look at what to automate, what to answer, and what it costs to leave until morning.",
+    date: "2026-09-23",
+    minutes: 5,
+    intro:
+      "Look at the timestamps on your enquiries and you will usually find a large share arrive between seven and eleven at night, plus a cluster on Sunday afternoons. That is when people deal with their house. If your response starts at eight the next morning, you are last in a queue by then.",
+    sections: [
+      {
+        h: "How much it actually costs",
+        p: [
+          "In most trades, the business that responds first wins a disproportionate share. Somebody who enquires at nine at night has frequently sent the same message to two or three businesses.",
+          "You do not need to answer at nine. You need them to know you exist and that you will ring, which is a different and much easier problem.",
+        ],
+      },
+      {
+        h: "The cheap version",
+        p: [
+          "An automatic reply that says when you will be in touch, from a real business rather than a robot. 'Thanks — I will ring you before ten tomorrow morning' holds a lead far better than silence.",
+          "On Meta, an instant reply on Messenger does the same job. On the website, a confirmation message rather than a blank page after the form submits.",
+        ],
+        list: [
+          "Auto-reply that gives a specific time you will ring",
+          "Instant reply set on Facebook and Instagram messages",
+          "A confirmation on the website after a form is sent",
+          "Voicemail that states when you will return the call",
+          "WhatsApp as an option, because many people prefer to message",
+        ],
+      },
+      {
+        h: "What not to automate",
+        p: [
+          "Quoting. Diagnosis. Anything that needs judgement. An automated system that gives a price and gets it wrong creates a worse problem than a slow reply.",
+          "Keep automation to acknowledgement and expectation-setting, and keep the judgement human.",
+        ],
+      },
+      {
+        h: "Whether to actually answer at night",
+        p: [
+          "For emergency trades, yes, and it is frequently the whole business. For everything else, no — and pretending otherwise leads to burnt-out owners answering the phone at bedtime for a job that could have waited.",
+          "The aim is not to be always available. It is to be reliably responsive at a stated time.",
+        ],
+      },
+      {
+        h: "Check your own system",
+        p: [
+          "Send yourself an enquiry at nine at night and see what happens. A surprising number of businesses discover the auto-reply was never set up, or goes to a mailbox nobody reads.",
+          "It takes two minutes and it is the most common quiet failure in small business marketing.",
+        ],
+      },
+    ],
+    related: ["plumbers-and-heating", "electricians", "locksmiths"],
+  },
+  {
+    slug: "should-you-publish-your-prices",
+    title: "Should you publish your prices?",
+    description:
+      "The case for and against showing prices on a service website, and a middle path that filters out time-wasters without giving away your quoting.",
+    date: "2026-09-23",
+    minutes: 6,
+    intro:
+      "Every trade and service business has this argument with itself. Publishing prices feels like handing competitors information and losing negotiating room. Hiding them feels safe. The evidence in most categories points one way, but not for the reason people expect.",
+    sections: [
+      {
+        h: "What hiding prices actually costs",
+        p: [
+          "It does not create curiosity. It creates a closed tab. Somebody comparing three businesses will generally rule out the one that makes them ring to find out whether they can afford it.",
+          "It also fills your day with enquiries from people whose budget was never going to reach, which is the expensive part — not the lost sale, but the hour spent finding out.",
+        ],
+      },
+      {
+        h: "What publishing prices actually costs",
+        p: [
+          "You will get fewer enquiries. That is real and it frightens people. What you will not get is fewer jobs, because the enquiries you lose are overwhelmingly the ones that were never going to convert.",
+          "Competitors seeing your prices matters far less than people fear. They can ring and ask, and mostly they already know.",
+        ],
+      },
+      {
+        h: "The middle path that works",
+        p: [
+          "Publish a range with the conditions attached. 'Most full bathroom installations we do come in between €7,000 and €12,000 depending on the suite and whether the layout changes.'",
+          "That tells somebody with €3,000 to look elsewhere, tells somebody with €10,000 that they are in the right place, and commits you to nothing.",
+        ],
+        list: [
+          "A from-price for the simplest version of the job",
+          "A typical range for the common case",
+          "What moves the price up or down",
+          "What is always included",
+          "What is never included",
+        ],
+      },
+      {
+        h: "Where it does not apply",
+        p: [
+          "Genuinely bespoke work where the range is so wide that a number misleads more than it helps. Commercial and B2B work priced per contract. Anything where the specification changes the cost by an order of magnitude.",
+          "Even then, saying 'projects typically start at X' does more good than saying nothing.",
+        ],
+      },
+      {
+        h: "The test",
+        p: [
+          "Count how many quotes you did last month and how many became jobs. If the ratio is poor, you have a filtering problem, and price transparency is the cheapest filter available.",
+          "If the ratio is good and you are short of work, keep the prices off and get more enquiries first.",
+        ],
+      },
+    ],
+    related: ["kitchens", "bathroom-renovations", "interior-designers"],
+  },
 ];
 
 export const postBySlug = (slug: string) => posts.find((p) => p.slug === slug);
