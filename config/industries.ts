@@ -7051,6 +7051,1075 @@ export const industries: Industry[] = [
     ],
     related: ["wedding-venues", "hotels-and-guesthouses", "signage-and-print"],
   },
+  {
+    slug: "windscreen-repair",
+    label: "Windscreen repair",
+    title: "Windscreen Repair Leads Ireland | Marketing for Fitters",
+    description:
+      "Lead generation for Irish windscreen repair and replacement companies. Campaigns built around insurance cover and same-day mobile fitting. From €1,500 a month.",
+    h1: "Windscreen leads, from a job the insurer usually pays for.",
+    intro: [
+      "Almost nobody budgets for a windscreen. It cracks on a Tuesday, it is an NCT failure and a safety problem, and the driver wants it dealt with before the weekend. The decision is made in under an hour.",
+      "The unusual thing about this market is that comprehensive cover typically pays, frequently with no effect on the no-claims bonus. A driver who understands that stops price-shopping entirely, which changes what your advertising should say.",
+    ],
+    run: [
+      {
+        name: "Same-day and mobile campaigns",
+        text: "Ads built around speed and coming to them, because that is what decides this sale.",
+      },
+      {
+        name: "Insurance-led messaging",
+        text: "Explaining plainly what cover usually pays and what it does not. It removes the price objection before it forms.",
+      },
+      {
+        name: "Chip-repair campaigns",
+        text: "Cheaper, faster and frequently free to the driver. A separate campaign, and a good source of future replacements.",
+      },
+      {
+        name: "Fleet and commercial",
+        text: "Vans, HGVs and company cars, which are a contract sale rather than a one-off and should be run separately.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because a driver checking you at ten at night wants to see a real business.",
+      },
+    ],
+    qualify: [
+      "Is it a chip or a full crack?",
+      "What make, model and year is the vehicle?",
+      "Are you claiming on insurance?",
+      "Where is the vehicle — home, work or roadside?",
+      "County and Eircode",
+    ],
+    proof: [
+      { value: "#1", label: "Google ranking for emergency call-outs for a Dublin trades business" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "The insurance point is the whole campaign",
+        body: [
+          "Most drivers assume a windscreen will cost them several hundred euro and that claiming will cost them their no-claims bonus. Both are frequently wrong, and the confusion costs you jobs to whoever is cheapest.",
+          "A company that states the position clearly — what is typically covered, what the excess usually is, that glass claims generally do not affect the bonus — converts far better than one competing on price, and attracts a customer who is not haggling.",
+        ],
+      },
+      {
+        heading: "Speed beats everything else",
+        body: [
+          "This is a same-day decision. The company that answers first and can come today wins a very large share of the work, almost regardless of price.",
+          "Which means the bottleneck is rarely the advertising. If calls go unanswered between jobs, more budget simply buys more missed calls, and we will say so before recommending any increase.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should we lead on price?",
+        a: "Rarely. Lead on speed and on explaining the insurance position — that is what actually decides it, and it attracts better customers.",
+      },
+      {
+        q: "Is chip repair worth advertising?",
+        a: "Yes. It is cheap, fast, frequently free to the driver, and it puts you in front of somebody who will need a replacement eventually.",
+      },
+      {
+        q: "Is fleet work worth chasing?",
+        a: "Steadier and larger, but a slower procurement-led sale. It needs its own campaign, not a line on the consumer page.",
+      },
+      {
+        q: "How fast do we need to answer?",
+        a: "Same hour, ideally. This is one of the most response-sensitive categories we work in.",
+      },
+      {
+        q: "Does the NCT drive demand?",
+        a: "It creates a hard deadline for a lot of drivers, and those enquiries convert quickly.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["car-garages", "mobile-mechanics", "glazing"],
+  },
+  {
+    slug: "tyre-fitting",
+    label: "Tyre fitting",
+    title: "Tyre Leads Ireland | Marketing for Tyre Fitters & Garages",
+    description:
+      "Lead generation for Irish tyre fitters and mobile tyre services. Campaigns built around NCT deadlines, winter demand and same-day fitting. From €1,500 a month.",
+    h1: "Tyre leads, timed to the deadline that forces the purchase.",
+    intro: [
+      "Tyres are bought reluctantly and usually under pressure — an NCT coming up, a failure notice already issued, a blowout, or the first cold snap of the year. Almost nobody replaces tyres early.",
+      "That makes the trigger far more important than the audience, and it makes timing the single biggest lever on a tyre campaign.",
+    ],
+    run: [
+      {
+        name: "NCT-deadline campaigns",
+        text: "Aimed at drivers with a test due or a failure to remedy, which is the most reliable urgency in this market.",
+      },
+      {
+        name: "Mobile fitting campaigns",
+        text: "Coming to the driver at home or at work, which commands a premium and faces far less price comparison.",
+      },
+      {
+        name: "Seasonal weighting",
+        text: "Budget concentrated into the autumn cold snap and the pre-NCT periods rather than spread flat.",
+      },
+      {
+        name: "Fleet and commercial contracts",
+        text: "Vans, agricultural and haulage, run as a separate contract sale.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because price-sensitive buyers check whether you look legitimate first.",
+      },
+    ],
+    qualify: [
+      "What size are the tyres, or what car is it?",
+      "How many do you need?",
+      "Is there an NCT date driving this?",
+      "Fitted at the garage or mobile?",
+      "County and area",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "This market splits on price tolerance, not on car",
+        body: [
+          "Some drivers will take the cheapest tyre available and others will not, and advertising to both with one message wastes effort at each end.",
+        ],
+        list: [
+          {
+            title: "Budget-led",
+            body: "Shopping purely on price, comparing four places. Winnable on stock and speed rather than margin.",
+          },
+          {
+            title: "Convenience-led",
+            body: "Mobile fitting, at home or at the office. Far less price comparison and a much better customer.",
+          },
+          {
+            title: "Fleet and commercial",
+            body: "Contracted, scheduled, invoiced. Slow to win, steady once won, and worth a separate campaign.",
+          },
+        ],
+      },
+      {
+        heading: "Mobile fitting is the escape from price competition",
+        body: [
+          "A driver comparing four garages on price is a poor customer. A driver who wants someone to come to their office car park at eleven is buying convenience, and will pay for it.",
+          "If you offer mobile, that should be the front of your advertising rather than a footnote. It is the most under-sold capability in this category.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should we compete on price?",
+        a: "Only where you have stock advantage. Mobile fitting and speed are better ground, and they attract customers who do not haggle.",
+      },
+      {
+        q: "Does the NCT really drive enquiries?",
+        a: "It is the most dependable trigger in the category — a hard date, a legal requirement and no way around it.",
+      },
+      {
+        q: "How seasonal is it?",
+        a: "Sharply. The first cold spell and the pre-test periods carry a disproportionate share of the year.",
+      },
+      {
+        q: "Is fleet work worth it?",
+        a: "Steady and contracted, but slow to win. Worth its own campaign if you have the capacity to service it.",
+      },
+      {
+        q: "Do reviews matter here?",
+        a: "More than people expect. Drivers are wary of being upsold and reviews are how they judge that.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["car-garages", "mobile-mechanics", "equipment-hire"],
+  },
+  {
+    slug: "appliance-repair",
+    label: "Appliance repair",
+    title: "Appliance Repair Leads Ireland | Marketing for Engineers",
+    description:
+      "Lead generation for Irish appliance repair engineers. Campaigns for washing machines, ovens, dishwashers and fridges, reported in booked call-outs. From €1,500 a month.",
+    h1: "Appliance repair leads, from people whose washing machine died today.",
+    intro: [
+      "A broken washing machine is an emergency in a way a broken tile is not. The household cannot wait, they ring two or three people, and whoever answers and can come soonest gets the job.",
+      "The whole category runs on that. It is high volume, low ticket, and decided almost entirely on availability rather than on price or reputation.",
+    ],
+    run: [
+      {
+        name: "Appliance-specific campaigns",
+        text: "Washing machine, oven, dishwasher and fridge run separately, because people search the appliance rather than the trade.",
+      },
+      {
+        name: "Same-day and next-day messaging",
+        text: "Availability stated plainly, because it is what decides this sale.",
+      },
+      {
+        name: "Brand-led campaigns",
+        text: "Where you are approved or specialise, said explicitly. It converts far better than a generic repair advert.",
+      },
+      {
+        name: "Repair-or-replace content",
+        text: "The question every customer is actually asking. Answering it honestly wins the ones worth having.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, so a household letting you in can see you are real.",
+      },
+    ],
+    qualify: [
+      "What appliance, and what make?",
+      "What is it doing — or not doing?",
+      "Roughly how old is it?",
+      "Is it under warranty?",
+      "County and Eircode",
+    ],
+    proof: [
+      { value: "#1", label: "Google ranking for emergency call-outs for a Dublin trades business" },
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+    ],
+    sections: [
+      {
+        heading: "Answer the repair-or-replace question honestly",
+        body: [
+          "Every customer in this category is quietly wondering whether they are about to spend a hundred euro on something they should be replacing.",
+          "An engineer who says plainly when a repair is not worth it earns a great deal of trust and loses very little revenue, because the jobs given up were the ones most likely to end in a dispute. It is also the most shareable thing you can say in this market.",
+        ],
+      },
+      {
+        heading: "Volume business needs a volume system",
+        body: [
+          "This is a category of many small jobs, which means the admin is the constraint long before the advertising is.",
+          "If calls go to voicemail while you are behind a washing machine, more budget just buys more missed calls. Before increasing spend we look at whether the enquiries you already get are actually being answered.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should we advertise by appliance or by trade?",
+        a: "By appliance. People search 'washing machine repair', not 'appliance engineer', and campaigns built that way cost far less per enquiry.",
+      },
+      {
+        q: "Is this too price-competitive?",
+        a: "Less than you would think. It is decided on availability far more than on the call-out fee.",
+      },
+      {
+        q: "Should we say when a repair is not worth it?",
+        a: "Yes. It costs you a few small jobs and earns disproportionate trust, referrals and reviews.",
+      },
+      {
+        q: "Do brand approvals matter?",
+        a: "Considerably, if you have them. Say so explicitly — it converts much better than a generic repair advert.",
+      },
+      {
+        q: "What is the real bottleneck?",
+        a: "Almost always answering the phone. We check that before recommending more budget.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["electricians", "plumbers-and-heating", "it-support"],
+  },
+  {
+    slug: "car-valeting",
+    label: "Car valeting & detailing",
+    title: "Car Valeting Leads Ireland | Marketing for Detailers",
+    description:
+      "Lead generation for Irish car valeting and detailing businesses. Campaigns for mobile valeting, detailing and pre-sale preparation. From €1,500 a month.",
+    h1: "Valeting leads, from a business that sells on photographs.",
+    intro: [
+      "Valeting is one of the easiest services in Ireland to advertise and one of the most commonly advertised badly. It produces a dramatic visual result, and most operators post blurry photographs of a clean car in a dark yard.",
+      "The gap between a good before-and-after and a bad one is the whole difference in this category, and it costs nothing but care.",
+    ],
+    run: [
+      {
+        name: "Before-and-after campaigns",
+        text: "The single most effective creative in this category, shot properly and run as paid rather than left on a page.",
+      },
+      {
+        name: "Detailing and ceramic campaigns",
+        text: "Much higher value than a standard valet, a longer decision, and worth a separate campaign entirely.",
+      },
+      {
+        name: "Pre-sale preparation",
+        text: "Aimed at people about to sell privately, who have an obvious financial reason to spend and rarely think of it.",
+      },
+      {
+        name: "Mobile and at-home",
+        text: "Coming to the customer, which removes most of the price comparison.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because this is a category people judge entirely by eye.",
+      },
+    ],
+    qualify: [
+      "What size is the vehicle?",
+      "Standard valet, full detail, or ceramic coating?",
+      "Interior, exterior, or both?",
+      "Are you preparing it for sale?",
+      "County and area",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Your photographs are the entire sale",
+        body: [
+          "Nobody buys valeting from a description. They buy from a before-and-after that makes them look at their own car differently.",
+          "Shoot in consistent light, from the same angle, with the same framing. That one discipline outperforms any amount of budget in this category, and almost nobody does it.",
+        ],
+      },
+      {
+        heading: "Detailing is a different business from valeting",
+        body: [
+          "A standard valet is a commodity bought on price and convenience. A full detail or a ceramic coating is a considered purchase at several times the price, bought on skill and evidence.",
+          "Advertising them together drags the detailing work down to valet prices in the customer's head. They need separate campaigns and separate pages.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is this too price-competitive?",
+        a: "At the valet end, yes. At the detailing end, not at all — that is bought on evidence of skill.",
+      },
+      {
+        q: "Do before-and-afters really work that well?",
+        a: "They are the most effective creative in this category by a wide margin, provided they are shot consistently.",
+      },
+      {
+        q: "Is pre-sale preparation worth targeting?",
+        a: "Yes, and it is under-used. Somebody selling privately has an obvious financial reason to spend a hundred euro.",
+      },
+      {
+        q: "Should mobile be the focus?",
+        a: "If you offer it, it should be prominent. It removes most of the price comparison.",
+      },
+      {
+        q: "Do I need TikTok or Instagram?",
+        a: "Instagram genuinely suits this category. The work is visual and the results are immediate.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["car-garages", "powerwashing", "mobile-mechanics"],
+  },
+  {
+    slug: "dog-grooming",
+    label: "Dog grooming & pet services",
+    title: "Dog Grooming Leads Ireland | Marketing for Groomers",
+    description:
+      "Lead generation for Irish dog groomers, pet sitters and boarding kennels. Campaigns that fill a recurring appointment book. From €1,500 a month.",
+    h1: "Grooming enquiries that turn into a standing appointment.",
+    intro: [
+      "A dog groomer does not want customers, they want a diary that refills itself. A dog needs grooming every six to eight weeks for its whole life, so a single new client is worth several hundred euro a year and several thousand over time.",
+      "That changes what a good campaign looks like. Chasing cheap one-off enquiries fills a week; winning recurring clients fills a year.",
+    ],
+    run: [
+      {
+        name: "Recurring-client campaigns",
+        text: "Aimed at owners likely to rebook rather than at one-off bargain hunters, and priced accordingly.",
+      },
+      {
+        name: "Breed-specific campaigns",
+        text: "Owners search by breed. Doodle grooming is a different advert, and a different price, from a short-coat wash.",
+      },
+      {
+        name: "Puppy campaigns",
+        text: "The best customer in the category — a first groom that becomes a decade of appointments. Worth targeting deliberately.",
+      },
+      {
+        name: "Boarding and sitting",
+        text: "Seasonal and holiday-driven, run separately from grooming.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored. This is a category where photographs of the dogs do most of the selling.",
+      },
+    ],
+    qualify: [
+      "What breed, and what coat?",
+      "When was the last groom?",
+      "Full groom, bath and tidy, or de-shed?",
+      "Is the dog nervous or does it have any handling needs?",
+      "County and area",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Puppies are the most valuable enquiry you can get",
+        body: [
+          "A puppy's first groom, done well, frequently becomes a standing appointment for ten or twelve years, plus recommendations to everyone else in the owner's puppy class.",
+          "Very few groomers advertise for puppies specifically, and it is the single highest-return targeting available in this category.",
+        ],
+      },
+      {
+        heading: "Doodles are a business decision, not just a breed",
+        body: [
+          "Doodle and poodle-cross coats take far longer, matt badly and are the most common source of difficult conversations about price and clipping off.",
+          "Whether you take them, and at what price, should be stated clearly in your advertising. Being explicit filters out the arguments before they reach your table.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "How do we get people to rebook?",
+        a: "Book the next appointment before they leave, and advertise for the kind of owner who wants that. It is a targeting and process question more than a marketing one.",
+      },
+      {
+        q: "Should we advertise by breed?",
+        a: "Yes. Owners search by breed and the pricing conversation differs enormously between coats.",
+      },
+      {
+        q: "Are puppies worth targeting specifically?",
+        a: "The highest-return audience in this category. A first groom can become a decade of appointments.",
+      },
+      {
+        q: "Do photographs matter?",
+        a: "They are most of the selling. Owners choose a groomer on the dogs they see leaving happy.",
+      },
+      {
+        q: "Is boarding worth advertising separately?",
+        a: "Yes — it is holiday-driven and seasonal, which is a different campaign entirely from grooming.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["veterinary", "home-care", "creches"],
+  },
+  {
+    slug: "personal-trainers",
+    label: "Personal trainers",
+    title: "Personal Training Leads Ireland | Marketing for Trainers",
+    description:
+      "Lead generation for Irish personal trainers and small studios. Campaigns built around the January spike and retention after it. From €1,500 a month.",
+    h1: "Personal training clients, and a plan for when January ends.",
+    intro: [
+      "Personal training has the most predictable demand curve of any service we work with. January is enormous, September is solid, and the rest of the year is a slow grind that most trainers never solve.",
+      "The trainers who build a real income are not the ones who win January hardest. They are the ones who keep the January clients past March.",
+    ],
+    run: [
+      {
+        name: "January and September campaigns",
+        text: "Budget concentrated where the intent genuinely is, rather than spread evenly across a year that is anything but even.",
+      },
+      {
+        name: "Retention-focused offers",
+        text: "Structures that sell a block rather than a session, because the economics of this business are entirely about how long somebody stays.",
+      },
+      {
+        name: "Small-group and semi-private",
+        text: "Better margin per hour, lower price per client, and a far easier sale than one-to-one.",
+      },
+      {
+        name: "Online and hybrid coaching",
+        text: "A different product with a wider catchment, run as its own campaign.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because clients choose a trainer on whether they can imagine themselves with them.",
+      },
+    ],
+    qualify: [
+      "What is the goal, and by when?",
+      "Have you trained with someone before?",
+      "One-to-one, small group, or online?",
+      "How many sessions a week are realistic?",
+      "County and area",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Winning January is easy and mostly worthless",
+        body: [
+          "Anyone can fill a January with discounted introductory offers. Most of those clients are gone by the middle of February and the trainer is back where they started, having discounted their rate in the process.",
+          "The campaign should be built to sell a twelve-week block to somebody with a specific goal, not a taster to somebody with a resolution. Fewer enquiries, considerably more revenue.",
+        ],
+      },
+      {
+        heading: "Small group is the under-sold product",
+        body: [
+          "One-to-one is the hardest sale in the category: highest price, most intimidating, and a big commitment from a stranger.",
+          "Small-group training is cheaper for the client, better per hour for you, and far less daunting for somebody who has never done this. Most trainers advertise the hard product and wonder why the enquiries stall.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should we discount in January?",
+        a: "Generally not. It attracts the clients least likely to stay and it devalues your rate for everyone who is already paying it.",
+      },
+      {
+        q: "What should we sell instead of sessions?",
+        a: "A block with a defined goal and an end date. It converts better and the client stays far longer.",
+      },
+      {
+        q: "Is small-group worth pushing?",
+        a: "For most trainers it is the better product — easier sale, better hourly rate, less intimidating for beginners.",
+      },
+      {
+        q: "Does online coaching work?",
+        a: "For some trainers, well, and it widens the catchment enormously. It is a different campaign and a different price point.",
+      },
+      {
+        q: "What should we measure?",
+        a: "Clients retained past twelve weeks, not enquiries received. Only one of those pays your rent.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["gyms-and-fitness", "physiotherapy", "skin-clinics"],
+  },
+  {
+    slug: "couriers-and-delivery",
+    label: "Couriers & delivery",
+    title: "Courier Leads Ireland | Marketing for Delivery Companies",
+    description:
+      "Lead generation for Irish courier and same-day delivery companies. Campaigns aimed at business accounts rather than one-off parcels. From €1,500 a month.",
+    h1: "Courier leads worth having, which means accounts not parcels.",
+    intro: [
+      "A one-off parcel is worth a few euro and a great deal of admin. A business account sending forty items a week is worth thousands a year and almost no acquisition effort after the first month.",
+      "Most courier advertising chases the first and wonders why the margins are poor. We build for the second.",
+    ],
+    run: [
+      {
+        name: "Business-account campaigns",
+        text: "Aimed at companies with regular volume, which is a slower sale with a far larger outcome.",
+      },
+      {
+        name: "Same-day and urgent",
+        text: "The premium end, where price sensitivity is lowest and availability decides everything.",
+      },
+      {
+        name: "Sector-specific campaigns",
+        text: "Pharmacy, legal, laboratory and trade counter work each have different requirements and convert far better addressed directly.",
+      },
+      {
+        name: "Pallet and oversize",
+        text: "Separate from parcel work, with a different customer and a different price.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Including LinkedIn, because business accounts check whether you are a real operation.",
+      },
+    ],
+    qualify: [
+      "Is this a one-off or regular volume?",
+      "Roughly how many items a week?",
+      "Same-day, next-day or scheduled?",
+      "What are you sending, and how big?",
+      "Collection and delivery areas",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Judge this on account value, not cost per lead",
+        body: [
+          "A €60 enquiry that becomes a business account sending weekly for two years is a far better outcome than a €4 enquiry for a single parcel.",
+          "A campaign optimised for cheap leads will reliably deliver the second, because those are far more numerous and far easier to generate. We report cost per lead and account value, and we build toward the latter.",
+        ],
+      },
+      {
+        heading: "Reliability is the only real argument",
+        body: [
+          "Every courier claims to be fast and careful. Nobody buying can tell the difference from an advert, so the claim does nothing.",
+          "What works is specifics: guaranteed collection windows, proof of delivery, named contacts, what happens when something goes wrong. Businesses are buying the absence of problems, not speed.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Are one-off parcels worth advertising?",
+        a: "Rarely. Low value, high admin, and they consume the budget meant for accounts because they are cheaper to generate.",
+      },
+      {
+        q: "How do we win business accounts?",
+        a: "Slowly and with specifics. Collection windows, proof of delivery and what happens when something goes wrong matter more than speed claims.",
+      },
+      {
+        q: "Is same-day worth focusing on?",
+        a: "It is the premium end with the least price sensitivity, and availability decides it. Worth its own campaign.",
+      },
+      {
+        q: "Does LinkedIn matter here?",
+        a: "For business accounts, somewhat. Google usually captures the active searches more cheaply, so we normally start there.",
+      },
+      {
+        q: "What should we measure?",
+        a: "Accounts won and their monthly value. Enquiry count is close to meaningless in this category.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["self-storage", "equipment-hire", "it-support"],
+  },
+  {
+    slug: "groundworks",
+    label: "Groundworks & site clearance",
+    title: "Groundworks Leads Ireland | Marketing for Contractors",
+    description:
+      "Lead generation for Irish groundworks, site clearance and excavation contractors. Campaigns aimed at builders, developers and self-builders. From €1,500 a month.",
+    h1: "Groundworks leads, from people who already have planning.",
+    intro: [
+      "Groundworks is bought at a specific moment: after planning is granted and before the build starts. Reach somebody earlier and there is nothing to quote; reach them later and the contractor is already on site.",
+      "The window is short and it is identifiable, which makes this a more targetable business than most contractors assume.",
+    ],
+    run: [
+      {
+        name: "Self-build campaigns",
+        text: "Aimed at people with planning granted, who are the most reachable and most valuable audience in this category.",
+      },
+      {
+        name: "Builder and developer campaigns",
+        text: "A relationship sale rather than a lead-form sale, supported by a site that proves capability and plant.",
+      },
+      {
+        name: "Site clearance and demolition",
+        text: "Shorter, simpler jobs that fill gaps between larger contracts, run as their own campaign.",
+      },
+      {
+        name: "Agricultural groundworks",
+        text: "Farm roadways, yards and sheds — seasonal, relationship-led and quite separate from construction work.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because plant and finished sites photograph extremely well and prove capability instantly.",
+      },
+    ],
+    qualify: [
+      "Is this a self-build, a development, or a farm job?",
+      "Has planning been granted?",
+      "What is the site area, roughly?",
+      "What is needed — clearance, excavation, foundations, drainage?",
+      "County and Eircode",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Self-builders are the reachable audience",
+        body: [
+          "A builder chooses a groundworks contractor from people they already know. A self-builder has no idea who anyone is and is actively looking, frequently for months before they start.",
+          "That makes self-builders the audience worth advertising to, even though builders may be the bulk of your turnover. The advertising wins the self-builds; the relationships win the rest.",
+        ],
+      },
+      {
+        heading: "Show the plant",
+        body: [
+          "Capability is the whole question in this category, and nothing demonstrates it faster than photographs of your own machinery on your own sites.",
+          "A contractor whose website shows three diggers and six finished sites gets taken seriously. One with a logo and a phone number does not, regardless of how good the work is.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should we advertise to builders or self-builders?",
+        a: "Advertise to self-builders; they are actively looking and have no existing contractor. Builders come through relationships, which advertising supports rather than replaces.",
+      },
+      {
+        q: "When should we reach people?",
+        a: "Just after planning is granted. Earlier and there is nothing to quote, later and somebody else is on site.",
+      },
+      {
+        q: "Is site clearance worth advertising?",
+        a: "Yes, as its own campaign. Shorter jobs that fill the gaps between larger contracts.",
+      },
+      {
+        q: "Do photographs matter?",
+        a: "More than in almost any trade. Plant and finished sites prove capability in a way that claims cannot.",
+      },
+      {
+        q: "Is agricultural work different?",
+        a: "Substantially — seasonal, relationship-led and priced differently. It should not share a campaign with construction.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["builders-and-extensions", "drainage", "agricultural-contractors"],
+  },
+  {
+    slug: "steel-fabrication",
+    label: "Steel fabrication",
+    title: "Steel Fabrication Leads Ireland | B2B Marketing",
+    description:
+      "Lead generation for Irish steel fabricators and structural steel companies. Campaigns aimed at builders, architects and industrial buyers. From €1,500 a month.",
+    h1: "Steel fabrication leads, from buyers with a drawing in hand.",
+    intro: [
+      "Structural steel is not bought casually. Somebody has a drawing, a programme and a budget, and they are looking for a fabricator who can hit a date without drama.",
+      "That is a small audience and a valuable one, and it is reachable — most fabricators simply never try, relying entirely on the same handful of contractors they have always worked for.",
+    ],
+    run: [
+      {
+        name: "Capability-led campaigns",
+        text: "Built around what you can actually fabricate and to what tolerance, because that is what buyers search and assess.",
+      },
+      {
+        name: "Self-build and agricultural steel",
+        text: "Sheds, frames and portal buildings — a consumer-adjacent market most fabricators ignore and which advertises well.",
+      },
+      {
+        name: "Architect and engineer visibility",
+        text: "The people who specify frequently decide, and they are reachable separately from the people who buy.",
+      },
+      {
+        name: "Balustrade, gates and architectural metalwork",
+        text: "Higher margin, visual, and far better suited to social than structural work.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Including LinkedIn, because buyers check whether you are a real operation before enquiring.",
+      },
+    ],
+    qualify: [
+      "What is the project — structural, agricultural, or architectural?",
+      "Do you have drawings?",
+      "Roughly what tonnage or scale?",
+      "What is the programme date?",
+      "County and site location",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Architectural metalwork is the under-advertised half",
+        body: [
+          "Structural steel is a relationship business that advertising supports slowly. Balustrades, gates, staircases and architectural metalwork are a different market entirely — visual, higher margin, and bought by homeowners and architects who are actively searching.",
+          "Most fabricators treat that work as a sideline and advertise none of it. It is frequently the easiest revenue available to them.",
+        ],
+      },
+      {
+        heading: "Buyers are assessing risk, not price",
+        body: [
+          "A contractor choosing a fabricator is mainly worried about whether the steel arrives on time and fits. Price matters, but a late delivery costs far more than a quote difference.",
+          "Advertising and a website that address capacity, programme reliability and certification do more than any price message. It is a category where competence is the whole sell.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Does B2B advertising work for fabricators?",
+        a: "Better than most expect, because so few competitors advertise that a buyer searching finds very little.",
+      },
+      {
+        q: "Should we advertise architectural work separately?",
+        a: "Yes, and most fabricators under-do it. It is visual, higher margin and bought by people actively searching.",
+      },
+      {
+        q: "Is agricultural steel worth targeting?",
+        a: "In rural counties, considerably. Sheds and portal frames are a steady market that advertises well.",
+      },
+      {
+        q: "Do architects matter?",
+        a: "They frequently specify, which effectively decides it. Worth reaching separately from the contractor who buys.",
+      },
+      {
+        q: "What do buyers actually care about?",
+        a: "Whether it arrives on time and fits. Address that and you outperform anyone competing on price.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["engineers-and-surveyors", "farm-buildings", "fencing-and-gates"],
+  },
+  {
+    slug: "stonemasons",
+    label: "Stonemasons",
+    title: "Stonemason Leads Ireland | Marketing for Stone Masonry",
+    description:
+      "Lead generation for Irish stonemasons. Campaigns for stone cladding, walls, restoration and heritage work, reported in surveys booked. From €1,500 a month.",
+    h1: "Stonemasonry leads, for work people choose with their eyes.",
+    intro: [
+      "Stone is never the cheap option. Somebody choosing it has already decided to spend more than the alternative would cost, which makes this one of the few trades where the customer is not primarily price-driven.",
+      "What they are looking for is evidence — that you have done this before, on a house like theirs, to a standard they would be happy with.",
+    ],
+    run: [
+      {
+        name: "Portfolio-led campaigns",
+        text: "Real completed work in recognisable Irish settings, which is how this decision is actually made.",
+      },
+      {
+        name: "Restoration and heritage campaigns",
+        text: "Specialist, high-value and much less contested. Worth a campaign of its own if you do this work.",
+      },
+      {
+        name: "Cladding and feature walls",
+        text: "The volume end — entrances, facades, garden features — where most consumer demand sits.",
+      },
+      {
+        name: "Architect and builder visibility",
+        text: "Specifiers send a great deal of stone work, and they are reachable separately.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because stonework photographs beautifully and almost nobody here exploits that.",
+      },
+    ],
+    qualify: [
+      "What is the project — cladding, walls, restoration, or feature work?",
+      "Roughly what area?",
+      "What stone do you have in mind?",
+      "Is this new build, renovation or heritage?",
+      "County and Eircode",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Heritage work is the premium nobody advertises",
+        body: [
+          "Restoration and conservation work is highly skilled, poorly served and frequently funded by grants or by owners with a genuine commitment to doing it properly.",
+          "If you can do lime mortar, rebuilding and conservation-standard repair, that deserves its own page and its own campaign. It is the least price-sensitive work available to a stonemason and it is barely contested online.",
+        ],
+      },
+      {
+        heading: "Photograph in the right light",
+        body: [
+          "Stone looks flat and grey in overcast photographs, which is how most of it is shot in Ireland. The same wall in low afternoon light looks like the reason somebody would pay for it.",
+          "Trades that sell on appearance win or lose on this. It costs nothing and it is the single biggest improvement available to most masons.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is stonework too niche to advertise?",
+        a: "No — it is under-contested, which is different. Few masons advertise and fewer still show their work properly.",
+      },
+      {
+        q: "Should heritage work be separate?",
+        a: "Yes. It is the least price-sensitive work in the trade and it deserves its own page and campaign.",
+      },
+      {
+        q: "Do architects send work?",
+        a: "A great deal of it. They are worth reaching separately from homeowners.",
+      },
+      {
+        q: "Does photography really matter that much?",
+        a: "In this trade, more than almost any other. Stone shot in poor light looks like nothing at all.",
+      },
+      {
+        q: "Is this seasonal?",
+        a: "Somewhat — external work follows the weather. Quotes and surveys can be won in winter for spring starts.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["builders-and-extensions", "plastering", "landscapers"],
+  },
+  {
+    slug: "monumental-sculptors",
+    label: "Monumental sculptors",
+    title: "Headstone & Memorial Leads Ireland | Marketing for Sculptors",
+    description:
+      "Lead generation for Irish monumental sculptors and memorial companies. Considerate campaigns for families choosing a headstone. From €1,500 a month.",
+    h1: "Memorial enquiries, handled with the care the subject deserves.",
+    intro: [
+      "A family choosing a headstone is doing it months after a death, usually once the ground has settled, and usually while still grieving. They are not shopping, and advertising that treats them as shoppers does real harm and wins nothing.",
+      "This is a category where restraint outperforms persuasion. The work is to be findable, clear about cost and process, and easy to contact — nothing more.",
+    ],
+    run: [
+      {
+        name: "Findable, considerate search campaigns",
+        text: "Present when a family looks, absent when they are not. No retargeting people around the internet after a bereavement.",
+      },
+      {
+        name: "Cemetery and regulation guidance",
+        text: "Every cemetery has its own rules on size, stone and inscription. Explaining them plainly is genuinely useful and it earns the enquiry.",
+      },
+      {
+        name: "Clear pricing",
+        text: "Families are frequently afraid to ask. Publishing ranges removes the most uncomfortable part of the conversation.",
+      },
+      {
+        name: "Funeral-director relationships",
+        text: "Most of this work comes by referral. Advertising supports that rather than replacing it, and we will say so.",
+      },
+      {
+        name: "Social media, handled carefully",
+        text: "A presence that looks settled and professional, without advertising into people's feeds on this subject.",
+      },
+    ],
+    qualify: [
+      "Which cemetery is the memorial for?",
+      "Is this a new memorial, an addition, or a restoration?",
+      "Do you know what material you would prefer?",
+      "Is there a date you are working toward?",
+      "County and area",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "What we will not do in this category",
+        body: [
+          "We do not retarget people who visited your website, we do not build audiences from bereavement signals, and we do not run urgency or scarcity messaging.",
+          "All of it is technically possible and some agencies do it. It is intrusive, it damages your reputation with exactly the families and funeral directors you depend on, and we will not set it up.",
+        ],
+      },
+      {
+        heading: "Publishing prices is a kindness that also converts",
+        body: [
+          "Families frequently delay contacting anyone because they have no idea whether a headstone costs eight hundred euro or five thousand, and are uncomfortable asking.",
+          "A clear range removes that barrier entirely. It is the single most effective change most memorial companies can make, and it is also simply the decent thing to do.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is advertising appropriate in this category?",
+        a: "Being findable is. Pursuing people is not. We build campaigns that are present when a family searches and absent otherwise.",
+      },
+      {
+        q: "Do you use retargeting here?",
+        a: "No. Following a grieving family around the internet is intrusive and it damages the reputation your referrals depend on.",
+      },
+      {
+        q: "Should we publish prices?",
+        a: "Yes. Families are often afraid to ask, and a clear range removes the main reason they delay contacting anyone.",
+      },
+      {
+        q: "What about funeral director referrals?",
+        a: "They are the bulk of this work. Advertising supports those relationships; it does not replace them, and we will not pretend otherwise.",
+      },
+      {
+        q: "Is cemetery regulation content worth writing?",
+        a: "Genuinely useful and it earns enquiries. Every cemetery has different rules and families cannot find them easily.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["funeral-directors", "stonemasons", "solicitors"],
+  },
+  {
+    slug: "fire-safety",
+    label: "Fire safety & extinguishers",
+    title: "Fire Safety Leads Ireland | Marketing for Servicing Companies",
+    description:
+      "Lead generation for Irish fire safety and extinguisher servicing companies. Campaigns built around annual servicing obligations and inspections. From €1,500 a month.",
+    h1: "Fire safety leads, from a market with a legal deadline in it.",
+    intro: [
+      "Fire safety equipment has to be serviced, and the obligation does not go away when a business forgets about it. Extinguishers, emergency lighting, alarms and fire doors all carry servicing requirements, and most premises are somewhere between overdue and unaware.",
+      "That makes this an unusually dependable market. The demand is created by regulation and by insurers rather than by anybody's appetite to spend.",
+    ],
+    run: [
+      {
+        name: "Compliance-led campaigns",
+        text: "Built around the specific obligation — extinguisher servicing, emergency lighting, fire door inspection — because that is what buyers search.",
+      },
+      {
+        name: "Post-inspection campaigns",
+        text: "Aimed at premises that have had a visit and been left a list, which is urgent and price-tolerant work.",
+      },
+      {
+        name: "Recurring service contracts",
+        text: "The revenue underneath the one-off visits. Advertised as an ongoing service rather than a product.",
+      },
+      {
+        name: "Sector campaigns",
+        text: "Hospitality, childcare, healthcare and construction each have different requirements and convert far better addressed directly.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because business buyers check that you are a genuine operation.",
+      },
+    ],
+    qualify: [
+      "What premises type is it?",
+      "What is due — extinguishers, emergency lighting, alarms, fire doors?",
+      "Roughly how many units or what floor area?",
+      "Has an inspection or insurer raised this?",
+      "County and area",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Sell the obligation, not the equipment",
+        body: [
+          "A business owner does not search for a fire safety company. They search for what they have been told they need — extinguisher servicing, a fire safety certificate, emergency lighting testing.",
+          "Campaigns built around those specific obligations reach people at the moment of compulsion. Campaigns built around 'fire safety solutions' reach nobody in particular.",
+        ],
+      },
+      {
+        heading: "The contract is worth more than the visit",
+        body: [
+          "A one-off service is a single invoice. An annual contract across a portfolio of premises is worth many times more and costs almost nothing to retain.",
+          "Presenting the recurring service at the point of the first visit converts far better than raising it a year later, when it sounds like an upsell rather than the obvious arrangement.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is this market really that reliable?",
+        a: "More than most. The demand comes from regulation and insurers rather than from anyone's willingness to spend, which makes it steady.",
+      },
+      {
+        q: "Should we advertise by obligation or by service?",
+        a: "By obligation. People search what they have been told they need, not what your industry calls it.",
+      },
+      {
+        q: "How do we win contracts rather than visits?",
+        a: "Present the recurring arrangement at the first visit. Raised later it sounds like an upsell; raised then it sounds sensible.",
+      },
+      {
+        q: "Which sectors are worth targeting?",
+        a: "Hospitality, childcare, healthcare and construction — all have specific obligations and all get inspected.",
+      },
+      {
+        q: "Do post-inspection enquiries convert?",
+        a: "Very well. There is a deadline and a list, which is the most reliable urgency there is.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["security-and-alarms", "health-and-safety-consultants", "electricians"],
+  },
 ];
 
 export const industryBySlug = (slug: string) =>
