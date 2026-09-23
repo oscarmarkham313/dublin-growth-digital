@@ -8120,6 +8120,886 @@ export const industries: Industry[] = [
     ],
     related: ["security-and-alarms", "health-and-safety-consultants", "electricians"],
   },
+  {
+    slug: "counselling-and-therapy",
+    label: "Counselling & therapy",
+    title: "Counselling Practice Marketing Ireland | Client Enquiries",
+    description:
+      "Ethical lead generation for Irish counsellors and psychotherapists. Discreet campaigns that fill a caseload without pressure tactics. From €1,500 a month.",
+    h1: "Counselling enquiries, without any of the usual pressure tactics.",
+    intro: [
+      "Somebody looking for a therapist has usually been thinking about it for months and has opened and closed the search several times. They are not going to be persuaded by urgency, and attempting it will simply lose them.",
+      "So the work here is to be findable, to be clear about what you treat and what you charge, and to make the first contact as undaunting as possible. That is genuinely most of it.",
+    ],
+    run: [
+      {
+        name: "Findable search campaigns",
+        text: "Present when somebody looks, on the specific issues you work with rather than on the word counselling.",
+      },
+      {
+        name: "Modality and specialism pages",
+        text: "CBT, couples work, bereavement, trauma, addiction. People search the problem, not the method.",
+      },
+      {
+        name: "Clear fees and availability",
+        text: "Published plainly. Uncertainty about cost is the most common reason somebody never makes contact.",
+      },
+      {
+        name: "Online and in-person split",
+        text: "Two different catchments with different competition, run as separate campaigns.",
+      },
+      {
+        name: "Social media, handled with restraint",
+        text: "A settled professional presence, without advertising mental health into people's feeds.",
+      },
+    ],
+    qualify: [
+      "What would you like to work on?",
+      "Individual, couples, or family?",
+      "In person or online?",
+      "Do you have a preference on approach or gender of therapist?",
+      "County and area",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "What we will not do in this category",
+        body: [
+          "No retargeting people who visited a therapy website, no audiences built from health or distress signals, no countdowns or limited-availability messaging.",
+          "Some of it is technically possible and it is all inappropriate here. It also fails commercially — this is a category where anything that feels like pressure confirms the fear that stopped somebody contacting you in the first place.",
+        ],
+      },
+      {
+        heading: "Publishing fees fills more slots than hiding them",
+        body: [
+          "A great many people never make a first enquiry because they do not know whether a session costs fifty euro or a hundred and fifty, and feel awkward asking.",
+          "Stating your fee and your availability removes the single largest barrier to contact in this profession. It reduces enquiries slightly and increases actual bookings substantially.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is advertising appropriate for a therapy practice?",
+        a: "Being findable is, and most practices are not. Pursuing people is not, and we will not build it.",
+      },
+      {
+        q: "Do you use retargeting?",
+        a: "Not in this category. Following somebody around the internet after they looked at therapy is intrusive and it fails commercially as well as ethically.",
+      },
+      {
+        q: "Should we publish fees?",
+        a: "Yes. Uncertainty about cost is the most common reason somebody never makes contact at all.",
+      },
+      {
+        q: "Should we advertise by issue or by modality?",
+        a: "By issue. People search anxiety, bereavement or relationship difficulty. Very few search for a named therapeutic approach.",
+      },
+      {
+        q: "Does online widen the catchment?",
+        a: "Considerably, and it is a different campaign with different competition and different price expectations.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["physiotherapy", "home-care", "skin-clinics"],
+  },
+  {
+    slug: "chiropractors",
+    label: "Chiropractors",
+    title: "Chiropractic Leads Ireland | Marketing for Clinics",
+    description:
+      "Lead generation for Irish chiropractic clinics. Campaigns built around pain that has not gone away, reported in new patient appointments. From €1,500 a month.",
+    h1: "Chiropractic enquiries, from people who have already waited too long.",
+    intro: [
+      "Almost nobody goes to a chiropractor at the first twinge. They wait, they try painkillers, they wait some more, and they make the appointment when the pain starts affecting sleep or work.",
+      "By that point they are motivated, specific about what hurts, and ready to book — which makes this an unusually straightforward market to advertise into, provided you reach them at that moment rather than earlier.",
+    ],
+    run: [
+      {
+        name: "Condition-led campaigns",
+        text: "Lower back, neck, sciatica, headaches. People search the pain, never the profession.",
+      },
+      {
+        name: "New-patient offers",
+        text: "A first consultation structured to be easy to say yes to, without discounting the ongoing care.",
+      },
+      {
+        name: "Occupational campaigns",
+        text: "Desk workers, drivers and trades each have predictable presentations and respond to being addressed directly.",
+      },
+      {
+        name: "Retention and care plans",
+        text: "Where the economics of the practice actually sit, supported rather than left to chance.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because patients check a clinic before letting anyone near their spine.",
+      },
+    ],
+    qualify: [
+      "What is the main problem, and where?",
+      "How long has it been going on?",
+      "Have you had treatment for it before?",
+      "Is it affecting sleep or work?",
+      "County and clinic preference",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Advertise the pain, not the profession",
+        body: [
+          "A campaign built on the word chiropractor reaches people who have already decided what they want, which is a small and heavily contested audience.",
+          "A campaign built on sciatica, lower back pain or persistent headaches reaches the much larger group still working out who to see. They are earlier in the decision and considerably cheaper to reach.",
+        ],
+      },
+      {
+        heading: "Be careful what you claim",
+        body: [
+          "Claims about treating conditions beyond musculoskeletal pain attract regulatory attention and, more immediately, the wrong patients.",
+          "We write to what you can stand over on a call. It keeps the practice out of trouble and it produces patients whose expectations match what you actually do.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should we advertise by condition?",
+        a: "Yes. People search the pain, not the profession, and the condition-led audience is much larger and cheaper.",
+      },
+      {
+        q: "Do new-patient offers work?",
+        a: "They lower the barrier to a first visit. Structure them so they do not devalue the ongoing care, which is where the practice earns.",
+      },
+      {
+        q: "What can we claim?",
+        a: "What you can stand over on a call. Overclaiming attracts both regulatory attention and patients whose expectations you cannot meet.",
+      },
+      {
+        q: "Do reviews matter?",
+        a: "A great deal. People are cautious about their spine and reviews are the main reassurance available.",
+      },
+      {
+        q: "Is retention part of this?",
+        a: "It is most of the economics. Advertising fills the top; whether patients complete a course of care decides the practice.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["physiotherapy", "gyms-and-fitness", "skin-clinics"],
+  },
+  {
+    slug: "podiatry-and-chiropody",
+    label: "Podiatry & chiropody",
+    title: "Podiatry Leads Ireland | Marketing for Foot Clinics",
+    description:
+      "Lead generation for Irish podiatrists and chiropodists. Campaigns for routine care, diabetic foot checks and biomechanics. From €1,500 a month.",
+    h1: "Podiatry enquiries, mostly from people who cannot reach their own feet.",
+    intro: [
+      "Podiatry divides into two businesses that barely resemble each other. Routine nail and skin care is high-volume, recurring, and largely an older population who need it every couple of months for the rest of their lives. Biomechanics and orthotics is a considered clinical purchase at several times the price.",
+      "Most clinics advertise one message at both and get the volume of the first at the margins of neither.",
+    ],
+    run: [
+      {
+        name: "Routine care campaigns",
+        text: "Recurring appointments with an older audience, which needs different targeting and much plainer language.",
+      },
+      {
+        name: "Diabetic foot care",
+        text: "Clinically important, frequently referred, and genuinely under-served. Worth its own campaign.",
+      },
+      {
+        name: "Biomechanics and orthotics",
+        text: "Runners, sports injuries and gait problems. A different patient at a different price point.",
+      },
+      {
+        name: "Home-visit campaigns",
+        text: "For patients who cannot travel, which is a large share of the routine market and commands a premium.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, with the family members who book appointments in mind as much as the patient.",
+      },
+    ],
+    qualify: [
+      "What is the problem — nails, skin, pain, or gait?",
+      "Is this for yourself or a family member?",
+      "Do you have diabetes or circulation problems?",
+      "Clinic visit or home visit?",
+      "County and area",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Family members do a lot of the booking",
+        body: [
+          "A substantial share of routine podiatry appointments are made by an adult child for a parent who has stopped being able to manage their own feet.",
+          "That person responds to completely different language than the patient does — practical, reassuring, and about dignity rather than about treatment. Very few clinics write for them and it is a straightforward advantage.",
+        ],
+      },
+      {
+        heading: "Home visits are the under-priced service",
+        body: [
+          "Patients who cannot travel are precisely the patients who most need regular care, and they are frequently willing to pay a premium for someone to come to them.",
+          "Most clinics offer it quietly, if at all. Advertised properly it is high-margin, intensely loyal, recurring work.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should routine and biomechanics share a campaign?",
+        a: "No. Different patients, different prices, different language. Run together, the specialist work gets priced like nail care.",
+      },
+      {
+        q: "Who are we advertising to?",
+        a: "Frequently the adult child booking for a parent, not the patient. They respond to different language entirely.",
+      },
+      {
+        q: "Are home visits worth advertising?",
+        a: "Yes, and most clinics under-sell them. High margin, very loyal, and genuinely needed.",
+      },
+      {
+        q: "Is diabetic foot care worth a campaign?",
+        a: "Clinically important and under-served. It also brings referrals from GPs and nurses over time.",
+      },
+      {
+        q: "Do reviews matter?",
+        a: "Considerably, especially to the family member making the booking on somebody else's behalf.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["physiotherapy", "home-care", "audiologists"],
+  },
+  {
+    slug: "swimming-schools",
+    label: "Swimming schools",
+    title: "Swimming Lesson Leads Ireland | Marketing for Swim Schools",
+    description:
+      "Lead generation for Irish swimming schools. Term-based campaigns aimed at parents, built around waiting lists and safety. From €1,500 a month.",
+    h1: "Swimming lesson enquiries, timed to the term.",
+    intro: [
+      "Swimming lessons sell on a term calendar and on one underlying motivation that parents rarely state directly: they do not want their child to drown. Everything else — badges, technique, confidence — sits on top of that.",
+      "The business problem is rarely demand. It is usually that enquiries arrive in the wrong week, from parents wanting a slot that filled in August.",
+    ],
+    run: [
+      {
+        name: "Term-timed campaigns",
+        text: "Budget concentrated into the enrolment windows rather than spread across a year when there are no places anyway.",
+      },
+      {
+        name: "Waiting-list capture",
+        text: "When you are full, enquiries should join a list rather than bounce to a competitor. Most schools lose them entirely.",
+      },
+      {
+        name: "Adult and non-swimmer campaigns",
+        text: "A quieter, under-served market with far less competition and a very motivated customer.",
+      },
+      {
+        name: "Intensive and holiday courses",
+        text: "Filling the weeks when term teaching stops, which is otherwise dead capacity.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because parents check safety, ratios and qualifications before anything else.",
+      },
+    ],
+    qualify: [
+      "What age is the swimmer?",
+      "What level — complete beginner, improver, or stroke work?",
+      "Which pool or area suits you?",
+      "Weekday, evening or weekend?",
+      "County and area",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Being full is not the same as being finished",
+        body: [
+          "Most swim schools stop advertising when they fill, and lose every enquiry that arrives afterwards to whoever has a place.",
+          "A properly run waiting list turns that traffic into next term's enrolment, and it costs nothing. It is the single most common piece of value left on the table in this category.",
+        ],
+      },
+      {
+        heading: "Adult non-swimmers are barely served",
+        body: [
+          "A meaningful number of Irish adults cannot swim and are quietly embarrassed about it, which is why nobody advertises to them and why the ones who do, do well.",
+          "It requires careful, non-patronising language and a promise of privacy. Handled properly it is a motivated, low-competition and very loyal market.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "When should we advertise?",
+        a: "Ahead of each enrolment window. Advertising when every slot is already gone generates frustration rather than customers.",
+      },
+      {
+        q: "What should we do when we are full?",
+        a: "Capture a waiting list. Most schools let those enquiries go entirely, which is the biggest waste in this category.",
+      },
+      {
+        q: "Are adult lessons worth targeting?",
+        a: "Under-served, motivated and loyal, provided the language is careful and privacy is promised.",
+      },
+      {
+        q: "What do parents actually care about?",
+        a: "Safety, ratios and qualifications, in that order. Badges and technique matter far less than schools assume.",
+      },
+      {
+        q: "Do intensives help?",
+        a: "They fill weeks that would otherwise be dead capacity, and they suit families who cannot commit to a term.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["gyms-and-fitness", "creches", "grinds-and-tutoring"],
+  },
+  {
+    slug: "music-schools",
+    label: "Music schools & tutors",
+    title: "Music Lesson Leads Ireland | Marketing for Music Teachers",
+    description:
+      "Lead generation for Irish music schools and private teachers. Term-based campaigns aimed at parents and adult learners. From €1,500 a month.",
+    h1: "Music lesson enquiries, and students who stay past Christmas.",
+    intro: [
+      "Music teaching has an enrolment problem and a retention problem, and they are not the same problem. September fills easily. February is when half the students quietly stop coming.",
+      "A teaching business is built on the students who are still there in year three, so the marketing has to attract the families likely to become those students rather than whoever responds to a September advert.",
+    ],
+    run: [
+      {
+        name: "Term-timed enrolment campaigns",
+        text: "Concentrated into September and January, which is when this decision is actually made.",
+      },
+      {
+        name: "Instrument-specific campaigns",
+        text: "Piano, guitar and violin are different searches with different competition and different parent expectations.",
+      },
+      {
+        name: "Adult learner campaigns",
+        text: "A growing, under-served market with different motivations and a much shorter decision.",
+      },
+      {
+        name: "Exam and grade pathways",
+        text: "For families who want structure and progression, which correlates strongly with staying.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because recordings of actual students do more than any claim about method.",
+      },
+    ],
+    qualify: [
+      "What age is the student?",
+      "Which instrument?",
+      "Complete beginner or returning?",
+      "Are you interested in grades and exams?",
+      "County and area",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Advertise for the families who will still be here in June",
+        body: [
+          "A parent who wants to try something for a term and a parent who wants their child to learn an instrument look identical in an enquiry form and behave completely differently.",
+          "Mentioning structure, practice expectations and exam pathways in the advertising filters gently toward the second group. It reduces enquiries and raises the number of students still attending at the end of the year, which is what actually pays.",
+        ],
+      },
+      {
+        heading: "Adults are the quiet growth market",
+        body: [
+          "Adult beginners are a substantial and largely ignored market — people who stopped at twelve, or always meant to start, and have more disposable income than a parent paying for a child.",
+          "They decide faster, they are less price-sensitive, and almost nobody advertises to them. It is the easiest expansion available to most teaching businesses.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "When should we advertise?",
+        a: "September and January carry almost all the enrolment. Spreading budget evenly across the year wastes most of it.",
+      },
+      {
+        q: "How do we improve retention?",
+        a: "Set expectations about practice in the advertising itself. It attracts families who are prepared for it and deters the ones who are not.",
+      },
+      {
+        q: "Are adult learners worth targeting?",
+        a: "Yes, and they are badly under-served. Faster decisions, less price sensitivity, and very little competition.",
+      },
+      {
+        q: "Should we advertise by instrument?",
+        a: "Yes. Parents search piano lessons or guitar lessons, never music tuition.",
+      },
+      {
+        q: "Do recordings help?",
+        a: "More than anything else. Hearing an actual student is worth more than any description of your method.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["grinds-and-tutoring", "driving-schools", "creches"],
+  },
+  {
+    slug: "wedding-planners",
+    label: "Wedding planners",
+    title: "Wedding Planner Leads Ireland | Marketing for Planners",
+    description:
+      "Lead generation for Irish wedding planners and on-the-day coordinators. Budget-qualified enquiries, timed to engagement season. From €1,500 a month.",
+    h1: "Wedding planning enquiries, filtered for budget before the call.",
+    intro: [
+      "Wedding planning has a brutal enquiry-to-booking ratio, and it is a filtering problem rather than a marketing one. Most enquiries come from couples who want the outcome and have not costed it, and each one consumes a long emotional conversation.",
+      "So the aim is fewer and better enquiries, which means putting the uncomfortable questions on the form rather than discovering the answers an hour into a call.",
+    ],
+    run: [
+      {
+        name: "Engagement-season campaigns",
+        text: "Budget concentrated into January and February, when the year's engagements turn into enquiries.",
+      },
+      {
+        name: "Budget-qualified forms",
+        text: "Total wedding budget asked plainly. It reduces enquiries and raises bookings, which is the trade worth making.",
+      },
+      {
+        name: "Service-tier campaigns",
+        text: "Full planning, partial planning and on-the-day coordination are different products at different prices and should not share a campaign.",
+      },
+      {
+        name: "Venue-catchment targeting",
+        text: "Aimed at the venues you know and want more of, which is also how the referral relationship gets built.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because this is a category judged almost entirely on portfolio.",
+      },
+    ],
+    qualify: [
+      "What is the date, and is the venue booked?",
+      "Roughly how many guests?",
+      "What is your total wedding budget?",
+      "Full planning, partial, or on-the-day?",
+      "County or venue",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "On-the-day coordination is the easier sale",
+        body: [
+          "Full planning is a large fee and a long commitment that many couples will not make to a stranger. On-the-day coordination is a fraction of the price, obviously valuable, and far easier to say yes to.",
+          "It also converts upward. A couple who books coordination in March frequently wants more help by August. Most planners advertise only the hardest product and wonder why the pipeline is thin.",
+        ],
+      },
+      {
+        heading: "Venues are the best referral source there is",
+        body: [
+          "Couples book a venue before a planner, almost without exception, and venue coordinators are asked for recommendations constantly.",
+          "Advertising aimed at the venues you want to work in does two jobs: it reaches those couples, and it makes your name familiar to the people they will ask.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Will asking about budget lose us enquiries?",
+        a: "Yes, and that is the intention. The ones it loses are the ones that would have consumed an hour and gone nowhere.",
+      },
+      {
+        q: "When should we advertise hardest?",
+        a: "January and February. Engagements cluster around Christmas and New Year and enquiries follow within weeks.",
+      },
+      {
+        q: "Should we lead with full planning?",
+        a: "Usually not. On-the-day coordination is a far easier first sale and a large share of it converts upward.",
+      },
+      {
+        q: "How important is the portfolio?",
+        a: "It is the whole credential. Recent, real Irish weddings at recognisable venues.",
+      },
+      {
+        q: "Do venue relationships matter?",
+        a: "They are the strongest referral source in the category, and advertising into those venues supports them.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["wedding-venues", "photographers", "hotels-and-guesthouses"],
+  },
+  {
+    slug: "celebrants",
+    label: "Celebrants",
+    title: "Celebrant Leads Ireland | Marketing for Wedding Celebrants",
+    description:
+      "Lead generation for Irish wedding and funeral celebrants. Campaigns built around legal solemnisation and booking a year ahead. From €1,500 a month.",
+    h1: "Celebrant bookings, from couples who do not know the rules yet.",
+    intro: [
+      "Most couples planning a non-religious wedding in Ireland do not initially understand the difference between a legally solemnising celebrant and one who performs a ceremony that is not itself the legal marriage.",
+      "That confusion is the biggest source of both enquiries and disappointment in this category, and the celebrant who explains it clearly and early wins a very large share of the bookings.",
+    ],
+    run: [
+      {
+        name: "Solemnisation-clarity campaigns",
+        text: "Explaining plainly what is legally required and what you can and cannot do. It is what couples are actually searching for.",
+      },
+      {
+        name: "Engagement-season timing",
+        text: "Budget concentrated into January and February, because ceremonies are booked a year or more ahead.",
+      },
+      {
+        name: "Ceremony-style campaigns",
+        text: "Humanist, spiritual, bilingual and family-inclusive ceremonies attract very different couples.",
+      },
+      {
+        name: "Funeral and naming ceremonies",
+        text: "A separate, year-round, referral-led side of the work requiring an entirely different tone.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, with real ceremonies rather than stock imagery.",
+      },
+    ],
+    qualify: [
+      "What kind of ceremony is it?",
+      "What is the date, and is the venue booked?",
+      "Do you need a legally solemnising celebrant?",
+      "Roughly how many guests?",
+      "County or venue",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Explain the legal position before anything else",
+        body: [
+          "Couples arrive confused about registration, notice periods and who can legally marry them, and most celebrant websites add to that by leading with tone and philosophy.",
+          "A page that sets out the requirements plainly — the notification period, what the State requires, and exactly what you are authorised to do — converts far better than anything about your approach, because it is the question they came with.",
+        ],
+      },
+      {
+        heading: "Funerals are a different job in every respect",
+        body: [
+          "Funeral and memorial celebrancy is booked in days rather than a year, it comes almost entirely through funeral directors, and it requires a completely different tone from wedding work.",
+          "It should sit on its own page with its own language, and it should never be advertised with urgency or retargeting.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "What do couples search for?",
+        a: "Almost always the legal question first — whether a ceremony will actually marry them. Answering it plainly wins the enquiry.",
+      },
+      {
+        q: "When should we advertise?",
+        a: "January and February. Ceremonies are booked a year or more ahead, so the season is engagement season, not wedding season.",
+      },
+      {
+        q: "Should funeral work be separate?",
+        a: "Entirely. Different timescale, different referral source, different tone, and no advertising pressure of any kind.",
+      },
+      {
+        q: "Is bilingual or Irish-language ceremony worth mentioning?",
+        a: "If you offer it, yes. It is specifically searched for and very few celebrants advertise it.",
+      },
+      {
+        q: "How far ahead do couples book?",
+        a: "Frequently twelve to eighteen months, which is why January matters far more than June.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["wedding-venues", "wedding-planners", "funeral-directors"],
+  },
+  {
+    slug: "catering-companies",
+    label: "Catering companies",
+    title: "Catering Leads Ireland | Marketing for Caterers",
+    description:
+      "Lead generation for Irish catering companies. Campaigns for weddings, corporate and private events, reported in quotes and bookings. From €1,500 a month.",
+    h1: "Catering enquiries, split by the three jobs you actually do.",
+    intro: [
+      "Catering looks like one business and is usually three. Weddings are booked a year ahead at high value. Corporate is repeat, scheduled and invoiced. Private events are short-notice and unpredictable.",
+      "They have different customers, different lead times and different margins, and a single campaign covering all three will be mediocre at each.",
+    ],
+    run: [
+      {
+        name: "Wedding catering campaigns",
+        text: "Timed to engagement season and aimed at couples who have a venue but no caterer.",
+      },
+      {
+        name: "Corporate account campaigns",
+        text: "Repeat business with a purchasing process, which is slower to win and far steadier once won.",
+      },
+      {
+        name: "Private and short-notice events",
+        text: "Christenings, funerals, parties and gatherings. Quick decisions, smaller value, useful for filling gaps.",
+      },
+      {
+        name: "Menu and dietary clarity",
+        text: "Allergens, vegan and halal options stated plainly, because they decide more bookings than people admit.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because food is judged entirely by eye and most caterers photograph theirs badly.",
+      },
+    ],
+    qualify: [
+      "What kind of event is it?",
+      "What date, and how many guests?",
+      "Do you have a venue, and does it have a kitchen?",
+      "Any dietary requirements to plan around?",
+      "County and area",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Corporate is the revenue that does not have to be re-won",
+        body: [
+          "A wedding is a large one-off. A corporate account ordering lunches twice a week is smaller each time and worth considerably more over a year, with almost no repeat acquisition cost.",
+          "Most caterers chase weddings because they are visible and exciting, and under-invest in the accounts that would carry them through January. Both deserve campaigns; only one gives you a predictable year.",
+        ],
+      },
+      {
+        heading: "Photograph the food properly",
+        body: [
+          "Food is bought entirely by eye and most catering photography is taken in a service kitchen under fluorescent light at the worst possible moment.",
+          "One decent shoot of your actual dishes, in daylight, will outperform any amount of copy about quality and local sourcing. It is the cheapest improvement available in this category.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Should weddings and corporate share a campaign?",
+        a: "No. Different lead times, different buyers, different margins. Run together, neither performs.",
+      },
+      {
+        q: "Is corporate worth the slower sale?",
+        a: "It is what makes the year predictable. Weddings are seasonal and one-off; accounts repeat without re-acquisition.",
+      },
+      {
+        q: "Do dietary options matter commercially?",
+        a: "More than caterers admit. They frequently decide which quote is accepted, and stating them plainly wins bookings.",
+      },
+      {
+        q: "How important are photographs?",
+        a: "They are most of the sale. Food is judged by eye and most catering photography actively works against the business.",
+      },
+      {
+        q: "Is short-notice work worth advertising?",
+        a: "As its own campaign, yes. It fills gaps and it converts fast, but it will eat a wedding budget if mixed in.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["wedding-venues", "restaurants-and-cafes", "hotels-and-guesthouses"],
+  },
+  {
+    slug: "marquee-hire",
+    label: "Marquee & event hire",
+    title: "Marquee Hire Leads Ireland | Marketing for Event Hire",
+    description:
+      "Lead generation for Irish marquee and event hire companies. Campaigns timed to a short season, reported in booked dates. From €1,500 a month.",
+    h1: "Marquee bookings, for a business with about twenty weekends.",
+    intro: [
+      "A marquee hire company earns most of its year in roughly twenty weekends, and the weather can take several of them. That concentration means every booked date matters far more than a lead count suggests.",
+      "It also means the enquiries that arrive in February decide the year, and the ones that arrive in July are mostly people whose original plan fell through.",
+    ],
+    run: [
+      {
+        name: "Early-season campaigns",
+        text: "Concentrated into the winter and spring months when dates are actually being reserved.",
+      },
+      {
+        name: "Wedding and event marquee campaigns",
+        text: "The core of most operators' revenue, aimed at couples with a venue or a family home in mind.",
+      },
+      {
+        name: "Corporate and public event hire",
+        text: "Midweek and shoulder-season work that fills the gaps weddings leave.",
+      },
+      {
+        name: "Package clarity",
+        text: "Flooring, lining, heating, lighting and furniture stated up front, because unclear inclusions are the main cause of lost quotes.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because a marquee is bought from photographs of other people's events.",
+      },
+    ],
+    qualify: [
+      "What date, and is it flexible?",
+      "How many guests?",
+      "Where is the site, and what surface is it?",
+      "Do you need flooring, heating or lighting?",
+      "County and Eircode",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+    ],
+    sections: [
+      {
+        heading: "Price the whole thing or lose the quote",
+        body: [
+          "The most common reason a marquee quote is rejected is that it looked cheaper in the advert than it turned out to be once flooring, lining, heating and furniture were added.",
+          "Stating what is included and what is extra, plainly and early, loses you a few enquiries and wins you considerably more bookings. Customers comparing three quotes reward whoever made the comparison possible.",
+        ],
+      },
+      {
+        heading: "Site questions belong on the form",
+        body: [
+          "Ground conditions, access, slope and surface decide whether a job is straightforward or impossible, and finding out on the day is expensive for everyone.",
+          "Asking on the enquiry form filters out the sites you cannot serve before anybody has driven anywhere.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "When should we advertise?",
+        a: "Winter and early spring. Dates are reserved months ahead, and by June the good weekends are gone.",
+      },
+      {
+        q: "Should we publish prices?",
+        a: "At least what is included and what is extra. Hidden extras are the main reason quotes get rejected in this category.",
+      },
+      {
+        q: "Is corporate work worth chasing?",
+        a: "It fills midweek and shoulder season, which weddings never will. Worth its own campaign.",
+      },
+      {
+        q: "What should the form ask?",
+        a: "Site conditions above all — surface, access and slope. It saves wasted site visits.",
+      },
+      {
+        q: "How much does weather affect the business?",
+        a: "Enough that a booked date is worth protecting. It is an argument for booking early rather than for discounting late.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["wedding-venues", "equipment-hire", "catering-companies"],
+  },
+  {
+    slug: "bike-shops",
+    label: "Bike shops & repair",
+    title: "Bike Shop Leads Ireland | Marketing for Cycle Retailers",
+    description:
+      "Lead generation for Irish bike shops and repair workshops. Campaigns built around the Cycle to Work scheme and the spring surge. From €1,500 a month.",
+    h1: "Bike shop enquiries, and the scheme most customers do not understand.",
+    intro: [
+      "The Cycle to Work scheme is the single biggest driver of bike sales in Ireland and it is also the most confusing thing about buying a bike. Employees do not know their limit, what is included, or how their employer processes it.",
+      "A shop that explains the scheme clearly gets the sale, because the customer's actual question is not which bike — it is how this works.",
+    ],
+    run: [
+      {
+        name: "Cycle to Work campaigns",
+        text: "Explaining the scheme plainly: limits, what is included, and how you handle the paperwork with their employer.",
+      },
+      {
+        name: "Seasonal weighting",
+        text: "Concentrated into spring and the scheme's busy periods rather than spread across a year with a dead winter.",
+      },
+      {
+        name: "Servicing and repair campaigns",
+        text: "The steady revenue underneath the sales, and the reason customers come back.",
+      },
+      {
+        name: "E-bike campaigns",
+        text: "A much higher-value sale with a longer decision and a customer who needs far more reassurance.",
+      },
+      {
+        name: "Social media, fully run",
+        text: "Posted and monitored, because workshop content builds the trust that sells servicing.",
+      },
+    ],
+    qualify: [
+      "Is this a new bike, a service, or a repair?",
+      "Are you using the Cycle to Work scheme?",
+      "What kind of riding — commuting, road, mountain, or e-bike?",
+      "Roughly what budget?",
+      "County and area",
+    ],
+    proof: [
+      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
+    ],
+    sections: [
+      {
+        heading: "Handle the paperwork and say so",
+        body: [
+          "Employees frequently abandon a purchase because the scheme paperwork looks like a hassle and their employer is slow.",
+          "A shop that states plainly it will deal with the employer, prepare the invoice and guide the process removes the last obstacle. It is a small operational promise that converts a surprising number of stalled sales.",
+        ],
+      },
+      {
+        heading: "Servicing is what makes the year survivable",
+        body: [
+          "Bike sales are sharply seasonal. Servicing is not, and it brings the same customer back two or three times a year.",
+          "Most shops advertise bikes and mention servicing. Reversing that emphasis in the quieter months keeps the workshop busy when the shop floor is not.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Is Cycle to Work really that important?",
+        a: "It is the biggest single driver of bike sales in Ireland, and the confusion around it is the biggest obstacle to closing them.",
+      },
+      {
+        q: "Should we advertise servicing separately?",
+        a: "Yes, and especially in the off-season. It is the least seasonal revenue a bike shop has.",
+      },
+      {
+        q: "Are e-bikes a different sale?",
+        a: "Substantially. Higher value, longer decision, and the customer needs far more reassurance about range, battery and servicing.",
+      },
+      {
+        q: "How seasonal is this?",
+        a: "Sharply for sales. Weighting budget toward spring and the scheme periods beats spreading it evenly.",
+      },
+      {
+        q: "Do we compete with online retailers?",
+        a: "On price, no. On fitting, servicing, warranty support and handling the scheme, comfortably.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+    related: ["car-garages", "gyms-and-fitness", "equipment-hire"],
+  },
 ];
 
 export const industryBySlug = (slug: string) =>
