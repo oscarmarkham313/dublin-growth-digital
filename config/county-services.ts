@@ -8161,6 +8161,1136 @@ const westmeathWeb: ServicePage = {
   ],
 };
 
+const kildareSeo: ServicePage = {
+  county: "Kildare",
+  countySlug: "kildare",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Kildare | Search Engine Optimisation for Kildare Businesses",
+  description:
+    "SEO for Kildare businesses in Naas, Newbridge, Maynooth and across the county. Local search, Google Business Profile and content that earns enquiries, not rankings reports.",
+  h1: "SEO in Kildare, judged on enquiries rather than rankings.",
+  intro: [
+    "Kildare is one of the more competitive counties in Ireland for local search, because its commuter towns carry Dublin incomes and Dublin-based firms advertise into them. That raises the bar and it also means the reward for ranking is higher than the population suggests.",
+    "Most SEO sold in this county is a monthly report showing keyword positions. That is not the job. The job is more people ringing you, and those are different numbers that only sometimes move together.",
+  ],
+  sections: [
+    {
+      heading: "What SEO for a Kildare business actually involves",
+      body: [
+        "Four things, in the order they matter for a local business.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "The map results sit above everything on a phone and they are decided largely by proximity and completeness. Most Kildare profiles are a third filled in.",
+        },
+        {
+          title: "Service and town pages",
+          body: "One page per service you want enquiries for, saying plainly what it is and which Kildare towns you cover.",
+        },
+        {
+          title: "Reviews",
+          body: "The strongest prominence signal available and the one nearly every local business neglects. In Naas and Newbridge it frequently decides the map order.",
+        },
+        {
+          title: "Links",
+          body: "Suppliers, trade bodies, clubs you sponsor. A handful of real Irish links beats any amount of content in a county this size.",
+        },
+        {
+          title: "Technical foundations",
+          body: "Speed on a phone, clean structure, accurate sitemap. Not glamorous, and it is what stops the rest working.",
+        },
+      ],
+    },
+    {
+      heading: "What is realistic here, and what is not",
+      body: [
+        "Ranking for a service plus a town — bathroom fitting Naas, accountant Newbridge — is genuinely achievable for most Kildare businesses inside a few months.",
+        "Ranking first for a broad county term against firms with years of links behind them is not, and anyone promising it on a twelve-week timeline is selling you a report rather than a result. We will tell you which category your target sits in before you spend anything.",
+      ],
+    },
+    {
+      heading: "Why Kildare is harder than its neighbours",
+      body: [
+        "Commuter households compare more, buy more and attract Dublin competitors who advertise across the county line.",
+        "The upside is that those same households are worth more per job, so the work that does rank pays back faster here than in a rural county with cheaper competition.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Kildare areas we work on",
+    body: "Optimisation is built around the towns you genuinely serve, because a Naas business and an Athy business are competing in different local results.",
+    towns: [
+      "Naas",
+      "Newbridge",
+      "Maynooth",
+      "Celbridge",
+      "Leixlip",
+      "Kildare town",
+      "Athy",
+      "Clane",
+      "Sallins",
+      "Kilcock",
+      "Monasterevin",
+      "Rathangan",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How long does SEO take in Kildare?",
+      a: "Local map results can move inside weeks with profile and review work. Organic pages take three to six months, and competitive county terms take longer than that.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "Is Kildare competitive?",
+      a: "More than most counties outside Dublin, because commuter towns attract Dublin firms advertising in. The jobs are also worth more.",
+    },
+    {
+      q: "What matters most if we only do one thing?",
+      a: "Your Google Business Profile and reviews. Between them they decide the map results, which is where most phone calls come from.",
+    },
+    {
+      q: "Do we need new pages?",
+      a: "Usually one per service you actually want work for. Twenty near-identical town pages will be ignored by Google and can hurt you.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Google Ads in Kildare", href: "/locations/kildare/google-ads/" },
+    { label: "Digital marketing in Kildare", href: "/locations/kildare/digital-marketing/" },
+  ],
+};
+
+const wicklowSeo: ServicePage = {
+  county: "Wicklow",
+  countySlug: "wicklow",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Wicklow | Search Engine Optimisation for Wicklow Businesses",
+  description:
+    "SEO for Wicklow businesses in Bray, Greystones, Arklow and across the county. Local search and Google Business Profile work reported in enquiries.",
+  h1: "SEO in Wicklow, where the county splits in two.",
+  intro: [
+    "Wicklow is not one search market. North Wicklow — Bray, Greystones, Delgany — competes with south Dublin firms and carries Dublin-level competition. South Wicklow, from Rathdrum down through Tinahely and Arklow, is a rural market with a fraction of the contest.",
+    "That means the same effort produces very different results depending on which half of the county you are in, and a strategy that ignores the split will disappoint one end of it.",
+  ],
+  sections: [
+    {
+      heading: "What SEO for a Wicklow business actually involves",
+      body: [
+        "The work is the same everywhere; the difficulty is not.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "Decided largely by proximity, which in a county divided by mountains matters more than usual.",
+        },
+        {
+          title: "Service pages per real town",
+          body: "Bray and Arklow are different local results and need to be treated that way.",
+        },
+        {
+          title: "Reviews",
+          body: "The clearest way to outrank a competitor when proximity is against you.",
+        },
+        {
+          title: "Links",
+          body: "A handful of genuine Irish links. In south Wicklow this alone can be decisive.",
+        },
+        {
+          title: "Speed and structure",
+          body: "Particularly for the rural south, where coverage is patchier than people assume.",
+        },
+      ],
+    },
+    {
+      heading: "North and south are different difficulties",
+      body: [
+        "In Bray and Greystones you are competing against south Dublin businesses with established profiles, and progress is slower and more expensive.",
+        "In Rathdrum, Baltinglass or Tinahely the competition is thin enough that a properly built page and a complete profile can reach the top of the local results in weeks rather than months.",
+      ],
+    },
+    {
+      heading: "The mountains are a ranking factor",
+      body: [
+        "Google ranks map results largely on distance between the searcher and your address, and driving time through the Wicklow mountains does not enter into that calculation at all.",
+        "So a business in Bray will struggle to appear for Arklow searches regardless of how good its SEO is. The honest answer there is paid advertising to cover what geography denies you, and we will say so rather than sell you optimisation that cannot work.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Wicklow areas we work on",
+    body: "Optimisation is built around your side of the county, because north and south Wicklow are separate local markets with very different competition.",
+    towns: [
+      "Bray",
+      "Greystones",
+      "Wicklow town",
+      "Arklow",
+      "Blessington",
+      "Newtownmountkennedy",
+      "Delgany",
+      "Kilcoole",
+      "Rathdrum",
+      "Enniskerry",
+      "Tinahely",
+      "Baltinglass",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is Wicklow competitive for SEO?",
+      a: "In the north, yes — you are effectively competing with south Dublin. In the south it is one of the easier markets in Leinster.",
+    },
+    {
+      q: "How long does it take?",
+      a: "Weeks for map results in south Wicklow. Several months in Bray or Greystones, where the competition is Dublin-grade.",
+    },
+    {
+      q: "Can a Bray business rank in Arklow?",
+      a: "Organically, rarely — proximity decides the map results and the mountains do not count. Paid advertising is the honest answer for that gap.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No. We report enquiries and their cost; rankings are a diagnostic.",
+    },
+    {
+      q: "What matters most?",
+      a: "Google Business Profile and reviews, then pages for the services you actually want work for.",
+    },
+    {
+      q: "What does it cost?",
+      a: "Included in the €1,500 a month. No separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Wicklow", href: "/locations/wicklow/digital-marketing/" },
+    { label: "Web design in Wicklow", href: "/locations/wicklow/web-design/" },
+  ],
+};
+
+const limerickSeo: ServicePage = {
+  county: "Limerick",
+  countySlug: "limerick",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Limerick | Search Engine Optimisation for Limerick Businesses",
+  description:
+    "SEO for Limerick businesses in the city, Newcastle West, Adare and across the county. Local search and Google Business Profile work reported in enquiries.",
+  h1: "SEO in Limerick, one of the easier cities to win.",
+  intro: [
+    "Limerick is under-contested online relative to its size. Comparatively few businesses here compete seriously in search, competitor websites are frequently poor, and the foundations most of them lack are straightforward to put in.",
+    "That makes SEO better value in Limerick than in Cork or Dublin, provided you target the things people actually search rather than the things that sound impressive.",
+  ],
+  sections: [
+    {
+      heading: "What SEO for a Limerick business actually involves",
+      body: [
+        "The same four foundations, against considerably weaker competition than a city this size would suggest.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "Most Limerick profiles are incomplete. Filling one in properly is frequently enough to move up the map results on its own.",
+        },
+        {
+          title: "Service pages that name the service",
+          body: "Not 'our services' but bathroom fitting, boiler replacement, conveyancing — one page each.",
+        },
+        {
+          title: "Reviews",
+          body: "Thinner here than in Dublin, which means a modest number goes further.",
+        },
+        {
+          title: "Links",
+          body: "Very few Limerick competitors have any. A handful of real ones is a genuine advantage.",
+        },
+        {
+          title: "The Clare catchment",
+          body: "A large share of Limerick businesses serve south and east Clare and never say so on their website.",
+        },
+      ],
+    },
+    {
+      heading: "A warning about the obvious keyword",
+      body: [
+        "'Digital marketing Limerick' and similar broad terms are dominated by courses and job listings — TUS, UL, Indeed, IrishJobs — rather than by businesses buying services.",
+        "Ranking there would deliver students and job-seekers. The searches worth winning name a service and a problem, and they are considerably cheaper to reach. We check this before targeting anything.",
+      ],
+    },
+    {
+      heading: "Do not stop at the county line",
+      body: [
+        "Limerick city's commercial catchment runs well into Clare and north Tipperary, and most local sites never mention either.",
+        "Naming those towns is a ten-minute change that regularly produces enquiries from people who would otherwise never have found you.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Limerick areas we work on",
+    body: "Optimisation covers the city and the towns you serve, including the Clare and Tipperary catchment most Limerick businesses forget to mention.",
+    towns: [
+      "Limerick city",
+      "Newcastle West",
+      "Adare",
+      "Castleconnell",
+      "Abbeyfeale",
+      "Kilmallock",
+      "Rathkeale",
+      "Croom",
+      "Patrickswell",
+      "Askeaton",
+      "Bruff",
+      "Cappamore",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is Limerick hard to rank in?",
+      a: "Easier than its size implies. Few businesses compete seriously and competitor foundations are usually weak.",
+    },
+    {
+      q: "Should we target 'digital marketing Limerick' style terms?",
+      a: "Generally no. Broad city terms here are dominated by courses and jobs. Service-plus-problem searches are cheaper and convert.",
+    },
+    {
+      q: "How long does it take?",
+      a: "Map results can move in weeks with profile and review work. Organic pages typically three to four months, faster than a larger city.",
+    },
+    {
+      q: "Should our site mention Clare?",
+      a: "If you serve it, absolutely. It is one of the most common and cheapest missed opportunities here.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No. Enquiries and their cost are the report.",
+    },
+    {
+      q: "What does it cost?",
+      a: "Included in the €1,500 a month.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Limerick", href: "/locations/limerick/digital-marketing/" },
+    { label: "Web design in Limerick", href: "/locations/limerick/web-design/" },
+  ],
+};
+
+const corkSeo: ServicePage = {
+  county: "Cork",
+  countySlug: "cork",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Cork | Search Engine Optimisation for Cork Businesses",
+  description:
+    "SEO for Cork businesses in the city, Ballincollig, Midleton and across the county. Honest timelines, local search work, reported in enquiries.",
+  h1: "SEO in Cork, where the city and the county need different answers.",
+  intro: [
+    "Cork is the most competitive search market outside Dublin, and it is also the largest county in Ireland. Those two facts pull in opposite directions: the city is hard and expensive to rank in, while west Cork is one of the easier markets in Munster.",
+    "Telling a business which of those it is actually in is the most useful thing an SEO can do in this county, and it is the thing most of them avoid because the honest answer is sometimes discouraging.",
+  ],
+  sections: [
+    {
+      heading: "What SEO for a Cork business actually involves",
+      body: [
+        "The foundations are the same; the timeline is not.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "In a city the size of Cork, proximity does a great deal of the work. Your profile decides the rest.",
+        },
+        {
+          title: "Service pages, one per service",
+          body: "Broad pages covering everything rank for nothing in a competitive market.",
+        },
+        {
+          title: "Reviews",
+          body: "In Cork city this is frequently what separates businesses that are otherwise equally close to the searcher.",
+        },
+        {
+          title: "Links",
+          body: "Harder to compete on here, because established Cork firms have years of them. It is still the highest-value work available.",
+        },
+        {
+          title: "Realistic targeting",
+          body: "Suburb-level and service-level terms rather than 'marketing agency Cork', which is a multi-year fight.",
+        },
+      ],
+    },
+    {
+      heading: "City and county are separate problems",
+      body: [
+        "Cork city search results are contested by firms with long histories and substantial link profiles. Progress there is measured in quarters, not weeks.",
+        "Bandon, Clonakilty, Macroom, Fermoy and further west are a different matter entirely — competition is thin and a properly built page with a complete profile can rank quickly.",
+      ],
+    },
+    {
+      heading: "The honest timeline",
+      body: [
+        "For a Cork city business in a competitive trade, expect six to twelve months before organic search contributes meaningfully, and expect paid advertising to carry the enquiries in the meantime.",
+        "Anyone offering page one in Cork city in twelve weeks is describing a keyword you do not want to rank for.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Cork areas we work on",
+    body: "Optimisation is built around whether you are competing in the city or in the county, because the two are different difficulties with different timelines.",
+    towns: [
+      "Cork city",
+      "Ballincollig",
+      "Carrigaline",
+      "Midleton",
+      "Mallow",
+      "Bandon",
+      "Fermoy",
+      "Youghal",
+      "Cobh",
+      "Clonakilty",
+      "Kinsale",
+      "Macroom",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How competitive is Cork?",
+      a: "The most competitive market outside Dublin for city terms. West Cork is among the easiest in Munster.",
+    },
+    {
+      q: "How long will it take?",
+      a: "Six to twelve months for meaningful organic results in the city. Weeks to a few months in the county towns.",
+    },
+    {
+      q: "Should we run ads at the same time?",
+      a: "In Cork city, almost certainly, because organic will not carry you for the first six months and the enquiries have to come from somewhere.",
+    },
+    {
+      q: "Should we target 'marketing agency Cork' style terms?",
+      a: "Only with a long horizon. Suburb and service-level terms produce work far sooner.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No. We report enquiries and cost, and we will tell you when a target is not realistic.",
+    },
+    {
+      q: "What does it cost?",
+      a: "Included in the €1,500 a month.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Cork", href: "/locations/cork/digital-marketing/" },
+    { label: "Google Ads in Cork", href: "/locations/cork/google-ads/" },
+  ],
+};
+
+const dublinSeo: ServicePage = {
+  county: "Dublin",
+  countySlug: "dublin",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Dublin | Search Engine Optimisation for Dublin Businesses",
+  description:
+    "SEO for Dublin businesses across the city and county. Postcode-level local search, Google Business Profile and review work, reported in enquiries.",
+  h1: "SEO in Dublin, won at postcode level rather than city level.",
+  intro: [
+    "Dublin is the hardest search market in Ireland and the one where the broad terms are least worth chasing. 'Plumber Dublin' is contested by national firms, lead-generation platforms and directories with budgets no local business will match.",
+    "What is winnable is much narrower and considerably more valuable: your own postcodes, your own suburbs, and the specific services you actually want work for.",
+  ],
+  sections: [
+    {
+      heading: "What SEO for a Dublin business actually involves",
+      body: [
+        "Narrower targeting than anywhere else in the country, and much more weight on the map results.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "In a city this dense, proximity dominates the map results. Your profile and reviews decide who wins among the businesses that are equally close.",
+        },
+        {
+          title: "Suburb-level pages",
+          body: "Rathfarnham, Swords, Blanchardstown. Real pages for real areas you serve, not a list of thirty postcodes.",
+        },
+        {
+          title: "Reviews, in volume",
+          body: "Dublin competitors frequently have dozens. This is the most common reason a good business loses the map pack.",
+        },
+        {
+          title: "Links",
+          body: "Difficult and slow here, and still the thing that separates page one from page three.",
+        },
+        {
+          title: "Speed",
+          body: "Dublin visitors are impatient and the competition is one tap away.",
+        },
+      ],
+    },
+    {
+      heading: "Why broad city terms are the wrong target",
+      body: [
+        "The head terms are held by directories, national brands and lead platforms with far more authority than a local business can accumulate.",
+        "Chasing them spends a year to arrive at position fifteen. Targeting your actual catchment gets you into map results that produce calls, which is what you were trying to buy in the first place.",
+      ],
+    },
+    {
+      heading: "Where the calls really come from",
+      body: [
+        "For a local Dublin service business, the large majority of search enquiries come from the map results rather than the blue links beneath them.",
+        "That shifts the work heavily toward your Google Business Profile, your reviews and your proximity to the searcher — and away from the content-writing most SEO packages consist of.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Dublin areas we work on",
+    body: "Optimisation is built around the postcodes and suburbs you genuinely serve, because Dublin is won at that level and not at city level.",
+    towns: [
+      "Dublin city",
+      "Swords",
+      "Tallaght",
+      "Blanchardstown",
+      "Dún Laoghaire",
+      "Lucan",
+      "Clondalkin",
+      "Malahide",
+      "Rathfarnham",
+      "Santry",
+      "Balbriggan",
+      "Howth",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can we rank for broad Dublin terms?",
+      a: "Rarely, and it is usually the wrong target. Directories and national brands hold them. Suburb and service terms produce actual calls.",
+    },
+    {
+      q: "How long does it take in Dublin?",
+      a: "Longer than anywhere else. Map results can move in a couple of months with review work; organic is six to twelve.",
+    },
+    {
+      q: "What matters most here?",
+      a: "Reviews and your Google Business Profile, by a wide margin. Most Dublin competitors have far more reviews than our clients start with.",
+    },
+    {
+      q: "Should we run ads alongside?",
+      a: "In Dublin, yes. Organic will not carry you early and the market is too expensive to sit out of.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No. We report enquiries and their cost.",
+    },
+    {
+      q: "What does it cost?",
+      a: "Included in the €1,500 a month.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Dublin", href: "/locations/dublin/digital-marketing/" },
+    { label: "Google Ads in Dublin", href: "/locations/dublin/google-ads/" },
+  ],
+};
+
+const kildareGoogleAds: ServicePage = {
+  county: "Kildare",
+  countySlug: "kildare",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Kildare | PPC Management for Kildare Businesses",
+  description:
+    "Google Ads management for Kildare businesses in Naas, Newbridge, Maynooth and across the county. Search campaigns built town by town, reported in enquiries.",
+  h1: "Google Ads in Kildare, built around towns rather than the county.",
+  intro: [
+    "Kildare is expensive by national standards and cheap by Dublin ones, which makes it one of the better value search markets in Ireland. Commuter households click, convert and pay, and the competition is a step below what the same campaign would face fifteen kilometres east.",
+    "The mistake almost everyone makes here is running one county-wide campaign. Naas, Maynooth and Athy have different competition, different costs and different customers, and averaging them wastes a large share of the budget.",
+  ],
+  sections: [
+    {
+      heading: "How we run Google Ads in Kildare",
+      body: [
+        "Search campaigns built the way the county actually works.",
+      ],
+      list: [
+        {
+          title: "Town-level campaigns",
+          body: "Naas, Newbridge, Maynooth and Celbridge separated, because their click prices and their customers differ substantially.",
+        },
+        {
+          title: "Exact intent, not broad match",
+          body: "Broad match in a commuter county spends a great deal of money on people researching rather than buying.",
+        },
+        {
+          title: "Negative keyword work",
+          body: "The single biggest saving available on most accounts we inherit, and the thing least often done.",
+        },
+        {
+          title: "Call tracking",
+          body: "Most Kildare enquiries arrive as calls. An account that only counts forms is optimising on half the data.",
+        },
+        {
+          title: "Landing pages that match the ad",
+          body: "Sending every click to the homepage is the most common and most expensive fault we find.",
+        },
+      ],
+    },
+    {
+      heading: "Your competition includes Dublin",
+      body: [
+        "Dublin agencies and national firms bid into Kildare, particularly in the commuter towns, and they will outspend you.",
+        "You beat them on relevance and response rather than budget — a Naas-specific ad going to a Naas-specific page, answered within the hour, wins against a generic national campaign at twice the spend.",
+      ],
+    },
+    {
+      heading: "What a realistic budget looks like",
+      body: [
+        "For a single service in one or two Kildare towns, a few hundred euro a month is enough to gather data and produce enquiries.",
+        "Spreading the same money across the whole county produces too little volume anywhere to learn from, which is how accounts run for a year without improving.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Kildare areas we target",
+    body: "Campaigns are built per town, because Naas, Maynooth and Athy have different competition, different click prices and different customers.",
+    towns: [
+      "Naas",
+      "Newbridge",
+      "Maynooth",
+      "Celbridge",
+      "Leixlip",
+      "Kildare town",
+      "Athy",
+      "Clane",
+      "Sallins",
+      "Kilcock",
+      "Monasterevin",
+      "Rathangan",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is Kildare expensive for Google Ads?",
+      a: "Above the national average and well below Dublin. Commuter households make the clicks worth more than they cost.",
+    },
+    {
+      q: "Should we run one county campaign?",
+      a: "No. Town-level campaigns are the single biggest efficiency available in this county.",
+    },
+    {
+      q: "Do we compete with Dublin firms?",
+      a: "Constantly, in the commuter towns. You beat them on relevance and response speed rather than on budget.",
+    },
+    {
+      q: "How much should we spend?",
+      a: "Enough to produce meaningful volume in one or two towns rather than thin coverage across the county. We work it back from your job value.",
+    },
+    {
+      q: "Do you charge a percentage of spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the account?",
+      a: "You do. We work in your account and you keep it if we part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Kildare", href: "/locations/kildare/seo/" },
+    { label: "Digital marketing in Kildare", href: "/locations/kildare/digital-marketing/" },
+  ],
+};
+
+const corkGoogleAds: ServicePage = {
+  county: "Cork",
+  countySlug: "cork",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Cork | PPC Management for Cork Businesses",
+  description:
+    "Google Ads management for Cork businesses across the city and county. Search campaigns split by catchment, reported in enquiries and booked work.",
+  h1: "Google Ads in Cork, split between the city and the county.",
+  intro: [
+    "Cork city is the most expensive search market outside Dublin and west Cork is among the cheapest in Munster. Running them in one campaign averages two markets that share nothing but a county name.",
+    "It is also where most Cork accounts quietly lose money — the county clicks look cheap, they drag the average down, and the city campaign never gets the budget it needs to compete.",
+  ],
+  sections: [
+    {
+      heading: "How we run Google Ads in Cork",
+      body: [
+        "Two markets, run as two accounts' worth of thinking.",
+      ],
+      list: [
+        {
+          title: "City and county separated",
+          body: "Different budgets, different bids, frequently different offers. This is the first thing we do on a Cork account.",
+        },
+        {
+          title: "Suburb targeting in the city",
+          body: "Ballincollig, Carrigaline, Douglas and Midleton behave differently and are worth separating where volume allows.",
+        },
+        {
+          title: "Negative keywords, aggressively",
+          body: "Cork's broad terms attract a great deal of irrelevant traffic, particularly around tourism and the university.",
+        },
+        {
+          title: "Call tracking",
+          body: "Most enquiries are calls. Without tracking them the optimisation is learning from the smaller half of your data.",
+        },
+        {
+          title: "Landing pages per service",
+          body: "Not the homepage. In a market this expensive, a mismatched landing page is money set on fire.",
+        },
+      ],
+    },
+    {
+      heading: "Cork city bidding is genuinely competitive",
+      body: [
+        "Established Cork firms bid hard and have been doing it for years, so the cheap clicks people expect from outside Dublin are not there.",
+        "The answer is tighter targeting and better conversion rather than higher bids. A site converting at five per cent instead of two changes the economics far more than a bid increase will.",
+      ],
+    },
+    {
+      heading: "West Cork is a different opportunity",
+      body: [
+        "If you genuinely serve west Cork, clicks there are a fraction of city prices and competition is thin.",
+        "The catch is distance — the work has to be worth the drive. We will ask that question before building the campaign rather than after.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Cork areas we target",
+    body: "Campaigns are split between the city and the county, because they have different competition, different click prices and different customers.",
+    towns: [
+      "Cork city",
+      "Ballincollig",
+      "Carrigaline",
+      "Midleton",
+      "Mallow",
+      "Bandon",
+      "Fermoy",
+      "Youghal",
+      "Cobh",
+      "Clonakilty",
+      "Kinsale",
+      "Macroom",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is Cork expensive for Google Ads?",
+      a: "The city is, by national standards. West Cork is not, and mixing them in one campaign hides both facts.",
+    },
+    {
+      q: "Should city and county share a campaign?",
+      a: "No. It is the most common and most costly mistake on Cork accounts.",
+    },
+    {
+      q: "How do we compete in the city?",
+      a: "On conversion rather than bids. Established firms will outbid you; a site that converts twice as well beats them anyway.",
+    },
+    {
+      q: "Is west Cork worth targeting?",
+      a: "If you genuinely travel there, yes, and it is cheap. If you do not, the distance costs more than the work is worth.",
+    },
+    {
+      q: "Do you charge a percentage of spend?",
+      a: "No. €1,500 a month regardless of spend, paid directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the account?",
+      a: "You do, always.",
+    },
+  ],
+  related: [
+    { label: "SEO in Cork", href: "/locations/cork/seo/" },
+    { label: "Digital marketing in Cork", href: "/locations/cork/digital-marketing/" },
+  ],
+};
+
+const dublinGoogleAds: ServicePage = {
+  county: "Dublin",
+  countySlug: "dublin",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Dublin | PPC Management for Dublin Businesses",
+  description:
+    "Google Ads management for Dublin businesses. Postcode-level search campaigns, call tracking and conversion work, reported in enquiries.",
+  h1: "Google Ads in Dublin, where conversion matters more than budget.",
+  intro: [
+    "Dublin is the most expensive advertising market in the country by a wide margin, and the difference is not marginal. A click that costs a euro in Mayo can cost six or seven here for the same service.",
+    "That changes what is worth doing. In a cheap market you can buy your way to enquiries and fix conversion later. In Dublin, a website converting at two per cent instead of five is throwing away most of a budget that was expensive to begin with.",
+  ],
+  sections: [
+    {
+      heading: "How we run Google Ads in Dublin",
+      body: [
+        "Tighter targeting and far more attention to what happens after the click.",
+      ],
+      list: [
+        {
+          title: "Postcode and suburb targeting",
+          body: "Almost no Dublin business serves the whole county. Campaigns covering it spend most of the budget on people who will book somebody closer.",
+        },
+        {
+          title: "Conversion before budget",
+          body: "We look at the landing page and the response process before recommending any increase in spend. In Dublin that order matters more than anywhere.",
+        },
+        {
+          title: "Call tracking as standard",
+          body: "At Dublin click prices, optimising on incomplete conversion data is expensive in a way it is not elsewhere.",
+        },
+        {
+          title: "Ruthless negatives",
+          body: "Broad Dublin terms attract enormous irrelevant volume. This is where most inherited accounts are haemorrhaging.",
+        },
+        {
+          title: "Landing pages per service",
+          body: "A separate page per campaign, matching the ad. Non-negotiable at these prices.",
+        },
+      ],
+    },
+    {
+      heading: "Competing with national budgets",
+      body: [
+        "Directories, lead platforms and national firms bid on the same terms you do and will outspend you indefinitely.",
+        "You win on narrower targeting and on being genuinely local and responsive — a Swords-specific ad to a Swords page, answered in twenty minutes, beats a national campaign that treats every enquiry the same.",
+      ],
+    },
+    {
+      heading: "The budget floor is higher here",
+      body: [
+        "Because clicks cost more, a budget that would gather useful data in Limerick gathers almost none in Dublin.",
+        "Below roughly a thousand euro a month in spend, a Dublin search campaign frequently cannot generate enough conversions to optimise. We will say so rather than take the fee and let it drift.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Dublin areas we target",
+    body: "Campaigns are built around the postcodes and suburbs you genuinely cover, because a county-wide Dublin campaign wastes most of its budget.",
+    towns: [
+      "Dublin city",
+      "Swords",
+      "Tallaght",
+      "Blanchardstown",
+      "Dún Laoghaire",
+      "Lucan",
+      "Clondalkin",
+      "Malahide",
+      "Rathfarnham",
+      "Santry",
+      "Balbriggan",
+      "Howth",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Why is Dublin so expensive?",
+      a: "Density of competition. National firms, directories and lead platforms bid on the same terms and have far larger budgets.",
+    },
+    {
+      q: "What is a realistic starting budget?",
+      a: "Higher than elsewhere. Below about a thousand a month a Dublin search campaign struggles to gather enough conversions to improve.",
+    },
+    {
+      q: "Should we target all of Dublin?",
+      a: "Almost never. Most Dublin businesses serve a handful of postcodes and a realistic travel radius.",
+    },
+    {
+      q: "What matters most?",
+      a: "Conversion rate. At these click prices, fixing the landing page and the response process is worth more than any bid change.",
+    },
+    {
+      q: "Do you charge a percentage of spend?",
+      a: "No. €1,500 a month regardless of spend.",
+    },
+    {
+      q: "Who owns the account?",
+      a: "You do.",
+    },
+  ],
+  related: [
+    { label: "SEO in Dublin", href: "/locations/dublin/seo/" },
+    { label: "Digital marketing in Dublin", href: "/locations/dublin/digital-marketing/" },
+  ],
+};
+
+const meathGoogleAds: ServicePage = {
+  county: "Meath",
+  countySlug: "meath",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Meath | PPC Management for Meath Businesses",
+  description:
+    "Google Ads management for Meath businesses in Navan, Ashbourne, Trim and across the county. Campaigns split east and west, reported in enquiries.",
+  h1: "Google Ads in Meath, split between two very different halves.",
+  intro: [
+    "East Meath — Ashbourne, Dunboyne, Ratoath — is Dublin commuter belt in everything but the postal address, and its click prices reflect that. West and north Meath, out through Trim, Athboy and Kells, is agricultural and costs a fraction as much.",
+    "Running one Meath campaign averages two markets with almost nothing in common, and it is the single most expensive habit on accounts we inherit in this county.",
+  ],
+  sections: [
+    {
+      heading: "How we run Google Ads in Meath",
+      body: [
+        "Two campaigns minimum, with budgets set by where your work actually comes from.",
+      ],
+      list: [
+        {
+          title: "East and west separated",
+          body: "Different bids, different budgets, frequently different messaging. The commuter belt and the agricultural county are not the same customer.",
+        },
+        {
+          title: "Town targeting inside each",
+          body: "Navan and Ashbourne are different markets even within the east.",
+        },
+        {
+          title: "Negative keywords",
+          body: "Meath's proximity to Dublin pulls in a lot of irrelevant Dublin traffic that has to be excluded deliberately.",
+        },
+        {
+          title: "Call tracking",
+          body: "Most enquiries here arrive by phone. Counting only forms means optimising blind.",
+        },
+        {
+          title: "Landing pages that match",
+          body: "One page per service and per half of the county where the offer genuinely differs.",
+        },
+      ],
+    },
+    {
+      heading: "The commuter belt costs Dublin money",
+      body: [
+        "Ashbourne, Dunboyne and Ratoath attract Dublin-based competitors bidding into them, which pushes click prices toward Dublin levels while the jobs are priced at Meath levels.",
+        "That squeeze is real and it is why east Meath campaigns need tighter targeting and better conversion than the west, where you can afford to be more generous.",
+      ],
+    },
+    {
+      heading: "Where the value sits",
+      body: [
+        "West Meath clicks are cheap and the competition is thin, so a modest budget goes a long way if you genuinely serve Trim, Athboy and Kells.",
+        "If your work is mostly in the east, expect to pay more per enquiry and to need a landing page that converts properly to make it work.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Meath areas we target",
+    body: "Campaigns are split east and west, because Ashbourne and Athboy have different competition, different costs and different customers.",
+    towns: [
+      "Navan",
+      "Ashbourne",
+      "Trim",
+      "Kells",
+      "Dunboyne",
+      "Ratoath",
+      "Laytown",
+      "Athboy",
+      "Dunshaughlin",
+      "Enfield",
+      "Slane",
+      "Oldcastle",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Should east and west Meath share a campaign?",
+      a: "No. The difference in cost and customer is larger than between many separate counties.",
+    },
+    {
+      q: "Is east Meath as expensive as Dublin?",
+      a: "Approaching it, because Dublin firms bid into the commuter towns while the jobs are still priced at Meath rates.",
+    },
+    {
+      q: "Where is the better value?",
+      a: "The west, if you genuinely serve it. Cheap clicks, thin competition, and a modest budget goes a long way.",
+    },
+    {
+      q: "Do we compete with Dublin firms?",
+      a: "In the commuter towns, constantly. Relevance and response speed are how you beat a bigger budget.",
+    },
+    {
+      q: "Do you charge a percentage of spend?",
+      a: "No. €1,500 a month regardless of spend.",
+    },
+    {
+      q: "Who owns the account?",
+      a: "You do.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Meath", href: "/locations/meath/digital-marketing/" },
+    { label: "Web design in Meath", href: "/locations/meath/web-design/" },
+  ],
+};
+
+const louthGoogleAds: ServicePage = {
+  county: "Louth",
+  countySlug: "louth",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Louth | PPC Management for Drogheda & Dundalk",
+  description:
+    "Google Ads management for Louth businesses in Drogheda, Dundalk and across the county. Two separate town campaigns, reported in enquiries.",
+  h1: "Google Ads in Louth, run as two towns rather than one county.",
+  intro: [
+    "Louth is the smallest county in Ireland and contains two of its largest towns. Drogheda and Dundalk are twenty minutes apart and their residents do not cross between them for ordinary services.",
+    "That makes a single Louth campaign one of the clearest wastes of money available in Irish search advertising — roughly half the budget reaches people who have complete local options and no reason to travel.",
+  ],
+  sections: [
+    {
+      heading: "How we run Google Ads in Louth",
+      body: [
+        "Two campaigns, always, with budget set by where your work actually is.",
+      ],
+      list: [
+        {
+          title: "Drogheda and Dundalk separated",
+          body: "Different competition, different costs, and almost no customer overlap.",
+        },
+        {
+          title: "Drogheda priced as commuter belt",
+          body: "Its proximity to Dublin pushes click prices well above the county average and attracts Dublin competitors.",
+        },
+        {
+          title: "Cross-border considerations in Dundalk",
+          body: "Where Newry pricing affects your category, competing on price in ads is a losing position and we will say so.",
+        },
+        {
+          title: "Call tracking",
+          body: "Most enquiries arrive by phone in both towns.",
+        },
+        {
+          title: "Landing pages per town where it matters",
+          body: "If your offer differs by town, the page should too.",
+        },
+      ],
+    },
+    {
+      heading: "Drogheda is the expensive half",
+      body: [
+        "Commuter households and Dublin-adjacent competition make Drogheda clicks noticeably dearer than Dundalk's.",
+        "The jobs are frequently worth more too, so it can still be the better market — but it needs a landing page that converts and a response process that is genuinely quick.",
+      ],
+    },
+    {
+      heading: "The border is a real factor in Dundalk",
+      body: [
+        "For some categories, Dundalk customers compare against Newry prices in a way that businesses elsewhere in the Republic simply do not face.",
+        "Where that applies, ads competing on price will lose. Convenience, speed and service are the arguments that work, and the campaign should be built around them.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Louth areas we target",
+    body: "Campaigns are built per town, because Drogheda and Dundalk are separate markets that happen to share a county.",
+    towns: [
+      "Drogheda",
+      "Dundalk",
+      "Ardee",
+      "Blackrock",
+      "Carlingford",
+      "Dunleer",
+      "Termonfeckin",
+      "Clogherhead",
+      "Louth village",
+      "Knockbridge",
+      "Tallanstown",
+      "Omeath",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Should Drogheda and Dundalk share a campaign?",
+      a: "No. They are twenty minutes apart and their customers do not overlap. One campaign wastes roughly half the budget.",
+    },
+    {
+      q: "Which town is more expensive?",
+      a: "Drogheda, because commuter households and Dublin-adjacent competition push click prices up.",
+    },
+    {
+      q: "Does the border affect our ads?",
+      a: "In some Dundalk categories, materially. Where it does, price is the wrong battleground.",
+    },
+    {
+      q: "How much should we spend?",
+      a: "Enough for one town to produce real volume rather than thin coverage across both.",
+    },
+    {
+      q: "Do you charge a percentage of spend?",
+      a: "No. €1,500 a month regardless of spend.",
+    },
+    {
+      q: "Who owns the account?",
+      a: "You do.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Louth", href: "/locations/louth/digital-marketing/" },
+    { label: "Social media marketing in Louth", href: "/locations/louth/social-media-marketing/" },
+  ],
+};
+
 export const servicePages: ServicePage[] = [
   limerickDigitalMarketing,
   limerickSocial,
@@ -8234,6 +9364,16 @@ export const servicePages: ServicePage[] = [
   westmeathDigitalMarketing,
   westmeathSocial,
   westmeathWeb,
+  kildareSeo,
+  wicklowSeo,
+  limerickSeo,
+  corkSeo,
+  dublinSeo,
+  kildareGoogleAds,
+  corkGoogleAds,
+  dublinGoogleAds,
+  meathGoogleAds,
+  louthGoogleAds,
 ];
 
 export const servicePageBy = (countySlug: string, serviceSlug: string) =>

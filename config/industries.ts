@@ -224,9 +224,9 @@ export const industries: Industry[] = [
   {
     slug: "roofers",
     label: "Roofers",
-    title: "Roofing Leads Ireland | Marketing for Roofing Contractors",
+    title: "Roofing Leads Ireland | Roofing Marketing & Lead Generation",
     description:
-      "Roofing lead generation across Ireland. Google and Meta campaigns for repairs, re-roofs and gutters, with a lead form that tells a real job from a tyre-kicker before you drive out.",
+      "Roofing lead generation, roofing marketing and advertising across Ireland. Google and Meta campaigns for repairs, re-roofs and gutters, with a lead form that tells a real job from a tyre-kicker before you drive out.",
     h1: "Roofing leads that are worth the drive out.",
     intro: [
       "For a roofer, the job is being the name a homeowner finds and trusts in the hour after they notice the leak, and being able to tell a real job from a tyre-kicker before you leave the yard. We run Google Ads on the emergency and repair searches in your area and Meta ads to the towns you cover, and every click goes to a form that asks about the roof, the job and the timing first.",
@@ -285,6 +285,18 @@ export const industries: Industry[] = [
         q: "How fast can it start?",
         a: "Usually live within a week of the first call. Start with a free growth audit of your Google map results, reviews and website.",
       },
+      {
+        q: "What is the difference between roofing leads and roofing marketing?",
+        a: "Lead generation produces named enquiries with a roof type and a timescale attached. Marketing is the wider picture -- pricing, reviews, response time, how you are known locally. Most contractors asking about marketing actually want lead generation, and it is worth being clear which you are buying.",
+      },
+      {
+        q: "Does roofing advertising work without a good website?",
+        a: "Poorly. Roofing is a trust purchase on somebody's home and people check before they ring. Advertising into a slow site with no recent photographs wastes most of what you spend, which is why we look at the site before recommending budget.",
+      },
+      {
+        q: "How fast do we need to answer a roofing enquiry?",
+        a: "Faster than most contractors do. A homeowner with a leak rings two or three roofers and books whoever picks up. In our experience response time changes the outcome of a roofing campaign more than the budget does.",
+      },
     ],
     sections: [
       {
@@ -313,6 +325,35 @@ export const industries: Industry[] = [
         body: [
           "A slipped slate and a full re-roof arrive through the same enquiry form and differ in value by a factor of twenty. Run as one campaign, your cost per lead looks fine and your cost per re-roof is invisible.",
           "We split them. Repair campaigns run on urgency and speed of response. Re-roof campaigns run on photographs, guarantees and finance where you offer it, and they tolerate a much higher cost per enquiry because the job is worth it. Most roofers have never seen those two numbers separately, and they are usually surprised by which campaign is actually carrying the business.",
+        ],
+      },
+      {
+        heading: "Roofing marketing, roofing advertising and lead generation are three different things",
+        body: [
+          "The words get used interchangeably and they describe genuinely different work, which matters because you can be sold one while needing another.",
+          "Most roofing companies who ring us asking about roofing marketing actually want lead generation. A few want advertising and already have the follow-up to make it pay. Knowing which you are is the difference between a campaign that fills a diary and one that fills an inbox.",
+        ],
+        list: [
+          {
+            title: "Roofing lead generation",
+            body: "Producing named, qualified enquiries with a roof type, a problem and a timescale attached. Measured in leads and in jobs won. This is what most contractors mean and what most of our roofing work is.",
+          },
+          {
+            title: "Roofing advertising",
+            body: "Buying attention -- Meta and Google placements, creative, budget and bidding. It produces enquiries only if the follow-up and the website behind it are working.",
+          },
+          {
+            title: "Roofing marketing",
+            body: "The whole picture: what you charge, who you target, your reviews, your van, your response time and how you are known locally. Advertising is one part of it and frequently not the limiting one.",
+          },
+        ],
+      },
+      {
+        heading: "Why we usually look at your follow-up before your budget",
+        body: [
+          "Roofing enquiries are time-sensitive in a way most trades are not. A homeowner with water coming in rings three roofers and books whoever answers, which means the first response wins a disproportionate share regardless of price.",
+          "So before recommending any increase in advertising spend we check how quickly enquiries are actually answered, whether the form delivers, and what happens to a lead that arrives at nine at night. In roofing that is frequently where the money is being lost, and buying more leads on top of a leaking follow-up process just increases the leak.",
+          "If that is what we find, we will say so and fix it first. It is cheaper for you and it makes everything after it work better.",
         ],
       },
     ],
