@@ -4177,6 +4177,1998 @@ const mayoSocial: ServicePage = {
   ],
 };
 
+const carlowDigitalMarketing: ServicePage = {
+  county: "Carlow",
+  countySlug: "carlow",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Carlow | Agency for Carlow Businesses",
+  description:
+    "A digital marketing agency working with Carlow businesses: Google Ads, Meta ads, SEO and social, across Carlow town, Tullow, Bagenalstown and the county.",
+  h1: "Digital marketing in Carlow, measured in enquiries.",
+  intro: [
+    "Carlow is the second-smallest county in Ireland and it does not behave like a self-contained market. Its households look to Kilkenny, to Athy and south Kildare, and increasingly to Dublin along the M9, and they compare local businesses against firms in all three.",
+    "That cuts both ways. A Carlow business is competing with outsiders it never chose to compete with, and it can also reach across those same boundaries far more cheaply than a business in a county with real edges.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Carlow businesses",
+      body: [
+        "Five services. In a county this small the decision that matters most is how far past the boundary you are willing to work.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "Built around a travel radius rather than the county, because Carlow's own search volume alone is thin.",
+        },
+        {
+          title: "Meta ads",
+          body: "Strong here. Carlow town and the villages are tight communities and a job done well is genuinely seen.",
+        },
+        {
+          title: "SEO",
+          body: "Very winnable. Few Carlow businesses compete seriously online and competitor foundations are usually weak.",
+        },
+        {
+          title: "Web design",
+          body: "A real advantage, because the local standard is low and a good site stands out immediately.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, so a small business looks established when somebody checks before ringing.",
+        },
+      ],
+    },
+    {
+      heading: "Thin search volume is the constraint, not competition",
+      body: [
+        "The mistake in a small county is to assume the problem is competitors. Usually it is that not enough people are searching to fill a campaign.",
+        "Meta solves that better than Google here, because it reaches people who are not searching yet. A Carlow business relying entirely on search is fishing in a small pool; one using both is not.",
+      ],
+    },
+    {
+      heading: "The M9 has changed who lives here",
+      body: [
+        "Commuter households along the motorway corridor have pulled Carlow closer to Dublin in both income and expectation, particularly around Carlow town and toward Athy.",
+        "They pay for quality and they expect a fast reply. That is a different customer from the one a Carlow business served ten years ago, and the advertising should say different things to them.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Carlow we work",
+    body: "Campaigns are drawn around a realistic travel radius rather than the county line, because Carlow is small enough that the boundary is not where your market ends.",
+    towns: [
+      "Carlow town",
+      "Tullow",
+      "Bagenalstown",
+      "Leighlinbridge",
+      "Hacketstown",
+      "Borris",
+      "Rathvilly",
+      "Myshall",
+      "Clonegal",
+      "Ballon",
+      "Fenagh",
+      "Palatine",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is Carlow too small to advertise in?",
+      a: "The county alone is thin on search volume, which is why campaigns here are built on a travel radius and lean harder on Meta than on Google.",
+    },
+    {
+      q: "Should we target Kilkenny and Kildare too?",
+      a: "If you travel there, yes. Carlow businesses that respect the county line as a market boundary leave a lot of work on the table.",
+    },
+    {
+      q: "Is competition heavy?",
+      a: "No. Very few Carlow businesses advertise seriously and fewer have a site that converts, which makes this an unusually cheap market to win.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "In Carlow town with a verified address, readily. Proximity decides it, so a Tullow business will not dominate Carlow town and vice versa.",
+    },
+    {
+      q: "How quickly does SEO work here?",
+      a: "Faster than a city. Light competition and weak competitor foundations mean the basics often move things inside a couple of months.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF, no call attached.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Carlow", href: "/locations/carlow/social-media-marketing/" },
+    { label: "Web design in Carlow", href: "/locations/carlow/web-design/" },
+  ],
+};
+
+const carlowSocial: ServicePage = {
+  county: "Carlow",
+  countySlug: "carlow",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Carlow | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Carlow businesses: Facebook and Instagram content and paid campaigns, managed end to end, across Carlow town, Tullow and the county.",
+  h1: "Social media marketing in Carlow, where word travels fast.",
+  intro: [
+    "Carlow is small enough that reputation moves without any help from advertising. A job done badly in Tullow is known in Tullow by the weekend, and a job done well is known just as quickly.",
+    "Social is how you make sure the second one reaches people. It is not a substitute for being good; it is the mechanism that makes being good visible beyond the street you worked on.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "A steady presence in your own voice, and budget behind the posts that earn a response.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A consistent schedule built from real jobs in places people recognise.",
+        },
+        {
+          title: "Audiences past the county line",
+          body: "Carlow alone is a small audience. Campaigns usually extend toward Athy, Kilkenny and the villages you actually serve.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than lost on the way to a website.",
+        },
+        {
+          title: "Community and sponsorship visibility",
+          body: "If you sponsor locally, that should be seen. In a county this size it is worth more than a clever advert.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day. In a small town a slow reply gets talked about.",
+        },
+      ],
+    },
+    {
+      heading: "Small audience, cheap to reach, easy to waste",
+      body: [
+        "Carlow's whole population is smaller than a Dublin suburb, which makes reaching all of it genuinely affordable.",
+        "The waste comes from reaching them too often with nothing worth seeing. A modest budget and a real photograph beat a large budget and a stock image here every time.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs, and say which town each job was in.",
+        "Recognition is the whole mechanism in a county this size. People know the houses, the streets and frequently the customer.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Carlow areas we target",
+    body: "Audiences drawn around Carlow town, the villages and the towns just over the boundary that your customers actually come from.",
+    towns: [
+      "Carlow town",
+      "Tullow",
+      "Bagenalstown",
+      "Leighlinbridge",
+      "Hacketstown",
+      "Borris",
+      "Rathvilly",
+      "Myshall",
+      "Clonegal",
+      "Ballon",
+      "Fenagh",
+      "Palatine",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can you post into local Carlow pages?",
+      a: "No, and treat anyone who promises it with suspicion. They belong to their admins. We build your own page and reach the same people with budget.",
+    },
+    {
+      q: "Is the audience big enough?",
+      a: "For a local business, yes, and it is cheap. You need a few thousand households, not a county.",
+    },
+    {
+      q: "Should we advertise outside Carlow?",
+      a: "Usually. The county is small enough that most businesses genuinely serve parts of Kildare, Kilkenny or Wexford too.",
+    },
+    {
+      q: "Do I need TikTok?",
+      a: "Probably not. Facebook holds the buying audience across Carlow comfortably.",
+    },
+    {
+      q: "Can you use our existing page?",
+      a: "Yes — editor access rather than ownership, removable whenever you want.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. We report enquiries and what each one cost.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Carlow", href: "/locations/carlow/digital-marketing/" },
+    { label: "Web design in Carlow", href: "/locations/carlow/web-design/" },
+  ],
+};
+
+const carlowWeb: ServicePage = {
+  county: "Carlow",
+  countySlug: "carlow",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Carlow | Websites Built to Convert Enquiries",
+  description:
+    "Web design for Carlow businesses. Fast, mobile-first sites that turn visits into enquiries, built in about two weeks. €1,500 once off.",
+  h1: "Websites for Carlow businesses, built to be rung.",
+  intro: [
+    "Most Carlow business websites were built once, several years ago, by somebody who has since moved on. They load slowly, they do not say which areas the business covers, and on a phone the number is somewhere near the bottom.",
+    "That is a cheap problem to fix and an expensive one to leave, because in a small county a large share of your enquiries come from people who already half-know you and are only checking you are real.",
+  ],
+  sections: [
+    {
+      heading: "What you get",
+      body: [
+        "A site built around one job: getting the phone to ring.",
+      ],
+      list: [
+        {
+          title: "Built in about two weeks",
+          body: "Copy, build and launch. You supply photographs and the details; we do the rest.",
+        },
+        {
+          title: "Fast on a phone",
+          body: "Most of your visitors are on mobile, frequently on patchy rural coverage. Page weight is treated as a feature.",
+        },
+        {
+          title: "Coverage stated plainly",
+          body: "Which towns you serve, named. In Carlow that includes the places over the boundary, and leaving them off costs enquiries.",
+        },
+        {
+          title: "Enquiry forms that qualify",
+          body: "The questions you would ask on the phone, asked before the phone rings.",
+        },
+        {
+          title: "Yours outright",
+          body: "You own the domain, the hosting and the site. No lock-in and nothing held hostage.",
+        },
+      ],
+    },
+    {
+      heading: "The check-you-are-real visit",
+      body: [
+        "In a county this size a lot of traffic is not discovery. It is somebody who got your name from a neighbour and wants to confirm you exist and look competent.",
+        "That visitor needs three things fast: recent work, the areas you cover and a number that dials. Sites that bury those lose enquiries they had already won.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Carlow areas we build for",
+    body: "Sites are written around the towns you actually serve, including the ones outside the county, because that is where a good share of Carlow work comes from.",
+    towns: [
+      "Carlow town",
+      "Tullow",
+      "Bagenalstown",
+      "Leighlinbridge",
+      "Hacketstown",
+      "Borris",
+      "Rathvilly",
+      "Myshall",
+      "Clonegal",
+      "Ballon",
+      "Fenagh",
+      "Palatine",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How long does it take?",
+      a: "About two weeks from the point we have your photographs and details.",
+    },
+    {
+      q: "What does it cost?",
+      a: "€1,500 once off. Hosting and the domain stay in your name and you can move the site whenever you like.",
+    },
+    {
+      q: "Do I need a blog?",
+      a: "Not to begin with. Get the service pages and coverage right first; content only helps once the foundations are there.",
+    },
+    {
+      q: "Will it help me rank?",
+      a: "It removes what is holding you back — speed, structure, stated coverage. Ranking then depends on reviews, links and time.",
+    },
+    {
+      q: "Can you keep our existing site?",
+      a: "If it is fast and converting, yes, and we will say so rather than sell you a rebuild you do not need.",
+    },
+    {
+      q: "What do you need from me?",
+      a: "Photographs of real work, your service list, your coverage area and your number. That is genuinely most of it.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Carlow", href: "/locations/carlow/digital-marketing/" },
+    { label: "Social media marketing in Carlow", href: "/locations/carlow/social-media-marketing/" },
+  ],
+};
+
+const cavanDigitalMarketing: ServicePage = {
+  county: "Cavan",
+  countySlug: "cavan",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Cavan | Agency for Cavan Businesses",
+  description:
+    "A digital marketing agency working with Cavan businesses: Google Ads, Meta ads, SEO and social, across Cavan town, Virginia, Bailieborough and the county.",
+  h1: "Digital marketing in Cavan, spread across a dozen towns.",
+  intro: [
+    "Cavan has no dominant centre. The work is spread across Cavan town, Virginia, Bailieborough, Cootehill, Kingscourt and a dozen smaller places, none of which pulls the county toward it.",
+    "It is also two economies wearing one name. The south and east — Virginia, Bailieborough, Kingscourt — have become Dublin commuter territory along the N3. The west and north are farming country and behave nothing like it.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Cavan businesses",
+      body: [
+        "Five services, with the commuter-belt split driving most of the decisions.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "Targeted by town cluster rather than county, because Virginia and Belturbet have almost nothing in common.",
+        },
+        {
+          title: "Meta ads",
+          body: "Usually the better value here. Cavan's town and parish pages are well followed and reach is inexpensive.",
+        },
+        {
+          title: "SEO",
+          body: "Town-level searches plus the profile work that decides local results in a dispersed county.",
+        },
+        {
+          title: "Web design",
+          body: "Page weight matters — coverage is patchy in parts of the county and a heavy site simply fails for some visitors.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, and unusually effective where communities are this tight.",
+        },
+      ],
+    },
+    {
+      heading: "The N3 commuter belt is a different customer",
+      body: [
+        "Households in Virginia, Bailieborough and Kingscourt increasingly work in Dublin, earn Dublin money and expect a Dublin standard of response.",
+        "They will pay for quality and they will not wait two days for a call back. Campaigns aimed at them should look nothing like campaigns aimed at farm customers twenty miles west.",
+      ],
+    },
+    {
+      heading: "Farming demand does not behave like consumer demand",
+      body: [
+        "A substantial part of Cavan's economy is agricultural, and that work is seasonal, relationship-led and reached through community networks far more than through advertising.",
+        "If your customers are farmers, we will tell you where advertising genuinely helps and where it will not, rather than selling you a campaign either way.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Cavan we work",
+    body: "Campaigns are built around the town clusters you actually serve, because the commuter towns and the farming west are two different markets.",
+    towns: [
+      "Cavan town",
+      "Virginia",
+      "Bailieborough",
+      "Cootehill",
+      "Kingscourt",
+      "Ballyjamesduff",
+      "Belturbet",
+      "Ballyconnell",
+      "Arva",
+      "Killeshandra",
+      "Shercock",
+      "Mountnugent",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Should the whole county share a campaign?",
+      a: "No. Virginia and Belturbet are different markets with different customers and different costs.",
+    },
+    {
+      q: "Is the commuter belt worth targeting separately?",
+      a: "Yes, and it usually carries the better-paying work. Different message, different budget, different expectations on response speed.",
+    },
+    {
+      q: "Do we compete with Meath and Monaghan firms?",
+      a: "Along the borders, constantly. Being visibly local is the cheapest and most effective answer.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "In your own town with a verified address. In a county with a dozen centres, nobody covers all of it.",
+    },
+    {
+      q: "Does farming work respond to online ads?",
+      a: "For some services yes, increasingly. For others the relationship matters far more, and we will say which you are.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Cavan", href: "/locations/cavan/social-media-marketing/" },
+    { label: "Web design in Cavan", href: "/locations/cavan/web-design/" },
+  ],
+};
+
+const cavanSocial: ServicePage = {
+  county: "Cavan",
+  countySlug: "cavan",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Cavan | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Cavan businesses: Facebook and Instagram content and paid campaigns, managed end to end, across Cavan town, Virginia and the county.",
+  h1: "Social media marketing in Cavan, town cluster by town cluster.",
+  intro: [
+    "Cavan's online life runs through town and parish pages, and they are exceptionally well followed. In a county with no dominant centre, those pages are the local media, and being genuinely present in your own town matters more than polish.",
+    "The trap is treating the county as one audience. Cavan's towns are far enough apart, and different enough, that a single county-wide campaign is mostly paying to reach people who will never travel to you.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "Content that looks like where you work, and audiences drawn around the towns you actually cover.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule in your own voice, built from jobs in recognisable places.",
+        },
+        {
+          title: "Audiences per town cluster",
+          body: "The commuter towns and the western county targeted separately, because they are different customers.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than lost on the way to a website.",
+        },
+        {
+          title: "Sponsorship made visible",
+          body: "GAA and community sponsorship is common here and badly under-used online. Most of its value comes from people knowing about it.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day, which in a small community is noticed either way.",
+        },
+      ],
+    },
+    {
+      heading: "Commuters and locals want different things said",
+      body: [
+        "A Virginia household commuting to Dublin is buying convenience and speed. A farm customer near Killeshandra is buying reliability and somebody who will turn up.",
+        "Both are good customers. They are not the same customer, and one set of creative for both consistently underperforms two sets run properly.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs and note the town.",
+        "That one detail lets us show finished work to the community it happened in, which is the most efficient advertising available in a county this dispersed.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Cavan areas we target",
+    body: "Audiences built per town cluster rather than per county, with the split set by where your work actually comes from.",
+    towns: [
+      "Cavan town",
+      "Virginia",
+      "Bailieborough",
+      "Cootehill",
+      "Kingscourt",
+      "Ballyjamesduff",
+      "Belturbet",
+      "Ballyconnell",
+      "Arva",
+      "Killeshandra",
+      "Shercock",
+      "Mountnugent",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can you post into local Cavan pages?",
+      a: "No — they belong to their admins. We make your own page worth following and reach the same households with budget.",
+    },
+    {
+      q: "Is GAA sponsorship worth it?",
+      a: "Often yes here, but only if people know about it. Making it visible online is where most of the value is.",
+    },
+    {
+      q: "Should commuter towns have their own campaign?",
+      a: "Their own audience at minimum, and usually their own message. They are buying different things.",
+    },
+    {
+      q: "Do I need TikTok?",
+      a: "Probably not. Facebook carries the buying audience across Cavan comfortably.",
+    },
+    {
+      q: "Can you use our existing page?",
+      a: "Yes, with editor access rather than ownership.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. Enquiries and cost per enquiry are the report.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Cavan", href: "/locations/cavan/digital-marketing/" },
+    { label: "Web design in Cavan", href: "/locations/cavan/web-design/" },
+  ],
+};
+
+const cavanWeb: ServicePage = {
+  county: "Cavan",
+  countySlug: "cavan",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Cavan | Websites Built to Convert Enquiries",
+  description:
+    "Web design for Cavan businesses. Fast, mobile-first sites that turn visits into enquiries, built in about two weeks. €1,500 once off.",
+  h1: "Websites for Cavan businesses, built to load anywhere.",
+  intro: [
+    "Mobile coverage across large parts of Cavan is patchy, and most business websites here are built as though everyone is on fibre. A heavy site does not load slowly for those visitors — it frequently does not load at all.",
+    "That is the single most common and most expensive fault we find on websites in this county, and it is entirely fixable.",
+  ],
+  sections: [
+    {
+      heading: "What you get",
+      body: [
+        "A site built to work on a bad signal in a car outside a farm gate.",
+      ],
+      list: [
+        {
+          title: "Built in about two weeks",
+          body: "Copy, build and launch, once you have sent photographs and details.",
+        },
+        {
+          title: "Genuinely light",
+          body: "Page weight treated as a feature rather than an afterthought, because a share of your visitors are on poor coverage.",
+        },
+        {
+          title: "Coverage stated plainly",
+          body: "Every town you serve, named. In a county with a dozen centres, visitors need to see their own.",
+        },
+        {
+          title: "Enquiry forms that qualify",
+          body: "The questions you would ask on the phone, asked first.",
+        },
+        {
+          title: "Yours outright",
+          body: "Domain, hosting and site in your name. No lock-in.",
+        },
+      ],
+    },
+    {
+      heading: "Why page weight is a Cavan problem specifically",
+      body: [
+        "A site that takes eight seconds on 3G loses most of the people who open it, and they do not come back or tell you.",
+        "It is invisible in your enquiry numbers, which is exactly why it goes unfixed for years. Building light costs nothing extra if it is done from the start.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Cavan areas we build for",
+    body: "Sites are written around the towns you actually cover, and built to load on the coverage those towns genuinely have.",
+    towns: [
+      "Cavan town",
+      "Virginia",
+      "Bailieborough",
+      "Cootehill",
+      "Kingscourt",
+      "Ballyjamesduff",
+      "Belturbet",
+      "Ballyconnell",
+      "Arva",
+      "Killeshandra",
+      "Shercock",
+      "Mountnugent",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How long does it take?",
+      a: "About two weeks once we have your photographs and details.",
+    },
+    {
+      q: "What does it cost?",
+      a: "€1,500 once off, with the domain and hosting in your name.",
+    },
+    {
+      q: "Does page speed really matter here?",
+      a: "More than almost anywhere. Coverage across the county is uneven and heavy sites fail silently for the people on the worst of it.",
+    },
+    {
+      q: "Do I need a blog?",
+      a: "Not initially. Get the service pages, coverage and speed right first.",
+    },
+    {
+      q: "Will it help me rank?",
+      a: "It removes the obstacles. Ranking then comes from reviews, links and time.",
+    },
+    {
+      q: "Can you keep our existing site?",
+      a: "If it is fast and converting, yes — we will say so rather than sell you a rebuild you do not need.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Cavan", href: "/locations/cavan/digital-marketing/" },
+    { label: "Social media marketing in Cavan", href: "/locations/cavan/social-media-marketing/" },
+  ],
+};
+
+const donegalDigitalMarketing: ServicePage = {
+  county: "Donegal",
+  countySlug: "donegal",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Donegal | Agency for Donegal Businesses",
+  description:
+    "A digital marketing agency working with Donegal businesses: Google Ads, Meta ads, SEO and social, from Letterkenny and Buncrana to Donegal town and the west.",
+  h1: "Digital marketing in Donegal, where distance decides everything.",
+  intro: [
+    "Donegal is the fourth-largest county in Ireland, it is shaped awkwardly, and it is attached to the rest of the Republic by a narrow corridor. Letterkenny anchors the north, Donegal town the south, and between them are distances that make a county-wide campaign close to meaningless.",
+    "Derry matters more than the border implies. A large share of north Donegal shops, works and buys services across it, and Donegal businesses compete with Northern firms on price and on sterling whether they intend to or not.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Donegal businesses",
+      body: [
+        "Five services, with geography and the border doing more to shape the plan than anything else.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "Targeted by realistic driving time. In Donegal that distinction is the difference between a campaign working and not.",
+        },
+        {
+          title: "Meta ads",
+          body: "Frequently the better value channel here. Community pages across the county are very well followed.",
+        },
+        {
+          title: "SEO",
+          body: "Town-level searches, plus the profile work that carries disproportionate weight in a dispersed county.",
+        },
+        {
+          title: "Web design",
+          body: "Page weight matters a great deal — coverage across the west and the islands is genuinely poor.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, including the diaspora audience that most Donegal businesses never think to reach.",
+        },
+      ],
+    },
+    {
+      heading: "The border is a commercial fact, not a line",
+      body: [
+        "North Donegal households routinely use Derry for shopping and services, and exchange rates move that traffic back and forth in ways no campaign controls.",
+        "Where you are competing with Northern prices, competing on price is usually a losing move. Convenience, service and being genuinely local are the arguments that work, and we will say so rather than build a campaign that cannot win.",
+      ],
+    },
+    {
+      heading: "Tourism and diaspora sit on top of the local economy",
+      body: [
+        "The Wild Atlantic Way brings a short, intense season to the west and the coast, while Letterkenny trades steadily all year.",
+        "Donegal also has an unusually strong connection with people who left. They return, they renovate family property, and they are reachable from wherever they now live — an audience almost nobody here targets deliberately.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Donegal we work",
+    body: "Campaigns are drawn by realistic driving time rather than by county or radius, because Donegal's distances are longer in practice than any map suggests.",
+    towns: [
+      "Letterkenny",
+      "Buncrana",
+      "Ballybofey",
+      "Donegal town",
+      "Bundoran",
+      "Carndonagh",
+      "Dungloe",
+      "Moville",
+      "Killybegs",
+      "Ballyshannon",
+      "Lifford",
+      "Gweedore",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How wide should we target?",
+      a: "As far as you will genuinely drive, and no further. In Donegal that is usually much smaller than the county and it is the single biggest efficiency available.",
+    },
+    {
+      q: "Do we compete with Derry businesses?",
+      a: "In the north of the county, constantly. Price is usually the wrong battleground; convenience and local presence are not.",
+    },
+    {
+      q: "Is the tourist season worth planning around?",
+      a: "On the coast and in the west, considerably. In Letterkenny, far less so.",
+    },
+    {
+      q: "Can we reach people who moved away?",
+      a: "To a useful degree, and almost nobody tries. For building and renovation trades it is a real vein of work.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "In your own town with a verified address. No business covers Donegal in the map pack — the distances forbid it.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Donegal", href: "/locations/donegal/social-media-marketing/" },
+    { label: "Web design in Donegal", href: "/locations/donegal/web-design/" },
+  ],
+};
+
+const donegalSocial: ServicePage = {
+  county: "Donegal",
+  countySlug: "donegal",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Donegal | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Donegal businesses: Facebook and Instagram content and paid campaigns, managed end to end, from Letterkenny to the west and south.",
+  h1: "Social media marketing in Donegal, including the people who left.",
+  intro: [
+    "Donegal is cheap to reach and easy to waste money in, for the same reason: a large population spread across a very large area, most of which is not your market.",
+    "What works here is the opposite of scale — tight audiences, real photographs, and content a specific community recognises as its own. Donegal's local pages are among the best followed in the country and they are genuinely read.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "Small, precise audiences and content that looks like the place it came from.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule in your own voice, built from work in recognisable places.",
+        },
+        {
+          title: "Audiences by driving time",
+          body: "Drawn around where you will actually go, not around the county.",
+        },
+        {
+          title: "Diaspora and returning households",
+          body: "People with Donegal roots who live elsewhere, return, and spend on property here. Reachable, valuable and almost never targeted.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than lost en route to a site.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day. In small communities, responsiveness is part of your reputation.",
+        },
+      ],
+    },
+    {
+      heading: "The returning-household market is real money",
+      body: [
+        "Donegal's connection with people who left is stronger than almost anywhere in Ireland. They come back for summers, for retirement, or to do up a family house.",
+        "They are frequently spending substantially on building, renovation and trades, they are reachable from where they currently live, and they are effectively uncontested as an audience.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs and say where each job was.",
+        "Recognition beats production quality here. A finished job in a village people know does more than anything shot elsewhere and polished.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Donegal areas we target",
+    body: "Audiences drawn by driving time, plus targeting of households with Donegal connections who live elsewhere and come back.",
+    towns: [
+      "Letterkenny",
+      "Buncrana",
+      "Ballybofey",
+      "Donegal town",
+      "Bundoran",
+      "Carndonagh",
+      "Dungloe",
+      "Moville",
+      "Killybegs",
+      "Ballyshannon",
+      "Lifford",
+      "Gweedore",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is the audience too small?",
+      a: "It is spread out rather than small. Drawn tightly around your own catchment it is both sufficient and very cheap to reach.",
+    },
+    {
+      q: "Can you really target people who moved away?",
+      a: "To a useful degree, using location and connection signals. For renovation and building trades it is worth doing deliberately.",
+    },
+    {
+      q: "Do community pages matter here?",
+      a: "More than almost anywhere in Ireland. We cannot post into them; paid reaches the same people while you earn the recommendations.",
+    },
+    {
+      q: "Should the Gaeltacht be handled differently?",
+      a: "If you serve it, yes. Irish-language presence is genuinely valued there and almost nobody offers it.",
+    },
+    {
+      q: "Do I need TikTok?",
+      a: "Probably not, though tourism businesses on the coast are a reasonable exception.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. We report enquiries and what each one cost.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Donegal", href: "/locations/donegal/digital-marketing/" },
+    { label: "Web design in Donegal", href: "/locations/donegal/web-design/" },
+  ],
+};
+
+const donegalWeb: ServicePage = {
+  county: "Donegal",
+  countySlug: "donegal",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Donegal | Websites Built to Convert Enquiries",
+  description:
+    "Web design for Donegal businesses. Fast, mobile-first sites that load on poor coverage and turn visits into enquiries. €1,500 once off.",
+  h1: "Websites for Donegal businesses, built for bad signal.",
+  intro: [
+    "Large parts of Donegal have genuinely poor mobile coverage, and most business sites here are built as though every visitor is on fibre in a city. For a meaningful share of your traffic, a heavy site does not load at all.",
+    "You never see those people in your enquiry figures, which is precisely why the problem persists for years.",
+  ],
+  sections: [
+    {
+      heading: "What you get",
+      body: [
+        "A site that works on one bar of signal, which in this county is a requirement rather than a nicety.",
+      ],
+      list: [
+        {
+          title: "Built in about two weeks",
+          body: "Copy, build and launch once you have supplied photographs and details.",
+        },
+        {
+          title: "Genuinely light",
+          body: "Page weight treated as a feature. This matters more in Donegal than in any other county we work in.",
+        },
+        {
+          title: "Coverage stated plainly",
+          body: "Every area you serve, named — and in a county this size, how far you will travel.",
+        },
+        {
+          title: "Enquiry forms that qualify",
+          body: "The questions you would ask on the phone, asked before it rings.",
+        },
+        {
+          title: "Yours outright",
+          body: "Domain, hosting and site in your name. No lock-in.",
+        },
+      ],
+    },
+    {
+      heading: "Say how far you travel",
+      body: [
+        "The most common cause of wasted enquiries in Donegal is a site that does not say where the business will and will not go.",
+        "Somebody in Dungloe ringing a Letterkenny firm that does not travel west wastes both parties' time. Stating it plainly costs you nothing and saves a great deal.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Donegal areas we build for",
+    body: "Sites are written around the areas you genuinely cover and built to load on the coverage those areas actually have.",
+    towns: [
+      "Letterkenny",
+      "Buncrana",
+      "Ballybofey",
+      "Donegal town",
+      "Bundoran",
+      "Carndonagh",
+      "Dungloe",
+      "Moville",
+      "Killybegs",
+      "Ballyshannon",
+      "Lifford",
+      "Gweedore",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How long does it take?",
+      a: "About two weeks from receiving your photographs and details.",
+    },
+    {
+      q: "What does it cost?",
+      a: "€1,500 once off, with domain and hosting in your name.",
+    },
+    {
+      q: "Does page speed really matter here?",
+      a: "More than anywhere else we work. Poor coverage means heavy sites fail silently and invisibly.",
+    },
+    {
+      q: "Should the site mention Derry or the North?",
+      a: "If you serve there, yes, and plainly. A good deal of north Donegal trade crosses the border in both directions.",
+    },
+    {
+      q: "Will it help me rank?",
+      a: "It removes what is holding you back. Ranking then depends on reviews, links and time.",
+    },
+    {
+      q: "Can you keep our existing site?",
+      a: "If it is fast and converting, yes. We will tell you rather than sell you a rebuild you do not need.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Donegal", href: "/locations/donegal/digital-marketing/" },
+    { label: "Social media marketing in Donegal", href: "/locations/donegal/social-media-marketing/" },
+  ],
+};
+
+const kerryDigitalMarketing: ServicePage = {
+  county: "Kerry",
+  countySlug: "kerry",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Kerry | Agency for Kerry Businesses",
+  description:
+    "A digital marketing agency working with Kerry businesses: Google Ads, Meta ads, SEO and social, across Tralee, Killarney, Listowel, Dingle and the county.",
+  h1: "Digital marketing in Kerry, around a very short season.",
+  intro: [
+    "Kerry runs two economies at once. Killarney, Dingle and the Ring are tourism towns with an intense summer and a long quiet winter. Tralee and Listowel are working towns that trade steadily all year and barely notice the season.",
+    "A business that serves both is effectively running two companies, and the most common mistake here is budgeting as though it is running one.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Kerry businesses",
+      body: [
+        "Five services, with the season shaping the plan more than the channel choice does.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "Weighted to the months your customers are actually in the county, which for tourism-facing businesses is a much narrower year.",
+        },
+        {
+          title: "Meta ads",
+          body: "Strong across Kerry, and the only realistic way to reach visitors before they travel.",
+        },
+        {
+          title: "SEO",
+          body: "Town-level searches plus profile work, which carries real weight given the distances here.",
+        },
+        {
+          title: "Web design",
+          body: "Worth more than average, because a seasonal business gets a limited number of chances to convert.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, including through the winter when staying visible costs very little.",
+        },
+      ],
+    },
+    {
+      heading: "Reaching visitors before they arrive",
+      body: [
+        "This is the capability most Kerry businesses never use. Somebody planning a week in Kenmare in July is researching in March, from Dublin or Cork or Britain.",
+        "In July you are competing with every business in the county for their attention. In March you are the only one talking to them, and it costs a fraction as much.",
+      ],
+    },
+    {
+      heading: "Distances are longer than they look",
+      body: [
+        "Tralee to Cahersiveen is not a trip anybody makes for an ordinary service, and the Ring roads are slow in season and slower in weather.",
+        "Campaigns should be drawn by driving time. A business advertising across Kerry is paying to reach people who will book somebody an hour closer.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Kerry we work",
+    body: "Campaigns are built around the towns you serve and the season you serve them in, because tourism Kerry and working Kerry have very different years.",
+    towns: [
+      "Tralee",
+      "Killarney",
+      "Listowel",
+      "Dingle",
+      "Kenmare",
+      "Castleisland",
+      "Killorglin",
+      "Cahersiveen",
+      "Ballybunion",
+      "Milltown",
+      "Tarbert",
+      "Sneem",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How seasonal is this really?",
+      a: "For anything tourism-facing, severely. Flat monthly budgets suit almost nobody in Killarney or Dingle.",
+    },
+    {
+      q: "Can we advertise to visitors before they come?",
+      a: "Yes, and it is badly under-used. Reaching people in spring from where they live is far cheaper than competing locally in July.",
+    },
+    {
+      q: "Are Tralee and Killarney different markets?",
+      a: "Very. One is a working town trading all year, the other is a tourism town with a short intense season. They should not share a campaign.",
+    },
+    {
+      q: "How far should we target?",
+      a: "As far as you will genuinely drive. Kerry's distances and roads make a wide radius expensive and unproductive.",
+    },
+    {
+      q: "What should we do in the off-season?",
+      a: "The work that compounds — reviews, content, the website — rather than buying attention nobody is ready to act on.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Kerry", href: "/locations/kerry/social-media-marketing/" },
+    { label: "Web design in Kerry", href: "/locations/kerry/web-design/" },
+  ],
+};
+
+const kerrySocial: ServicePage = {
+  county: "Kerry",
+  countySlug: "kerry",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Kerry | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Kerry businesses: Facebook and Instagram content and paid campaigns, managed end to end, across Tralee, Killarney, Dingle and the county.",
+  h1: "Social media marketing in Kerry, planned around a season.",
+  intro: [
+    "Most social media advice assumes a business whose demand is roughly level all year. A Kerry tourism business has nothing of the sort, and applying flat advice to a sharply seasonal year is how budgets disappear here.",
+    "Kerry also photographs better than almost anywhere in Ireland, which is a genuine and under-used commercial asset.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "A schedule that follows your year rather than the calendar, with budget concentrated where the customers are.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady presence in your own voice, including through the quiet months when visibility is cheap.",
+        },
+        {
+          title: "Pre-season targeting",
+          body: "Reaching visitors in spring from wherever they live, before they book anything.",
+        },
+        {
+          title: "Local campaigns for the winter",
+          body: "The resident trade that keeps a business alive between October and May.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than lost on the way to a site.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day, which matters more in a short season where a missed message is a lost week.",
+        },
+      ],
+    },
+    {
+      heading: "Shoot in summer, post in winter",
+      body: [
+        "A Kerry business photographed in February sells very little. The same business photographed in June sells all year.",
+        "Building a library during the season and drawing on it out of season is the single most practical habit available to a business in this county, and it costs nothing.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs — a lot of them, taken when the weather is on your side.",
+        "Kerry gives you better raw material than almost any county in Ireland. Most businesses here use a fraction of it.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Kerry areas we target",
+    body: "Audiences drawn around the towns you serve, plus pre-season targeting of the visitors who come back every year from elsewhere.",
+    towns: [
+      "Tralee",
+      "Killarney",
+      "Listowel",
+      "Dingle",
+      "Kenmare",
+      "Castleisland",
+      "Killorglin",
+      "Cahersiveen",
+      "Ballybunion",
+      "Milltown",
+      "Tarbert",
+      "Sneem",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can you really reach people before they visit?",
+      a: "Yes — by targeting where they live in the months before they travel. It is cheap and very few Kerry businesses do it.",
+    },
+    {
+      q: "What should we post in winter?",
+      a: "Enough to stay visible to residents, using material shot in season. Going silent in October means rebuilding attention every spring.",
+    },
+    {
+      q: "Is Tralee a different audience from Killarney?",
+      a: "Substantially. One is a working town, the other a tourism town. Different customers, different timing, different message.",
+    },
+    {
+      q: "Do I need TikTok?",
+      a: "For tourism and hospitality with strong visuals, it is a more reasonable case here than in most counties. For trades, no.",
+    },
+    {
+      q: "Can you use our existing page?",
+      a: "Yes — editor access rather than ownership, removable any time.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. Enquiries and cost per enquiry are what we report.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Kerry", href: "/locations/kerry/digital-marketing/" },
+    { label: "Web design in Kerry", href: "/locations/kerry/web-design/" },
+  ],
+};
+
+const kerryWeb: ServicePage = {
+  county: "Kerry",
+  countySlug: "kerry",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Kerry | Websites Built to Convert Enquiries",
+  description:
+    "Web design for Kerry businesses. Fast, mobile-first sites that turn visits into bookings and enquiries, built in about two weeks. €1,500 once off.",
+  h1: "Websites for Kerry businesses, built for a short season.",
+  intro: [
+    "A seasonal business gets a limited number of chances to convert, concentrated into a few months. A website that loses one visitor in three costs a Kerry tourism business far more than it would cost a Dublin plumber trading evenly all year.",
+    "That is the argument for getting the site right here: not aesthetics, arithmetic.",
+  ],
+  sections: [
+    {
+      heading: "What you get",
+      body: [
+        "A site built to convert in the weeks when it actually matters.",
+      ],
+      list: [
+        {
+          title: "Built in about two weeks",
+          body: "Copy, build and launch, once you have sent photographs and details.",
+        },
+        {
+          title: "Fast on a phone",
+          body: "Visitors are researching on mobile, frequently on patchy coverage in the west of the county.",
+        },
+        {
+          title: "Season handled properly",
+          body: "Opening times, availability and booking made obvious rather than buried, because that is what seasonal visitors are checking.",
+        },
+        {
+          title: "Enquiry and booking forms that qualify",
+          body: "The questions you would ask on the phone, asked first.",
+        },
+        {
+          title: "Yours outright",
+          body: "Domain, hosting and site in your name. No lock-in.",
+        },
+      ],
+    },
+    {
+      heading: "Photographs are most of the sale here",
+      body: [
+        "Kerry businesses have better raw material than almost anywhere in Ireland and frequently present it worse than a business in a county with nothing to look at.",
+        "Real photographs of the place, the rooms, the view and the finished work do more than any amount of copy. Stock imagery actively costs you money in a county people come to look at.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Kerry areas we build for",
+    body: "Sites are written around the towns you serve and the season you serve them in, and built to load on the coverage the west of the county actually has.",
+    towns: [
+      "Tralee",
+      "Killarney",
+      "Listowel",
+      "Dingle",
+      "Kenmare",
+      "Castleisland",
+      "Killorglin",
+      "Cahersiveen",
+      "Ballybunion",
+      "Milltown",
+      "Tarbert",
+      "Sneem",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How long does it take?",
+      a: "About two weeks once we have your photographs and details.",
+    },
+    {
+      q: "What does it cost?",
+      a: "€1,500 once off, with domain and hosting in your name.",
+    },
+    {
+      q: "Should the site handle bookings?",
+      a: "If you take them, it should make them obvious. Burying availability is the most common fault we see on Kerry sites.",
+    },
+    {
+      q: "Do we need photographs?",
+      a: "Yes, and real ones. In Kerry particularly, stock imagery costs you enquiries rather than saving you effort.",
+    },
+    {
+      q: "Will it help me rank?",
+      a: "It removes the obstacles. Ranking then comes from reviews, links and time.",
+    },
+    {
+      q: "Can you keep our existing site?",
+      a: "If it is fast and converting, yes, and we will say so plainly.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Kerry", href: "/locations/kerry/digital-marketing/" },
+    { label: "Social media marketing in Kerry", href: "/locations/kerry/social-media-marketing/" },
+  ],
+};
+
+const laoisDigitalMarketing: ServicePage = {
+  county: "Laois",
+  countySlug: "laois",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Laois | Agency for Laois Businesses",
+  description:
+    "A digital marketing agency working with Laois businesses: Google Ads, Meta ads, SEO and social, across Portlaoise, Portarlington, Mountmellick and the county.",
+  h1: "Digital marketing in Laois, in the fastest-changing county in the midlands.",
+  intro: [
+    "Laois has changed more in twenty years than almost any county in Ireland. Portlaoise sits where the M7 and M8 divide, and that accident of geography has turned a midlands town into a commuter town with a growing population and Dublin expectations.",
+    "The rest of the county has not changed at the same pace. Abbeyleix, Rathdowney and Mountrath still behave like midlands market towns, and a campaign that treats them as Portlaoise will not work.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Laois businesses",
+      body: [
+        "Five services, with the Portlaoise commuter market driving most of the decisions.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "Built around Portlaoise and the commuter towns, where the households and the money have concentrated.",
+        },
+        {
+          title: "Meta ads",
+          body: "Strong across the county, and the better channel for reaching the newer estates full of households at the same stage.",
+        },
+        {
+          title: "SEO",
+          body: "Town-level searches. Competition across Laois is light and the terms are genuinely winnable.",
+        },
+        {
+          title: "Web design",
+          body: "Newer commuter households compare three businesses before ringing any, so the site does real work here.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, so a business looks current when somebody new to the area checks.",
+        },
+      ],
+    },
+    {
+      heading: "New estates are the most targetable audience in the county",
+      body: [
+        "Portlaoise and Portarlington have grown rapidly, and new developments concentrate households at the same life stage with the same needs — flooring, blinds, landscaping, extensions, childcare.",
+        "They are geographically tight, they have no established local suppliers, and they ask each other for recommendations constantly. For most trades this is the single best audience in Laois.",
+      ],
+    },
+    {
+      heading: "Commuters buy differently",
+      body: [
+        "A household commuting to Dublin has less time and more money than the county average, and considerably less patience.",
+        "They will pay for a business that answers quickly and books a definite date. Competing with them on price is unnecessary; competing on responsiveness wins.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Laois we work",
+    body: "Campaigns are weighted toward Portlaoise and the commuter towns, because that is where the households and the spending have concentrated.",
+    towns: [
+      "Portlaoise",
+      "Portarlington",
+      "Mountmellick",
+      "Abbeyleix",
+      "Mountrath",
+      "Rathdowney",
+      "Durrow",
+      "Stradbally",
+      "Ballylinan",
+      "Clonaslee",
+      "Borris-in-Ossory",
+      "Graiguecullen",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is Portlaoise really that different from the rest of Laois?",
+      a: "Yes. It has grown fast, it commutes to Dublin, and its households behave and spend differently from Abbeyleix or Rathdowney.",
+    },
+    {
+      q: "Are new estates worth targeting specifically?",
+      a: "In Laois, more than almost anywhere. Concentrated households, no established suppliers, and they recommend to each other constantly.",
+    },
+    {
+      q: "Is competition heavy?",
+      a: "No. Very few Laois businesses advertise seriously, which makes both search and social unusually cheap here.",
+    },
+    {
+      q: "Do we compete with Dublin firms?",
+      a: "In Portlaoise and Portarlington, increasingly. Being visibly local and available is the effective counter.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "In your own town with a verified address. Portlaoise is the most contested and still not very.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Laois", href: "/locations/laois/social-media-marketing/" },
+    { label: "Web design in Laois", href: "/locations/laois/web-design/" },
+  ],
+};
+
+const laoisSocial: ServicePage = {
+  county: "Laois",
+  countySlug: "laois",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Laois | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Laois businesses: Facebook and Instagram content and paid campaigns, managed end to end, across Portlaoise, Portarlington and the county.",
+  h1: "Social media marketing in Laois, aimed at people who just moved in.",
+  intro: [
+    "A large share of Laois households have arrived in the last decade. They have no inherited supplier for anything — no family plumber, no usual electrician, no salon they have always gone to — and they choose almost entirely on what they find online and what a neighbour says.",
+    "That is an unusually good position to advertise into, and very few Laois businesses are taking advantage of it.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "Content that earns a recommendation, aimed at households still choosing who to use.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule in your own voice, built from jobs in estates and streets people recognise.",
+        },
+        {
+          title: "New-estate targeting",
+          body: "Geographically tight audiences in the newer developments, where nobody has an established supplier yet.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than lost on the way to a website.",
+        },
+        {
+          title: "Recommendation-friendly posts",
+          body: "Work presented so that somebody can tag a neighbour, which is how most of this market actually moves.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day. New arrivals compare several businesses in an evening.",
+        },
+      ],
+    },
+    {
+      heading: "Local groups do the selling here",
+      body: [
+        "Laois's town and estate Facebook groups carry a constant stream of people asking who to use for everything.",
+        "We cannot post into them and neither should anyone claiming otherwise. What we can do is make sure that when your name comes up, the person who searches it finds a business that looks active and credible.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs, and name the estate or town.",
+        "In a county where most households are new, seeing a job done three streets away is worth more than any claim about experience.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Laois areas we target",
+    body: "Audiences drawn tightly around the towns and estates you serve, weighted toward the newer developments where households are still choosing suppliers.",
+    towns: [
+      "Portlaoise",
+      "Portarlington",
+      "Mountmellick",
+      "Abbeyleix",
+      "Mountrath",
+      "Rathdowney",
+      "Durrow",
+      "Stradbally",
+      "Ballylinan",
+      "Clonaslee",
+      "Borris-in-Ossory",
+      "Graiguecullen",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can you post into local Laois groups?",
+      a: "No — they belong to their admins. We make sure your own page stands up when somebody looks you up after a recommendation.",
+    },
+    {
+      q: "Is estate-level targeting worth it?",
+      a: "In Laois particularly, yes. New developments hold concentrated groups of households at the same stage with the same needs.",
+    },
+    {
+      q: "Should we target Portlaoise only?",
+      a: "Depends how far you travel. Portlaoise holds the most households, but Portarlington and Mountmellick are growing too.",
+    },
+    {
+      q: "Do I need TikTok?",
+      a: "Probably not. Facebook carries the buying audience, and the local groups that drive recommendations are there.",
+    },
+    {
+      q: "Can you use our existing page?",
+      a: "Yes, with editor access rather than ownership.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. We report enquiries and what each one cost.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Laois", href: "/locations/laois/digital-marketing/" },
+    { label: "Web design in Laois", href: "/locations/laois/web-design/" },
+  ],
+};
+
+const laoisWeb: ServicePage = {
+  county: "Laois",
+  countySlug: "laois",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Laois | Websites Built to Convert Enquiries",
+  description:
+    "Web design for Laois businesses. Fast, mobile-first sites that turn visits into enquiries, built in about two weeks. €1,500 once off.",
+  h1: "Websites for Laois businesses, built for people who do not know you.",
+  intro: [
+    "In a county where a large share of households arrived recently, your website is doing a job it would not have to do elsewhere: introducing you to somebody with no idea who you are and no neighbour's opinion to go on yet.",
+    "That raises the bar. A site that would pass in a town where everyone knows the business will not convert a family who moved to Portlaoise last year.",
+  ],
+  sections: [
+    {
+      heading: "What you get",
+      body: [
+        "A site built to convince somebody who has never heard of you.",
+      ],
+      list: [
+        {
+          title: "Built in about two weeks",
+          body: "Copy, build and launch once you have supplied photographs and details.",
+        },
+        {
+          title: "Fast on a phone",
+          body: "Most first visits are mobile, frequently in the evening while comparing two or three businesses.",
+        },
+        {
+          title: "Recent work, shown prominently",
+          body: "Proof matters more when reputation cannot carry you. Photographs of jobs, dated and local.",
+        },
+        {
+          title: "Coverage and availability stated",
+          body: "Which towns, and how soon. New arrivals are choosing on responsiveness as much as anything.",
+        },
+        {
+          title: "Yours outright",
+          body: "Domain, hosting and site in your name. No lock-in.",
+        },
+      ],
+    },
+    {
+      heading: "Reviews do more here than anywhere",
+      body: [
+        "Somebody new to the county has no other way to judge you. Google reviews are the substitute for the local reputation you cannot lend them.",
+        "The site should make them visible rather than hiding them on a testimonials page nobody opens. If you do not have any yet, that is the first thing worth fixing — before any of this.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Laois areas we build for",
+    body: "Sites are written around the towns you serve, with the proof a newly arrived household needs in order to ring somebody they have never heard of.",
+    towns: [
+      "Portlaoise",
+      "Portarlington",
+      "Mountmellick",
+      "Abbeyleix",
+      "Mountrath",
+      "Rathdowney",
+      "Durrow",
+      "Stradbally",
+      "Ballylinan",
+      "Clonaslee",
+      "Borris-in-Ossory",
+      "Graiguecullen",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How long does it take?",
+      a: "About two weeks once we have your photographs and details.",
+    },
+    {
+      q: "What does it cost?",
+      a: "€1,500 once off, with domain and hosting in your name.",
+    },
+    {
+      q: "Why does this matter more in Laois?",
+      a: "Because a large share of households are new and have no inherited opinion of you. The site has to do the introducing.",
+    },
+    {
+      q: "Do reviews really matter that much?",
+      a: "To somebody with no local knowledge, they are the only evidence available. They matter more than the design.",
+    },
+    {
+      q: "Will it help me rank?",
+      a: "It removes the obstacles. Ranking then depends on reviews, links and time.",
+    },
+    {
+      q: "Can you keep our existing site?",
+      a: "If it is fast and converting, yes — we will tell you rather than sell you a rebuild.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Laois", href: "/locations/laois/digital-marketing/" },
+    { label: "Social media marketing in Laois", href: "/locations/laois/social-media-marketing/" },
+  ],
+};
+
+const leitrimDigitalMarketing: ServicePage = {
+  county: "Leitrim",
+  countySlug: "leitrim",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Leitrim | Agency for Leitrim Businesses",
+  description:
+    "A digital marketing agency working with Leitrim businesses: Google Ads, Meta ads, SEO and social, across Carrick-on-Shannon, Manorhamilton, Mohill and the county.",
+  h1: "Digital marketing in Leitrim, the smallest market in Ireland.",
+  intro: [
+    "Leitrim has the smallest population of any county in Ireland, and pretending otherwise helps nobody. There is not enough local search volume here to fill a Google campaign for most businesses, and anyone who tells you differently is selling you something.",
+    "What Leitrim does have is a tight, well-connected population, cheap reach, almost no serious competition online, and a steady flow of people moving in from elsewhere because property is affordable.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Leitrim businesses",
+      body: [
+        "Five services, weighted very differently here than in a larger county.",
+      ],
+      list: [
+        {
+          title: "Meta ads",
+          body: "The primary channel, not the secondary one. It reaches people who are not searching, which in Leitrim is nearly everybody.",
+        },
+        {
+          title: "Google Ads",
+          body: "Useful but thin on its own. Usually run across a travel radius that includes Roscommon, Sligo and Cavan.",
+        },
+        {
+          title: "SEO",
+          body: "Genuinely easy to win here, because almost nobody is competing. Worth doing precisely because it is cheap.",
+        },
+        {
+          title: "Web design",
+          body: "Page weight matters — coverage is patchy across much of the county.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, and the single most effective thing most Leitrim businesses can do online.",
+        },
+      ],
+    },
+    {
+      heading: "Your market crosses the county line, necessarily",
+      body: [
+        "Carrick-on-Shannon sits on the Roscommon border and its catchment ignores it entirely. Manorhamilton looks toward Sligo. The south of the county looks toward Longford.",
+        "A Leitrim business that advertises only within Leitrim is advertising to a fraction of its actual market. Campaigns here are built on travel radius as a rule, not as an exception.",
+      ],
+    },
+    {
+      heading: "The people moving in are a real audience",
+      body: [
+        "Affordable property has brought a steady flow of newcomers to Leitrim — people renovating old houses, setting up from home, retiring here from elsewhere.",
+        "They arrive with no local supplier for anything and they are actively looking. For trades and services this is the most valuable audience in the county and almost nobody targets it deliberately.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Leitrim we work",
+    body: "Campaigns are drawn on a travel radius that crosses into Roscommon, Sligo, Cavan and Longford, because that is genuinely where a Leitrim business's customers are.",
+    towns: [
+      "Carrick-on-Shannon",
+      "Manorhamilton",
+      "Mohill",
+      "Drumshanbo",
+      "Ballinamore",
+      "Dromod",
+      "Kinlough",
+      "Drumkeeran",
+      "Leitrim village",
+      "Rossinver",
+      "Keshcarrigan",
+      "Newtowngore",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is Leitrim too small to advertise in?",
+      a: "For Google alone, close to it. For Meta with a radius crossing into the neighbouring counties, no — and it is very cheap.",
+    },
+    {
+      q: "Should we target outside the county?",
+      a: "Almost always. Carrick-on-Shannon's catchment in particular pays no attention to the county boundary.",
+    },
+    {
+      q: "Is competition really that light?",
+      a: "Yes. Very few Leitrim businesses advertise seriously and fewer have a site that converts. The bar is low.",
+    },
+    {
+      q: "Who are the newcomers?",
+      a: "People drawn by affordable property — renovating, working remotely, retiring. They have no established suppliers and they are worth reaching.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "In Carrick-on-Shannon or your own town with a verified address, readily. Competition in the map pack here is minimal.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Leitrim", href: "/locations/leitrim/social-media-marketing/" },
+    { label: "Web design in Leitrim", href: "/locations/leitrim/web-design/" },
+  ],
+};
+
+const leitrimSocial: ServicePage = {
+  county: "Leitrim",
+  countySlug: "leitrim",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Leitrim | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Leitrim businesses: Facebook and Instagram content and paid campaigns, managed end to end, across Carrick-on-Shannon and the county.",
+  h1: "Social media marketing in Leitrim, the channel that actually works here.",
+  intro: [
+    "In most counties social media is one option among several. In Leitrim it is the main one, because there is not enough search volume for Google to carry a business on its own.",
+    "That turns out to suit the county. Leitrim's communities are small, tight and very active online, and reach is about as cheap as anywhere in Ireland.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "A consistent presence, a radius that crosses the county line, and content people recognise.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule in your own voice, built from real jobs in recognisable places.",
+        },
+        {
+          title: "A radius, not a county",
+          body: "Audiences extending into Roscommon, Sligo, Cavan and Longford, because that is where your customers are.",
+        },
+        {
+          title: "Newcomer targeting",
+          body: "People who have recently moved to the area and have no supplier for anything yet.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than lost on the way to a site.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day, which in communities this small is very visible.",
+        },
+      ],
+    },
+    {
+      heading: "Cheap reach is the whole advantage",
+      body: [
+        "It costs remarkably little to put your work in front of most of the households in your catchment here, repeatedly, for months.",
+        "In Dublin that would be unaffordable. In Leitrim it is a modest monthly budget, and it is the reason a small business here can build genuine local recognition quickly.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs and say where the job was.",
+        "In a county this size people know the houses. Recognition does more than production quality, and it costs nothing but the habit.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Leitrim areas we target",
+    body: "Audiences drawn on a travel radius crossing into the neighbouring counties, because Leitrim alone is smaller than most businesses' actual catchment.",
+    towns: [
+      "Carrick-on-Shannon",
+      "Manorhamilton",
+      "Mohill",
+      "Drumshanbo",
+      "Ballinamore",
+      "Dromod",
+      "Kinlough",
+      "Drumkeeran",
+      "Leitrim village",
+      "Rossinver",
+      "Keshcarrigan",
+      "Newtowngore",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is the audience big enough?",
+      a: "Within the county alone, barely. With a sensible radius into Roscommon, Sligo and Cavan, comfortably — and cheaply.",
+    },
+    {
+      q: "Why lead with Meta rather than Google?",
+      a: "Because Google only reaches people already searching, and in Leitrim that is a very small number on any given day.",
+    },
+    {
+      q: "Do community pages matter?",
+      a: "A great deal. We cannot post into them; we reach the same households with budget while you earn the recommendations.",
+    },
+    {
+      q: "Can we reach people who have just moved here?",
+      a: "To a useful degree, and it is worth doing. They have no supplier for anything and they are actively looking.",
+    },
+    {
+      q: "Do I need TikTok?",
+      a: "No. Facebook holds the buying audience in Leitrim by a wide margin.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. Enquiries and cost per enquiry are the report.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Leitrim", href: "/locations/leitrim/digital-marketing/" },
+    { label: "Web design in Leitrim", href: "/locations/leitrim/web-design/" },
+  ],
+};
+
+const leitrimWeb: ServicePage = {
+  county: "Leitrim",
+  countySlug: "leitrim",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Leitrim | Websites Built to Convert Enquiries",
+  description:
+    "Web design for Leitrim businesses. Fast, mobile-first sites that turn visits into enquiries, built in about two weeks. €1,500 once off.",
+  h1: "Websites for Leitrim businesses, built to be found from outside.",
+  intro: [
+    "A Leitrim business has two kinds of visitor: locals checking you are real, and people from outside the county — newcomers, returning families, holiday-home owners — who have no idea who anyone here is.",
+    "The second group is where the growth is, and they are the ones a poor website loses. They have nothing else to judge you on.",
+  ],
+  sections: [
+    {
+      heading: "What you get",
+      body: [
+        "A site that works for somebody with no local knowledge at all.",
+      ],
+      list: [
+        {
+          title: "Built in about two weeks",
+          body: "Copy, build and launch, once you have supplied photographs and details.",
+        },
+        {
+          title: "Light and fast",
+          body: "Coverage across much of Leitrim is patchy, and heavy sites fail for a share of visitors.",
+        },
+        {
+          title: "Coverage stated plainly",
+          body: "The towns you serve, including the ones in Roscommon, Sligo and Cavan. Leaving them off costs real work.",
+        },
+        {
+          title: "Recent work shown prominently",
+          body: "Proof, for the visitors who have no neighbour to ask.",
+        },
+        {
+          title: "Yours outright",
+          body: "Domain, hosting and site in your name. No lock-in.",
+        },
+      ],
+    },
+    {
+      heading: "Name the counties you cross into",
+      body: [
+        "This is the most common and most costly omission on Leitrim business websites.",
+        "A Carrick-on-Shannon business whose site never mentions Roscommon is invisible to half its natural catchment, and the fix takes ten minutes.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Leitrim areas we build for",
+    body: "Sites are written around your real catchment, which for most Leitrim businesses means naming towns in three or four counties rather than one.",
+    towns: [
+      "Carrick-on-Shannon",
+      "Manorhamilton",
+      "Mohill",
+      "Drumshanbo",
+      "Ballinamore",
+      "Dromod",
+      "Kinlough",
+      "Drumkeeran",
+      "Leitrim village",
+      "Rossinver",
+      "Keshcarrigan",
+      "Newtowngore",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How long does it take?",
+      a: "About two weeks once we have your photographs and details.",
+    },
+    {
+      q: "What does it cost?",
+      a: "€1,500 once off, with domain and hosting in your name.",
+    },
+    {
+      q: "Should the site mention other counties?",
+      a: "Almost certainly yes. Most Leitrim businesses serve parts of Roscommon, Sligo, Cavan or Longford and never say so.",
+    },
+    {
+      q: "Do I need a blog?",
+      a: "Not initially. Service pages, coverage and speed first.",
+    },
+    {
+      q: "Will it help me rank?",
+      a: "In a county with this little competition, a properly built site plus a complete Google profile goes a long way on its own.",
+    },
+    {
+      q: "Can you keep our existing site?",
+      a: "If it is fast and converting, yes, and we will say so rather than sell you a rebuild.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Leitrim", href: "/locations/leitrim/digital-marketing/" },
+    { label: "Social media marketing in Leitrim", href: "/locations/leitrim/social-media-marketing/" },
+  ],
+};
+
 export const servicePages: ServicePage[] = [
   limerickDigitalMarketing,
   limerickSocial,
@@ -4214,6 +6206,24 @@ export const servicePages: ServicePage[] = [
   clareSocial,
   mayoDigitalMarketing,
   mayoSocial,
+  carlowDigitalMarketing,
+  carlowSocial,
+  carlowWeb,
+  cavanDigitalMarketing,
+  cavanSocial,
+  cavanWeb,
+  donegalDigitalMarketing,
+  donegalSocial,
+  donegalWeb,
+  kerryDigitalMarketing,
+  kerrySocial,
+  kerryWeb,
+  laoisDigitalMarketing,
+  laoisSocial,
+  laoisWeb,
+  leitrimDigitalMarketing,
+  leitrimSocial,
+  leitrimWeb,
 ];
 
 export const servicePageBy = (countySlug: string, serviceSlug: string) =>

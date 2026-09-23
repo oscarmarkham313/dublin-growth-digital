@@ -18,7 +18,7 @@ export interface County {
    * same band as the pages Google suppressed, because the four FAQs below
    * were interpolated identically for all 26. These displace them.
    */
-  hubSection?: { heading: string; body: [string, string] };
+  hubSection?: { heading: string; body: string[] };
   hubFaqs?: { q: string; a: string }[];
 }
 
@@ -33,6 +33,32 @@ export const counties: County[] = [
       "We run Meta and Google campaigns for Carlow businesses built around that catchment, with lead forms that qualify the job before the phone rings.",
     ],
     focus: ["estate-agents", "roofers", "solar-installers"],
+    hubSection: {
+      heading: "Small, and pointed at three other counties",
+      body: [
+        "Carlow is the second-smallest county in Ireland by area and it has never functioned as a self-contained market. Its households shop and compare across into Kilkenny, up into Athy and south Kildare, and down toward Enniscorthy, and they judge local firms against businesses in all three.",
+        "That sounds like a weakness and is mostly the opposite. A Carlow business already has a catchment several times its own county's population, reachable cheaply, without having to pretend the boundary means anything.",
+        "So the thing to settle first is not who your customer is but how far you will drive. Budget, targeting and which channel carries the weight all follow from that one answer, and most businesses here have never actually written it down.",
+      ],
+    },
+    hubFaqs: [
+      {
+        q: "Is Carlow too small a market?",
+        a: "The county on its own is thin on search volume. That is why campaigns here lean harder on Meta and are drawn on a driving radius rather than a boundary.",
+      },
+      {
+        q: "Should we advertise into Kilkenny and Kildare?",
+        a: "If you travel there, yes. Treating the county line as the edge of your market leaves a great deal of work on the table.",
+      },
+      {
+        q: "Is competition heavy?",
+        a: "No. Very few Carlow businesses advertise seriously and fewer still have a site that converts, which makes this a cheap market to win.",
+      },
+      {
+        q: "Which town should we start in?",
+        a: "Wherever most of your current work already comes from. That is almost always the cheapest place to get more of it.",
+      },
+    ],
   },
   {
     slug: "cavan",
@@ -44,6 +70,32 @@ export const counties: County[] = [
       "We build campaigns around the towns you actually cover in Cavan, aimed at homeowners, farms and the commuter belt along the N3, and report in enquiries and booked jobs.",
     ],
     focus: ["roofers", "solar-installers", "builders-and-extensions"],
+    hubSection: {
+      heading: "Drumlins, lakes and a dozen small centres",
+      body: [
+        "Cavan's landscape does more to shape its commerce than anything else. Drumlins and lakes mean the roads wander, journeys take longer than the distance suggests, and the county never developed one dominant town to pull trade toward it.",
+        "It works instead as roughly a dozen separate catchments — Cavan town, Cootehill, Kingscourt, Belturbet, Ballyjamesduff and the rest — each with its own loyalties and its own tradespeople. A customer in one rarely considers a business in another.",
+        "Along the N3 there is then a stretch where households work in Dublin and expect to be rung back the same afternoon. Two quite different sets of expectations inside one county, which is why we build to the catchments you actually serve rather than to the outline on the map.",
+      ],
+    },
+    hubFaqs: [
+      {
+        q: "Should the whole county share a campaign?",
+        a: "No. Cavan town and Belturbet are separate markets with separate customers, and one campaign across both wastes most of the budget.",
+      },
+      {
+        q: "Is the N3 stretch different?",
+        a: "Meaningfully. It carries the better-paying work and it expects a far quicker response than the rest of the county.",
+      },
+      {
+        q: "Do farmers respond to online advertising?",
+        a: "For some services increasingly so, for others the relationship still does the work. We will tell you which side you sit on.",
+      },
+      {
+        q: "Does mobile coverage matter here?",
+        a: "More than in most counties. Parts of Cavan are patchy and a heavy website simply fails for those visitors.",
+      },
+    ],
   },
   {
     slug: "clare",
@@ -127,6 +179,32 @@ export const counties: County[] = [
       "We build Donegal campaigns around real travel distances, from Inishowen to Bundoran, and qualify the job and the location before your phone rings.",
     ],
     focus: ["roofers", "solar-installers", "builders-and-extensions"],
+    hubSection: {
+      heading: "The border, the distances and the people who left",
+      body: [
+        "Donegal is the fourth-largest county in Ireland, awkwardly shaped, and joined to the rest of the Republic by a narrow corridor. Letterkenny anchors the north and Donegal town the south, far enough apart that almost no business serves both properly.",
+        "Derry pulls harder than the border implies. A great deal of the north of the county shops and buys services across it, and sterling moves that trade back and forth in ways no campaign controls — which is why competing there on price is usually a losing position.",
+        "And the connection with people who emigrated is stronger here than almost anywhere in Ireland. They return, they inherit and do up family houses, and they can be reached from wherever they now live. For building trades that is real money, and virtually nobody goes after it.",
+      ],
+    },
+    hubFaqs: [
+      {
+        q: "How wide should we target?",
+        a: "As far as you will genuinely drive, and no further. In Donegal that is usually much smaller than the county and it is the biggest single efficiency available.",
+      },
+      {
+        q: "Do we compete with Derry?",
+        a: "In the north, constantly, and the exchange rate moves that traffic. Convenience and local presence are winnable arguments; price generally is not.",
+      },
+      {
+        q: "Can we reach people who moved away?",
+        a: "To a useful degree, and hardly anyone tries. For renovation and building work it is a genuine vein.",
+      },
+      {
+        q: "Does poor coverage affect the website?",
+        a: "Considerably. Across the west and the islands a heavy site fails silently, and you never see those people in your enquiries.",
+      },
+    ],
   },
   {
     slug: "dublin",
@@ -210,6 +288,32 @@ export const counties: County[] = [
       "We build Kerry campaigns town by town, from Listowel to Kenmare, and qualify the job, the property and the timing before your phone rings.",
     ],
     focus: ["builders-and-extensions", "solar-installers", "estate-agents"],
+    hubSection: {
+      heading: "A summer county and a working county",
+      body: [
+        "Killarney, Dingle and the Ring live on a few intense months and then go quiet. Tralee and Listowel trade steadily all year and barely register the season at all. Most advice written for one is actively wrong for the other.",
+        "The distances compound it. Tralee to Cahersiveen is not a journey anybody makes for an ordinary service, and the Ring roads are slow in August and slower in February, so a campaign drawn around the county buys a lot of people who will book somebody nearer home.",
+        "The opportunity almost no Kerry business uses is timing. Somebody planning a week in Kenmare is deciding in March, from Dublin or Manchester. Reach them then and you are the only business talking to them. Wait until July and you are one of four hundred.",
+      ],
+    },
+    hubFaqs: [
+      {
+        q: "How seasonal is this really?",
+        a: "For anything tourism-facing, severely. A flat monthly budget suits almost nobody in Killarney or Dingle.",
+      },
+      {
+        q: "Can we reach visitors before they travel?",
+        a: "Yes, and it is badly under-used. Targeting where they live in spring costs a fraction of competing locally in July.",
+      },
+      {
+        q: "Are Tralee and Killarney different markets?",
+        a: "Very. Different customers, different timing, different message. They should not share a campaign.",
+      },
+      {
+        q: "How far should we target?",
+        a: "By driving time rather than distance. Kerry's roads make a wide radius expensive and largely unproductive.",
+      },
+    ],
   },
   {
     slug: "kildare",
@@ -293,6 +397,32 @@ export const counties: County[] = [
       "We run Laois campaigns around the M7 towns and the county behind them, with lead forms that qualify the job before you quote.",
     ],
     focus: ["driveways-and-paving", "solar-installers", "landscapers"],
+    hubSection: {
+      heading: "A county where most people are new",
+      body: [
+        "Portlaoise sits at the point where the M7 and the M8 separate, and that single fact turned a midlands town into one of the fastest-growing places in the country. The estates around it have filled with households that were not here ten years ago.",
+        "Those households arrived without an inherited anyone. No family plumber, no electrician their parents always used, no salon they have gone to since school. Every supplier is an open question, settled on what they find online and what somebody two doors down says.",
+        "That makes Laois unusually winnable and unusually unforgiving. Reviews carry more weight here than in a county where reputation travels by word of mouth, because a family who moved in last year has no other way of judging you at all.",
+      ],
+    },
+    hubFaqs: [
+      {
+        q: "Is Portlaoise different from the rest of Laois?",
+        a: "Yes. It grew fast, it commutes, and its households spend and behave differently from Abbeyleix or Rathdowney.",
+      },
+      {
+        q: "Are new estates worth targeting specifically?",
+        a: "Here more than almost anywhere. Concentrated households, no established suppliers, and constant recommendations between neighbours.",
+      },
+      {
+        q: "Is competition heavy?",
+        a: "No. Very few Laois businesses advertise seriously, which keeps both search and social unusually cheap.",
+      },
+      {
+        q: "Do reviews matter more here?",
+        a: "Considerably. To a household that arrived last year they are the only evidence about you that exists.",
+      },
+    ],
   },
   {
     slug: "leitrim",
@@ -304,6 +434,32 @@ export const counties: County[] = [
       "We run tightly targeted campaigns for Leitrim businesses that cover the county and the neighbouring towns you already travel to.",
     ],
     focus: ["roofers", "builders-and-extensions", "plumbers-and-heating"],
+    hubSection: {
+      heading: "The smallest population in Ireland, and what follows from it",
+      body: [
+        "Leitrim has fewer residents than any other county, and the honest consequence is that search alone will not fill a diary here. On most days the number of people googling your service inside the county is close to zero, and an agency promising otherwise is selling you something.",
+        "What Leitrim has instead is reach cheap enough to change what is possible. A modest monthly budget puts your work in front of most households in your catchment, repeatedly, for months — unaffordable in Dublin, routine here.",
+        "It also has incomers. Affordable property has brought a steady flow of people doing up old houses, working remotely and retiring here, and they arrive needing everything and knowing nobody. For trades that is the most valuable audience in the county.",
+      ],
+    },
+    hubFaqs: [
+      {
+        q: "Is Leitrim too small to advertise in?",
+        a: "For Google on its own, close to it. For Meta across a radius reaching into Roscommon, Sligo and Cavan, no — and it is very cheap.",
+      },
+      {
+        q: "Should we target outside the county?",
+        a: "Almost always. Carrick-on-Shannon's catchment pays no attention whatever to the county line.",
+      },
+      {
+        q: "Is competition really that light?",
+        a: "Yes. Few businesses here advertise seriously and fewer have a site that converts. The bar is low.",
+      },
+      {
+        q: "Who are the newcomers?",
+        a: "People drawn by affordable property — renovating, working remotely, retiring. No established suppliers, and actively looking.",
+      },
+    ],
   },
   {
     slug: "limerick",
