@@ -507,6 +507,32 @@ export const counties: County[] = [
       "We run campaigns for Longford businesses around the towns you cover, qualified before the phone rings.",
     ],
     focus: ["roofers", "plumbers-and-heating", "builders-and-extensions"],
+    hubSection: {
+      heading: "One town, and a resort that changed the south",
+      body: [
+        "Longford is unusual among the midland counties in having an unambiguous centre. Longford town holds most of the retail, services and employment, and the surrounding towns feed into it rather than competing with it.",
+        "That simplifies the hardest question in most rural counties. Here it is not which of four catchments to pick, it is simply how far out from one town you are willing to drive.",
+        "The exception is the south, where a large holiday resort near Ballymahon brought steady visitor traffic and year-round employment to an area that had neither. For businesses at that end of the county it is a genuine second market with its own rhythm.",
+      ],
+    },
+    hubFaqs: [
+      {
+        q: "Is Longford too small to advertise in?",
+        a: "For search alone it is thin. With Meta carrying the weight and search catching active buyers it works well, and it is cheap.",
+      },
+      {
+        q: "Does the Ballymahon resort matter commercially?",
+        a: "In the south of the county, genuinely. Visitors, staff and the households that moved in around it are a separate market.",
+      },
+      {
+        q: "Should we target outside the county?",
+        a: "If you travel, yes. Parts of Roscommon, Westmeath and Leitrim are closer to some Longford businesses than the far end of Longford.",
+      },
+      {
+        q: "Is competition heavy?",
+        a: "Among the lightest in Ireland. Very few businesses here advertise seriously online.",
+      },
+    ],
   },
   {
     slug: "louth",
@@ -626,6 +652,32 @@ export const counties: County[] = [
       "We run Monaghan campaigns around the towns you cover on both sides of the county, qualified before the phone rings.",
     ],
     focus: ["roofers", "plumbers-and-heating", "solar-installers"],
+    hubSection: {
+      heading: "A county that makes things",
+      body: [
+        "Monaghan has an industrial base most rural counties never developed. Food processing, poultry, engineering and a dense layer of family-owned manufacturing employ a great many people, and much of the county's commerce is business-to-business rather than consumer.",
+        "That changes what good advertising looks like. A supplier here might need twelve customers a year where a plumber needs twelve a fortnight, and campaigns built for households will waste most of a B2B budget.",
+        "For a lot of Monaghan employers the more pressing problem is not sales at all but staff, and paid social is the cheapest recruitment channel available. Very few businesses in the county use it that way.",
+      ],
+    },
+    hubFaqs: [
+      {
+        q: "Does B2B advertising work here?",
+        a: "Better than most Monaghan manufacturers expect, because so few competitors advertise that buyers searching find very little.",
+      },
+      {
+        q: "Can social really help us hire?",
+        a: "Yes, and cheaply. It reaches people who are not actively job-hunting, which job boards by definition cannot.",
+      },
+      {
+        q: "Should we advertise north of the border?",
+        a: "If you trade or hire there, yes. A good share of Monaghan's natural catchment is in Armagh and Tyrone.",
+      },
+      {
+        q: "Is consumer trade worth advertising?",
+        a: "Yes, and separately. Different customer, different budget, different measure of success.",
+      },
+    ],
   },
   {
     slug: "offaly",
@@ -637,6 +689,32 @@ export const counties: County[] = [
       "We run Offaly campaigns around Tullamore, Birr and Edenderry, with lead forms that qualify the job and the location first.",
     ],
     focus: ["solar-installers", "roofers", "estate-agents"],
+    hubSection: {
+      heading: "A county that has been rebuilt",
+      body: [
+        "Offaly's economy changed more than most in the last decade. The wind-down of the bogs took a major employer out of the middle of the county, and what replaced it is more varied and far more spread out.",
+        "Its three main towns now behave as separate places. Tullamore is the commercial centre, Birr is a heritage and tourism town with a seasonal element, and Edenderry increasingly looks east toward Kildare and Dublin.",
+        "A quieter change matters just as much commercially: a significant share of households now work from home part of the week. Midweek daytime appointments are viable in a way they were not before, and almost nobody advertises that they can do them.",
+      ],
+    },
+    hubFaqs: [
+      {
+        q: "Should Tullamore, Birr and Edenderry share a campaign?",
+        a: "No. They are far apart, with different customers, and Edenderry increasingly looks toward Kildare.",
+      },
+      {
+        q: "Has the bog closure changed the market?",
+        a: "It changed what the county runs on and where people work. The customer base is different in composition rather than smaller.",
+      },
+      {
+        q: "Does remote working matter?",
+        a: "More than most expect. It makes midweek daytime work viable, and very few businesses say they can do it.",
+      },
+      {
+        q: "Is competition heavy?",
+        a: "No. Competition across Offaly is light and competitor foundations are usually weak.",
+      },
+    ],
   },
   {
     slug: "roscommon",
@@ -648,6 +726,32 @@ export const counties: County[] = [
       "We run campaigns for Roscommon businesses around the towns you cover and the Athlone catchment, reported in enquiries and booked jobs.",
     ],
     focus: ["roofers", "builders-and-extensions", "plumbers-and-heating"],
+    hubSection: {
+      heading: "A county whose centres are in other counties",
+      body: [
+        "Roscommon is long, thinly populated and has no town big enough to anchor it. Roscommon town, Boyle, Castlerea and Ballaghaderreen are all modest.",
+        "Its real commercial centres mostly sit outside its own borders — Athlone at one end, Carrick-on-Shannon at another, Ballinasloe and Longford at the edges — so nearly every business here has a catchment that crosses the county line.",
+        "That is not a problem to solve, it is simply the shape of the place. Campaigns are drawn around whichever centre your customers actually use, and that single decision does more for results here than anything else.",
+      ],
+    },
+    hubFaqs: [
+      {
+        q: "Should we advertise outside Roscommon?",
+        a: "Almost certainly. Most of the county's commercial centres are outside its borders and your customers already use them.",
+      },
+      {
+        q: "Is the county too rural for online advertising?",
+        a: "Under-contested rather than too rural. Cheap reach, light competition, and well-followed parish and club pages.",
+      },
+      {
+        q: "Why lead with Meta rather than Google?",
+        a: "Google only reaches people already searching, and in a county this size that is a very small number on any given day.",
+      },
+      {
+        q: "How quickly does SEO work here?",
+        a: "Faster than most places, because competition is light and competitor foundations are poor.",
+      },
+    ],
   },
   {
     slug: "sligo",
@@ -659,6 +763,32 @@ export const counties: County[] = [
       "We build Sligo campaigns around that wider catchment, with separate targeting for the town and the coast, and qualify every enquiry first.",
     ],
     focus: ["estate-agents", "roofers", "solar-installers"],
+    hubSection: {
+      heading: "The capital of the northwest",
+      body: [
+        "Sligo town serves a region far larger than its county. People travel in from south Donegal, north Mayo and most of Leitrim for services they cannot get closer, which gives a business here a catchment several times the county's own population.",
+        "Most local advertising ignores that completely, targeting Sligo alone and leaving the regional market to whoever thought to ask for it. It is the single biggest opportunity in the county.",
+        "It also means your advertising has a job a purely local business never has: convincing somebody in Ballina or Manorhamilton that the drive is worth making. That changes the copy substantially, and almost nobody makes the argument.",
+      ],
+    },
+    hubFaqs: [
+      {
+        q: "Should we target outside the county?",
+        a: "Yes, and most Sligo businesses badly under-do it. The town serves a region several times its county population.",
+      },
+      {
+        q: "Do students distort the numbers?",
+        a: "For most service businesses, yes — reachable, cheap and irrelevant, which is the worst combination.",
+      },
+      {
+        q: "How do we justify the drive?",
+        a: "By being specific about what you offer that is not available closer, and by making the practical details easy.",
+      },
+      {
+        q: "Does the coast help commercially?",
+        a: "For anything with a visual element, considerably. Sligo gives you better raw material than most counties.",
+      },
+    ],
   },
   {
     slug: "tipperary",
@@ -742,6 +872,32 @@ export const counties: County[] = [
       "We run Westmeath campaigns for each town separately, with lead forms that qualify the job before you quote.",
     ],
     focus: ["estate-agents", "driveways-and-paving", "solar-installers"],
+    hubSection: {
+      heading: "Two capitals facing opposite ways",
+      body: [
+        "Westmeath has two substantial towns that point in different directions. Athlone sits on the Shannon at the middle of the country; Mullingar looks east along the N4 toward Dublin.",
+        "They are an hour apart and their customers barely overlap. Athlone's catchment reaches into Roscommon, east Galway and north Offaly and it functions as the commercial centre for all of them — the most under-used fact in the county.",
+        "Mullingar is commuter territory, with commuter incomes and commuter impatience. A campaign covering both towns is usually two campaigns' worth of spend doing one campaign's work.",
+      ],
+    },
+    hubFaqs: [
+      {
+        q: "Should Athlone and Mullingar share a campaign?",
+        a: "No. They are an hour apart, face opposite directions, and their customers barely overlap.",
+      },
+      {
+        q: "Is Athlone's catchment really that wide?",
+        a: "Yes, and it is routinely missed. It reaches into Roscommon, east Galway and north Offaly.",
+      },
+      {
+        q: "Is Mullingar different?",
+        a: "Meaningfully. Commuter households with higher incomes and much less patience for a slow reply.",
+      },
+      {
+        q: "Do the waterways matter?",
+        a: "For hospitality and leisure, genuinely, and seasonally — with visitors reachable before they travel.",
+      },
+    ],
   },
   {
     slug: "wexford",

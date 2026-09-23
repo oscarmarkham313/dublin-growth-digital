@@ -6169,6 +6169,1998 @@ const leitrimWeb: ServicePage = {
   ],
 };
 
+const longfordDigitalMarketing: ServicePage = {
+  county: "Longford",
+  countySlug: "longford",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Longford | Agency for Longford Businesses",
+  description:
+    "A digital marketing agency working with Longford businesses: Google Ads, Meta ads, SEO and social, across Longford town, Ballymahon, Granard and the county.",
+  h1: "Digital marketing in Longford, where one town does most of the trade.",
+  intro: [
+    "Longford is unusual among the midland counties in having a clear centre. Longford town holds most of the county's retail, services and employment, and the surrounding towns feed into it rather than competing with it.",
+    "That simplifies things considerably. In most rural counties the hard question is which of four catchments to target. Here it is usually how far out from one town you are willing to go.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Longford businesses",
+      body: [
+        "Five services, weighted toward a single centre and the N4 that runs through it.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "Concentrated on Longford town and its immediate catchment, which is where the searches actually come from.",
+        },
+        {
+          title: "Meta ads",
+          body: "Strong here, and the better channel for reaching the smaller towns where search volume is thin.",
+        },
+        {
+          title: "SEO",
+          body: "Very winnable. Longford has among the least competitive local search in Ireland.",
+        },
+        {
+          title: "Web design",
+          body: "A real differentiator, because the standard locally is not high.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, so a business looks current when somebody checks.",
+        },
+      ],
+    },
+    {
+      heading: "Ballymahon changed part of the county",
+      body: [
+        "The arrival of a large holiday resort near Ballymahon brought steady visitor traffic and year-round employment to a part of Longford that previously had neither.",
+        "For businesses in the south of the county that is a genuine second market — visitors, staff and the households that moved in around it — and it behaves differently from the rest of Longford. It is worth targeting deliberately rather than lumping in.",
+      ],
+    },
+    {
+      heading: "Thin volume means Meta carries more weight",
+      body: [
+        "Longford's search volume is small enough that a Google-only strategy will underfill for most businesses.",
+        "Meta reaches people who are not searching yet, which in a county this size is nearly everybody on any given day. We usually lead with it and use search to catch the people already looking.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Longford we work",
+    body: "Campaigns are built around Longford town and the distance out from it that you genuinely cover, plus the south of the county where the visitor economy sits.",
+    towns: [
+      "Longford town",
+      "Ballymahon",
+      "Granard",
+      "Edgeworthstown",
+      "Lanesborough",
+      "Drumlish",
+      "Newtownforbes",
+      "Ballinalee",
+      "Keenagh",
+      "Abbeyshrule",
+      "Legan",
+      "Moydow",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is Longford too small to advertise in?",
+      a: "For search alone it is thin. With Meta doing the heavy lifting and search catching active buyers, it works well and it is cheap.",
+    },
+    {
+      q: "Should we target outside the county?",
+      a: "If you travel, yes — parts of Roscommon, Westmeath and Leitrim are closer to some Longford businesses than the far end of their own county.",
+    },
+    {
+      q: "Does the Ballymahon resort matter commercially?",
+      a: "For businesses in the south of the county, genuinely. Visitors, staff and new households are a separate market worth its own campaign.",
+    },
+    {
+      q: "Is competition heavy?",
+      a: "Among the lightest in Ireland. Very few businesses here advertise seriously online.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "In Longford town with a verified address, readily. Competition in the map pack is minimal.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Longford", href: "/locations/longford/social-media-marketing/" },
+    { label: "Web design in Longford", href: "/locations/longford/web-design/" },
+  ],
+};
+
+const longfordSocial: ServicePage = {
+  county: "Longford",
+  countySlug: "longford",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Longford | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Longford businesses: Facebook and Instagram content and paid campaigns, managed end to end, across Longford town and the county.",
+  h1: "Social media marketing in Longford, where everybody sees the same page.",
+  intro: [
+    "Longford is small enough that the county's main Facebook pages reach a very large share of the people living in it. That concentration is rare and it is worth understanding, because it means visibility here is achievable in a way it simply is not in a city.",
+    "The other side of it is that a mistake is equally visible. Reputation in Longford moves quickly and in both directions.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "Consistent presence in a small, concentrated audience, with budget behind what earns a response.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule in your own voice, built from real jobs in recognisable places.",
+        },
+        {
+          title: "One catchment, properly covered",
+          body: "Rather than thin reach across a wide area, concentrated reach where your customers actually are.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than lost on the way to a website.",
+        },
+        {
+          title: "Sponsorship made visible",
+          body: "Club and community sponsorship is common here and rarely gets the online visibility it deserves.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day, because in a county this size a slow reply is noticed and mentioned.",
+        },
+      ],
+    },
+    {
+      heading: "Concentrated reach is the advantage",
+      body: [
+        "Because Longford's population is both small and clustered, a modest budget genuinely can reach most of the households you could ever serve, repeatedly, over months.",
+        "That is how a small business here builds real recognition quickly. It is also why consistency matters more than any single clever advert — the same people are seeing you over and over.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs and say where the job was.",
+        "People here know the houses and frequently the customer. Recognition does the work that a large budget does elsewhere.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Longford areas we target",
+    body: "Audiences concentrated around Longford town and your genuine travel distance, rather than spread thinly across a wide area.",
+    towns: [
+      "Longford town",
+      "Ballymahon",
+      "Granard",
+      "Edgeworthstown",
+      "Lanesborough",
+      "Drumlish",
+      "Newtownforbes",
+      "Ballinalee",
+      "Keenagh",
+      "Abbeyshrule",
+      "Legan",
+      "Moydow",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can you post into local Longford pages?",
+      a: "No — they belong to their admins. We build your own page and reach the same households with budget.",
+    },
+    {
+      q: "Is the audience big enough?",
+      a: "For a local business, yes, and it is unusually cheap because the population is concentrated.",
+    },
+    {
+      q: "How often should we post?",
+      a: "Consistently rather than heavily. The same people see you repeatedly here, so steady beats intense.",
+    },
+    {
+      q: "Do I need TikTok?",
+      a: "No. Facebook holds the buying audience in Longford comfortably.",
+    },
+    {
+      q: "Can you use our existing page?",
+      a: "Yes — editor access rather than ownership, removable any time.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. We report enquiries and what each one cost.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Longford", href: "/locations/longford/digital-marketing/" },
+    { label: "Web design in Longford", href: "/locations/longford/web-design/" },
+  ],
+};
+
+const longfordWeb: ServicePage = {
+  county: "Longford",
+  countySlug: "longford",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Longford | Websites Built to Convert Enquiries",
+  description:
+    "Web design for Longford businesses. Fast, mobile-first sites that turn visits into enquiries, built in about two weeks. €1,500 once off.",
+  h1: "Websites for Longford businesses, built to be rung.",
+  intro: [
+    "The bar for a business website in Longford is low, which is exactly why clearing it is worth so much. Most local sites are several years old, slow on a phone, and vague about what the business actually does and where.",
+    "A site that loads quickly, says plainly what you do and shows recent work will stand out here more than the same site would in Dublin, and it costs the same to build.",
+  ],
+  sections: [
+    {
+      heading: "What you get",
+      body: [
+        "A site built around one job: getting the phone to ring.",
+      ],
+      list: [
+        {
+          title: "Built in about two weeks",
+          body: "Copy, build and launch once you have supplied photographs and details.",
+        },
+        {
+          title: "Fast on a phone",
+          body: "Most first visits are mobile and a slow site loses them before they see anything.",
+        },
+        {
+          title: "Coverage stated plainly",
+          body: "Longford town, the smaller towns, and how far out you travel.",
+        },
+        {
+          title: "Enquiry forms that qualify",
+          body: "The questions you would ask on the phone, asked first.",
+        },
+        {
+          title: "Yours outright",
+          body: "Domain, hosting and site in your name. No lock-in.",
+        },
+      ],
+    },
+    {
+      heading: "Being findable beats being beautiful",
+      body: [
+        "In a county with this little online competition, the businesses that win are simply the ones that show up and look credible.",
+        "That is a much lower bar than an elaborate design and it is reachable inside a fortnight. Spend the effort on photographs and reviews rather than on animation.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Longford areas we build for",
+    body: "Sites are written around Longford town and the towns you genuinely travel to, including the ones over the county line.",
+    towns: [
+      "Longford town",
+      "Ballymahon",
+      "Granard",
+      "Edgeworthstown",
+      "Lanesborough",
+      "Drumlish",
+      "Newtownforbes",
+      "Ballinalee",
+      "Keenagh",
+      "Abbeyshrule",
+      "Legan",
+      "Moydow",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How long does it take?",
+      a: "About two weeks once we have your photographs and details.",
+    },
+    {
+      q: "What does it cost?",
+      a: "€1,500 once off, with domain and hosting in your name.",
+    },
+    {
+      q: "Do I need a blog?",
+      a: "Not initially. Service pages, coverage and speed first.",
+    },
+    {
+      q: "Will it help me rank?",
+      a: "In a county with competition this light, a properly built site plus a complete Google profile goes a long way on its own.",
+    },
+    {
+      q: "Can you keep our existing site?",
+      a: "If it is fast and converting, yes, and we will say so rather than sell you a rebuild.",
+    },
+    {
+      q: "What do you need from me?",
+      a: "Photographs of real work, your services, your coverage area and your number.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Longford", href: "/locations/longford/digital-marketing/" },
+    { label: "Social media marketing in Longford", href: "/locations/longford/social-media-marketing/" },
+  ],
+};
+
+const monaghanDigitalMarketing: ServicePage = {
+  county: "Monaghan",
+  countySlug: "monaghan",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Monaghan | Agency for Monaghan Businesses",
+  description:
+    "A digital marketing agency working with Monaghan businesses: Google Ads, Meta ads, SEO and social, across Monaghan town, Carrickmacross, Castleblayney and the county.",
+  h1: "Digital marketing in Monaghan, in a county that makes things.",
+  intro: [
+    "Monaghan has an industrial base most rural counties do not. Food processing, poultry, engineering and a dense layer of family-owned manufacturing employ a great many people here, and a lot of the county's commercial activity is business-to-business rather than consumer.",
+    "That changes what advertising should look like. A B2B supplier in Monaghan has a small number of high-value customers, not a wide pool of households, and campaigns built for the latter will waste most of the budget.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Monaghan businesses",
+      body: [
+        "Five services, with the B2B and consumer sides handled as genuinely different jobs.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "For B2B, built on the specific problems buyers search. For consumer trades, on town-level service searches.",
+        },
+        {
+          title: "Meta ads",
+          body: "Strong for consumer work and for recruitment, which is a live problem for many Monaghan employers.",
+        },
+        {
+          title: "SEO",
+          body: "Very winnable, and unusually valuable for B2B, where a single enquiry can be worth a year of budget.",
+        },
+        {
+          title: "Web design",
+          body: "For manufacturers especially. The site is frequently the only thing a buyer sees before making contact.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, including LinkedIn where the customers are other businesses.",
+        },
+      ],
+    },
+    {
+      heading: "Business customers are not households",
+      body: [
+        "A Monaghan engineering firm might need twelve good customers a year. A plumber needs twelve a fortnight. Those require completely different campaigns, budgets and measures of success.",
+        "For B2B we accept a far higher cost per enquiry, because the enquiry is worth far more, and we judge the account on contracts rather than on lead count.",
+      ],
+    },
+    {
+      heading: "The border is part of the market",
+      body: [
+        "Monaghan trades north as much as south, and for many businesses here the natural catchment includes Armagh, Tyrone and beyond.",
+        "Exchange rates move that traffic in both directions. Campaigns should acknowledge the cross-border market rather than stopping at a line that most Monaghan businesses have never treated as one.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Monaghan we work",
+    body: "Campaigns are built around your catchment, which for many Monaghan businesses extends north across the border as naturally as it does south.",
+    towns: [
+      "Monaghan town",
+      "Carrickmacross",
+      "Castleblayney",
+      "Clones",
+      "Ballybay",
+      "Emyvale",
+      "Scotstown",
+      "Newbliss",
+      "Inniskeen",
+      "Threemilehouse",
+      "Smithborough",
+      "Glaslough",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Does B2B advertising actually work here?",
+      a: "Yes, and better than most Monaghan manufacturers expect. Few competitors advertise, so the buyers searching find very little.",
+    },
+    {
+      q: "Should we advertise north of the border?",
+      a: "If you trade there, yes. A good share of Monaghan's natural catchment is in Armagh and Tyrone.",
+    },
+    {
+      q: "Can you help with recruitment?",
+      a: "Meta campaigns for hiring work well here and cost a fraction of agency fees. Several Monaghan employers need this more than they need sales leads.",
+    },
+    {
+      q: "Is consumer trade worth advertising?",
+      a: "Yes, and separately from any B2B work. Different customers, different budget, different measure.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "In your own town with a verified address. For B2B the map matters far less than the search results.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Monaghan", href: "/locations/monaghan/social-media-marketing/" },
+    { label: "Web design in Monaghan", href: "/locations/monaghan/web-design/" },
+  ],
+};
+
+const monaghanSocial: ServicePage = {
+  county: "Monaghan",
+  countySlug: "monaghan",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Monaghan | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Monaghan businesses: Facebook and Instagram content and paid campaigns, managed end to end, across Monaghan town, Carrickmacross and the county.",
+  h1: "Social media marketing in Monaghan, including hiring.",
+  intro: [
+    "Most Monaghan businesses think of social media as a way to find customers, and for consumer trades it is. But a great many employers here have a more pressing problem than sales, which is finding people to do the work.",
+    "Social is the cheapest recruitment channel available and almost nobody in this county uses it properly. A campaign that fills two vacancies is worth more to a manufacturer than one that generates fifty enquiries it cannot service.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "Content that suits what you actually need — customers, staff, or both.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule in your own voice, showing real work and real people.",
+        },
+        {
+          title: "Recruitment campaigns",
+          body: "Targeted hiring ads at a fraction of agency fees. For many Monaghan employers this is the higher-value use.",
+        },
+        {
+          title: "Consumer campaigns",
+          body: "For trades and retail, aimed at the towns you serve, on both sides of the border where relevant.",
+        },
+        {
+          title: "Lead forms and applications",
+          body: "Captured in-platform, whether it is an enquiry or a job application.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day, which matters as much for applicants as for customers.",
+        },
+      ],
+    },
+    {
+      heading: "Showing the work attracts both",
+      body: [
+        "Photographs of a workshop, a production line or a finished job do two things at once in a county like this: they reassure customers and they attract people who would rather work somewhere that looks well run.",
+        "That dual return is why social tends to pay back faster for Monaghan manufacturers than they expect, and why the same content serves both purposes.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs of the work and, if you are hiring, be honest about the role.",
+        "Vague job ads get vague applicants. The specific ones fill faster and the people stay longer.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Monaghan areas we target",
+    body: "Audiences drawn around your catchment on both sides of the border, for customers and for recruitment where you need it.",
+    towns: [
+      "Monaghan town",
+      "Carrickmacross",
+      "Castleblayney",
+      "Clones",
+      "Ballybay",
+      "Emyvale",
+      "Scotstown",
+      "Newbliss",
+      "Inniskeen",
+      "Threemilehouse",
+      "Smithborough",
+      "Glaslough",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can social really help us hire?",
+      a: "Yes, and cheaply. It reaches people who are not actively job-hunting, which recruitment sites by definition cannot.",
+    },
+    {
+      q: "Should we target Northern Ireland?",
+      a: "If you trade or hire there, yes. Much of Monaghan's natural catchment is across the border.",
+    },
+    {
+      q: "Do manufacturers need social at all?",
+      a: "For customers, sometimes. For recruitment and for looking like a well-run place to work, almost always.",
+    },
+    {
+      q: "Do I need TikTok?",
+      a: "For recruitment of younger staff there is an argument. For most Monaghan businesses, Facebook is enough.",
+    },
+    {
+      q: "Can you use our existing page?",
+      a: "Yes, with editor access rather than ownership.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. We report enquiries, applications and what each one cost.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Monaghan", href: "/locations/monaghan/digital-marketing/" },
+    { label: "Web design in Monaghan", href: "/locations/monaghan/web-design/" },
+  ],
+};
+
+const monaghanWeb: ServicePage = {
+  county: "Monaghan",
+  countySlug: "monaghan",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Monaghan | Websites Built to Convert Enquiries",
+  description:
+    "Web design for Monaghan businesses and manufacturers. Fast, credible sites that turn visits into enquiries, built in about two weeks. €1,500 once off.",
+  h1: "Websites for Monaghan businesses, including the ones selling to other businesses.",
+  intro: [
+    "For a Monaghan manufacturer or supplier, the website is frequently the only thing a potential customer sees before deciding whether to make contact. It is doing the job a showroom does elsewhere, and most of them are not built for it.",
+    "For consumer trades the job is different but no less important: proving you are real, local and worth ringing.",
+  ],
+  sections: [
+    {
+      heading: "What you get",
+      body: [
+        "A site that stands up to the scrutiny of somebody deciding whether to trust you with a contract.",
+      ],
+      list: [
+        {
+          title: "Built in about two weeks",
+          body: "Copy, build and launch once you have supplied photographs and details.",
+        },
+        {
+          title: "Credibility up front",
+          body: "Capability, capacity, certifications and real photographs of the operation, not stock imagery of somebody else's factory.",
+        },
+        {
+          title: "Fast on a phone",
+          body: "Buyers check on a phone as readily as anyone else.",
+        },
+        {
+          title: "Enquiry forms that qualify",
+          body: "Volume, specification and timeline asked before the call, so you are not quoting blind.",
+        },
+        {
+          title: "Yours outright",
+          body: "Domain, hosting and site in your name. No lock-in.",
+        },
+      ],
+    },
+    {
+      heading: "Photograph your own operation",
+      body: [
+        "Stock images of generic factories are the single most common fault on manufacturer websites, and buyers discount them instantly.",
+        "Photographs of your own floor, your own machinery and your own people do more to win a contract than any amount of copy about quality, and they cost an afternoon.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Monaghan areas we build for",
+    body: "Sites are written around your market, which for many Monaghan businesses means customers on both sides of the border.",
+    towns: [
+      "Monaghan town",
+      "Carrickmacross",
+      "Castleblayney",
+      "Clones",
+      "Ballybay",
+      "Emyvale",
+      "Scotstown",
+      "Newbliss",
+      "Inniskeen",
+      "Threemilehouse",
+      "Smithborough",
+      "Glaslough",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How long does it take?",
+      a: "About two weeks once we have your photographs and details.",
+    },
+    {
+      q: "What does it cost?",
+      a: "€1,500 once off, with domain and hosting in your name.",
+    },
+    {
+      q: "Does a manufacturer need a good website?",
+      a: "More than most realise. It is frequently the only thing a buyer sees before deciding whether to make contact at all.",
+    },
+    {
+      q: "Should we show prices?",
+      a: "For B2B, rarely. For consumer trades, a starting price filters out people who were never going to book.",
+    },
+    {
+      q: "Will it help me rank?",
+      a: "It removes the obstacles. Ranking then comes from reviews, links and time.",
+    },
+    {
+      q: "Can you keep our existing site?",
+      a: "If it is fast and credible, yes, and we will say so rather than sell you a rebuild.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Monaghan", href: "/locations/monaghan/digital-marketing/" },
+    { label: "Social media marketing in Monaghan", href: "/locations/monaghan/social-media-marketing/" },
+  ],
+};
+
+const offalyDigitalMarketing: ServicePage = {
+  county: "Offaly",
+  countySlug: "offaly",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Offaly | Agency for Offaly Businesses",
+  description:
+    "A digital marketing agency working with Offaly businesses: Google Ads, Meta ads, SEO and social, across Tullamore, Birr, Edenderry and the county.",
+  h1: "Digital marketing in Offaly, in a county mid-transition.",
+  intro: [
+    "Offaly's economy has been rebuilt in the last decade. The wind-down of the bogs removed a major employer from the middle of the county, and what has replaced it — renewable energy, tourism around Birr and Clonmacnoise, remote work, and commuter growth at Edenderry — is more varied and more spread out.",
+    "For a local business that means the customer base has changed composition rather than size, and campaigns built on assumptions from ten years ago will miss.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Offaly businesses",
+      body: [
+        "Five services, weighted to Tullamore with real markets at either end of the county.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "Concentrated on Tullamore and the catchment you genuinely serve, rather than spread across a long county.",
+        },
+        {
+          title: "Meta ads",
+          body: "Strong here, and the better way to reach Birr and Edenderry, which behave like separate places.",
+        },
+        {
+          title: "SEO",
+          body: "Winnable. Competition across Offaly is light and competitor foundations are usually weak.",
+        },
+        {
+          title: "Web design",
+          body: "Worth more than average given how many Offaly households now work from home and research thoroughly.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, so a business looks current when somebody checks before ringing.",
+        },
+      ],
+    },
+    {
+      heading: "Three towns, three different places",
+      body: [
+        "Tullamore is the commercial centre and behaves like one. Birr is a heritage and tourism town with a different customer and a seasonal element. Edenderry increasingly looks east toward Kildare and Dublin.",
+        "They are far enough apart, and different enough, that a single county campaign serves none of them properly. We split them and set the budget by where your work actually comes from.",
+      ],
+    },
+    {
+      heading: "Remote work changed the weekday",
+      body: [
+        "A significant share of Offaly households now work from home at least part of the week, which has changed when people are available, when they research, and what they are willing to have done during the day.",
+        "It has made midweek daytime appointments viable for trades and services in a way they were not before, and very few local businesses have adjusted their advertising to say so.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Offaly we work",
+    body: "Campaigns are built around Tullamore, Birr and Edenderry as separate markets, with the split set by where your work actually comes from.",
+    towns: [
+      "Tullamore",
+      "Birr",
+      "Edenderry",
+      "Clara",
+      "Banagher",
+      "Ferbane",
+      "Kilcormac",
+      "Daingean",
+      "Portarlington side",
+      "Shinrone",
+      "Cloghan",
+      "Rhode",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Should Tullamore, Birr and Edenderry share a campaign?",
+      a: "No. They are different distances apart, with different customers, and Edenderry increasingly looks toward Kildare.",
+    },
+    {
+      q: "Has the bog closure changed the market?",
+      a: "It changed who works where and what the county's economy runs on. The customer base is different in composition, not smaller.",
+    },
+    {
+      q: "Is the tourism trade worth targeting?",
+      a: "Around Birr and Clonmacnoise, for the businesses it touches, yes — and seasonally rather than evenly.",
+    },
+    {
+      q: "Does remote working matter?",
+      a: "More than most expect. It makes midweek daytime work viable and very few businesses advertise that they can do it.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "In your own town with a verified address. Tullamore is the most contested and still lightly so.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Offaly", href: "/locations/offaly/social-media-marketing/" },
+    { label: "Web design in Offaly", href: "/locations/offaly/web-design/" },
+  ],
+};
+
+const offalySocial: ServicePage = {
+  county: "Offaly",
+  countySlug: "offaly",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Offaly | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Offaly businesses: Facebook and Instagram content and paid campaigns, managed end to end, across Tullamore, Birr, Edenderry and the county.",
+  h1: "Social media marketing in Offaly, for three towns that do not overlap.",
+  intro: [
+    "Offaly is long, and its three main towns sit far enough apart that they function as separate communities with separate online lives. Tullamore's pages are not read in Birr and Edenderry's are not read in either.",
+    "Treating that as one audience is the most common and most expensive mistake made in this county, and it is entirely avoidable.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "Separate audiences for separate towns, and content that looks like the place it came from.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule in your own voice, built from jobs in recognisable places.",
+        },
+        {
+          title: "A campaign per town",
+          body: "Tullamore, Birr and Edenderry targeted independently, with budget set by where your work comes from.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than lost on the way to a website.",
+        },
+        {
+          title: "Daytime availability made obvious",
+          body: "Worth saying explicitly now that so many households are home midweek.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day.",
+        },
+      ],
+    },
+    {
+      heading: "Edenderry looks east",
+      body: [
+        "Edenderry's households increasingly work and shop toward Kildare and Dublin, and their expectations have moved with them.",
+        "If you serve Edenderry alongside Tullamore, those should not be the same campaign or the same message. The customer is buying different things and comparing you against different competitors.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs and name the town.",
+        "That single detail is what lets us show finished work to the community it happened in, which is the most efficient thing available in a county shaped like this one.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Offaly areas we target",
+    body: "Audiences built per town rather than per county, because Tullamore, Birr and Edenderry share a county boundary and very little else.",
+    towns: [
+      "Tullamore",
+      "Birr",
+      "Edenderry",
+      "Clara",
+      "Banagher",
+      "Ferbane",
+      "Kilcormac",
+      "Daingean",
+      "Portarlington side",
+      "Shinrone",
+      "Cloghan",
+      "Rhode",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can you target one town only?",
+      a: "Yes, and frequently you should. Most Offaly businesses genuinely serve one town and its surroundings.",
+    },
+    {
+      q: "Is Edenderry different?",
+      a: "Increasingly. It looks east toward Kildare and Dublin and its households expect what those markets expect.",
+    },
+    {
+      q: "Does Birr's tourism matter?",
+      a: "For the businesses it touches, yes, and seasonally. For a plumber in Tullamore, not at all.",
+    },
+    {
+      q: "Do I need TikTok?",
+      a: "Probably not. Facebook carries the buying audience across Offaly comfortably.",
+    },
+    {
+      q: "Can you use our existing page?",
+      a: "Yes — editor access rather than ownership.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. Enquiries and cost per enquiry are the report.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Offaly", href: "/locations/offaly/digital-marketing/" },
+    { label: "Web design in Offaly", href: "/locations/offaly/web-design/" },
+  ],
+};
+
+const offalyWeb: ServicePage = {
+  county: "Offaly",
+  countySlug: "offaly",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Offaly | Websites Built to Convert Enquiries",
+  description:
+    "Web design for Offaly businesses. Fast, mobile-first sites that turn visits into enquiries, built in about two weeks. €1,500 once off.",
+  h1: "Websites for Offaly businesses, built for people who research first.",
+  intro: [
+    "A large share of Offaly households now work from home at least part of the week, and people who work from home research differently. They read more, they compare more, and they check three businesses before ringing any.",
+    "That raises what a website has to do here. A site that would have been adequate when everybody rang the first number they found will not convert somebody who has your competitor open in another tab.",
+  ],
+  sections: [
+    {
+      heading: "What you get",
+      body: [
+        "A site that survives being compared against two others.",
+      ],
+      list: [
+        {
+          title: "Built in about two weeks",
+          body: "Copy, build and launch once you have supplied photographs and details.",
+        },
+        {
+          title: "Fast on a phone and on a laptop",
+          body: "People research on both here, frequently in the same evening.",
+        },
+        {
+          title: "Recent work shown clearly",
+          body: "Dated, local and specific, because that is what comparison shopping rewards.",
+        },
+        {
+          title: "Coverage and availability stated",
+          body: "Which towns and how soon, since Offaly's towns are far apart and people check.",
+        },
+        {
+          title: "Yours outright",
+          body: "Domain, hosting and site in your name. No lock-in.",
+        },
+      ],
+    },
+    {
+      heading: "Comparison is the norm now",
+      body: [
+        "The businesses that lose here are not the ones with bad service. They are the ones whose website answered fewer questions than the competitor's.",
+        "Price ranges, coverage, availability and proof of recent work are what a comparing customer is looking for. Leaving them out does not create curiosity, it creates a closed tab.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Offaly areas we build for",
+    body: "Sites are written around the towns you actually serve, with the detail a customer comparing three businesses is looking for.",
+    towns: [
+      "Tullamore",
+      "Birr",
+      "Edenderry",
+      "Clara",
+      "Banagher",
+      "Ferbane",
+      "Kilcormac",
+      "Daingean",
+      "Portarlington side",
+      "Shinrone",
+      "Cloghan",
+      "Rhode",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How long does it take?",
+      a: "About two weeks once we have your photographs and details.",
+    },
+    {
+      q: "What does it cost?",
+      a: "€1,500 once off, with domain and hosting in your name.",
+    },
+    {
+      q: "Should we publish prices?",
+      a: "A range at minimum. Comparing customers filter hard, and hiding price loses more than it protects.",
+    },
+    {
+      q: "Do I need a blog?",
+      a: "Not initially. Service pages, coverage, proof and speed first.",
+    },
+    {
+      q: "Will it help me rank?",
+      a: "It removes the obstacles. Ranking then comes from reviews, links and time.",
+    },
+    {
+      q: "Can you keep our existing site?",
+      a: "If it is fast and converting, yes, and we will tell you so.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Offaly", href: "/locations/offaly/digital-marketing/" },
+    { label: "Social media marketing in Offaly", href: "/locations/offaly/social-media-marketing/" },
+  ],
+};
+
+const roscommonDigitalMarketing: ServicePage = {
+  county: "Roscommon",
+  countySlug: "roscommon",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Roscommon | Agency for Roscommon Businesses",
+  description:
+    "A digital marketing agency working with Roscommon businesses: Google Ads, Meta ads, SEO and social, across Roscommon town, Boyle, Castlerea and the county.",
+  h1: "Digital marketing in Roscommon, a county with no big town.",
+  intro: [
+    "Roscommon is long, thinly populated and has no town large enough to anchor it. Roscommon town, Boyle, Castlerea and Ballaghaderreen are all modest, and the county's real commercial centres — Athlone, Carrick-on-Shannon, Ballinasloe, Longford — mostly sit outside its own borders.",
+    "So almost every Roscommon business has a catchment that crosses the county line. Building a campaign that respects the boundary is the most reliable way to waste money here.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Roscommon businesses",
+      body: [
+        "Five services, all built on a travel radius rather than on a county.",
+      ],
+      list: [
+        {
+          title: "Meta ads",
+          body: "Usually the lead channel. Roscommon's own search volume is too thin to carry most businesses on its own.",
+        },
+        {
+          title: "Google Ads",
+          body: "Run across the radius that includes Athlone, Carrick-on-Shannon or Ballinasloe, depending which end of the county you are at.",
+        },
+        {
+          title: "SEO",
+          body: "Genuinely easy to win here, and worth doing precisely because so few competitors bother.",
+        },
+        {
+          title: "Web design",
+          body: "Page weight matters. Coverage across the county is uneven and heavy sites fail for a share of visitors.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, and unusually effective where communities are this tight.",
+        },
+      ],
+    },
+    {
+      heading: "Your commercial centre is probably in another county",
+      body: [
+        "A business in the south of Roscommon lives off Athlone. One in the north lives off Carrick-on-Shannon or Boyle's own catchment. One in the east looks at Longford.",
+        "That is not a problem to be solved, it is just the shape of the county. Campaigns should be drawn around whichever centre your customers actually use, and that decision does more for results here than any other.",
+      ],
+    },
+    {
+      heading: "Tight communities reward being visible",
+      body: [
+        "Roscommon's parish and club networks are strong and its local pages are well followed. A business genuinely embedded in its area is known through those rather than through advertising.",
+        "Paid social works here because it reaches the same people those networks reach, at a cost that a small business can sustain month after month.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Roscommon we work",
+    body: "Campaigns are drawn around whichever commercial centre your customers actually use, which for most Roscommon businesses is outside the county.",
+    towns: [
+      "Roscommon town",
+      "Boyle",
+      "Castlerea",
+      "Ballaghaderreen",
+      "Strokestown",
+      "Elphin",
+      "Ballinasloe side",
+      "Roscommon Lanesborough",
+      "Frenchpark",
+      "Knockcroghery",
+      "Ballyforan",
+      "Tarmonbarry",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Should we advertise outside Roscommon?",
+      a: "Almost certainly. Most of the county's commercial centres — Athlone, Carrick-on-Shannon, Ballinasloe — are outside its borders.",
+    },
+    {
+      q: "Is the county too rural for online advertising?",
+      a: "It is under-contested rather than too rural. Cheap reach, light competition and well-followed local pages.",
+    },
+    {
+      q: "Why lead with Meta rather than Google?",
+      a: "Because Google only reaches people already searching, and in a county this size that is a small number on any given day.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "In your own town with a verified address. With no dominant centre, nobody covers the county in the map pack.",
+    },
+    {
+      q: "How quickly does SEO work here?",
+      a: "Faster than most places. Competition is light and competitor foundations are usually poor.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Roscommon", href: "/locations/roscommon/social-media-marketing/" },
+    { label: "Web design in Roscommon", href: "/locations/roscommon/web-design/" },
+  ],
+};
+
+const roscommonSocial: ServicePage = {
+  county: "Roscommon",
+  countySlug: "roscommon",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Roscommon | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Roscommon businesses: Facebook and Instagram content and paid campaigns, managed end to end, across Roscommon town, Boyle and the county.",
+  h1: "Social media marketing in Roscommon, where the parish still matters.",
+  intro: [
+    "Roscommon's social life online runs through parish, club and townland pages, and they are read closely. In a county with no dominant town, those networks are the local media, and being genuinely part of your own area counts for more than polish.",
+    "For a business that means the goal is not a large following. It is being recognised by the few thousand households who could realistically hire you.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "A steady, recognisable presence within a small catchment, extended across the county line where your customers are.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A consistent schedule in your own voice, built from real jobs in named places.",
+        },
+        {
+          title: "A radius, not a county",
+          body: "Audiences reaching into Athlone, Carrick-on-Shannon, Ballinasloe or Longford, depending where you are.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than lost on the way to a website.",
+        },
+        {
+          title: "Club and community visibility",
+          body: "Sponsorship is common here and rarely gets the online visibility that makes it pay.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day, because in these communities responsiveness is part of your name.",
+        },
+      ],
+    },
+    {
+      heading: "Recognition beats reach",
+      body: [
+        "A thousand people in your own catchment who recognise your van are worth more than ten thousand impressions across the midlands.",
+        "That is why campaigns here are deliberately narrow and deliberately repetitive. The same households seeing the same business do good work, month after month, is the mechanism.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs and name the townland or town.",
+        "People here know the houses and frequently the family. Specificity is what makes the advertising work.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Roscommon areas we target",
+    body: "Audiences drawn tightly around your own catchment and extended into whichever neighbouring centre your customers actually use.",
+    towns: [
+      "Roscommon town",
+      "Boyle",
+      "Castlerea",
+      "Ballaghaderreen",
+      "Strokestown",
+      "Elphin",
+      "Ballinasloe side",
+      "Roscommon Lanesborough",
+      "Frenchpark",
+      "Knockcroghery",
+      "Ballyforan",
+      "Tarmonbarry",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is the audience big enough?",
+      a: "Within your own catchment, yes, and cheap. Spread across the county it is thin and largely wasted.",
+    },
+    {
+      q: "Should we target Athlone or Carrick-on-Shannon?",
+      a: "If that is where your customers come from, yes. For many Roscommon businesses it plainly is.",
+    },
+    {
+      q: "Do parish and club pages matter?",
+      a: "A great deal. We cannot post into them; paid reaches the same households while you earn the recommendations.",
+    },
+    {
+      q: "Do I need TikTok?",
+      a: "No. Facebook holds the buying audience in Roscommon by a wide margin.",
+    },
+    {
+      q: "Can you use our existing page?",
+      a: "Yes — editor access rather than ownership.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. We report enquiries and what each cost.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Roscommon", href: "/locations/roscommon/digital-marketing/" },
+    { label: "Web design in Roscommon", href: "/locations/roscommon/web-design/" },
+  ],
+};
+
+const roscommonWeb: ServicePage = {
+  county: "Roscommon",
+  countySlug: "roscommon",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Roscommon | Websites Built to Convert Enquiries",
+  description:
+    "Web design for Roscommon businesses. Fast, mobile-first sites that load on rural coverage and turn visits into enquiries. €1,500 once off.",
+  h1: "Websites for Roscommon businesses, built to name the right towns.",
+  intro: [
+    "The most expensive omission on a Roscommon business website is the list of places it serves. A firm whose site mentions only Roscommon is invisible to the Athlone, Ballinasloe and Carrick-on-Shannon customers who make up much of its actual market.",
+    "It takes ten minutes to fix and it is the single most common fault we find here.",
+  ],
+  sections: [
+    {
+      heading: "What you get",
+      body: [
+        "A site that says plainly where you work, and loads where your customers live.",
+      ],
+      list: [
+        {
+          title: "Built in about two weeks",
+          body: "Copy, build and launch once you have supplied photographs and details.",
+        },
+        {
+          title: "Every town named",
+          body: "Including the ones outside the county. This is the fix that pays for itself fastest in Roscommon.",
+        },
+        {
+          title: "Light and fast",
+          body: "Coverage across much of the county is uneven, and heavy sites fail silently for those visitors.",
+        },
+        {
+          title: "Enquiry forms that qualify",
+          body: "The questions you would ask on the phone, asked first.",
+        },
+        {
+          title: "Yours outright",
+          body: "Domain, hosting and site in your name. No lock-in.",
+        },
+      ],
+    },
+    {
+      heading: "Say how far you travel",
+      body: [
+        "The second most common fault is not saying how far you will go. In a county this long, a customer forty minutes away genuinely does not know whether to ring.",
+        "Stating it plainly wins the ones inside your range and saves you the calls from outside it.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Roscommon areas we build for",
+    body: "Sites are written around your real catchment, which for most Roscommon businesses means naming towns in two or three counties.",
+    towns: [
+      "Roscommon town",
+      "Boyle",
+      "Castlerea",
+      "Ballaghaderreen",
+      "Strokestown",
+      "Elphin",
+      "Ballinasloe side",
+      "Roscommon Lanesborough",
+      "Frenchpark",
+      "Knockcroghery",
+      "Ballyforan",
+      "Tarmonbarry",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How long does it take?",
+      a: "About two weeks once we have your photographs and details.",
+    },
+    {
+      q: "What does it cost?",
+      a: "€1,500 once off, with domain and hosting in your name.",
+    },
+    {
+      q: "Should the site mention other counties?",
+      a: "Almost certainly. Most Roscommon businesses serve parts of Westmeath, Galway, Leitrim or Longford and never say so.",
+    },
+    {
+      q: "Does page speed matter here?",
+      a: "Yes. Coverage is uneven across the county and heavy sites fail for a share of visitors without you ever knowing.",
+    },
+    {
+      q: "Will it help me rank?",
+      a: "In a county with competition this light, a good site plus a complete Google profile goes a long way.",
+    },
+    {
+      q: "Can you keep our existing site?",
+      a: "If it is fast and converting, yes, and we will say so plainly.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Roscommon", href: "/locations/roscommon/digital-marketing/" },
+    { label: "Social media marketing in Roscommon", href: "/locations/roscommon/social-media-marketing/" },
+  ],
+};
+
+const sligoDigitalMarketing: ServicePage = {
+  county: "Sligo",
+  countySlug: "sligo",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Sligo | Agency for Sligo Businesses",
+  description:
+    "A digital marketing agency working with Sligo businesses: Google Ads, Meta ads, SEO and social, across Sligo town, Ballymote, Tubbercurry and the county.",
+  h1: "Digital marketing in Sligo, the capital of the northwest.",
+  intro: [
+    "Sligo town serves a region far larger than its county. People come in from south Donegal, north Mayo and most of Leitrim for services they cannot get closer, which gives a Sligo business a catchment several times the county's own population.",
+    "That is the central commercial fact here and most local advertising ignores it, targeting Sligo alone and leaving the regional market to whoever thought to ask for it.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Sligo businesses",
+      body: [
+        "Five services, built around a regional catchment rather than a county.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "Targeted across the northwest rather than Sligo alone, because that is where the searches genuinely come from.",
+        },
+        {
+          title: "Meta ads",
+          body: "Strong across the region, and the better channel for the rural areas where search volume is thin.",
+        },
+        {
+          title: "SEO",
+          body: "Very winnable, and unusually valuable because a Sligo business ranking well captures four counties' worth of demand.",
+        },
+        {
+          title: "Web design",
+          body: "Matters more here, because a share of your visitors are travelling to you and need to be convinced it is worth the drive.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, so a business looks established to somebody coming in from outside the county.",
+        },
+      ],
+    },
+    {
+      heading: "The student population is a separate market",
+      body: [
+        "Sligo's third-level population swells the town and empties it on a schedule, and for most service businesses students are not customers.",
+        "They inflate reach figures and click on things, which makes a campaign look busier than it is. Excluding them where they are not your market is one of the higher-value settings on a Sligo account.",
+      ],
+    },
+    {
+      heading: "Convince people the drive is worth it",
+      body: [
+        "If your customers are coming from Ballina, Manorhamilton or Bundoran, your advertising has a job that a purely local business does not: justifying the journey.",
+        "That means being specific about what you offer that is not available closer, and it changes the copy substantially. Most Sligo businesses never make the argument at all.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Sligo we work",
+    body: "Campaigns are built around Sligo's regional catchment — south Donegal, north Mayo and Leitrim — rather than around the county on its own.",
+    towns: [
+      "Sligo town",
+      "Ballymote",
+      "Tubbercurry",
+      "Enniscrone",
+      "Collooney",
+      "Strandhill",
+      "Rosses Point",
+      "Grange",
+      "Coolaney",
+      "Easkey",
+      "Riverstown",
+      "Gurteen",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Should we target outside the county?",
+      a: "Yes, and most Sligo businesses under-do it. The town serves a region several times its own county's population.",
+    },
+    {
+      q: "Do students distort the numbers?",
+      a: "For most service businesses, yes. Reachable, cheap and irrelevant, which is the worst combination.",
+    },
+    {
+      q: "Is the tourism trade worth targeting?",
+      a: "Around Strandhill, Rosses Point and Enniscrone, for the businesses it touches, and seasonally.",
+    },
+    {
+      q: "How do we justify the drive?",
+      a: "By being specific about what you offer that is not available closer. Very few Sligo businesses make that argument explicitly.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "In Sligo town with a verified address, and that map listing serves a far wider area than the town itself.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Sligo", href: "/locations/sligo/social-media-marketing/" },
+    { label: "Web design in Sligo", href: "/locations/sligo/web-design/" },
+  ],
+};
+
+const sligoSocial: ServicePage = {
+  county: "Sligo",
+  countySlug: "sligo",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Sligo | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Sligo businesses: Facebook and Instagram content and paid campaigns, managed end to end, across Sligo town and the northwest.",
+  h1: "Social media marketing in Sligo, aimed at four counties.",
+  intro: [
+    "A Sligo business that advertises only to Sligo is talking to a fraction of the people who would travel to it. The town's real audience runs out through south Donegal, north Mayo and most of Leitrim, and those households are reachable at rural prices.",
+    "That combination — regional demand at rural advertising costs — is unusual and it is the best thing about marketing a business from Sligo.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "A regional audience, content that travels, and budget concentrated where the customers actually are.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule in your own voice, built from real work.",
+        },
+        {
+          title: "Regional targeting",
+          body: "South Donegal, north Mayo and Leitrim included deliberately rather than left to chance.",
+        },
+        {
+          title: "Student exclusion where relevant",
+          body: "Because for most service businesses they inflate the figures without adding customers.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than lost on the way to a website.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day, which matters more when somebody is deciding whether to drive an hour.",
+        },
+      ],
+    },
+    {
+      heading: "Surf, coast and the look of the place",
+      body: [
+        "Sligo photographs extremely well, and businesses connected to the coast — hospitality, tourism, retail, anything with a view — have raw material most counties do not.",
+        "It is consistently under-used. A business in Strandhill posting real photographs of Strandhill will outperform the same business posting stock imagery by a wide margin.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs, and say which county the customer came from when it is worth knowing.",
+        "Knowing that a third of your work comes from Leitrim changes where the budget goes, and most businesses have never checked.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Sligo areas we target",
+    body: "Audiences drawn across the northwest rather than the county, because Sligo town's genuine catchment includes three neighbouring counties.",
+    towns: [
+      "Sligo town",
+      "Ballymote",
+      "Tubbercurry",
+      "Enniscrone",
+      "Collooney",
+      "Strandhill",
+      "Rosses Point",
+      "Grange",
+      "Coolaney",
+      "Easkey",
+      "Riverstown",
+      "Gurteen",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is the regional audience really worth targeting?",
+      a: "It is the main opportunity here. Sligo serves a region several times its county population and most businesses advertise as though it does not.",
+    },
+    {
+      q: "Do students matter?",
+      a: "For pubs, food and retail, somewhat. For trades and professional services, they are noise worth excluding.",
+    },
+    {
+      q: "Does the coast help commercially?",
+      a: "For anything with a visual element, considerably. Sligo gives you better raw material than most counties and it is under-used.",
+    },
+    {
+      q: "Do I need TikTok?",
+      a: "For tourism and hospitality there is a case, helped by the surf and coastal content. For most trades, no.",
+    },
+    {
+      q: "Can you use our existing page?",
+      a: "Yes — editor access rather than ownership.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. Enquiries and cost per enquiry are the report.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Sligo", href: "/locations/sligo/digital-marketing/" },
+    { label: "Web design in Sligo", href: "/locations/sligo/web-design/" },
+  ],
+};
+
+const sligoWeb: ServicePage = {
+  county: "Sligo",
+  countySlug: "sligo",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Sligo | Websites Built to Convert Enquiries",
+  description:
+    "Web design for Sligo businesses. Fast, mobile-first sites that convert visitors travelling in from across the northwest. €1,500 once off.",
+  h1: "Websites for Sligo businesses, built for people driving in.",
+  intro: [
+    "A Sligo business website has a job most do not: convincing somebody in Ballina or Manorhamilton that the journey is worth making. That is a harder sell than convincing a neighbour, and it needs more from the site.",
+    "Most Sligo business sites are written as though every visitor is already in the town, which quietly loses the regional customers who are the growth.",
+  ],
+  sections: [
+    {
+      heading: "What you get",
+      body: [
+        "A site that answers the questions of somebody deciding whether to travel.",
+      ],
+      list: [
+        {
+          title: "Built in about two weeks",
+          body: "Copy, build and launch once you have supplied photographs and details.",
+        },
+        {
+          title: "The regional catchment named",
+          body: "South Donegal, north Mayo and Leitrim stated plainly, so those visitors know they are welcome.",
+        },
+        {
+          title: "Directions, parking and opening times made obvious",
+          body: "Small details that decide whether somebody an hour away commits.",
+        },
+        {
+          title: "Recent work and real photographs",
+          body: "Including of the premises, because people travelling want to know what they are coming to.",
+        },
+        {
+          title: "Yours outright",
+          body: "Domain, hosting and site in your name. No lock-in.",
+        },
+      ],
+    },
+    {
+      heading: "Make the journey easy to decide",
+      body: [
+        "Somebody weighing up an hour's drive is looking for reassurance on practical things: can they park, will you be open, is it definitely worth it.",
+        "Answering those plainly converts regional customers who would otherwise close the tab. It is unglamorous and it is the highest-return thing on a Sligo website.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Sligo areas we build for",
+    body: "Sites are written for the regional catchment as well as the town, because a large share of Sligo trade travels in from three neighbouring counties.",
+    towns: [
+      "Sligo town",
+      "Ballymote",
+      "Tubbercurry",
+      "Enniscrone",
+      "Collooney",
+      "Strandhill",
+      "Rosses Point",
+      "Grange",
+      "Coolaney",
+      "Easkey",
+      "Riverstown",
+      "Gurteen",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How long does it take?",
+      a: "About two weeks once we have your photographs and details.",
+    },
+    {
+      q: "What does it cost?",
+      a: "€1,500 once off, with domain and hosting in your name.",
+    },
+    {
+      q: "Should we mention other counties?",
+      a: "Yes. A visitor from Leitrim or Mayo needs to see their own area named before they will commit to the drive.",
+    },
+    {
+      q: "Do practical details really matter?",
+      a: "For anyone travelling an hour, they decide it. Parking, opening times and directions convert better than design does.",
+    },
+    {
+      q: "Will it help me rank?",
+      a: "It removes the obstacles. Ranking then comes from reviews, links and time.",
+    },
+    {
+      q: "Can you keep our existing site?",
+      a: "If it is fast and converting, yes, and we will tell you so.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Sligo", href: "/locations/sligo/digital-marketing/" },
+    { label: "Social media marketing in Sligo", href: "/locations/sligo/social-media-marketing/" },
+  ],
+};
+
+const westmeathDigitalMarketing: ServicePage = {
+  county: "Westmeath",
+  countySlug: "westmeath",
+  service: "Digital marketing",
+  serviceSlug: "digital-marketing",
+  title: "Digital Marketing Westmeath | Agency for Athlone & Mullingar",
+  description:
+    "A digital marketing agency working with Westmeath businesses: Google Ads, Meta ads, SEO and social, across Athlone, Mullingar, Moate and the county.",
+  h1: "Digital marketing in Westmeath, a county with two capitals.",
+  intro: [
+    "Westmeath has two substantial towns that face in opposite directions. Athlone sits on the Shannon at the centre of the country and serves a genuinely regional catchment reaching into Roscommon, Galway and Offaly. Mullingar looks east along the N4 toward Dublin.",
+    "They are an hour apart and their customers barely overlap. A business in one is not competing with a business in the other, and a campaign covering both is usually two campaigns' worth of spend doing one campaign's work.",
+  ],
+  sections: [
+    {
+      heading: "What we run for Westmeath businesses",
+      body: [
+        "Five services, run as two markets rather than one county.",
+      ],
+      list: [
+        {
+          title: "Google Ads",
+          body: "Athlone and Mullingar as separate campaigns, because the competition and the customer differ in both.",
+        },
+        {
+          title: "Meta ads",
+          body: "Strong in both towns, and the better channel for the rural county between them.",
+        },
+        {
+          title: "SEO",
+          body: "Winnable, and especially valuable in Athlone where ranking captures a multi-county catchment.",
+        },
+        {
+          title: "Web design",
+          body: "Worth more in Athlone, where a share of customers travel in and need convincing.",
+        },
+        {
+          title: "Social media management",
+          body: "Run for you, in your own voice, per town.",
+        },
+      ],
+    },
+    {
+      heading: "Athlone serves four counties",
+      body: [
+        "Athlone's catchment ignores the county boundary entirely — it reaches into Roscommon, east Galway and north Offaly, and the town functions as the commercial centre for all of them.",
+        "A business there that advertises to Westmeath alone is reaching a fraction of its market. This is the single biggest and most commonly missed opportunity in the county.",
+      ],
+    },
+    {
+      heading: "Mullingar is commuter territory",
+      body: [
+        "Mullingar's households increasingly work in Dublin, and they bring commuter incomes and commuter expectations with them: quick replies, definite dates, and a willingness to pay for both.",
+        "That is a different customer from Athlone's regional shopper, and the messaging should reflect it rather than averaging the two.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Where in Westmeath we work",
+    body: "Campaigns are built per town, because Athlone serves a four-county region and Mullingar serves the Dublin commuter belt, and they share very little.",
+    towns: [
+      "Athlone",
+      "Mullingar",
+      "Moate",
+      "Castlepollard",
+      "Kinnegad",
+      "Killucan",
+      "Rochfortbridge",
+      "Kilbeggan",
+      "Delvin",
+      "Multyfarnham",
+      "Ballynacargy",
+      "Tyrrellspass",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Should Athlone and Mullingar share a campaign?",
+      a: "No. They are an hour apart, face opposite directions, and their customers barely overlap.",
+    },
+    {
+      q: "Is Athlone's catchment really that wide?",
+      a: "Yes, and it is the most under-used fact in the county. It reaches into Roscommon, east Galway and north Offaly.",
+    },
+    {
+      q: "Is Mullingar different?",
+      a: "Meaningfully. Commuter households with commuter incomes and far less patience for a slow reply.",
+    },
+    {
+      q: "Do we compete with Dublin firms?",
+      a: "In Mullingar, increasingly. Being visibly local and genuinely available is the effective counter.",
+    },
+    {
+      q: "Will I show up in the map results?",
+      a: "In whichever town you have a verified address. No business covers both in the map pack.",
+    },
+    {
+      q: "Can I see what you would do first?",
+      a: "Yes — the free growth audit, back within 24 hours as a PDF.",
+    },
+  ],
+  related: [
+    { label: "Social media marketing in Westmeath", href: "/locations/westmeath/social-media-marketing/" },
+    { label: "Web design in Westmeath", href: "/locations/westmeath/web-design/" },
+  ],
+};
+
+const westmeathSocial: ServicePage = {
+  county: "Westmeath",
+  countySlug: "westmeath",
+  service: "Social media marketing",
+  serviceSlug: "social-media-marketing",
+  title: "Social Media Marketing Westmeath | Managed Social & Paid Ads",
+  description:
+    "Social media marketing for Westmeath businesses: Facebook and Instagram content and paid campaigns, managed end to end, across Athlone, Mullingar and the county.",
+  h1: "Social media marketing in Westmeath, run as two towns.",
+  intro: [
+    "Athlone and Mullingar have separate online communities that barely read each other. Their local pages, their groups and their conversations are distinct, and a business advertising to the county reaches both audiences at half the relevance.",
+    "Split properly, they are two well-defined, affordable markets. Run together, they are one expensive muddle.",
+  ],
+  sections: [
+    {
+      heading: "What managing your social actually involves",
+      body: [
+        "Two audiences, one voice, and budget split by where your work genuinely comes from.",
+      ],
+      list: [
+        {
+          title: "The content, written and posted for you",
+          body: "A steady schedule in your own voice, using jobs in places people recognise.",
+        },
+        {
+          title: "Athlone's regional audience",
+          body: "Extended into Roscommon, east Galway and north Offaly, because that is Athlone's real catchment.",
+        },
+        {
+          title: "Mullingar's commuter audience",
+          body: "Targeted separately, with the speed and certainty those households are actually buying.",
+        },
+        {
+          title: "Lead forms and click-to-message",
+          body: "Enquiries captured in-platform rather than lost on the way to a site.",
+        },
+        {
+          title: "Replies handled",
+          body: "Within the working day — non-negotiable for the Mullingar end.",
+        },
+      ],
+    },
+    {
+      heading: "The lakes and the Shannon are assets",
+      body: [
+        "Westmeath's waterways bring visitors, second homes and a seasonal trade that inland midland counties do not have, particularly around Athlone, Lough Ree and Lough Owel.",
+        "For hospitality, marine and leisure-adjacent businesses that is a genuine second audience, reachable before they travel rather than only when they arrive.",
+      ],
+    },
+    {
+      heading: "What you have to do",
+      body: [
+        "Send photographs and say which town the job was in.",
+        "It is the detail that lets us put your work in front of the right half of the county, and most businesses never record it.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Westmeath areas we target",
+    body: "Audiences built per town, with Athlone extended across its regional catchment and Mullingar targeted as commuter territory.",
+    towns: [
+      "Athlone",
+      "Mullingar",
+      "Moate",
+      "Castlepollard",
+      "Kinnegad",
+      "Killucan",
+      "Rochfortbridge",
+      "Kilbeggan",
+      "Delvin",
+      "Multyfarnham",
+      "Ballynacargy",
+      "Tyrrellspass",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can you target one town only?",
+      a: "Yes, and usually you should. Most Westmeath businesses genuinely serve Athlone or Mullingar, not both.",
+    },
+    {
+      q: "Should Athlone campaigns cross the county line?",
+      a: "Yes. Athlone's catchment reaches into Roscommon, Galway and Offaly and ignoring that leaves most of the market untouched.",
+    },
+    {
+      q: "Do the waterways matter commercially?",
+      a: "For hospitality, leisure and anything marine, genuinely — and seasonally, with visitors reachable before they travel.",
+    },
+    {
+      q: "Do I need TikTok?",
+      a: "Probably not. Facebook holds the buying audience in both towns.",
+    },
+    {
+      q: "Can you use our existing page?",
+      a: "Yes — editor access rather than ownership.",
+    },
+    {
+      q: "Do you guarantee followers?",
+      a: "No. We report enquiries and what each one cost.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Westmeath", href: "/locations/westmeath/digital-marketing/" },
+    { label: "Web design in Westmeath", href: "/locations/westmeath/web-design/" },
+  ],
+};
+
+const westmeathWeb: ServicePage = {
+  county: "Westmeath",
+  countySlug: "westmeath",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Westmeath | Websites Built to Convert Enquiries",
+  description:
+    "Web design for Westmeath businesses in Athlone, Mullingar and across the county. Fast, mobile-first sites that turn visits into enquiries. €1,500 once off.",
+  h1: "Websites for Westmeath businesses, built for whichever town you are in.",
+  intro: [
+    "An Athlone business and a Mullingar business need different websites, and almost nobody builds them that way. Athlone's visitors are frequently travelling in from another county and need convincing. Mullingar's are commuters comparing three businesses at nine in the evening.",
+    "Same county, entirely different job for the site to do.",
+  ],
+  sections: [
+    {
+      heading: "What you get",
+      body: [
+        "A site written for the customer you actually have.",
+      ],
+      list: [
+        {
+          title: "Built in about two weeks",
+          body: "Copy, build and launch once you have supplied photographs and details.",
+        },
+        {
+          title: "Catchment stated properly",
+          body: "For Athlone that means naming Roscommon, Galway and Offaly towns. For Mullingar it means the commuter belt.",
+        },
+        {
+          title: "Fast on a phone",
+          body: "Because evening comparison shopping is overwhelmingly mobile.",
+        },
+        {
+          title: "Availability made obvious",
+          body: "Commuter households are buying certainty as much as anything else.",
+        },
+        {
+          title: "Yours outright",
+          body: "Domain, hosting and site in your name. No lock-in.",
+        },
+      ],
+    },
+    {
+      heading: "Two towns, two arguments",
+      body: [
+        "The Athlone argument is worth the journey: what you offer that is not available closer, and the practical details that make travelling easy.",
+        "The Mullingar argument is worth the wait: that you will answer, turn up and finish when you said. Writing one site that makes both arguments badly is the common outcome and it is avoidable.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Westmeath areas we build for",
+    body: "Sites are written for the town you are actually in and the catchment that town genuinely serves.",
+    towns: [
+      "Athlone",
+      "Mullingar",
+      "Moate",
+      "Castlepollard",
+      "Kinnegad",
+      "Killucan",
+      "Rochfortbridge",
+      "Kilbeggan",
+      "Delvin",
+      "Multyfarnham",
+      "Ballynacargy",
+      "Tyrrellspass",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How long does it take?",
+      a: "About two weeks once we have your photographs and details.",
+    },
+    {
+      q: "What does it cost?",
+      a: "€1,500 once off, with domain and hosting in your name.",
+    },
+    {
+      q: "Should an Athlone site mention other counties?",
+      a: "Yes. Athlone's catchment is genuinely regional and visitors need to see their own area named.",
+    },
+    {
+      q: "What matters most for Mullingar?",
+      a: "Availability and responsiveness. Commuter households are buying certainty and they compare in the evening.",
+    },
+    {
+      q: "Will it help me rank?",
+      a: "It removes the obstacles. Ranking then comes from reviews, links and time.",
+    },
+    {
+      q: "Can you keep our existing site?",
+      a: "If it is fast and converting, yes, and we will say so rather than sell you a rebuild.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Westmeath", href: "/locations/westmeath/digital-marketing/" },
+    { label: "Social media marketing in Westmeath", href: "/locations/westmeath/social-media-marketing/" },
+  ],
+};
+
 export const servicePages: ServicePage[] = [
   limerickDigitalMarketing,
   limerickSocial,
@@ -6224,6 +8216,24 @@ export const servicePages: ServicePage[] = [
   leitrimDigitalMarketing,
   leitrimSocial,
   leitrimWeb,
+  longfordDigitalMarketing,
+  longfordSocial,
+  longfordWeb,
+  monaghanDigitalMarketing,
+  monaghanSocial,
+  monaghanWeb,
+  offalyDigitalMarketing,
+  offalySocial,
+  offalyWeb,
+  roscommonDigitalMarketing,
+  roscommonSocial,
+  roscommonWeb,
+  sligoDigitalMarketing,
+  sligoSocial,
+  sligoWeb,
+  westmeathDigitalMarketing,
+  westmeathSocial,
+  westmeathWeb,
 ];
 
 export const servicePageBy = (countySlug: string, serviceSlug: string) =>
