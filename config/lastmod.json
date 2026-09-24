@@ -232,17 +232,29 @@
     "wicklow/web-design": "2026-09-22"
   },
   "towns": {
+    "ashbourne": "2026-09-24",
+    "athy": "2026-09-24",
+    "balbriggan": "2026-09-24",
     "blanchardstown": "2026-09-24",
     "bray": "2026-09-24",
     "celbridge": "2026-09-24",
+    "clondalkin": "2026-09-24",
     "drogheda": "2026-09-24",
     "dun-laoghaire": "2026-09-24",
     "dundalk": "2026-09-24",
+    "dundrum": "2026-09-24",
     "greystones": "2026-09-24",
+    "leixlip": "2026-09-24",
+    "lucan": "2026-09-24",
+    "malahide": "2026-09-24",
     "maynooth": "2026-09-24",
     "naas": "2026-09-24",
+    "navan": "2026-09-24",
     "newbridge": "2026-09-24",
+    "rathfarnham": "2026-09-24",
+    "ratoath": "2026-09-24",
     "swords": "2026-09-24",
-    "tallaght": "2026-09-24"
+    "tallaght": "2026-09-24",
+    "trim": "2026-09-24"
   }
 }
