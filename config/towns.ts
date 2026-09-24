@@ -8,9 +8,13 @@
  * was being served instead.
  *
  * Naas is the only town with that much direct evidence. The rest are the
- * major commercial towns of the four counties where the site already earns
+ * major commercial towns of the five counties where the site already earns
  * impressions: Kildare (300), Dublin (97), Wicklow (92, best commercial
- * position on the site at 15.4) and Louth (google ads louth at 15.5).
+ * position on the site at 15.4), Louth (google ads louth at 15.5) and
+ * Meath (digital marketing meath 41.6, google ads meath 29.2).
+ *
+ * Be honest about that distinction when reporting: one town is evidence,
+ * the rest are a considered bet on markets that already show signal.
  *
  * They live at /towns/[slug] rather than /locations/[county]/[town] because
  * that path already belongs to the county × service route and "naas" would
@@ -726,6 +730,702 @@ export const towns: Town[] = [
       {
         q: "What does it cost?",
         a: "€1,500 a month with everything included, month to month.",
+      },
+    ],
+  },
+  {
+    slug: "lucan",
+    name: "Lucan",
+    county: "Dublin",
+    countySlug: "dublin",
+    title: "Marketing Agency Lucan | Lead Generation, West Dublin",
+    description:
+      "A marketing agency working with Lucan businesses: Google Ads, Meta ads, SEO, web design and social, across Lucan and west Dublin.",
+    h1: "A marketing agency for Lucan businesses.",
+    intro: [
+      "Lucan has a larger population than most Irish county towns and almost none of the commercial infrastructure that would normally come with it. Its households shop in Liffey Valley, work in the city and treat the village as somewhere they pass through.",
+      "That is the whole commercial problem here: a very large addressable market that spends most of its money somewhere else.",
+    ],
+    sections: [
+      {
+        heading: "A big population is not the same as a big market",
+        body: [
+          "Fifty thousand people within a few kilometres looks like an enormous opportunity, and for services it genuinely is — nobody drives to Liffey Valley for a plumber or an accountant.",
+          "For anything retail or hospitality it is much harder, because you are competing with a shopping centre those households already visit weekly. The argument has to be convenience and familiarity rather than range.",
+        ],
+      },
+      {
+        heading: "Estates are the unit, not the town",
+        body: [
+          "Lucan is a collection of large estates built at different times for different buyers, and they behave differently. The older parts hold mature families replacing things; the newer developments hold households buying for the first time.",
+          "Targeting by estate rather than by town consistently outperforms a Lucan-wide campaign at the same budget, and it is the change most local businesses here have never made.",
+        ],
+      },
+    ],
+    covers: [
+      "Lucan",
+      "Adamstown",
+      "Palmerstown",
+      "Clonsilla",
+      "Leixlip",
+      "Celbridge",
+      "Newcastle",
+      "Liffey Valley",
+    ],
+    faqs: [
+      {
+        q: "Is Lucan a good market?",
+        a: "For services, one of the best in west Dublin — a very large population with no reason to leave the area for a trade or a professional service. For retail it is harder, because Liffey Valley is on the doorstep.",
+      },
+      {
+        q: "Should we target the whole of Lucan?",
+        a: "Usually not. It is a set of large estates built at different times for different buyers, and targeting them separately outperforms one town-wide campaign.",
+      },
+      {
+        q: "Do we compete with city-centre firms?",
+        a: "For professional services, yes. For trades, far less — proximity still decides most of it.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,500 with the second channel and a new website. Month to month, no setup fee, and ad spend goes directly to the platforms from your own account.",
+      },
+    ],
+  },
+  {
+    slug: "clondalkin",
+    name: "Clondalkin",
+    county: "Dublin",
+    countySlug: "dublin",
+    title: "Marketing Agency Clondalkin | Lead Generation, Dublin 22",
+    description:
+      "A marketing agency working with Clondalkin and Dublin 22 businesses: Google Ads, Meta ads, SEO, web design and social.",
+    h1: "A marketing agency for Clondalkin businesses.",
+    intro: [
+      "Clondalkin holds two things most Dublin suburbs do not: a very large residential population and one of the densest concentrations of employers in the country, around Park West, Grange Castle and the Naas Road.",
+      "That means a business here has a consumer market and a business-to-business market on the same doorstep, and they need entirely different campaigns.",
+    ],
+    sections: [
+      {
+        heading: "The business parks are an under-advertised market",
+        body: [
+          "Grange Castle, Park West and the Naas Road corridor hold a very large number of employers, and the services selling to them — IT support, cleaning, maintenance, catering, security, health and safety — have a dense local market that almost nobody advertises to properly.",
+          "Those buyers search differently from consumers and are worth far more per customer. If you sell to businesses, that deserves its own campaign rather than a line on a consumer page.",
+        ],
+      },
+      {
+        heading: "A diverse consumer market that rewards being explicit",
+        body: [
+          "Dublin 22 is among the more internationally diverse parts of Ireland, and a meaningful share of households search and buy in languages other than English.",
+          "Very few local businesses do anything with that. If your staff genuinely speak a language that is common locally, saying so plainly is a real and almost entirely uncontested advantage — and if they do not, do not claim it.",
+        ],
+      },
+    ],
+    covers: [
+      "Clondalkin",
+      "Park West",
+      "Grange Castle",
+      "Newlands Cross",
+      "Bawnogue",
+      "Neilstown",
+      "Rowlagh",
+      "Ballyfermot",
+    ],
+    faqs: [
+      {
+        q: "Is B2B worth pursuing here?",
+        a: "The business parks around Clondalkin are one of the densest employer clusters in Ireland and almost nobody advertises to them properly. If you sell to businesses, it is the opportunity.",
+      },
+      {
+        q: "Should consumer and business campaigns be separate?",
+        a: "Always. Different buyers, different search behaviour, different acceptable cost per enquiry.",
+      },
+      {
+        q: "Should we advertise in other languages?",
+        a: "If you can genuinely serve customers in them, it is a real advantage in Dublin 22. If you cannot, do not claim it.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,500 with the second channel and a new website. Month to month, no setup fee, and ad spend goes directly to the platforms from your own account.",
+      },
+    ],
+  },
+  {
+    slug: "rathfarnham",
+    name: "Rathfarnham",
+    county: "Dublin",
+    countySlug: "dublin",
+    title: "Marketing Agency Rathfarnham | Lead Generation, South Dublin",
+    description:
+      "A marketing agency working with Rathfarnham businesses: Google Ads, Meta ads, SEO, web design and social, across south Dublin.",
+    h1: "A marketing agency for Rathfarnham businesses.",
+    intro: [
+      "Rathfarnham is mature, well-off and full of houses built between the 1950s and the 1980s that are now reaching the age where everything needs doing at once — windows, heating, roofs, rewiring, extensions.",
+      "For trades that is about as reliable a source of demand as exists in Dublin, and it rewards businesses that can show sympathetic work on the same kind of house rather than the cheapest quote.",
+    ],
+    sections: [
+      {
+        heading: "Housing stock is the business model",
+        body: [
+          "The value here is not in the population figure, it is in the age and type of the housing. Semi-detached houses of a certain vintage generate predictable, repeating, substantial work.",
+          "A business that photographs its work on those specific house types and says so plainly will convert far better locally than one showing generic project images, because homeowners recognise their own house immediately.",
+        ],
+      },
+      {
+        heading: "Schools and families shape the calendar",
+        body: [
+          "Rathfarnham has an unusually high concentration of schools, and household spending here follows the school year more closely than most areas — work gets done in summer, decisions get made at Easter.",
+          "Planning budget around that rhythm, rather than spreading it flat, is a straightforward advantage that costs nothing.",
+        ],
+      },
+    ],
+    covers: [
+      "Rathfarnham",
+      "Templeogue",
+      "Terenure",
+      "Knocklyon",
+      "Ballyboden",
+      "Firhouse",
+      "Churchtown",
+      "Rathgar",
+    ],
+    faqs: [
+      {
+        q: "What sells best in Rathfarnham?",
+        a: "Anything tied to older housing stock — windows, roofing, heating, rewiring, extensions, attic conversions. The houses are at the age where it all comes due.",
+      },
+      {
+        q: "Should we compete on price?",
+        a: "Rarely. This is a market that buys on evidence of similar work and on not having to worry about it.",
+      },
+      {
+        q: "Does the school calendar matter?",
+        a: "More than in most areas. Work clusters into summer and decisions into spring, and budget should follow that.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,500 with the second channel and a new website. Month to month, no setup fee, and ad spend goes directly to the platforms from your own account.",
+      },
+    ],
+  },
+  {
+    slug: "malahide",
+    name: "Malahide",
+    county: "Dublin",
+    countySlug: "dublin",
+    title: "Marketing Agency Malahide | Lead Generation, North Dublin",
+    description:
+      "A marketing agency working with Malahide businesses: Google Ads, Meta ads, SEO, web design and social, across coastal north Dublin.",
+    h1: "A marketing agency for Malahide businesses.",
+    intro: [
+      "Malahide is small, affluent and unusually self-contained. It has a genuine village centre that people visit deliberately, a marina, a strong food and hospitality scene, and households with money who prefer to spend it locally.",
+      "That combination is rare in Dublin and it changes the advertising: this is a market where reputation travels quickly and where looking cheap actively costs you work.",
+    ],
+    sections: [
+      {
+        heading: "A small market where word travels fast",
+        body: [
+          "The permanent population is modest by Dublin standards, which means reach is inexpensive and exhausts quickly — the same households will see you repeatedly within weeks.",
+          "It also means a bad job is known locally in days. The businesses that do well here are the ones with visible, recent, local proof, and reviews carry disproportionate weight.",
+        ],
+      },
+      {
+        heading: "Visitors are part of the market",
+        body: [
+          "Malahide draws people in from across north Dublin for food, the coast and the castle, particularly at weekends and through the summer.",
+          "For hospitality and retail that visiting trade is a second audience entirely, reachable before they travel rather than only when they arrive — and almost nobody here targets it deliberately.",
+        ],
+      },
+    ],
+    covers: [
+      "Malahide",
+      "Portmarnock",
+      "Kinsealy",
+      "Swords",
+      "Baldoyle",
+      "Sutton",
+      "Donabate",
+      "Howth",
+    ],
+    faqs: [
+      {
+        q: "Is the market too small?",
+        a: "Small in number and high in value. Reach is cheap and exhausts fast, so creative needs refreshing more often than in a larger area.",
+      },
+      {
+        q: "Should we compete on price?",
+        a: "Generally not. Looking cheap costs you work here, and the households will pay for finish and reliability.",
+      },
+      {
+        q: "Is the visitor trade worth targeting?",
+        a: "For hospitality and retail, genuinely — and they are reachable before they travel, which almost nobody does.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,500 with the second channel and a new website. Month to month, no setup fee, and ad spend goes directly to the platforms from your own account.",
+      },
+    ],
+  },
+  {
+    slug: "balbriggan",
+    name: "Balbriggan",
+    county: "Dublin",
+    countySlug: "dublin",
+    title: "Marketing Agency Balbriggan | Lead Generation, North Dublin",
+    description:
+      "A marketing agency working with Balbriggan businesses: Google Ads, Meta ads, SEO, web design and social, across north county Dublin.",
+    h1: "A marketing agency for Balbriggan businesses.",
+    intro: [
+      "Balbriggan is one of the youngest and fastest-growing towns in Ireland, and that single fact should shape everything a business here does. A very large share of households arrived in the last decade and have no established supplier for anything.",
+      "It is also more price-aware than the coastal towns to the south, and advertising written for Malahide will not work twenty minutes up the road.",
+    ],
+    sections: [
+      {
+        heading: "Everyone is new, and nobody has a usual anyone",
+        body: [
+          "A town that has grown this fast is full of households with no family plumber, no usual electrician and no salon they have always gone to. Every supplier is an open question.",
+          "That is the best position a local business can advertise into, and it puts unusual weight on reviews — a household that moved in last year has no other way to judge you.",
+        ],
+      },
+      {
+        heading: "Do not borrow the coastal playbook",
+        body: [
+          "Balbriggan is a different market from Malahide, Skerries or Rush despite being close to all of them. Incomes are lower, price sensitivity is higher, and value has to be visible.",
+          "Premium positioning that works further down the coast underperforms here. Clear pricing and obvious value do better, and pretending otherwise wastes budget.",
+        ],
+      },
+    ],
+    covers: [
+      "Balbriggan",
+      "Skerries",
+      "Rush",
+      "Lusk",
+      "Stamullen",
+      "Naul",
+      "Balrothery",
+      "Gormanston",
+    ],
+    faqs: [
+      {
+        q: "Why does Balbriggan need its own approach?",
+        a: "It is far younger, faster-growing and more price-aware than the coastal towns to the south. Advertising written for Malahide will not work here.",
+      },
+      {
+        q: "Are new households really the opportunity?",
+        a: "They are the whole opportunity. A town that grew this fast is full of people with no established supplier for anything.",
+      },
+      {
+        q: "Do reviews matter more here?",
+        a: "Considerably. To a household that arrived last year, reviews are the only evidence about you that exists.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,500 with the second channel and a new website. Month to month, no setup fee, and ad spend goes directly to the platforms from your own account.",
+      },
+    ],
+  },
+  {
+    slug: "dundrum",
+    name: "Dundrum",
+    county: "Dublin",
+    countySlug: "dublin",
+    title: "Marketing Agency Dundrum | Lead Generation, South Dublin",
+    description:
+      "A marketing agency working with Dundrum businesses: Google Ads, Meta ads, SEO, web design and social, across south Dublin.",
+    h1: "A marketing agency for Dundrum businesses.",
+    intro: [
+      "Dundrum has a retail centre that pulls shoppers from half of Dublin, which is a considerable advantage if you are inside it and a considerable problem if you are not.",
+      "The residential market around it is affluent, well served by the Luas, and heavily targeted by every competitor with a budget. It is one of the more expensive places in Ireland to advertise.",
+    ],
+    sections: [
+      {
+        heading: "Competing beside a gravity well",
+        body: [
+          "If you are a local business in Dundrum that is not in the shopping centre, you are competing for attention with a destination those households already visit.",
+          "For services that matters far less than people fear — nobody buys plumbing at a retail centre. For retail and food it is the central problem, and the answer is usually to be what the centre is not: local, specific and quick.",
+        ],
+      },
+      {
+        heading: "Expensive clicks, valuable customers",
+        body: [
+          "Advertising costs here are near the top of the Irish range, because the households are wealthy and every competitor knows it.",
+          "That makes conversion rate far more important than budget. At these prices a website converting at two per cent instead of five is wasting most of an expensive campaign, and we will look at that before recommending more spend.",
+        ],
+      },
+    ],
+    covers: [
+      "Dundrum",
+      "Churchtown",
+      "Windy Arbour",
+      "Goatstown",
+      "Stillorgan",
+      "Sandyford",
+      "Milltown",
+      "Clonskeagh",
+    ],
+    faqs: [
+      {
+        q: "Is Dundrum expensive to advertise in?",
+        a: "Near the top of the Irish range. The households are wealthy and every competitor is bidding on them.",
+      },
+      {
+        q: "Does the shopping centre hurt local businesses?",
+        a: "For retail and food it is the central challenge. For services it barely matters — nobody buys a plumber at a retail centre.",
+      },
+      {
+        q: "What matters most here?",
+        a: "Conversion rate. At these click prices, fixing the website is worth more than increasing the budget.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,500 with the second channel and a new website. Month to month, no setup fee, and ad spend goes directly to the platforms from your own account.",
+      },
+    ],
+  },
+  {
+    slug: "navan",
+    name: "Navan",
+    county: "Meath",
+    countySlug: "meath",
+    title: "Marketing Agency Navan | Lead Generation, Co. Meath",
+    description:
+      "A marketing agency working with Navan businesses: Google Ads, Meta ads, SEO, web design and social, across Navan and central Meath.",
+    h1: "A marketing agency for Navan businesses.",
+    intro: [
+      "Navan is the county town and one of the few large Meath towns with a real economy of its own rather than a dormitory one. It has retail, industry, services and a catchment that reaches across central Meath.",
+      "That makes it a genuinely different market from Ashbourne or Ratoath twenty minutes east, which are commuter towns first and everything else second.",
+    ],
+    sections: [
+      {
+        heading: "A working town, not a dormitory",
+        body: [
+          "Navan households are more likely to work locally than those in east Meath, which changes when they are available, how they buy and what they are willing to pay.",
+          "It also means the town has its own business-to-business demand — suppliers, trades and services selling to other Navan businesses — which is thinner in the commuter towns and largely uncontested online.",
+        ],
+      },
+      {
+        heading: "Your catchment is central Meath",
+        body: [
+          "People travel into Navan from Kells, Trim, Athboy and Dunshaughlin for things they cannot get closer, which gives a business here a catchment several times the town's own population.",
+          "Most local advertising targets Navan and stops. Widening to the towns that actually feed into it is usually the cheapest improvement available.",
+        ],
+      },
+    ],
+    covers: [
+      "Navan",
+      "Kells",
+      "Trim",
+      "Athboy",
+      "Dunshaughlin",
+      "Slane",
+      "Bective",
+      "Robinstown",
+    ],
+    faqs: [
+      {
+        q: "Is Navan different from east Meath?",
+        a: "Substantially. It is a working town with its own economy; Ashbourne and Ratoath are commuter towns with Dublin incomes and Dublin expectations.",
+      },
+      {
+        q: "How wide is the catchment?",
+        a: "Central Meath — Kells, Trim, Athboy and Dunshaughlin all feed into Navan, which most local advertising ignores.",
+      },
+      {
+        q: "Is there B2B demand?",
+        a: "More than in the commuter towns, and largely uncontested online. Worth a separate campaign if you sell to businesses.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,500 with the second channel and a new website. Month to month, no setup fee, and ad spend goes directly to the platforms from your own account.",
+      },
+    ],
+  },
+  {
+    slug: "ashbourne",
+    name: "Ashbourne",
+    county: "Meath",
+    countySlug: "meath",
+    title: "Marketing Agency Ashbourne | Lead Generation, Co. Meath",
+    description:
+      "A marketing agency working with Ashbourne businesses: Google Ads, Meta ads, SEO, web design and social, across east Meath.",
+    h1: "A marketing agency for Ashbourne businesses.",
+    intro: [
+      "Ashbourne is Dublin commuter belt in everything but the postal address. It sits on the N2, its households work in the city, and both incomes and advertising costs sit far closer to north Dublin than to the rest of Meath.",
+      "A business here is competing with Dublin firms bidding into the town while pricing jobs at Meath rates, which is a squeeze worth understanding before setting a budget.",
+    ],
+    sections: [
+      {
+        heading: "Dublin costs, Meath prices",
+        body: [
+          "Dublin-based competitors advertise into Ashbourne routinely, which pushes click prices up while local job values have not moved to match.",
+          "The response is tighter targeting and better conversion rather than higher bids. A business here that answers within the hour and has a site that converts will beat a larger Dublin budget consistently.",
+        ],
+      },
+      {
+        heading: "Commuter households buy certainty",
+        body: [
+          "The people here have less time than money and almost no patience for being messed about. They want a definite date, a clear price and someone who turns up.",
+          "That is what the advertising should promise, and it is a far better argument than being cheapest — which in this town is not what they are shopping for anyway.",
+        ],
+      },
+    ],
+    covers: [
+      "Ashbourne",
+      "Ratoath",
+      "Dunboyne",
+      "Dunshaughlin",
+      "Curragha",
+      "Kilbride",
+      "Donabate",
+      "Swords",
+    ],
+    faqs: [
+      {
+        q: "Is Ashbourne expensive to advertise in?",
+        a: "Approaching north Dublin prices, because Dublin firms bid into it while local job values have not moved to match.",
+      },
+      {
+        q: "How do we compete with Dublin firms?",
+        a: "On response speed and local presence. A Dublin competitor cannot be around the corner and cannot ring back in twenty minutes.",
+      },
+      {
+        q: "Should Ashbourne and Navan share a campaign?",
+        a: "No. They are different markets with different incomes, different competition and different expectations.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,500 with the second channel and a new website. Month to month, no setup fee, and ad spend goes directly to the platforms from your own account.",
+      },
+    ],
+  },
+  {
+    slug: "ratoath",
+    name: "Ratoath",
+    county: "Meath",
+    countySlug: "meath",
+    title: "Marketing Agency Ratoath | Lead Generation, Co. Meath",
+    description:
+      "A marketing agency working with Ratoath businesses: Google Ads, Meta ads, SEO, web design and social, across east Meath.",
+    h1: "A marketing agency for Ratoath businesses.",
+    intro: [
+      "Ratoath has grown from a village into one of the most affluent commuter settlements in Leinster in about two decades, and it is almost entirely residential. There is very little local commercial base.",
+      "That makes it an unusual market: a great deal of household spending power, very few local businesses competing for it, and most of it currently leaking to Ashbourne, Swords and Dublin.",
+    ],
+    sections: [
+      {
+        heading: "Money that currently leaves the village",
+        body: [
+          "The households here have real spending power and very few local options, so most of what they buy is bought elsewhere by default rather than by preference.",
+          "For a service business that is an open goal — nobody prefers to drive to Swords for a tradesperson. The job is simply being visible and available, and very few businesses here are doing it.",
+        ],
+      },
+      {
+        heading: "A tight community that talks",
+        body: [
+          "Ratoath's size and age profile mean the community networks are unusually strong — school gates, clubs and estate groups carry a great deal of recommendation traffic.",
+          "Paid social reaches the same households cheaply while you earn those recommendations honestly. It is the better channel here by a distance, because local search volume is thin.",
+        ],
+      },
+    ],
+    covers: [
+      "Ratoath",
+      "Ashbourne",
+      "Dunshaughlin",
+      "Dunboyne",
+      "Curragha",
+      "Fairyhouse",
+      "Kilbride",
+      "Batterstown",
+    ],
+    faqs: [
+      {
+        q: "Is Ratoath big enough to advertise in?",
+        a: "The population is modest and the spending power is not. Local search volume is thin, which is why Meta usually carries more weight than Google here.",
+      },
+      {
+        q: "Why does spending leave the town?",
+        a: "Because there are very few local options, not because people prefer to travel. For services that is an opportunity rather than a problem.",
+      },
+      {
+        q: "Do community networks matter?",
+        a: "A great deal. We cannot post into them; we reach the same households with budget while you earn the recommendations.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,500 with the second channel and a new website. Month to month, no setup fee, and ad spend goes directly to the platforms from your own account.",
+      },
+    ],
+  },
+  {
+    slug: "trim",
+    name: "Trim",
+    county: "Meath",
+    countySlug: "meath",
+    title: "Marketing Agency Trim | Lead Generation, Co. Meath",
+    description:
+      "A marketing agency working with Trim businesses: Google Ads, Meta ads, SEO, web design and social, across west Meath and the Boyne valley.",
+    h1: "A marketing agency for Trim businesses.",
+    intro: [
+      "Trim is a heritage town with a genuine visitor economy and an agricultural hinterland, and it is far enough west that the Dublin commuter effect thins out considerably.",
+      "That makes it cheaper to advertise in than east Meath and a slower, more relationship-led market — which suits some businesses very well and others not at all.",
+    ],
+    sections: [
+      {
+        heading: "Two economies, one small town",
+        body: [
+          "Trim runs on local and agricultural trade all year, with a visitor layer on top that concentrates into summer and around events.",
+          "Businesses touching tourism should not budget like businesses that do not, and several here do both. Separating the two rather than averaging them is the first thing we do on a Trim account.",
+        ],
+      },
+      {
+        heading: "Cheap to reach, slow to convince",
+        body: [
+          "Competition is light and clicks are inexpensive, so visibility is affordable in a way it is not twenty minutes east.",
+          "What takes longer is trust. This is a market where people ask around before they ring, so reviews and visible local work do more than any amount of budget.",
+        ],
+      },
+    ],
+    covers: [
+      "Trim",
+      "Athboy",
+      "Summerhill",
+      "Longwood",
+      "Enfield",
+      "Kildalkey",
+      "Rathmolyon",
+      "Navan",
+    ],
+    faqs: [
+      {
+        q: "Is Trim cheaper to advertise in than Ashbourne?",
+        a: "Considerably. The Dublin commuter effect thins out this far west and competition is much lighter.",
+      },
+      {
+        q: "Does the tourism trade matter?",
+        a: "For the businesses it touches, seasonally and genuinely. For a plumber, not at all — and they should not share a campaign.",
+      },
+      {
+        q: "How quickly does it work?",
+        a: "Visibility is fast and cheap. Trust takes longer, because people here ask around before they ring.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,500 with the second channel and a new website. Month to month, no setup fee, and ad spend goes directly to the platforms from your own account.",
+      },
+    ],
+  },
+  {
+    slug: "leixlip",
+    name: "Leixlip",
+    county: "Kildare",
+    countySlug: "kildare",
+    title: "Marketing Agency Leixlip | Lead Generation, Co. Kildare",
+    description:
+      "A marketing agency working with Leixlip businesses: Google Ads, Meta ads, SEO, web design and social, across north Kildare.",
+    h1: "A marketing agency for Leixlip businesses.",
+    intro: [
+      "Leixlip is unlike anywhere else in Kildare because of who works there. Large technology and manufacturing employers have given the town an unusually high-earning, international and transient population.",
+      "That last word matters commercially: a meaningful share of households here are on multi-year postings rather than settled for life, and they buy accordingly.",
+    ],
+    sections: [
+      {
+        heading: "A transient, high-earning population",
+        body: [
+          "Households on fixed-term postings rent rather than buy, furnish quickly, use services heavily and leave. They are excellent customers for anything short-cycle and poor ones for anything requiring a ten-year relationship.",
+          "They also arrive knowing nobody, which means they choose almost entirely on what they find online and on reviews written in English by strangers. Being findable matters more here than being long-established.",
+        ],
+      },
+      {
+        heading: "The employers themselves are a market",
+        body: [
+          "The large sites around Leixlip and their supplier networks generate substantial business-to-business demand — facilities, catering, maintenance, IT, logistics, professional services.",
+          "That is a slower, larger sale than consumer work and it should be run as its own campaign rather than bolted onto one.",
+        ],
+      },
+    ],
+    covers: [
+      "Leixlip",
+      "Celbridge",
+      "Maynooth",
+      "Lucan",
+      "Confey",
+      "Collinstown",
+      "Kilcock",
+      "Clonsilla",
+    ],
+    faqs: [
+      {
+        q: "What makes Leixlip different?",
+        a: "Its employers. High-earning, international and partly transient households that buy differently from settled ones.",
+      },
+      {
+        q: "Does a transient population help or hurt?",
+        a: "Both. Excellent for short-cycle services, poor for anything needing a decade-long relationship — and they choose almost entirely on what they find online.",
+      },
+      {
+        q: "Is there B2B demand?",
+        a: "Substantial, through the large employers and their supplier networks. It deserves its own campaign.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,500 with the second channel and a new website. Month to month, no setup fee, and ad spend goes directly to the platforms from your own account.",
+      },
+    ],
+  },
+  {
+    slug: "athy",
+    name: "Athy",
+    county: "Kildare",
+    countySlug: "kildare",
+    title: "Marketing Agency Athy | Lead Generation, South Kildare",
+    description:
+      "A marketing agency working with Athy businesses: Google Ads, Meta ads, SEO, web design and social, across south Kildare and north Carlow.",
+    h1: "A marketing agency for Athy businesses.",
+    intro: [
+      "Athy is a market town with an agricultural hinterland, and it is far enough from Dublin that the commuter effect which shapes north Kildare barely reaches it. Incomes, prices and expectations are all closer to Carlow than to Naas.",
+      "It also sits close enough to the county boundary that a great deal of its trade crosses it, which most local advertising ignores entirely.",
+    ],
+    sections: [
+      {
+        heading: "This is not north Kildare",
+        body: [
+          "Advertising written for Naas or Newbridge will not work in Athy. The commuter incomes are not here, price sensitivity is higher, and the pace of decision is slower.",
+          "What works is clear pricing, visible local work and patience. What does not is premium positioning borrowed from a town forty minutes up the road.",
+        ],
+      },
+      {
+        heading: "Your market crosses into Carlow and Laois",
+        body: [
+          "Athy's natural catchment reaches into Carlow town, Castledermot, Stradbally and Ballylinan, and customers pay no attention to which county they are in.",
+          "Naming those places explicitly — on the website and in the targeting — regularly produces enquiries from people who assumed the business did not cover them.",
+        ],
+      },
+    ],
+    covers: [
+      "Athy",
+      "Castledermot",
+      "Ballylinan",
+      "Monasterevin",
+      "Kilkea",
+      "Stradbally",
+      "Carlow town",
+      "Kildare town",
+    ],
+    faqs: [
+      {
+        q: "Is Athy like the rest of Kildare?",
+        a: "No. The commuter effect that shapes Naas and Newbridge barely reaches it, and incomes and expectations are closer to Carlow.",
+      },
+      {
+        q: "Should we advertise into Carlow and Laois?",
+        a: "Almost certainly. Athy's catchment crosses both boundaries and customers pay no attention to county lines.",
+      },
+      {
+        q: "Does premium positioning work here?",
+        a: "Generally not. Clear pricing and visible local work do better than the messaging that suits north Kildare.",
+      },
+      {
+        q: "What does it cost?",
+        a: "€1,500 a month with everything included, or €2,500 with the second channel and a new website. Month to month, no setup fee, and ad spend goes directly to the platforms from your own account.",
       },
     ],
   },
