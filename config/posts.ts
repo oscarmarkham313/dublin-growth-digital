@@ -27,7 +27,7 @@ export const posts: Post[] = [
     slug: "solar-lead-cost-ireland",
     title: "What does a solar lead cost in Ireland in 2026?",
     description:
-      "Real ranges for Meta and Google solar leads in Ireland, why shared leads look cheap and cost more, and the four questions a lead form should ask before an installer picks up the phone.",
+      "Real ranges for Meta and Google solar leads in Ireland, why shared leads look cheap and cost more, and what a lead form should ask before you ring.",
     date: "2026-09-07",
     minutes: 6,
     intro:
@@ -72,9 +72,9 @@ export const posts: Post[] = [
   },
   {
     slug: "estate-agents-vendor-instructions-meta-ads",
-    title: "How Irish estate agents win more vendor instructions with Meta ads",
+    title: "How estate agents win vendor instructions with Meta ads",
     description:
-      "The seller decides in the last week. The agency that wins the instruction spent the six months before it in the homeowner's feed. How vendor campaigns work, what they cost and what to measure.",
+      "The seller decides in the last week. The agency that wins the instruction spent the six months before it in the homeowner's feed.",
     date: "2026-09-07",
     minutes: 7,
     intro:
@@ -113,9 +113,9 @@ export const posts: Post[] = [
   },
   {
     slug: "roofing-leads-ireland-without-junk-enquiries",
-    title: "Roofers: how to get roofing leads in Ireland without paying for junk",
+    title: "How to get roofing leads in Ireland without the junk",
     description:
-      "Why roofing is searched for and not scrolled for, how to keep tyre-kickers out of the phone, what a roofing lead costs on Google and Meta, and the map-box fix most roofers never make.",
+      "How to keep tyre-kickers off the phone, what a roofing lead costs on Google and Meta, and the map-box fix most Irish roofers never make.",
     date: "2026-09-07",
     minutes: 6,
     intro:
@@ -154,7 +154,7 @@ export const posts: Post[] = [
   },
   {
     slug: "the-friday-report",
-    title: "The Friday report: the only marketing number a trades business needs",
+    title: "The only marketing number a trades business needs",
     description:
       "Why we send one number a week instead of a dashboard, what goes on the page, and how to tell within a month whether a marketing agency is working for you.",
     date: "2026-09-07",
@@ -243,7 +243,7 @@ export const posts: Post[] = [
     slug: "roofing-lead-cost-ireland",
     title: "What should a roofing lead cost in Ireland?",
     description:
-      "Real ranges for Meta and Google roofing leads in Ireland, why storm weeks change the maths entirely, and why cost per lead is the wrong number to judge a campaign on.",
+      "Real ranges for Meta and Google roofing leads in Ireland, why storm weeks change the maths, and why cost per lead is the wrong number to judge on.",
     date: "2026-09-22",
     minutes: 6,
     intro:
@@ -297,7 +297,7 @@ export const posts: Post[] = [
     slug: "google-ads-or-facebook-ads-for-trades",
     title: "Google Ads or Facebook ads for a trades business?",
     description:
-      "The honest difference for an Irish trade: Google catches demand that already exists, Meta creates it. Which one to start with, and how to tell when you have picked wrong.",
+      "The honest difference for an Irish trade: Google catches demand that already exists, Meta creates it.",
     date: "2026-09-22",
     minutes: 7,
     intro:
@@ -561,9 +561,9 @@ export const posts: Post[] = [
   },
   {
     slug: "nct-marketing-calendar-garages",
-    title: "The NCT is the best marketing calendar in Ireland, and no garage uses it",
+    title: "The NCT is the best marketing calendar no garage uses",
     description:
-      "Every car in the country has a test date, a proportion fail, and every failure is urgent repair work with a legal deadline. Almost no Irish garage advertises against it.",
+      "Every car in the country has a test date, a proportion fail, and every failure is urgent repair work with a legal deadline.",
     date: "2026-09-22",
     minutes: 5,
     intro:
@@ -649,7 +649,7 @@ export const posts: Post[] = [
     slug: "what-solicitors-can-say-in-advertising-ireland",
     title: "What solicitors can and cannot say in their advertising",
     description:
-      "Irish solicitors' advertising is governed by professional rules, and personal injury advertising is restricted specifically. What that leaves you free to do is more than most firms use.",
+      "Irish solicitors' advertising is governed by professional rules, and personal injury advertising is restricted specifically.",
     date: "2026-09-22",
     minutes: 6,
     intro:
@@ -697,7 +697,7 @@ export const posts: Post[] = [
     slug: "why-storm-weeks-decide-a-roofers-year",
     title: "Why storm weeks decide a roofer's year",
     description:
-      "A handful of days after a named storm produce the highest-intent, least price-sensitive enquiries a roofer ever sees. Capturing them is a preparation problem, not a budget one.",
+      "A handful of days after a named storm produce the highest-intent, least price-sensitive enquiries a roofer ever sees.",
     date: "2026-09-22",
     minutes: 5,
     intro:
@@ -783,7 +783,7 @@ export const posts: Post[] = [
     slug: "shared-solar-leads-ireland",
     title: "Why solar leads sold to four installers cost more than they look",
     description:
-      "Shared lead sites sell the same homeowner to several Irish installers at once. The price per lead looks reasonable until you work out what winning one actually costs.",
+      "Shared lead sites sell the same homeowner to several Irish installers at once.",
     date: "2026-09-22",
     minutes: 5,
     intro:
@@ -824,7 +824,7 @@ export const posts: Post[] = [
     slug: "questions-a-heat-pump-enquiry-form-must-ask",
     title: "The four questions a heat pump enquiry form has to ask",
     description:
-      "Heat pump enquiries fail on suitability far more often than on price. Four questions asked before the assessment will save an Irish installer more money than any bid adjustment.",
+      "Heat pump enquiries fail on suitability far more often than price. Four questions asked before the assessment will save an installer real money.",
     date: "2026-09-22",
     minutes: 5,
     intro:
@@ -950,7 +950,7 @@ export const posts: Post[] = [
   },
   {
     slug: "what-a-tradesman-can-afford-to-win-a-job",
-    title: "How much can a tradesman actually afford to spend winning one job?",
+    title: "What can a tradesman afford to spend winning one job?",
     description:
       "A simple calculation that settles most arguments about whether advertising is working, using numbers any Irish trade already knows.",
     date: "2026-09-22",
@@ -1074,7 +1074,7 @@ export const posts: Post[] = [
   },
   {
     slug: "google-profile-beats-your-website",
-    title: "For most Irish trades, your Google profile matters more than your website",
+    title: "Your Google profile matters more than your website",
     description:
       "It is free, it takes an afternoon, and for a local trade it will usually produce more calls than a redesign. Most profiles are half-finished.",
     date: "2026-09-22",
@@ -1163,7 +1163,7 @@ export const posts: Post[] = [
   },
   {
     slug: "what-to-photograph-on-a-job",
-    title: "What to photograph on a job, and why it beats anything we could write",
+    title: "What to photograph on a job, and why it beats our writing",
     description:
       "Your phone camera is the most valuable marketing tool on the van. A short list of what to capture and what to avoid.",
     date: "2026-09-22",
@@ -1333,7 +1333,7 @@ export const posts: Post[] = [
   },
   {
     slug: "lead-versus-enquiry",
-    title: "A lead and an enquiry are not the same thing, and confusing them costs money",
+    title: "A lead and an enquiry are not the same thing",
     description:
       "Two words used interchangeably across Irish marketing, describing two different things with different values. The distinction decides what you should pay.",
     date: "2026-09-22",
@@ -1367,7 +1367,7 @@ export const posts: Post[] = [
   },
   {
     slug: "what-vets-should-advertise",
-    title: "What a veterinary practice should advertise, and it is not services",
+    title: "What a veterinary practice should advertise",
     description:
       "Most practice marketing promotes vaccinations and dental month. The practices that grow advertise something else entirely.",
     date: "2026-09-22",
@@ -1490,7 +1490,7 @@ export const posts: Post[] = [
   },
   {
     slug: "first-ten-minutes-after-an-enquiry",
-    title: "What happens in the first ten minutes after an enquiry decides whether you win it",
+    title: "The first ten minutes after an enquiry decide the job",
     description:
       "Speed of response is the cheapest competitive advantage available to an Irish trade, and most are losing on it without knowing.",
     date: "2026-09-22",
@@ -1535,7 +1535,7 @@ export const posts: Post[] = [
   },
   {
     slug: "facebook-ads-didnt-work-for-us",
-    title: "“We tried Facebook ads and they didn’t work” is usually true. Here is why.",
+    title: "Why Facebook ads did not work for you, and why that is normal",
     description:
       "Almost every Irish business that says this is telling the truth. The reasons are consistent and none of them are that the platform does not work.",
     date: "2026-09-22",
@@ -1975,7 +1975,7 @@ export const posts: Post[] = [
   },
   {
     slug: "why-your-competitor-outranks-you",
-    title: "Why your competitor outranks you, and what it actually takes to pass them",
+    title: "Why your competitor outranks you, and how to pass them",
     description:
       "Four reasons, three of which are fixable. How to work out which one applies to you in about twenty minutes.",
     date: "2026-09-22",
@@ -2226,7 +2226,7 @@ export const posts: Post[] = [
     slug: "how-to-answer-a-bad-review",
     title: "How to answer a bad review without making it worse",
     description:
-      "A practical method for replying to a negative Google review: what to say, what never to say, and why the reply is written for the people reading it rather than for the reviewer.",
+      "How to reply to a negative Google review: what to say, what never to say, and why the reply is written for everyone reading it, not the reviewer.",
     date: "2026-09-23",
     minutes: 6,
     intro:
@@ -2281,7 +2281,7 @@ export const posts: Post[] = [
     slug: "should-you-buy-shared-leads",
     title: "Should you buy shared leads?",
     description:
-      "What shared lead platforms actually sell, why a €15 lead sold to four contractors is more expensive than a €60 exclusive one, and the narrow cases where buying them makes sense.",
+      "What lead platforms actually sell, why a €15 lead sold to four contractors costs more than a €60 exclusive one, and when buying them does make sense.",
     date: "2026-09-23",
     minutes: 6,
     intro:

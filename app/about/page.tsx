@@ -4,7 +4,7 @@ import Reveal from "@/components/Reveal";
 import MagneticButton from "@/components/MagneticButton";
 
 export const metadata: Metadata = {
-  title: "About Dublin Growth Digital: a Small Dublin Agency, Straight Answers",
+  title: "About Dublin Growth Digital | A Small Dublin Agency",
   description:
     "Dublin Growth Digital is a small Dublin marketing agency working with Irish businesses in every county, reporting in enquiries and booked jobs, never in impressions.",
   alternates: { canonical: "/about/" },

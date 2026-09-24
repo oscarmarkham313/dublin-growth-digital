@@ -7,7 +7,7 @@ import Reveal from "@/components/Reveal";
 export const metadata: Metadata = {
   title: "Results & Case Studies: Irish Estate Agents, Trades and Services",
   description:
-    "Case studies from Irish estate agencies, trades and service businesses: vendor enquiries, leads, cost per lead and revenue produced by Dublin Growth Digital campaigns.",
+    "Case studies from Irish estate agencies, trades and service businesses: enquiries, cost per lead and revenue produced by our campaigns.",
   alternates: { canonical: "/results/" },
 };
 

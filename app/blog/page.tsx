@@ -8,7 +8,7 @@ import JsonLd from "@/components/JsonLd";
 export const metadata: Metadata = {
   title: "Blog | Lead Generation & Marketing for Irish Trades and Agents",
   description:
-    "Plain-English guides on lead generation for Irish estate agents, solar installers, roofers and trades: what leads cost, what to measure and how to fix the Google map box.",
+    "Plain-English guides on lead generation for Irish trades and agents: what leads cost, what to measure, and how to fix your Google map box.",
   alternates: { canonical: "/blog/" },
 };
 

@@ -30,7 +30,7 @@ export async function generateMetadata({
   const p = servicePageBy(slug, service);
   if (!p) return {};
   return {
-    title: { absolute: `${p.title} | Dublin Growth Digital` },
+    title: p.title,
     description: p.description,
     alternates: { canonical: `/locations/${p.countySlug}/${p.serviceSlug}/` },
     openGraph: {

@@ -24,9 +24,11 @@ export async function generateMetadata({
   const c = countyBySlug(slug);
   if (!c) return {};
   const title = `Digital Marketing Agency ${c.name} | Lead Generation & Ads`;
-  const description = `Lead generation, Meta ads, Google Ads, SEO and web design for businesses in ${c.name}: ${c.towns.slice(0, 4).join(", ")} and across the county. Reported in enquiries and booked work. From €1,500 a month.`;
+  // Kept under ~160 characters so Google shows it whole. The previous
+  // version ran to about 220 and was cut off mid-sentence in results.
+  const description = `Lead generation and digital marketing for businesses in ${c.name}: ${c.towns.slice(0, 3).join(", ")}. Reported in enquiries, not impressions.`;
   return {
-    title: { absolute: `${title} | Dublin Growth Digital` },
+    title,
     description,
     alternates: { canonical: `/locations/${c.slug}/` },
     // Thin templated county pages are kept out of search — see

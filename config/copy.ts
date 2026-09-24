@@ -16,7 +16,7 @@ export const site = {
   formspree: "https://formspree.io/f/meendppv",
   whopCheckout: "https://whop.com/checkout/plan_EeyocfGbLALyC/",
   metaDescription:
-    "Dublin Growth Digital is a lead generation and digital marketing agency for Irish businesses: Meta ads, Google Ads, SEO and web design for estate agents, solar installers, roofers and trades, run from Dublin for every county in Ireland.",
+    "Lead generation and digital marketing for Irish businesses: Meta ads, Google Ads, SEO and web design, run from Dublin for every county in Ireland.",
 };
 
 export const nav = {

@@ -44,7 +44,7 @@ const limerickDigitalMarketing: ServicePage = {
   serviceSlug: "digital-marketing",
   title: "Digital Marketing Limerick | Agency for Limerick Businesses",
   description:
-    "A digital marketing agency working with Limerick businesses: Google Ads, Meta ads, SEO, web design and social, from Limerick city and Castletroy to Newcastle West and Adare. Reported in enquiries, not impressions.",
+    "A digital marketing agency for Limerick businesses: Google Ads, Meta ads, SEO, web design and social, from the city to Newcastle West and Adare.",
   h1: "Digital marketing in Limerick, measured in enquiries.",
   intro: [
     "Limerick is not one market, and campaigns that treat it as one waste most of their budget. The city and its suburbs — Castletroy, Dooradoyle, Raheen, Corbally, Annacotty — behave like a mid-sized urban catchment with a young population, two large third-level campuses and a steady flow of people moving in for work. West Limerick, out through Newcastle West, Abbeyfeale and Rathkeale, is a different economy entirely: smaller towns, longer travel distances, and businesses whose customers come from three or four parishes rather than three or four postcodes.",
@@ -181,7 +181,7 @@ const limerickSocial: ServicePage = {
   serviceSlug: "social-media-marketing",
   title: "Social Media Marketing Limerick | Managed Social & Paid Ads",
   description:
-    "Social media marketing for Limerick businesses: Facebook and Instagram content and paid campaigns, managed end to end. From Limerick city and Castletroy to Newcastle West and Adare.",
+    "Social media marketing for Limerick businesses: Facebook and Instagram content and paid campaigns, managed end to end.",
   h1: "Social media marketing in Limerick that produces customers, not followers.",
   intro: [
     "Social media works unusually well in Limerick, and the reason is size. It is a county where a good recommendation still travels through community pages, parish groups and local buy-and-sell forums faster than through any advertising platform. A single well-received post about a job done well in Castletroy or Newcastle West reaches people no targeting setting can buy.",
@@ -300,7 +300,7 @@ const limerickWeb: ServicePage = {
   serviceSlug: "web-design",
   title: "Web Design Limerick | Website Design & Development, €1,500",
   description:
-    "Web design and development for Limerick businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500. No monthly fee and you own every file.",
+    "Web design and development for Limerick businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500.",
   h1: "Web design and development for Limerick businesses.",
   intro: [
     "Limerick businesses lose enquiries to geography more than to design. A site that never names Castletroy, Raheen, Newcastle West or Abbeyfeale leaves a searcher guessing whether they are even in range, and most of them will not ring to find out.",
@@ -399,7 +399,7 @@ const kildareDigitalMarketing: ServicePage = {
   serviceSlug: "digital-marketing",
   title: "Digital Marketing Kildare | Agency for Kildare Businesses",
   description:
-    "A digital marketing agency working with Kildare businesses: Google Ads, Meta ads, SEO, web design and social, from Naas and Newbridge to Maynooth, Celbridge and Athy. Reported in enquiries, not impressions.",
+    "A digital marketing agency for Kildare businesses: Google Ads, Meta ads, SEO, web design and social, from Naas and Newbridge to Maynooth and Athy.",
   h1: "Digital marketing in Kildare, measured in enquiries.",
   intro: [
     "Kildare is a commuter county, and that one fact changes how a business here gets found. Leixlip, Celbridge, Maynooth, Naas and Sallins run on Dublin salaries and Dublin hours. The people you want as customers leave before eight and get home after six, and they do their looking on a phone somewhere in between — on a platform, in a car park, at a kitchen table at half nine at night. They are not browsing at leisure on a laptop on a Tuesday afternoon.",
@@ -536,7 +536,7 @@ const kildareSocial: ServicePage = {
   serviceSlug: "social-media-marketing",
   title: "Social Media Marketing Kildare | Managed Social & Paid Ads",
   description:
-    "Social media marketing for Kildare businesses: Facebook and Instagram content and paid campaigns, managed end to end. Naas, Newbridge, Maynooth, Celbridge, Leixlip and across the county.",
+    "Social media marketing for Kildare businesses: Facebook and Instagram content and paid campaigns, managed end to end.",
   h1: "Social media marketing in Kildare that produces customers, not followers.",
   intro: [
     "Kildare has an unusual amount of community online. Estate pages, town pages, parish and GAA club pages, buy-and-sell groups for Naas and Newbridge and Maynooth — they are large, active and genuinely read. A recommendation in one of them still travels further than anything you can buy.",
@@ -655,7 +655,7 @@ const kildareWeb: ServicePage = {
   serviceSlug: "web-design",
   title: "Web Design Kildare | Website Design & Development, €1,500",
   description:
-    "Web design and development for Kildare businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500. No monthly fee and you own every file.",
+    "Web design and development for Kildare businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500.",
   h1: "Web design and development for Kildare businesses.",
   intro: [
     "Kildare households do their looking on a phone, late, usually while doing something else. A site built to be admired on a desktop does not survive a platform at Sallins or a kitchen table at half nine, and the enquiry quietly does not happen.",
@@ -754,7 +754,7 @@ const corkDigitalMarketing: ServicePage = {
   serviceSlug: "digital-marketing",
   title: "Digital Marketing Cork | Agency for Cork Businesses",
   description:
-    "A digital marketing agency working with Cork businesses: Google Ads, Meta ads, SEO, web design and social, from Cork city and Douglas to Midleton, Bandon and West Cork. Reported in enquiries, not impressions.",
+    "A digital marketing agency for Cork businesses: Google Ads, Meta ads, SEO, web design and social, from the city to Midleton, Bandon and west Cork.",
   h1: "Digital marketing in Cork, measured in enquiries.",
   intro: [
     "Cork does not behave like the rest of the country, and any agency that treats it as one more county on a list will waste your money. It is a real second city with its own established agencies, its own media, and a genuine preference for dealing with Cork firms. That preference is not sentiment — it is a reasonable instinct that someone local will understand the market better.",
@@ -891,7 +891,7 @@ const corkSocial: ServicePage = {
   serviceSlug: "social-media-marketing",
   title: "Social Media Marketing Cork | Managed Social & Paid Ads",
   description:
-    "Social media marketing for Cork businesses: Facebook and Instagram content and paid campaigns, managed end to end. Cork city, Douglas, Midleton, Bandon, Clonakilty and across the county.",
+    "Social media marketing for Cork businesses: Facebook and Instagram content and paid campaigns, managed end to end.",
   h1: "Social media marketing in Cork that produces customers, not followers.",
   intro: [
     "Social works harder in Cork than in almost any county in Ireland, and the reason is community. Town and parish pages from Midleton to Bantry are large, active and genuinely read, and Cork people are unusually willing to recommend a business publicly. A single post about a job done well in Clonakilty reaches people no targeting setting could buy.",
@@ -1010,7 +1010,7 @@ const corkWeb: ServicePage = {
   serviceSlug: "web-design",
   title: "Web Design Cork | Website Design & Development, €1,500",
   description:
-    "Web design and development for Cork businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500. No monthly fee and you own every file.",
+    "Web design and development for Cork businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500.",
   h1: "Web design and development for Cork businesses.",
   intro: [
     "Most Cork businesses that come to us do not have a traffic problem. People are already finding them — through search, through the map results, through a recommendation in a town page — and then leaving without getting in touch. The site is slow, awkward on a phone, the number is buried, and it describes the business at length without ever asking anyone to act.",
@@ -1110,7 +1110,7 @@ const dublinDigitalMarketing: ServicePage = {
   serviceSlug: "digital-marketing",
   title: "Digital Marketing Dublin | Agency for Dublin Businesses",
   description:
-    "A Dublin digital marketing agency for Dublin businesses: Google Ads, Meta ads, SEO, web design and social, from the city centre to Swords, Tallaght, Dun Laoghaire and Blanchardstown. Reported in enquiries.",
+    "A Dublin digital marketing agency: Google Ads, Meta ads, SEO, web design and social, from the city centre to Swords, Tallaght and Blanchardstown.",
   h1: "Digital marketing in Dublin, measured in enquiries.",
   intro: [
     "Dublin is the most expensive and most contested advertising market in Ireland, and it is not close. Every agency in the country targets it, national brands bid on the same keywords as your local business, and a click here can cost several times what the identical search costs in Mayo. None of that is a reason to avoid it — it is the largest concentration of customers in the country — but it does mean a Dublin campaign built like a national one will burn through a budget with very little to show.",
@@ -1247,7 +1247,7 @@ const dublinSocial: ServicePage = {
   serviceSlug: "social-media-marketing",
   title: "Social Media Marketing Dublin | Managed Social & Paid Ads",
   description:
-    "Social media marketing for Dublin businesses: Facebook and Instagram content and paid campaigns, managed end to end. City centre, Southside, Northside and across the county.",
+    "Social media marketing for Dublin businesses: Facebook and Instagram content and paid campaigns, managed end to end.",
   h1: "Social media marketing in Dublin that produces customers, not followers.",
   intro: [
     "Social is frequently the better value channel in Dublin, and the reason is simple arithmetic: everyone is fighting over search. Google click prices here are the highest in the country, while the cost of reaching the same person on Facebook or Instagram is a fraction of it. For a lot of Dublin businesses the sensible move is to let the national brands outbid each other on search and go where they are not looking.",
@@ -1366,7 +1366,7 @@ const dublinWeb: ServicePage = {
   serviceSlug: "web-design",
   title: "Web Design Dublin | Website Design & Development, €1,500",
   description:
-    "Web design and development for Dublin businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500. No monthly fee and you own every file.",
+    "Web design and development for Dublin businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500.",
   h1: "Web design and development for Dublin businesses.",
   intro: [
     "In Dublin you have already paid a premium for every visitor before they arrive, which makes a site that loses them expensive in a way it simply is not elsewhere. The same bounce costs multiples of what it costs in Waterford.",
@@ -1457,7 +1457,7 @@ const galwayDigitalMarketing: ServicePage = {
   serviceSlug: "digital-marketing",
   title: "Digital Marketing Galway | Agency for Galway Businesses",
   description:
-    "A digital marketing agency working with Galway businesses: Google Ads, Meta ads, SEO, web design and social, from the city and Salthill to Tuam, Athenry and Connemara. Reported in enquiries.",
+    "A digital marketing agency for Galway businesses: Google Ads, Meta ads, SEO, web design and social, from the city and Salthill to Tuam and Athenry.",
   h1: "Digital marketing in Galway, measured in enquiries.",
   intro: [
     "Galway is two economies wearing one county's name. The city and its ring — Salthill, Knocknacarra, Oranmore, Renmore — is dense, young, seasonal and heavily influenced by a large student population and a tourist season that transforms the place for four months. Out west through Moycullen, Oughterard and Connemara, distances are long, populations are small, and a business serves a scattered catchment that will travel to it because there is no alternative.",
@@ -1936,7 +1936,7 @@ const meathSocial: ServicePage = {
   serviceSlug: "social-media-marketing",
   title: "Social Media Marketing Meath | Managed Social & Paid Ads",
   description:
-    "Social media marketing for Meath businesses: Facebook and Instagram content and paid campaigns, managed end to end. Navan, Ashbourne, Ratoath, Trim and across the county.",
+    "Social media marketing for Meath businesses: Facebook and Instagram content and paid campaigns, managed end to end.",
   h1: "Social media marketing in Meath, targeted estate by estate.",
   intro: [
     "Meath has something most counties do not: hundreds of individual housing developments, each with its own residents' page, each well followed, and each full of households at the same stage of the same cycle. That is an unusually precise audience and almost nobody advertises to it deliberately.",
@@ -2487,7 +2487,7 @@ const waterfordDigitalMarketing: ServicePage = {
   serviceSlug: "digital-marketing",
   title: "Digital Marketing Waterford | Agency for Waterford Businesses",
   description:
-    "A digital marketing agency working with Waterford businesses: Google Ads, Meta ads, SEO, web design and social, from the city and Tramore to Dungarvan and west Waterford.",
+    "A digital marketing agency for Waterford businesses: Google Ads, Meta ads, SEO, web design and social, from the city and Tramore to Dungarvan.",
   h1: "Digital marketing in Waterford, measured in enquiries.",
   intro: [
     "Waterford is one of the least contested advertising markets of any Irish city, and that is the whole opportunity. The agencies concentrate on Dublin and Cork, national brands bid hardest where the population is, and a Waterford business competing properly online is usually up against three or four others rather than thirty.",
@@ -2941,7 +2941,7 @@ const tipperarySocial: ServicePage = {
   serviceSlug: "social-media-marketing",
   title: "Social Media Marketing Tipperary | Managed Social & Paid Ads",
   description:
-    "Social media marketing for Tipperary businesses: Facebook and Instagram content and paid campaigns, managed end to end. Clonmel, Thurles, Nenagh and across the county.",
+    "Social media marketing for Tipperary businesses: Facebook and Instagram content and paid campaigns, managed end to end.",
   h1: "Social media marketing in Tipperary, town by town.",
   intro: [
     "Tipperary runs on town identity. People are from Clonmel or from Nenagh, they follow their own town's pages, and they buy locally by preference rather than by necessity. That makes social unusually effective here and unusually wasteful if it is aimed at the county.",
@@ -3167,7 +3167,7 @@ const kilkennySocial: ServicePage = {
   serviceSlug: "social-media-marketing",
   title: "Social Media Marketing Kilkenny | Managed Social & Paid Ads",
   description:
-    "Social media marketing for Kilkenny businesses: Facebook and Instagram content and paid campaigns, managed end to end. City, Callan, Thomastown and across the county.",
+    "Social media marketing for Kilkenny businesses: Facebook and Instagram content and paid campaigns, managed end to end.",
   h1: "Social media marketing in Kilkenny, without paying to reach tourists.",
   intro: [
     "Kilkenny's social audiences look better than they are. A city with a strong visitor economy produces reach and engagement from people who will never be customers, and a business judging its page on those numbers is reading the wrong signal.",
@@ -3504,7 +3504,7 @@ const louthDigitalMarketing: ServicePage = {
   countySlug: "louth",
   service: "Digital marketing",
   serviceSlug: "digital-marketing",
-  title: "Digital Marketing Louth | Agency for Drogheda & Dundalk Businesses",
+  title: "Digital Marketing Louth | Drogheda & Dundalk Agency",
   description:
     "A digital marketing agency working with Louth businesses: Google Ads, Meta ads, SEO and social, across Drogheda, Dundalk, Ardee and the coast.",
   h1: "Digital marketing in Louth, measured in enquiries.",
@@ -6508,7 +6508,7 @@ const monaghanDigitalMarketing: ServicePage = {
   serviceSlug: "digital-marketing",
   title: "Digital Marketing Monaghan | Agency for Monaghan Businesses",
   description:
-    "A digital marketing agency working with Monaghan businesses: Google Ads, Meta ads, SEO and social, across Monaghan town, Carrickmacross, Castleblayney and the county.",
+    "A digital marketing agency for Monaghan businesses: Google Ads, Meta ads, SEO and social, across Monaghan town, Carrickmacross and Castleblayney.",
   h1: "Digital marketing in Monaghan, in a county that makes things.",
   intro: [
     "Monaghan has an industrial base most rural counties do not. Food processing, poultry, engineering and a dense layer of family-owned manufacturing employ a great many people here, and a lot of the county's commercial activity is business-to-business rather than consumer.",
@@ -6621,7 +6621,7 @@ const monaghanSocial: ServicePage = {
   serviceSlug: "social-media-marketing",
   title: "Social Media Marketing Monaghan | Managed Social & Paid Ads",
   description:
-    "Social media marketing for Monaghan businesses: Facebook and Instagram content and paid campaigns, managed end to end, across Monaghan town, Carrickmacross and the county.",
+    "Social media marketing for Monaghan businesses: Facebook and Instagram content and paid campaigns, managed end to end across the county.",
   h1: "Social media marketing in Monaghan, including hiring.",
   intro: [
     "Most Monaghan businesses think of social media as a way to find customers, and for consumer trades it is. But a great many employers here have a more pressing problem than sales, which is finding people to do the work.",
@@ -6953,7 +6953,7 @@ const offalySocial: ServicePage = {
   serviceSlug: "social-media-marketing",
   title: "Social Media Marketing Offaly | Managed Social & Paid Ads",
   description:
-    "Social media marketing for Offaly businesses: Facebook and Instagram content and paid campaigns, managed end to end, across Tullamore, Birr, Edenderry and the county.",
+    "Social media marketing for Offaly businesses: Facebook and Instagram content and paid campaigns, across Tullamore, Birr and Edenderry.",
   h1: "Social media marketing in Offaly, for three towns that do not overlap.",
   intro: [
     "Offaly is long, and its three main towns sit far enough apart that they function as separate communities with separate online lives. Tullamore's pages are not read in Birr and Edenderry's are not read in either.",
@@ -8168,7 +8168,7 @@ const kildareSeo: ServicePage = {
   serviceSlug: "seo",
   title: "SEO Kildare | Search Engine Optimisation for Kildare Businesses",
   description:
-    "SEO for Kildare businesses in Naas, Newbridge, Maynooth and across the county. Local search, Google Business Profile and content that earns enquiries, not rankings reports.",
+    "SEO for Kildare businesses in Naas, Newbridge, Maynooth and across the county.",
   h1: "SEO in Kildare, judged on enquiries rather than rankings.",
   intro: [
     "Kildare is one of the more competitive counties in Ireland for local search, because its commuter towns carry Dublin incomes and Dublin-based firms advertise into them. That raises the bar and it also means the reward for ranking is higher than the population suggests.",

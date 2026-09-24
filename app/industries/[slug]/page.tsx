@@ -24,7 +24,7 @@ export async function generateMetadata({
   const ind = industryBySlug(slug);
   if (!ind) return {};
   return {
-    title: { absolute: `${ind.title} | Dublin Growth Digital` },
+    title: ind.title,
     description: ind.description,
     alternates: { canonical: `/industries/${ind.slug}/` },
     openGraph: {

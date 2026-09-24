@@ -46,7 +46,7 @@ export const industries: Industry[] = [
     label: "Estate agents",
     title: "Estate Agent Marketing Ireland | Vendor Leads for Agencies",
     description:
-      "Vendor lead generation for Irish estate agents. Meta and Google campaigns that reach homeowners before they choose an agent, reported in valuations booked. From €1,500 a month.",
+      "Vendor lead generation for Irish estate agents. Meta and Google campaigns that reach homeowners before they choose an agent, reported in valuations booked.",
     h1: "Vendor leads for Irish estate agents.",
     intro: [
       "The seller decides which agent to ring in the last week. The agency that wins the instruction is the one that spent the six months before it in the homeowner's feed. We do that work for estate agencies across Ireland: Meta and Google campaigns aimed at people preparing to sell, sent to a form that asks the qualifying questions first, and reported in valuations booked rather than impressions.",
@@ -143,7 +143,7 @@ export const industries: Industry[] = [
     label: "Solar installers",
     title: "Solar Lead Generation Ireland | Qualified Leads for Installers",
     description:
-      "Lead generation for SEAI-registered solar installers in Ireland. Meta and Google campaigns with lead forms that qualify the roof, the budget and the timing before your phone rings.",
+      "Lead generation for SEAI-registered solar installers in Ireland. Meta and Google campaigns with forms that qualify roof, budget and timing first.",
     h1: "Qualified solar leads, surveyed and booked.",
     intro: [
       "The homeowner has already decided to go solar. They are choosing who. We put your installs, your reviews and your price in front of them before they ring the first name on Google, then book the survey through a form that asks the qualifying questions first.",
@@ -226,7 +226,7 @@ export const industries: Industry[] = [
     label: "Roofers",
     title: "Roofing Leads Ireland | Roofing Marketing & Lead Generation",
     description:
-      "Roofing lead generation, roofing marketing and advertising across Ireland. Google and Meta campaigns for repairs, re-roofs and gutters, with a lead form that tells a real job from a tyre-kicker before you drive out.",
+      "Roofing lead generation, roofing marketing and advertising across Ireland.",
     h1: "Roofing leads that are worth the drive out.",
     intro: [
       "For a roofer, the job is being the name a homeowner finds and trusts in the hour after they notice the leak, and being able to tell a real job from a tyre-kicker before you leave the yard. We run Google Ads on the emergency and repair searches in your area and Meta ads to the towns you cover, and every click goes to a form that asks about the roof, the job and the timing first.",
@@ -364,7 +364,7 @@ export const industries: Industry[] = [
     label: "Landscapers",
     title: "Landscaping Leads Ireland | Marketing for Garden Companies",
     description:
-      "Lead generation for landscapers and garden companies in Ireland. Meta and Google campaigns for the jobs you want, from patios and lawns to full garden design, qualified before you quote.",
+      "Lead generation for Irish landscapers and garden companies. Meta and Google campaigns for the jobs you want, from patios to full garden design.",
     h1: "Garden jobs worth quoting for.",
     intro: [
       "Landscaping is bought with the eyes. A homeowner sees a finished garden on their phone in March and rings the company that did it. We put your best work in front of homeowners in the towns you cover, on Facebook and Instagram, at the time of year they are planning, and we send every enquiry through a form that asks about the job and the budget before you spend an evening on a site visit.",
@@ -447,7 +447,7 @@ export const industries: Industry[] = [
     label: "Driveways & paving",
     title: "Driveway & Paving Leads Ireland | Tarmac and Paving Marketing",
     description:
-      "Lead generation for driveway, tarmac and paving contractors in Ireland. Meta and Google campaigns that reach homeowners planning a driveway and qualify the job before you quote.",
+      "Lead generation for driveway, tarmac and paving contractors in Ireland.",
     h1: "Driveway and paving enquiries, qualified before you quote.",
     intro: [
       "A driveway is a big-ticket job that homeowners think about for months and decide on in a weekend. We put your finished driveways in front of homeowners in the towns you cover while they are still thinking, and we catch the ones already searching on Google. Every enquiry comes through a form that asks the size, the surface and the timing first.",
@@ -530,7 +530,7 @@ export const industries: Industry[] = [
     label: "Bathroom renovations",
     title: "Bathroom Renovation Leads Ireland | Marketing for Fitters",
     description:
-      "Lead generation for bathroom fitters and renovation companies in Ireland. Meta and Google campaigns that book surveys through a form that asks about the job and the budget first.",
+      "Lead generation for bathroom fitters and renovation companies in Ireland.",
     h1: "Bathroom quotes, booked while you are on the tools.",
     intro: [
       "Homeowners plan a bathroom at nine o'clock at night on Instagram. That is when we book the survey, through a form that asks about the job and the budget before your phone rings. We run Meta and Google campaigns for bathroom fitters, tilers and renovation companies across Ireland, built around the jobs you want and the areas you cover.",
@@ -613,7 +613,7 @@ export const industries: Industry[] = [
     label: "Plumbers & heating",
     title: "Plumbing & Heating Leads Ireland | Marketing for Plumbers",
     description:
-      "Lead generation for plumbing and heating businesses in Ireland. Google Ads on emergency and installation searches, Meta campaigns for heat pumps and boilers, qualified before you drive out.",
+      "Lead generation for Irish plumbing and heating businesses. Google Ads on emergency and installation searches, Meta for heat pumps and boilers.",
     h1: "Plumbing and heating calls that are worth answering.",
     intro: [
       "Plumbing is searched for, not scrolled for. A burst pipe at seven in the evening turns into a Google search and a phone call within minutes, and the business in the map box gets the job. We run Google Ads on the emergency and installation searches in your area, keep your Google Business Profile at the top of the map, and use Meta for the planned work: boilers, heat pumps, bathrooms.",
@@ -696,7 +696,7 @@ export const industries: Industry[] = [
     label: "Builders & extensions",
     title: "Builder Leads Ireland | Marketing for Extensions & Renovations",
     description:
-      "Lead generation for builders, extension specialists and renovation contractors in Ireland. Meta and Google campaigns with a lead form that asks the budget and the timing before you visit.",
+      "Lead generation for builders, extension specialists and renovation contractors in Ireland.",
     h1: "Extension and renovation leads, budget known before you visit.",
     intro: [
       "Homeowners plan an extension at nine o'clock at night on their phone, months before they ring a builder. The job is to be the name they see then, and to know the budget and the timing before you spend an evening on a site visit. We run Meta and Google campaigns for builders, extension specialists and renovation contractors across Ireland, built around the projects you want.",
@@ -846,7 +846,7 @@ export const industries: Industry[] = [
     label: "Kitchen fitters",
     title: "Kitchen Leads Ireland | Marketing for Kitchen Companies",
     description:
-      "Lead generation for Irish kitchen showrooms and fitters. Campaigns built around design appointments and real budgets, reported in booked consultations. From €1,500 a month.",
+      "Lead generation for Irish kitchen showrooms and fitters. Campaigns built around design appointments and real budgets, reported in booked consultations.",
     h1: "Kitchen enquiries from people who have actually budgeted.",
     intro: [
       "A kitchen is one of the largest discretionary purchases a household makes, and the decision takes months. Somebody starts looking in January, visits three showrooms in February and orders in April. The company that wins is rarely the cheapest; it is the one that stayed visible through that whole stretch and made booking a design appointment feel easy rather than committal.",
@@ -913,7 +913,7 @@ export const industries: Industry[] = [
     label: "Attic conversions",
     title: "Attic Conversion Leads Ireland | Marketing for Conversion Firms",
     description:
-      "Lead generation for Irish attic conversion specialists. Campaigns aimed at homeowners needing space, with planning and regulation questions handled. From €1,500 a month.",
+      "Lead generation for Irish attic conversion specialists. Campaigns aimed at homeowners needing space, with planning and regulation questions handled.",
     h1: "Attic conversion leads from homeowners who need the room.",
     intro: [
       "Attic conversions sell against a specific alarm: a family has outgrown the house and is weighing the cost of moving against the cost of staying. That comparison is the whole pitch. A conversion that costs a fraction of stamp duty, estate agent fees and a mortgage top-up is an easy argument to make, and almost nobody makes it in their advertising.",
@@ -980,7 +980,7 @@ export const industries: Industry[] = [
     label: "Garden rooms",
     title: "Garden Room Leads Ireland | Marketing for Garden Room Builders",
     description:
-      "Lead generation for Irish garden room and garden office builders. Campaigns built around home-office and extra-space demand, reported in booked site visits. From €1,500 a month.",
+      "Lead generation for Irish garden room and garden office builders. Campaigns built around home-office and extra-space demand, reported in booked site visits.",
     h1: "Garden room leads, from people ready to spend.",
     intro: [
       "Garden rooms are sold on a photograph. More than almost any trade, the decision starts with somebody seeing a finished room that looks like the one they have been picturing, and then working backwards to whether they can afford it. That makes this an unusually good fit for paid social and an unusually bad fit for text-only advertising.",
@@ -1047,7 +1047,7 @@ export const industries: Industry[] = [
     label: "Windows & doors",
     title: "Window & Door Leads Ireland | Marketing for Installers",
     description:
-      "Lead generation for Irish window and door installers. Campaigns built around energy upgrades, grants and full-house replacements, reported in booked surveys. From €1,500 a month.",
+      "Lead generation for Irish window and door installers. Campaigns built around energy upgrades, grants and full-house replacements, reported in booked surveys.",
     h1: "Window and door leads worth surveying.",
     intro: [
       "Windows are bought for two reasons and they behave completely differently. One is cold and draught — an older house, rising heating bills, condensation on the inside of the glass every winter morning. The other is appearance, usually alongside other work. The first is seasonal and urgent; the second is planned and price-sensitive.",
@@ -1114,7 +1114,7 @@ export const industries: Industry[] = [
     label: "Heat pumps",
     title: "Heat Pump Leads Ireland | Marketing for Heat Pump Installers",
     description:
-      "Lead generation for Irish heat pump installers. Campaigns built around SEAI grants, BER requirements and retrofit-ready homes, reported in booked assessments. From €1,500 a month.",
+      "Lead generation for Irish heat pump installers. Campaigns built around SEAI grants, BER requirements and retrofit-ready homes, reported in booked assessments.",
     h1: "Heat pump leads from homes that can actually take one.",
     intro: [
       "Heat pumps have the longest and most technical sales cycle of any home energy product in Ireland. A homeowner has to understand grants, BER ratings, insulation requirements and whether their radiators will even work at a lower flow temperature. Most enquiries fail not on price but on suitability, and every unsuitable enquiry costs you an assessment.",
@@ -1248,7 +1248,7 @@ export const industries: Industry[] = [
     label: "Damp proofing",
     title: "Damp Proofing Leads Ireland | Marketing for Damp Specialists",
     description:
-      "Lead generation for Irish damp proofing and condensation specialists. Campaigns built around surveys for older housing stock and pre-purchase reports. From €1,500 a month.",
+      "Lead generation for Irish damp proofing and condensation specialists. Campaigns built around surveys for older housing stock and pre-purchase reports.",
     h1: "Damp proofing leads that turn into surveys.",
     intro: [
       "Damp is sold on diagnosis, not on price. A homeowner with a stain spreading on a bedroom wall does not know whether they have rising damp, penetrating damp or condensation, and every one of those has a different fix and a different cost. The firm that wins is the one that explains the difference before asking for anything.",
@@ -1315,7 +1315,7 @@ export const industries: Industry[] = [
     label: "Painters & decorators",
     title: "Painting & Decorating Leads Ireland | Marketing for Decorators",
     description:
-      "Lead generation for Irish painters and decorators: interior, exterior and commercial. Campaigns built around the season and reported in booked jobs. From €1,500 a month.",
+      "Lead generation for Irish painters and decorators: interior, exterior and commercial. Campaigns built around the season and reported in booked jobs.",
     h1: "Painting and decorating leads, in the right season.",
     intro: [
       "Decorating is the most seasonal trade we work with, and the firms that do well are the ones that swap what they advertise rather than advertising the same thing all year. Exterior work sells from April to September and is effectively unsellable in December. Interior work is the opposite, with a hard peak in the six weeks before Christmas.",
@@ -1382,7 +1382,7 @@ export const industries: Industry[] = [
     label: "Tilers",
     title: "Tiling Leads Ireland | Marketing for Tilers & Tiling Contractors",
     description:
-      "Lead generation for Irish tilers: bathrooms, kitchens, floors and wetrooms. Campaigns that bring direct homeowner work rather than subcontract rates. From €1,500 a month.",
+      "Lead generation for Irish tilers: bathrooms, kitchens, floors and wetrooms. Campaigns that bring direct homeowner work rather than subcontract rates.",
     h1: "Tiling leads direct from homeowners, not through a builder.",
     intro: [
       "Most tilers get their work through builders and bathroom firms, and take a subcontract rate for it. The work is steady and the margin is thin, and it disappears the moment the main contractor finds somebody cheaper. Direct homeowner work pays substantially better and belongs to you rather than to whoever passed it on.",
@@ -1583,7 +1583,7 @@ export const industries: Industry[] = [
     label: "Med spas",
     title: "Med Spa Marketing Ireland | Marketing for Medical Aesthetics",
     description:
-      "Marketing for Irish med spas and medical aesthetics clinics, built around what you are legally allowed to advertise. Consultation-led campaigns reported in booked appointments. From €1,500 a month.",
+      "Marketing for Irish med spas and medical aesthetics clinics, built around what you are legally allowed to advertise.",
     h1: "Med spa marketing that will not put your clinic in front of the regulator.",
     intro: [
       "Most marketing advice written for med spas is American, and following it in Ireland will get a clinic into trouble. In this country you cannot advertise a prescription-only medicine to the public. That means no ads naming botulinum toxin, no price-per-unit offers on it, and no campaigns built around the treatment most clinics would instinctively lead with. A great many Irish clinics are running ads right now that should not be live.",
@@ -1650,7 +1650,7 @@ export const industries: Industry[] = [
     label: "Skin clinics & salons",
     title: "Skin Clinic & Salon Marketing Ireland | Fill the Diary",
     description:
-      "Marketing for Irish skin clinics, beauty salons and laser clinics. Campaigns built around rebooking, treatment courses and quiet weeks, reported in appointments. From €1,500 a month.",
+      "Marketing for Irish skin clinics, salons and laser clinics. Built around rebooking, treatment courses and quiet weeks, reported in appointments.",
     h1: "Skin clinic and salon marketing measured in a full diary.",
     intro: [
       "A salon or skin clinic does not really have a customer acquisition problem. It has a gap problem. Saturdays sell themselves; Tuesday afternoons and the second week of January do not, and an empty chair is revenue that cannot be recovered later. The marketing that actually changes the numbers is the marketing pointed at the gaps.",
@@ -1717,7 +1717,7 @@ export const industries: Industry[] = [
     label: "Insurance brokers",
     title: "Insurance Broker Marketing Ireland | Leads for Brokerages",
     description:
-      "Marketing for Irish insurance brokers, built around commercial and specialist risk rather than price comparison. Central Bank aware, reported in quote requests. From €1,500 a month.",
+      "Marketing for Irish insurance brokers, built around commercial and specialist risk rather than price comparison.",
     h1: "Insurance broker marketing that does not try to outbid the aggregators.",
     intro: [
       "An Irish broker cannot win on price-comparison searches and should stop trying. The aggregators and the direct insurers have budgets a brokerage cannot match on terms like car insurance quotes, and every euro spent there buys a click from somebody who was only ever going to sort by cheapest. It is the most common and most expensive mistake in broker advertising.",
@@ -2282,7 +2282,7 @@ export const industries: Industry[] = [
     label: "Dentists",
     title: "Dental Marketing Ireland | Patient Leads for Dental Practices",
     description:
-      "Marketing for Irish dental practices: implants, orthodontics, cosmetic and general dentistry. Campaigns built around consultations and reported in booked appointments. From €1,500 a month.",
+      "Marketing for Irish dental practices: implants, orthodontics, cosmetic and general dentistry.",
     h1: "Dental marketing measured in booked consultations.",
     intro: [
       "A dental practice has two completely different marketing problems. General dentistry is a local, proximity-driven, low-margin business where you are competing with whoever is nearest. High-value work — implants, orthodontics, full-mouth reconstruction — is a considered purchase where people travel and compare, and where a single case is worth more than a year of check-ups.",
@@ -2375,7 +2375,7 @@ export const industries: Industry[] = [
     label: "Physio & clinics",
     title: "Physio Clinic Marketing Ireland | Patient Leads for Clinics",
     description:
-      "Marketing for Irish physiotherapy, chiropractic and sports injury clinics. Campaigns built around the injury people actually search for, reported in booked appointments. From €1,500 a month.",
+      "Marketing for Irish physiotherapy, chiropractic and sports injury clinics.",
     h1: "Physio and clinic marketing built around the injury, not the profession.",
     intro: [
       "People do not search for a physiotherapist. They search for the thing that hurts — lower back pain, a shoulder that will not lift, a knee after a run, sciatica. A clinic advertising the profession rather than the problem is invisible to most of its own market.",
@@ -2458,7 +2458,7 @@ export const industries: Industry[] = [
     label: "Veterinary",
     title: "Veterinary Marketing Ireland | Client Growth for Vet Practices",
     description:
-      "Marketing for Irish veterinary practices, small animal and mixed. Campaigns built around new client registration and the services that pay, reported in booked appointments. From €1,500 a month.",
+      "Marketing for Irish veterinary practices, small animal and mixed. Built around new client registration and the services that actually pay.",
     h1: "Veterinary marketing built around registering new clients.",
     intro: [
       "A veterinary practice does not really sell appointments. It registers clients, and a registered client is worth years of vaccinations, check-ups, dental work and the occasional expensive episode. That makes the value of a new client far higher than any single visit, and it should change what you are willing to pay to attract one.",
@@ -2541,7 +2541,7 @@ export const industries: Industry[] = [
     label: "Solicitors",
     title: "Solicitor Marketing Ireland | Client Leads for Law Firms",
     description:
-      "Marketing for Irish solicitors and law firms: conveyancing, probate, personal injury and family law. Campaigns built around enquiry quality, reported in booked consultations. From €1,500 a month.",
+      "Marketing for Irish solicitors and law firms: conveyancing, probate, personal injury and family law.",
     h1: "Solicitor marketing built around the work you actually want.",
     intro: [
       "Legal marketing in Ireland is constrained in ways most agencies have never read. Solicitors' advertising is governed by professional rules, and personal injury advertising in particular is tightly restricted — an agency that does not know this can create a regulatory problem for a firm in a fortnight.",
@@ -2873,7 +2873,7 @@ export const industries: Industry[] = [
     label: "Mortgage brokers",
     title: "Mortgage Broker Marketing Ireland | Leads for Brokerages",
     description:
-      "Marketing for Irish mortgage brokers: first-time buyers, switchers and self-employed applicants. Central Bank aware, reported in booked consultations. From €1,500 a month.",
+      "Marketing for Irish mortgage brokers: first-time buyers, switchers and self-employed applicants. Central Bank aware, reported in booked consultations.",
     h1: "Mortgage broker marketing built around approval, not rates.",
     intro: [
       "A mortgage broker cannot win a rate comparison and should stop entering one. The lenders advertise their own rates with budgets no brokerage can match, and a borrower sorting by the lowest number was never going to use an intermediary anyway.",
@@ -2956,7 +2956,7 @@ export const industries: Industry[] = [
     label: "Architects",
     title: "Architect Marketing Ireland | Client Leads for Practices",
     description:
-      "Marketing for Irish architects and architectural designers: extensions, new builds and planning work. Campaigns built around the enquiry worth taking. From €1,500 a month.",
+      "Marketing for Irish architects and architectural designers: extensions, new builds and planning work. Campaigns built around the enquiry worth taking.",
     h1: "Architect marketing built around the projects you want.",
     intro: [
       "Architecture has the longest gap between enquiry and fee of any service we work with, and the widest spread in what an enquiry is worth. A loft conversion drawing and a new build differ by a factor of twenty, and both arrive through the same contact form.",
@@ -3205,7 +3205,7 @@ export const industries: Industry[] = [
     label: "Powerwashing",
     title: "Powerwashing Leads Ireland | Marketing for Exterior Cleaning",
     description:
-      "Lead generation for Irish powerwashing and exterior cleaning businesses: driveways, roofs, patios and render. Photograph-led and sharply seasonal. From €1,500 a month.",
+      "Lead generation for Irish powerwashing and exterior cleaning businesses: driveways, roofs, patios and render. Photograph-led and sharply seasonal.",
     h1: "Powerwashing leads, in the months people actually look outside.",
     intro: [
       "Powerwashing is the most photogenic trade in Ireland. A half-cleaned driveway with a hard line down the middle is among the most persuasive images in home improvement, and it costs nothing to capture.",
@@ -3286,9 +3286,9 @@ export const industries: Industry[] = [
   {
     slug: "carpentry-and-joinery",
     label: "Carpentry & joinery",
-    title: "Joinery Leads Ireland | Marketing for Carpenters & Fitted Furniture",
+    title: "Joinery Leads Ireland | Marketing for Carpenters",
     description:
-      "Lead generation for Irish carpenters and joinery businesses: fitted wardrobes, bespoke furniture and second-fix work. Reported in booked consultations. From €1,500 a month.",
+      "Lead generation for Irish carpenters and joinery businesses: fitted wardrobes, bespoke furniture and second-fix work. Reported in booked consultations.",
     h1: "Joinery leads for the work worth making.",
     intro: [
       "Carpentry covers two businesses with very different economics. Second-fix and site work is steady, subcontracted and priced by the day. Fitted wardrobes, bespoke furniture and made-to-measure joinery are direct to homeowner, worth several thousand a job, and chosen on how the finished work looks.",
@@ -3369,9 +3369,9 @@ export const industries: Industry[] = [
   {
     slug: "asbestos-removal",
     label: "Asbestos removal",
-    title: "Asbestos Removal Leads Ireland | Marketing for Licensed Contractors",
+    title: "Asbestos Removal Leads Ireland | Contractor Marketing",
     description:
-      "Lead generation for Irish asbestos surveying and removal contractors, domestic and commercial. Urgent, regulated, and reported in booked surveys. From €1,500 a month.",
+      "Lead generation for Irish asbestos surveying and removal contractors, domestic and commercial. Urgent, regulated, and reported in booked surveys.",
     h1: "Asbestos leads, from people who have just found it.",
     intro: [
       "Asbestos enquiries are almost always triggered by a discovery. A builder opens a ceiling mid-renovation, a survey flags it before a sale, a demolition is halted. In every case a project has just stopped and somebody needs it moving again quickly.",
@@ -3535,9 +3535,9 @@ export const industries: Industry[] = [
   {
     slug: "it-support",
     label: "IT support & MSPs",
-    title: "IT Support Marketing Ireland | Leads for Managed Service Providers",
+    title: "IT Support Marketing Ireland | Leads for MSPs",
     description:
-      "Marketing for Irish IT support companies and managed service providers. Built around the moments businesses actually switch, reported in booked discovery calls. From €1,500 a month.",
+      "Marketing for Irish IT support companies and managed service providers.",
     h1: "IT support marketing built around the moment businesses switch.",
     intro: [
       "Nobody shops for IT support while everything is working. A business changes provider after an event — an outage that lasted too long, a security incident, a support ticket nobody answered, or a growth step their current provider cannot handle.",
@@ -3618,7 +3618,7 @@ export const industries: Industry[] = [
   {
     slug: "agricultural-contractors",
     label: "Agricultural contractors",
-    title: "Agricultural Contractor Leads Ireland | Marketing for Ag Contractors",
+    title: "Agricultural Contractor Leads Ireland | Ag Marketing",
     description:
       "Lead generation for Irish agricultural contractors: silage, slurry, reseeding, hedge cutting and tillage. Built around the weeks that matter. From €1,500 a month.",
     h1: "Agricultural contractor marketing built around a very short year.",
@@ -4365,7 +4365,7 @@ export const industries: Industry[] = [
   {
     slug: "funeral-directors",
     label: "Funeral directors",
-    title: "Funeral Director Marketing Ireland | Pre-Planning & Local Presence",
+    title: "Funeral Director Marketing Ireland | Local Presence",
     description:
       "Marketing for Irish funeral directors, handled with the restraint the work requires. Built around pre-planning and local presence, not urgency. From €1,500 a month.",
     h1: "Funeral director marketing, handled the way the work deserves.",
@@ -4780,7 +4780,7 @@ export const industries: Industry[] = [
   {
     slug: "equipment-hire",
     label: "Equipment hire",
-    title: "Plant & Equipment Hire Leads Ireland | Marketing for Hire Companies",
+    title: "Plant & Equipment Hire Leads Ireland | Hire Marketing",
     description:
       "Lead generation for Irish plant and equipment hire businesses. Utilisation is everything, and trade accounts are worth more than any one-off. From €1,500 a month.",
     h1: "Equipment hire leads that build utilisation, not just bookings.",
@@ -5029,7 +5029,7 @@ export const industries: Industry[] = [
   {
     slug: "garage-conversions",
     label: "Garage conversions",
-    title: "Garage Conversion Leads Ireland | Marketing for Conversion Specialists",
+    title: "Garage Conversion Leads Ireland | Marketing for Specialists",
     description:
       "Lead generation for Irish garage conversion specialists. The cheapest way to add a room, and the objection is always parking. From €1,500 a month.",
     h1: "Garage conversion leads from families who need one more room.",
@@ -5612,7 +5612,7 @@ export const industries: Industry[] = [
     label: "Equine services",
     title: "Equine Marketing Ireland | Leads for Yards, Farriers & Services",
     description:
-      "Marketing for Irish equine businesses: livery yards, farriers, equine dentists, transport and training. A relationship market with a real season. From €1,500 a month.",
+      "Marketing for Irish equine businesses: livery yards, farriers, equine dentists, transport and training. A relationship market with a real season.",
     h1: "Equine marketing for a market that runs on reputation.",
     intro: [
       "Ireland's equine sector is unusually concentrated — Kildare, Tipperary, Meath and Limerick hold much of it — and unusually relationship-driven. Owners take recommendations from other owners, from yards and from vets, and they change provider rarely.",
@@ -5861,7 +5861,7 @@ export const industries: Industry[] = [
     label: "EV charger installers",
     title: "EV Charger Installation Leads Ireland | Installer Marketing",
     description:
-      "Lead generation for Irish EV charger installers. Meta and Google campaigns aimed at new EV owners claiming the SEAI grant, reported in booked surveys. From €1,500 a month.",
+      "Lead generation for Irish EV charger installers. Meta and Google campaigns aimed at new EV owners claiming the SEAI grant, reported in booked surveys.",
     h1: "EV charger installation leads, timed to the car purchase.",
     intro: [
       "An EV charger is bought in a narrow window. Somebody orders a car, waits somewhere between a fortnight and four months for delivery, and organises the charger in the last two weeks of that wait. Reach them early and they forget you; reach them late and they have already rung whoever the dealer mentioned.",
@@ -5956,7 +5956,7 @@ export const industries: Industry[] = [
     label: "Septic tank services",
     title: "Septic Tank Leads Ireland | Marketing for Tank Services",
     description:
-      "Lead generation for Irish septic tank desludging, repair and replacement companies. Campaigns built around EPA inspections and the remediation grant. From €1,500 a month.",
+      "Lead generation for Irish septic tank desludging, repair and replacement companies. Campaigns built around EPA inspections and the remediation grant.",
     h1: "Septic tank leads, from a market driven by inspections.",
     intro: [
       "Roughly half a million Irish homes are on a septic tank, and almost nobody thinks about theirs until something forces them to: a failed EPA inspection, a house sale, a smell, or a tank that has not been desludged in a decade.",
@@ -6377,7 +6377,7 @@ export const industries: Industry[] = [
     label: "Audiologists",
     title: "Audiology Leads Ireland | Marketing for Hearing Clinics",
     description:
-      "Lead generation for Irish audiology and hearing clinics. Campaigns built around free hearing tests and the PRSI treatment benefit, reported in appointments. From €1,500 a month.",
+      "Lead generation for Irish audiology and hearing clinics. Campaigns built around free hearing tests and the PRSI treatment benefit, reported in appointments.",
     h1: "Hearing test bookings, from a slow decision made by families.",
     intro: [
       "Hearing loss is noticed by the family long before it is admitted by the person who has it. The average gap between first noticing and doing something about it runs to years, and most of that time is spent not searching for anything at all.",
@@ -6472,7 +6472,7 @@ export const industries: Industry[] = [
     label: "Stairlifts and mobility",
     title: "Stairlift Leads Ireland | Marketing for Mobility Installers",
     description:
-      "Lead generation for Irish stairlift and mobility installers. Campaigns built around the Housing Adaptation Grant and aimed at families, reported in surveys booked. From €1,500 a month.",
+      "Lead generation for Irish stairlift and mobility installers. Built around the Housing Adaptation Grant and aimed at families, not just patients.",
     h1: "Stairlift leads, from families making a hard decision.",
     intro: [
       "A stairlift is rarely bought happily. It is bought after a fall, after a hospital discharge, or after a family finally accepts that the stairs have become the thing keeping a parent from staying in their own home.",
@@ -6581,7 +6581,7 @@ export const industries: Industry[] = [
     label: "Blinds and curtains",
     title: "Blinds & Curtains Leads Ireland | Marketing for Fitters",
     description:
-      "Lead generation for Irish blinds and curtain companies. Meta and Google campaigns aimed at new homeowners and renovators, reported in measures booked. From €1,500 a month.",
+      "Lead generation for Irish blinds and curtain companies. Meta and Google campaigns aimed at new homeowners and renovators, reported in measures booked.",
     h1: "Blinds and curtain leads, from houses that have just moved.",
     intro: [
       "Window dressing is bought at a moment, not over time. People buy blinds when they move in, when they finish an extension, or when they finally redecorate a room they have hated for years — and then they do not buy again for a decade.",
@@ -6893,7 +6893,7 @@ export const industries: Industry[] = [
     label: "Health & safety consultants",
     title: "Health & Safety Consultant Leads Ireland | B2B Marketing",
     description:
-      "Lead generation for Irish health and safety consultants. Campaigns aimed at businesses facing HSA inspections, tenders and safety statement obligations. From €1,500 a month.",
+      "Lead generation for Irish health and safety consultants. Campaigns aimed at businesses facing HSA inspections, tenders and safety statement obligations.",
     h1: "Health and safety leads, from businesses with a deadline.",
     intro: [
       "Nobody buys health and safety consultancy because they want to. They buy it because a main contractor will not let them on site without a safety statement, because a tender requires certification, or because the HSA has been and left a list.",
@@ -7286,7 +7286,7 @@ export const industries: Industry[] = [
     label: "Appliance repair",
     title: "Appliance Repair Leads Ireland | Marketing for Engineers",
     description:
-      "Lead generation for Irish appliance repair engineers. Campaigns for washing machines, ovens, dishwashers and fridges, reported in booked call-outs. From €1,500 a month.",
+      "Lead generation for Irish appliance repair engineers. Campaigns for washing machines, ovens, dishwashers and fridges, reported in booked call-outs.",
     h1: "Appliance repair leads, from people whose washing machine died today.",
     intro: [
       "A broken washing machine is an emergency in a way a broken tile is not. The household cannot wait, they ring two or three people, and whoever answers and can come soonest gets the job.",

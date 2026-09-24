@@ -7,9 +7,9 @@ import MagneticButton from "@/components/MagneticButton";
 import JsonLd from "@/components/JsonLd";
 
 export const metadata: Metadata = {
-  title: "Industries We Work With | Lead Generation for Irish Trades & Agents",
+  title: "Industries We Work With | Lead Generation Ireland",
   description:
-    "Lead generation and digital marketing for Irish estate agents, solar installers, roofers, landscapers, driveway contractors, bathroom fitters, plumbers and builders. Ireland-wide from Dublin.",
+    "Lead generation for Irish estate agents, solar installers, roofers, landscapers, plumbers and trades. Ireland-wide, run from Dublin.",
   alternates: { canonical: "/industries/" },
 };
 

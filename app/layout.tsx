@@ -20,13 +20,18 @@ const archivo = Archivo({
 });
 
 const defaultTitle =
-  "Dublin Growth Digital | Lead Generation & Digital Marketing Agency Ireland";
+  "Dublin Growth Digital | Lead Generation Agency Ireland";
 
 export const metadata: Metadata = {
   metadataBase: new URL(site.domain),
   title: {
     default: defaultTitle,
-    template: "%s | Dublin Growth Digital",
+    // No brand suffix. It added 23 characters to every title and pushed
+    // 285 of 300 past Google's ~60-character display limit -- and the
+    // brand itself was truncated anyway, so it bought nothing and cost
+    // the words that actually match what people search. Google appends
+    // the site name itself where it helps; og:site_name is set below.
+    template: "%s",
   },
   description: site.metaDescription,
   applicationName: site.name,

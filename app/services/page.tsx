@@ -6,7 +6,7 @@ import MagneticButton from "@/components/MagneticButton";
 export const metadata: Metadata = {
   title: "Services: Meta Ads, Google Ads, SEO, Web Design & Social Media",
   description:
-    "Digital marketing services for Irish businesses: Meta ads and Google Ads management, SEO, web design and social media, run from Dublin and reported in enquiries. From €1,500 a month, no setup fee.",
+    "Meta ads and Google Ads management, SEO, web design and social media for Irish businesses. Reported in enquiries. From €1,500 a month, no setup fee.",
   alternates: { canonical: "/services/" },
 };
 
