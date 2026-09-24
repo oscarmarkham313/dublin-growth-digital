@@ -11824,6 +11824,1899 @@ const cavanGoogleAds: ServicePage = {
   ],
 };
 
+const carlowSeo: ServicePage = {
+  county: "Carlow",
+  countySlug: "carlow",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Carlow | Search Engine Optimisation for Carlow Businesses",
+  description:
+    "SEO for Carlow businesses in Carlow town, Tullow, Bagenalstown and across the county. Local search work built around a catchment that crosses three county lines.",
+  h1: "SEO in Carlow, for a county with borders that do not matter.",
+  intro: [
+    "Carlow is the second-smallest county in Ireland and its search volume reflects that. On any given day the number of people searching for your service within the county is small enough that ranking first would not, on its own, fill a diary.",
+    "What makes SEO worth doing here is that Carlow's real catchment crosses into Kilkenny, Kildare, Wexford and Laois — and almost no local website says so.",
+  ],
+  sections: [
+    {
+      heading: "Name the towns over the boundary",
+      body: [
+        "This is the highest-return change available to a Carlow business and it takes ten minutes. A site that mentions only Carlow is invisible to searches in Athy, Castledermot, Graiguenamanagh and Bagenalstown's Kilkenny side.",
+        "Customers pay no attention to which county they are in. Google does pay attention to which places your page mentions.",
+      ],
+    },
+    {
+      heading: "The foundations, and what they return here",
+      body: [
+        "Straightforward work against almost no competition.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "Completeness decides most of the map result in a county with this few competitors. Finishing one properly is frequently enough on its own.",
+        },
+        {
+          title: "A page per service, naming real towns",
+          body: "Including the ones in neighbouring counties you genuinely serve.",
+        },
+        {
+          title: "Reviews",
+          body: "Very thin across Carlow, which means a handful of genuine ones is a real competitive position.",
+        },
+        {
+          title: "Links",
+          body: "Almost no Carlow competitor has built any. Five real Irish links is decisive here in a way it would not be in Dublin.",
+        },
+        {
+          title: "Speed",
+          body: "Several of the businesses you are competing with have sites that take six seconds on a phone.",
+        },
+      ],
+    },
+    {
+      heading: "SEO is a supporting act in a county this size",
+      body: [
+        "It is cheap, it compounds and it is worth doing. It will not, by itself, produce enough enquiries to run a business on, because the search volume is not there.",
+        "In Carlow it works best alongside paid social, which reaches people before they think to search. We would rather say that up front than report on rankings while your phone stays quiet.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Carlow areas we work on",
+    body: "Optimisation names the towns you genuinely serve, which for most Carlow businesses includes places in Kildare, Kilkenny and Wexford.",
+    towns: [
+      "Carlow town",
+      "Tullow",
+      "Bagenalstown",
+      "Leighlinbridge",
+      "Hacketstown",
+      "Borris",
+      "Rathvilly",
+      "Myshall",
+      "Ballon",
+      "Fenagh",
+      "Clonegal",
+      "Palatine",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is Carlow too small for SEO?",
+      a: "The search volume is thin, so SEO alone will not fill a diary. It is cheap and it compounds, which is why it is still worth doing alongside paid social.",
+    },
+    {
+      q: "Should our site mention other counties?",
+      a: "Almost certainly. It is the single highest-return change available to most Carlow businesses and it takes ten minutes.",
+    },
+    {
+      q: "Is competition heavy?",
+      a: "Among the lightest in Leinster. Most local competitors have no links and incomplete profiles.",
+    },
+    {
+      q: "How quickly does it work?",
+      a: "Map results can move in weeks. Organic pages in two to three months, faster than almost anywhere.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Carlow", href: "/locations/carlow/digital-marketing/" },
+    { label: "Web design in Carlow", href: "/locations/carlow/web-design/" },
+  ],
+};
+
+const donegalSeo: ServicePage = {
+  county: "Donegal",
+  countySlug: "donegal",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Donegal | Search Engine Optimisation for Donegal Businesses",
+  description:
+    "SEO for Donegal businesses in Letterkenny, Buncrana, Donegal town and the west. Local search work built around distance and the border.",
+  h1: "SEO in Donegal, where distance decides more than the page does.",
+  intro: [
+    "Google ranks local results largely on how far the searcher is from your registered address, and Donegal is big enough and awkwardly enough shaped that this settles most of it. A Letterkenny business will rank in Letterkenny and effectively nowhere in Killybegs.",
+    "Optimisation does not change that. What it changes is where you sit among the businesses genuinely close to the searcher — and given how few Donegal competitors have done any of this, that is a fight well worth having.",
+  ],
+  sections: [
+    {
+      heading: "The foundations, in order of what they return",
+      body: [
+        "Weighted differently here than in a city.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "In a dispersed county this matters more than the website. Complete it fully before touching anything else.",
+        },
+        {
+          title: "Page weight",
+          body: "Coverage across the west and the islands is genuinely poor. A heavy site fails silently for a share of your visitors and you never see them.",
+        },
+        {
+          title: "Pages naming your real catchment",
+          body: "The towns you will actually drive to, named. Not the county.",
+        },
+        {
+          title: "Reviews",
+          body: "The only lever that improves your position among businesses equally close to the searcher.",
+        },
+        {
+          title: "Links",
+          body: "Almost nobody here has any. A handful of genuine Irish links is a real advantage.",
+        },
+      ],
+    },
+    {
+      heading: "Derry competitors appear in your results",
+      body: [
+        "Search results in the north of the county include Northern Ireland businesses, which have their own review profiles and their own links.",
+        "You cannot exclude them and you should not try to compete on price against sterling. Being unmistakably local, with a verified Donegal address and Donegal reviews, is the position that works.",
+      ],
+    },
+    {
+      heading: "The diaspora searches without proximity",
+      body: [
+        "People with Donegal connections living in Dublin, Britain or further afield search for services here when they are renovating a family property or arranging something remotely.",
+        "They have no local proximity, so the map results do not help them — content and reviews decide it. For building trades that is a genuine second audience and almost nobody writes for it.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Donegal areas we work on",
+    body: "Optimisation is drawn by realistic driving time, because proximity decides the map results and Donegal is large enough that this settles most of it.",
+    towns: [
+      "Letterkenny",
+      "Buncrana",
+      "Ballybofey",
+      "Donegal town",
+      "Bundoran",
+      "Carndonagh",
+      "Dungloe",
+      "Moville",
+      "Killybegs",
+      "Ballyshannon",
+      "Lifford",
+      "Gweedore",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can we rank across Donegal?",
+      a: "No. The county is too large and proximity decides the map results. Ranking well in your own catchment is the realistic goal.",
+    },
+    {
+      q: "Do Derry businesses appear in our results?",
+      a: "In the north of the county, yes. You cannot exclude them; being unmistakably local is the effective answer.",
+    },
+    {
+      q: "Does page speed matter here?",
+      a: "More than almost anywhere in Ireland. Coverage in the west is poor and heavy sites fail without ever appearing in your figures.",
+    },
+    {
+      q: "Can we reach people who moved away?",
+      a: "To a useful degree, through content and reviews rather than the map. For renovation trades it is worth doing deliberately.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Donegal", href: "/locations/donegal/digital-marketing/" },
+    { label: "Social media marketing in Donegal", href: "/locations/donegal/social-media-marketing/" },
+  ],
+};
+
+const laoisSeo: ServicePage = {
+  county: "Laois",
+  countySlug: "laois",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Laois | Search Engine Optimisation for Laois Businesses",
+  description:
+    "SEO for Laois businesses in Portlaoise, Portarlington, Mountmellick and across the county. Local search work for a county where most households are new.",
+  h1: "SEO in Laois, where reviews do the work reputation cannot.",
+  intro: [
+    "A large share of Laois households arrived in the last decade. They have no inherited plumber, no usual electrician and nobody local to ask, which means they decide almost entirely on what they find online.",
+    "That makes this one of the more winnable counties in Ireland for a business willing to do the basics, and one where reviews carry more weight than anywhere else we work.",
+  ],
+  sections: [
+    {
+      heading: "Reviews are the whole credential here",
+      body: [
+        "In a settled town, reputation travels by word of mouth and a business with few reviews still gets recommended. In a county where most people are new, there is no word of mouth to travel.",
+        "Google reviews are the substitute, and a business with twenty of them will consistently beat a better business with three. If you do nothing else in Laois, do this.",
+      ],
+    },
+    {
+      heading: "The foundations, against light competition",
+      body: [
+        "Very few Laois businesses compete seriously in search.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "Proximity plus completeness. Portlaoise is the most contested map result in the county and still not very.",
+        },
+        {
+          title: "A page per service",
+          body: "Named services and named towns. Most local sites have one page covering everything.",
+        },
+        {
+          title: "Estate-level content where it applies",
+          body: "New developments are concentrated and searchable, and naming them is unusually effective here.",
+        },
+        {
+          title: "Links",
+          body: "Chamber, suppliers, clubs. Almost nobody local has built any.",
+        },
+        {
+          title: "Speed",
+          body: "New arrivals compare three businesses in an evening on a phone. A slow site loses before it is read.",
+        },
+      ],
+    },
+    {
+      heading: "Portlaoise is not the rest of Laois",
+      body: [
+        "Portlaoise has grown fast and competes differently from Abbeyleix, Rathdowney or Mountrath, which remain traditional market towns.",
+        "If you serve both, expect different timelines and do not read a slower start in Portlaoise as the campaign failing.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Laois areas we work on",
+    body: "Optimisation is weighted toward Portlaoise and the commuter towns, where the households and the searches have concentrated.",
+    towns: [
+      "Portlaoise",
+      "Portarlington",
+      "Mountmellick",
+      "Abbeyleix",
+      "Mountrath",
+      "Rathdowney",
+      "Durrow",
+      "Stradbally",
+      "Ballylinan",
+      "Clonaslee",
+      "Graiguecullen",
+      "Borris-in-Ossory",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Why do reviews matter so much in Laois?",
+      a: "Because most households arrived recently and have no local word of mouth to rely on. Reviews are the only evidence about you that exists.",
+    },
+    {
+      q: "Is Laois competitive?",
+      a: "No. Very few businesses here compete seriously in search, which makes the basics unusually effective.",
+    },
+    {
+      q: "Is Portlaoise different?",
+      a: "Yes — it grew fast and is the most contested market in the county. The older market towns are far easier.",
+    },
+    {
+      q: "How quickly does it work?",
+      a: "Map results in weeks with profile and review work. Organic pages in two to four months.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Laois", href: "/locations/laois/digital-marketing/" },
+    { label: "Web design in Laois", href: "/locations/laois/web-design/" },
+  ],
+};
+
+const leitrimSeo: ServicePage = {
+  county: "Leitrim",
+  countySlug: "leitrim",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Leitrim | Search Engine Optimisation for Leitrim Businesses",
+  description:
+    "SEO for Leitrim businesses in Carrick-on-Shannon, Manorhamilton and across the county. Honest about what search can and cannot do here.",
+  h1: "SEO in Leitrim, and an honest word about what it will do.",
+  intro: [
+    "Leitrim has the smallest population of any county in Ireland. On most days the number of people searching for your service inside the county is close to zero, and ranking first for a term nobody searches produces nothing.",
+    "So the honest position is this: SEO here is worth doing because it is cheap, it compounds and the competition is almost nonexistent. It is not worth doing as your main channel, and any agency selling it that way is selling you a report.",
+  ],
+  sections: [
+    {
+      heading: "What SEO genuinely does for a Leitrim business",
+      body: [
+        "Three things, none of which is filling a diary on its own.",
+      ],
+      list: [
+        {
+          title: "Wins the searches that do happen",
+          body: "They are few, they are high intent, and almost nobody is competing for them. Taking them is cheap.",
+        },
+        {
+          title: "Serves people checking you out",
+          body: "Most enquiries here come from a recommendation. Those people then search your name, and what they find decides whether they ring.",
+        },
+        {
+          title: "Reaches beyond the county",
+          body: "Carrick-on-Shannon's catchment crosses into Roscommon, Longford and Sligo. Ranking for those towns is where the volume actually is.",
+        },
+        {
+          title: "Builds the Google profile",
+          body: "Which does more here than the website, because the map result is what most local searches return.",
+        },
+      ],
+    },
+    {
+      heading: "Rank for the towns that are not in Leitrim",
+      body: [
+        "Carrick-on-Shannon sits on the Roscommon border and its catchment ignores it entirely. Manorhamilton looks toward Sligo. The south looks toward Longford.",
+        "A site that names only Leitrim towns is optimising for the smallest available market. Naming the neighbouring towns is the change that makes SEO worth the effort here.",
+      ],
+    },
+    {
+      heading: "Newcomers search where locals ask",
+      body: [
+        "Affordable property has brought a steady flow of people into Leitrim who know nobody and cannot ask around.",
+        "They search. They are the audience most likely to find you through Google rather than through a neighbour, and for trades they are the most valuable group in the county.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Leitrim areas we work on",
+    body: "Optimisation names the towns your customers actually come from, which for most Leitrim businesses means places in Roscommon, Sligo and Longford.",
+    towns: [
+      "Carrick-on-Shannon",
+      "Manorhamilton",
+      "Mohill",
+      "Drumshanbo",
+      "Ballinamore",
+      "Dromod",
+      "Kinlough",
+      "Drumkeeran",
+      "Leitrim village",
+      "Rossinver",
+      "Keshcarrigan",
+      "Newtowngore",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is SEO worth it in Leitrim?",
+      a: "Worth doing, not worth relying on. The search volume is not there for it to be a main channel, and we would rather say so than report on rankings.",
+    },
+    {
+      q: "What should our main channel be?",
+      a: "Paid social, in almost every case. It reaches people before they search, which in a county this size is nearly everybody.",
+    },
+    {
+      q: "Should we target other counties?",
+      a: "Almost always. Carrick-on-Shannon's catchment pays no attention to the county line and that is where the volume is.",
+    },
+    {
+      q: "Is competition really that light?",
+      a: "Close to nonexistent. Most Leitrim competitors have no links and incomplete profiles.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Leitrim", href: "/locations/leitrim/digital-marketing/" },
+    { label: "Social media marketing in Leitrim", href: "/locations/leitrim/social-media-marketing/" },
+  ],
+};
+
+const longfordSeo: ServicePage = {
+  county: "Longford",
+  countySlug: "longford",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Longford | Search Engine Optimisation for Longford Businesses",
+  description:
+    "SEO for Longford businesses in Longford town, Ballymahon, Granard and across the county. Local search work in one of the least contested markets in Ireland.",
+  h1: "SEO in Longford, where one town holds the whole market.",
+  intro: [
+    "Longford is unusual among rural counties in having a clear centre. Longford town holds most of the retail, services and employment, and the smaller towns feed into it rather than competing with it.",
+    "That simplifies search considerably. There is one main set of local results to compete in rather than a dozen, and almost nobody is competing in it seriously.",
+  ],
+  sections: [
+    {
+      heading: "One centre means one contest",
+      body: [
+        "In Cavan, Tipperary or Mayo a business has to choose which town's results to fight for. In Longford there is really only one worth having, and most of your customers are searching from within it.",
+        "That concentration makes the work cheaper and the results faster than in a dispersed county of similar size.",
+      ],
+    },
+    {
+      heading: "The foundations, against almost no competition",
+      body: [
+        "This is among the least contested search markets in the country.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "Completeness alone will move most Longford businesses up the map results, because so few competitors have finished theirs.",
+        },
+        {
+          title: "One page per service, naming your towns",
+          body: "Most local sites have a single page covering everything, which ranks for nothing.",
+        },
+        {
+          title: "Reviews",
+          body: "Extremely thin here. Ten genuine reviews is a strong position in Longford.",
+        },
+        {
+          title: "Links",
+          body: "Chamber, suppliers, clubs, local media. Almost nobody has any.",
+        },
+        {
+          title: "Speed",
+          body: "The bar is low and clearing it is not difficult.",
+        },
+      ],
+    },
+    {
+      heading: "Do not stop at the county line",
+      body: [
+        "Longford's catchment reaches into Roscommon, Westmeath, Cavan and Leitrim, and the towns on those edges are closer to many Longford businesses than the far end of their own county.",
+        "Naming them is a small change that regularly produces enquiries from people who assumed you did not cover them.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Longford areas we work on",
+    body: "Optimisation is concentrated on Longford town and the distance out from it you genuinely cover, including towns over the county line.",
+    towns: [
+      "Longford town",
+      "Ballymahon",
+      "Granard",
+      "Edgeworthstown",
+      "Lanesborough",
+      "Drumlish",
+      "Newtownforbes",
+      "Ballinalee",
+      "Keenagh",
+      "Abbeyshrule",
+      "Legan",
+      "Moydow",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is Longford easier than other rural counties?",
+      a: "Yes, because it has one clear centre rather than a dozen competing towns. There is one contest to win rather than several.",
+    },
+    {
+      q: "How competitive is it?",
+      a: "Among the least competitive markets in Ireland. Most local profiles are incomplete and almost nobody has links.",
+    },
+    {
+      q: "Should we mention other counties?",
+      a: "If you serve them, yes. Parts of Roscommon, Westmeath and Cavan are closer to many Longford businesses than their own county's edges.",
+    },
+    {
+      q: "How quickly does it work?",
+      a: "Map results can move within weeks. Organic pages in two to three months.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Longford", href: "/locations/longford/digital-marketing/" },
+    { label: "Web design in Longford", href: "/locations/longford/web-design/" },
+  ],
+};
+
+const monaghanSeo: ServicePage = {
+  county: "Monaghan",
+  countySlug: "monaghan",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Monaghan | Search Engine Optimisation for Monaghan Businesses",
+  description:
+    "SEO for Monaghan businesses in Monaghan town, Carrickmacross, Castleblayney and across the county, including business-to-business search.",
+  h1: "SEO in Monaghan, where a lot of the searching is done by other businesses.",
+  intro: [
+    "Monaghan has an industrial base most rural counties never developed, and a meaningful share of local demand is business-to-business rather than consumer. Those buyers search differently: longer, more specific phrases, fewer of them, and each one worth far more.",
+    "That changes what good SEO looks like here. Ranking for twelve specific technical phrases can be worth more than ranking for a broad consumer term.",
+  ],
+  sections: [
+    {
+      heading: "Business buyers search in specifics",
+      body: [
+        "A consumer searches 'plumber Monaghan'. A procurement manager searches for a capability, a material, a tolerance or a certification.",
+        "Those phrases have almost no competition because almost no Irish supplier writes pages about what they can actually make or do. For a Monaghan manufacturer this is the clearest SEO opportunity available and it is nearly uncontested.",
+      ],
+      list: [
+        {
+          title: "Capability pages",
+          body: "What you fabricate, process or supply, in the words a buyer would use. One page per capability.",
+        },
+        {
+          title: "Certification and compliance",
+          body: "Named explicitly. Buyers filter on these before they filter on anything else.",
+        },
+        {
+          title: "Case detail without naming clients",
+          body: "Sector, problem, scale and outcome. Confidentiality does not prevent this.",
+        },
+        {
+          title: "Recruitment pages",
+          body: "A real and under-used SEO target for Monaghan employers, who frequently need staff more than sales.",
+        },
+      ],
+    },
+    {
+      heading: "Cross-border search is normal here",
+      body: [
+        "A good deal of Monaghan's natural catchment is in Armagh, Tyrone and beyond, and people search across the border without thinking about it.",
+        "If you serve or want to serve Northern Ireland, the site has to say so. Google will not infer it from proximity and neither will a buyer.",
+      ],
+    },
+    {
+      heading: "Consumer search is straightforward and light",
+      body: [
+        "For trades and consumer services, Monaghan is an easy market — thin competition and weak competitor foundations across all the main towns.",
+        "The two sides should be built separately. They share nothing except an address.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Monaghan areas we work on",
+    body: "Optimisation covers your catchment on both sides of the border, and separates business-to-business search from consumer search.",
+    towns: [
+      "Monaghan town",
+      "Carrickmacross",
+      "Castleblayney",
+      "Clones",
+      "Ballybay",
+      "Emyvale",
+      "Scotstown",
+      "Newbliss",
+      "Inniskeen",
+      "Threemilehouse",
+      "Smithborough",
+      "Glaslough",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Does SEO work for a manufacturer?",
+      a: "Better than most expect, because so few Irish suppliers write pages about what they can actually make. Those phrases are nearly uncontested.",
+    },
+    {
+      q: "Should we mention Northern Ireland?",
+      a: "If you serve it, yes and explicitly. Google will not infer it from proximity.",
+    },
+    {
+      q: "Can we do case studies with confidentiality?",
+      a: "Yes — sector, problem, scale and outcome without naming the client. That is enough for a buyer to judge you.",
+    },
+    {
+      q: "Is recruitment an SEO target?",
+      a: "For many Monaghan employers it is the more valuable one, and almost nobody optimises for it.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Monaghan", href: "/locations/monaghan/digital-marketing/" },
+    { label: "Web design in Monaghan", href: "/locations/monaghan/web-design/" },
+  ],
+};
+
+const offalySeo: ServicePage = {
+  county: "Offaly",
+  countySlug: "offaly",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Offaly | Search Engine Optimisation for Offaly Businesses",
+  description:
+    "SEO for Offaly businesses in Tullamore, Birr, Edenderry and across the county. Local search work run as three separate town markets.",
+  h1: "SEO in Offaly, three towns that do not share results.",
+  intro: [
+    "Offaly is long, and Tullamore, Birr and Edenderry sit far enough apart that Google treats them as the separate places they are. A Tullamore business will not appear in Birr's map results and no amount of optimisation changes that.",
+    "Edenderry complicates it further, because it increasingly looks east toward Kildare and its search results are contested from that direction.",
+  ],
+  sections: [
+    {
+      heading: "Three towns, three sets of rankings",
+      body: [
+        "Decide which town you are actually competing in before anything else. Most Offaly businesses serve one and its surroundings, whatever their website implies.",
+        "Pages naming the towns you genuinely cover will out-perform a county-wide claim, because Google matches on the specific place and customers check for their own.",
+      ],
+    },
+    {
+      heading: "Remote working changed who searches and when",
+      body: [
+        "A significant share of Offaly households now work from home part of the week, and people working from home research more thoroughly before they ring.",
+        "They read comparison content, they check reviews, and they look at three sites rather than one. That rewards pages that answer real questions rather than pages that assert quality — which is exactly what SEO content should be doing anyway.",
+      ],
+    },
+    {
+      heading: "The foundations, against light competition",
+      body: [
+        "Offaly is not a contested market and the bar is low.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "Completeness decides most of the local result, and most Offaly profiles are unfinished.",
+        },
+        {
+          title: "A page per service, per town where it matters",
+          body: "Tullamore and Birr genuinely differ.",
+        },
+        {
+          title: "Reviews",
+          body: "Thin across the county, so a modest number counts for a great deal.",
+        },
+        {
+          title: "Links",
+          body: "Local media, chamber, sponsorship. Almost nobody has any.",
+        },
+        {
+          title: "Content that answers questions",
+          body: "Because the remote-working audience actually reads it.",
+        },
+      ],
+    },
+  ],
+  areas: {
+    heading: "Offaly areas we work on",
+    body: "Optimisation is aimed at the town you actually compete in, because Tullamore, Birr and Edenderry are three separate sets of local results.",
+    towns: [
+      "Tullamore",
+      "Birr",
+      "Edenderry",
+      "Clara",
+      "Banagher",
+      "Ferbane",
+      "Kilcormac",
+      "Daingean",
+      "Shinrone",
+      "Cloghan",
+      "Rhode",
+      "Portarlington side",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can we rank across Offaly?",
+      a: "Not in the map results. The three main towns are far enough apart that Google treats them separately, and proximity decides it.",
+    },
+    {
+      q: "Is Edenderry different?",
+      a: "Yes — it looks east toward Kildare and its results are contested from that direction rather than from within Offaly.",
+    },
+    {
+      q: "Does remote working affect SEO?",
+      a: "It means more people research properly before ringing, which rewards pages that answer real questions over pages that assert quality.",
+    },
+    {
+      q: "Is competition heavy?",
+      a: "No. Most Offaly profiles are unfinished and almost nobody has links.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Offaly", href: "/locations/offaly/digital-marketing/" },
+    { label: "Social media marketing in Offaly", href: "/locations/offaly/social-media-marketing/" },
+  ],
+};
+
+const roscommonSeo: ServicePage = {
+  county: "Roscommon",
+  countySlug: "roscommon",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Roscommon | Search Engine Optimisation for Roscommon Businesses",
+  description:
+    "SEO for Roscommon businesses in Roscommon town, Boyle, Castlerea and across the county. Optimisation aimed at the towns your customers actually use.",
+  h1: "SEO in Roscommon, where you should rank for other counties' towns.",
+  intro: [
+    "Roscommon has no town large enough to anchor it, and its real commercial centres mostly sit outside its own borders — Athlone at one end, Carrick-on-Shannon at another, Ballinasloe and Longford at the edges.",
+    "So optimising for Roscommon is frequently optimising for the wrong place. The searches that matter name towns in Westmeath, Leitrim, Galway and Longford.",
+  ],
+  sections: [
+    {
+      heading: "Optimise for where your customers actually are",
+      body: [
+        "A business in south Roscommon lives off Athlone. One in the north lives off Carrick-on-Shannon or Boyle's own catchment. One in the east looks at Longford.",
+        "The pages should name those towns. It feels counter-intuitive to optimise a Roscommon business for Athlone, and it is where the volume is.",
+      ],
+    },
+    {
+      heading: "Proximity still binds you",
+      body: [
+        "Naming a town helps you appear in organic results for it. It does not put you in that town's map pack, which is decided by your verified address.",
+        "That distinction matters: you can win the blue links in Athlone from a Roscommon address, and you will not win the map. Both are worth having and they are won differently.",
+      ],
+    },
+    {
+      heading: "The foundations, and why they go far here",
+      body: [
+        "Roscommon competitors have done very little of this.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "Fully completed, with a realistic service area covering where you genuinely travel.",
+        },
+        {
+          title: "Pages naming your real catchment",
+          body: "Including Athlone, Ballinasloe, Carrick-on-Shannon and Longford where they apply.",
+        },
+        {
+          title: "Reviews",
+          body: "Extremely thin locally, so a handful is a strong position.",
+        },
+        {
+          title: "Links",
+          body: "Clubs, suppliers, marts, local media. Almost nobody has built any.",
+        },
+        {
+          title: "Page weight",
+          body: "Coverage is uneven across the county and heavy sites fail silently.",
+        },
+      ],
+    },
+  ],
+  areas: {
+    heading: "Roscommon areas we work on",
+    body: "Optimisation names whichever commercial centre your customers actually use, which for most Roscommon businesses is outside the county.",
+    towns: [
+      "Roscommon town",
+      "Boyle",
+      "Castlerea",
+      "Ballaghaderreen",
+      "Strokestown",
+      "Elphin",
+      "Frenchpark",
+      "Knockcroghery",
+      "Ballyforan",
+      "Tarmonbarry",
+      "Ballinasloe side",
+      "Lanesborough",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Should we optimise for Athlone?",
+      a: "If your customers come from there, yes — and for many south Roscommon businesses they do. It feels counter-intuitive and it is where the volume is.",
+    },
+    {
+      q: "Can we get into Athlone's map results?",
+      a: "Not from a Roscommon address. You can win the organic results there; the map pack is decided by proximity.",
+    },
+    {
+      q: "Is Roscommon competitive?",
+      a: "Very lightly. Most local competitors have no links and unfinished profiles.",
+    },
+    {
+      q: "Does page speed matter?",
+      a: "Yes. Coverage is uneven across the county and heavy sites fail for a share of visitors you never see.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Roscommon", href: "/locations/roscommon/digital-marketing/" },
+    { label: "Social media marketing in Roscommon", href: "/locations/roscommon/social-media-marketing/" },
+  ],
+};
+
+const westmeathSeo: ServicePage = {
+  county: "Westmeath",
+  countySlug: "westmeath",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Westmeath | Search Engine Optimisation for Athlone & Mullingar",
+  description:
+    "SEO for Westmeath businesses in Athlone, Mullingar and across the county. Local search work run as two towns facing opposite directions.",
+  h1: "SEO in Westmeath, two towns and two different prizes.",
+  intro: [
+    "Athlone and Mullingar are an hour apart and face opposite ways. Athlone serves a genuinely regional catchment reaching into Roscommon, east Galway and north Offaly. Mullingar looks east along the N4 toward Dublin.",
+    "They are separate sets of local results with separate competition, and the prize for ranking well is different in each.",
+  ],
+  sections: [
+    {
+      heading: "Athlone's ranking is worth more than its population",
+      body: [
+        "Athlone functions as the commercial centre for four counties' worth of people, and there is little competition between it and the towns it serves.",
+        "A business ranking well in Athlone is visible to a catchment several times the town's own size. That makes SEO unusually high-return here, and almost no local business has realised it.",
+      ],
+    },
+    {
+      heading: "Mullingar is a commuter contest",
+      body: [
+        "Mullingar's households work in Dublin and Dublin businesses advertise into the town, which makes its results more contested than Athlone's despite a smaller catchment.",
+        "Expect a longer timeline there, and expect reviews and response speed to matter more than content volume.",
+      ],
+    },
+    {
+      heading: "The foundations, applied twice",
+      body: [
+        "The same work, aimed at two different results.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "Your address decides which town's map pack you compete in. There is no setting that changes it.",
+        },
+        {
+          title: "Separate pages for each town",
+          body: "If you genuinely serve both, they need genuinely different pages, not one with both names in it.",
+        },
+        {
+          title: "Regional naming for Athlone",
+          body: "Ballinasloe, Roscommon town, Moate, Ballymahon. Most Athlone sites name none of them.",
+        },
+        {
+          title: "Reviews",
+          body: "The tiebreaker in both towns, and thin in each.",
+        },
+        {
+          title: "Links",
+          body: "Chamber, institute, local media, sponsorship. Westmeath has more genuinely available than most midland counties.",
+        },
+      ],
+    },
+  ],
+  areas: {
+    heading: "Westmeath areas we work on",
+    body: "Optimisation is built per town, with Athlone extended across its regional catchment and Mullingar treated as a commuter contest.",
+    towns: [
+      "Athlone",
+      "Mullingar",
+      "Moate",
+      "Castlepollard",
+      "Kinnegad",
+      "Killucan",
+      "Rochfortbridge",
+      "Kilbeggan",
+      "Delvin",
+      "Multyfarnham",
+      "Ballynacargy",
+      "Tyrrellspass",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is Athlone's catchment really that wide?",
+      a: "Yes, and it is the most under-used fact in the county. It reaches into Roscommon, east Galway and north Offaly.",
+    },
+    {
+      q: "Can we rank in both Athlone and Mullingar?",
+      a: "In the map results, no — your address sits in one of them. Organically you can appear for both if the pages are genuinely separate.",
+    },
+    {
+      q: "Which is harder?",
+      a: "Mullingar, because Dublin businesses advertise into it. Athlone is less contested and the payoff is larger.",
+    },
+    {
+      q: "How long does it take?",
+      a: "Map results in weeks. Organic in two to four months in Athlone, longer in Mullingar.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Westmeath", href: "/locations/westmeath/digital-marketing/" },
+    { label: "Web design in Westmeath", href: "/locations/westmeath/web-design/" },
+  ],
+};
+
+const carlowGoogleAds: ServicePage = {
+  county: "Carlow",
+  countySlug: "carlow",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Carlow | PPC Management for Carlow Businesses",
+  description:
+    "Google Ads management for Carlow businesses in Carlow town, Tullow and Bagenalstown. Targeting drawn on a radius, not a county boundary.",
+  h1: "Google Ads in Carlow, drawn on a radius rather than a boundary.",
+  intro: [
+    "Carlow is small enough that a campaign targeted at the county will struggle to spend a sensible budget. There simply are not enough searches inside the boundary on a given day.",
+    "The answer is to target a driving radius instead, which for most Carlow businesses includes Athy, Castledermot, Graiguenamanagh, Bagenalstown's Kilkenny side and a good deal of north Wexford.",
+  ],
+  sections: [
+    {
+      heading: "Target a radius, not Carlow",
+      body: [
+        "Setting a campaign to County Carlow is the most common mistake we see here, and it caps your volume at whatever the smallest county but one can supply.",
+        "A radius around your actual location, sized to how far you will drive, reaches the same customers plus a considerable number the county setting excludes — at no extra cost per click.",
+      ],
+    },
+    {
+      heading: "The M9 brings traffic that is not yours",
+      body: [
+        "A great many people pass through Carlow on the motorway without stopping, and depending on your targeting settings you can end up advertising to them.",
+        "The location settings that control this are left on their defaults in almost every account we inherit. Changing them takes minutes and removes a source of waste nobody notices.",
+      ],
+    },
+    {
+      heading: "Where the budget ceiling sits",
+      body: [
+        "Even with a sensible radius, Carlow plus its surrounds supplies a finite number of relevant searches.",
+        "Past that point Google spends the surplus widening your reach to people who will not travel. If spend rises and booked jobs do not, that is what is happening, and the money is better moved to paid social.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Carlow areas we target",
+    body: "Campaigns are drawn on a realistic driving radius, which for most Carlow businesses crosses into Kildare, Kilkenny, Laois and Wexford.",
+    towns: [
+      "Carlow town",
+      "Tullow",
+      "Bagenalstown",
+      "Leighlinbridge",
+      "Hacketstown",
+      "Borris",
+      "Rathvilly",
+      "Myshall",
+      "Ballon",
+      "Fenagh",
+      "Clonegal",
+      "Palatine",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Should we target County Carlow?",
+      a: "No — target a radius. The county setting caps your volume at what a very small county can supply and excludes towns just over the line.",
+    },
+    {
+      q: "What about motorway traffic?",
+      a: "The default location settings can pick up people passing through on the M9. Changing them takes minutes and removes waste nobody notices.",
+    },
+    {
+      q: "How much can we usefully spend?",
+      a: "Less than in a city. Once you are capturing the available searches, more budget widens reach rather than finding customers.",
+    },
+    {
+      q: "Is Carlow expensive?",
+      a: "No. Light competition and low click prices throughout.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Carlow", href: "/locations/carlow/seo/" },
+    { label: "Digital marketing in Carlow", href: "/locations/carlow/digital-marketing/" },
+  ],
+};
+
+const donegalGoogleAds: ServicePage = {
+  county: "Donegal",
+  countySlug: "donegal",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Donegal | PPC Management for Donegal Businesses",
+  description:
+    "Google Ads management for Donegal businesses in Letterkenny, Buncrana, Donegal town and the west. Targeted by driving time, not radius.",
+  h1: "Google Ads in Donegal, where a radius is the wrong shape.",
+  intro: [
+    "Donegal is large, awkwardly shaped and served by slow roads, which makes radius targeting actively misleading. A circle around Letterkenny includes places nobody will drive from and excludes places they will.",
+    "Targeting named towns within realistic driving time is the single biggest efficiency available on a Donegal account, and it is almost never the default setting.",
+  ],
+  sections: [
+    {
+      heading: "Towns, not circles",
+      body: [
+        "Every campaign here starts with an honest answer about how far you will actually travel, and then targets those towns by name.",
+        "It reduces click volume and improves cost per booked job, which is the only number that pays anybody.",
+      ],
+    },
+    {
+      heading: "The border is a targeting decision",
+      body: [
+        "Google will happily show your ads to people in Derry and Strabane if you let it, and for some Donegal businesses that is genuinely valuable.",
+        "For others it is expensive traffic that converts poorly, particularly when sterling makes you look dear. It should be an explicit decision in the account rather than something that happens by default.",
+      ],
+      list: [
+        {
+          title: "Include Northern Ireland",
+          body: "If you genuinely trade across the border and can handle currency and travel. Real volume, and worth having.",
+        },
+        {
+          title: "Exclude it",
+          body: "If you do not. Left on by accident it is one of the larger sources of waste on a north Donegal account.",
+        },
+        {
+          title: "Target it separately",
+          body: "The honest middle ground — its own campaign, own budget, own messaging, so you can see whether it works.",
+        },
+      ],
+    },
+    {
+      heading: "Seasonality on the coast is severe",
+      body: [
+        "Bundoran, Dungloe and the west see demand concentrate into a few months, while Letterkenny trades all year.",
+        "Spreading budget evenly across a coastal business's year wastes most of it. Weighting into the season, and reaching visitors before they travel, is where the return is.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Donegal areas we target",
+    body: "Campaigns target named towns within realistic driving time, with Northern Ireland included or excluded as a deliberate decision.",
+    towns: [
+      "Letterkenny",
+      "Buncrana",
+      "Ballybofey",
+      "Donegal town",
+      "Bundoran",
+      "Carndonagh",
+      "Dungloe",
+      "Moville",
+      "Killybegs",
+      "Ballyshannon",
+      "Lifford",
+      "Gweedore",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Why not use radius targeting?",
+      a: "Because Donegal's roads are slow and its shape is awkward. A circle includes places nobody will drive from and misses places they will.",
+    },
+    {
+      q: "Should we advertise into Northern Ireland?",
+      a: "Only as a deliberate decision. Left on by default it is a significant source of waste; targeted properly it can be real volume.",
+    },
+    {
+      q: "How seasonal is the coast?",
+      a: "Severely. Weighting budget into the season, and reaching visitors before they travel, is where the return is.",
+    },
+    {
+      q: "Is Donegal cheap to advertise in?",
+      a: "Among the cheapest in the country, which makes tight targeting more valuable rather than less.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Donegal", href: "/locations/donegal/seo/" },
+    { label: "Digital marketing in Donegal", href: "/locations/donegal/digital-marketing/" },
+  ],
+};
+
+const laoisGoogleAds: ServicePage = {
+  county: "Laois",
+  countySlug: "laois",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Laois | PPC Management for Laois Businesses",
+  description:
+    "Google Ads management for Laois businesses in Portlaoise, Portarlington and across the county. Motorway traffic filtered out.",
+  h1: "Google Ads in Laois, with the motorway taken out of the targeting.",
+  intro: [
+    "Portlaoise sits where the M7 and M8 divide, and an enormous number of people pass through Laois every day without any intention of stopping. Default location settings will show your adverts to a good share of them.",
+    "It is the most distinctive source of waste in this county and almost nobody excludes it, because it never appears as a line item — it just quietly raises the cost per enquiry.",
+  ],
+  sections: [
+    {
+      heading: "Exclude people who are merely passing through",
+      body: [
+        "Google's location options let you target people in an area, people regularly in an area, or people who have shown interest in it. The default is broader than most advertisers realise.",
+        "In a county built around a motorway junction, tightening that setting is the first change worth making and it costs nothing.",
+      ],
+    },
+    {
+      heading: "The new estates are the targetable audience",
+      body: [
+        "Portlaoise and Portarlington have grown fast, and new developments concentrate households at the same life stage with the same needs and no established suppliers.",
+        "They are geographically tight, which makes them efficient to target and unusually responsive. For most trades this is the best audience in the county.",
+      ],
+    },
+    {
+      heading: "Reviews decide who gets the click",
+      body: [
+        "Because most Laois households arrived recently and have no local word of mouth, your Google reviews appear beside your advert and do a great deal of the deciding.",
+        "A campaign with four reviews behind it will underperform an identical one with thirty, at the same bid. That is not a bidding problem and it cannot be fixed inside the account.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Laois areas we target",
+    body: "Campaigns are weighted toward Portlaoise and the commuter towns, with motorway through-traffic excluded deliberately.",
+    towns: [
+      "Portlaoise",
+      "Portarlington",
+      "Mountmellick",
+      "Abbeyleix",
+      "Mountrath",
+      "Rathdowney",
+      "Durrow",
+      "Stradbally",
+      "Ballylinan",
+      "Clonaslee",
+      "Graiguecullen",
+      "Borris-in-Ossory",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "What is the biggest waste in a Laois account?",
+      a: "Motorway through-traffic. The default location settings pick up people passing through the M7/M8 junction and it never shows up as a line item.",
+    },
+    {
+      q: "Are new estates worth targeting?",
+      a: "In Laois particularly. They are geographically tight, full of households with no established suppliers, and responsive.",
+    },
+    {
+      q: "Why do reviews affect our ads?",
+      a: "They appear beside the advert, and in a county where most people are new they do much of the deciding. Bidding cannot compensate for having four of them.",
+    },
+    {
+      q: "Is Laois expensive?",
+      a: "No. Competition is light and clicks are inexpensive throughout the county.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Laois", href: "/locations/laois/seo/" },
+    { label: "Digital marketing in Laois", href: "/locations/laois/digital-marketing/" },
+  ],
+};
+
+const leitrimGoogleAds: ServicePage = {
+  county: "Leitrim",
+  countySlug: "leitrim",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Leitrim | PPC Management for Leitrim Businesses",
+  description:
+    "Google Ads management for Leitrim businesses in Carrick-on-Shannon and across the county. Honest about whether search is the right channel.",
+  h1: "Google Ads in Leitrim, and why it usually should not be your main channel.",
+  intro: [
+    "Leitrim has the smallest population in Ireland, and on most days the number of people searching for any given service inside the county is close to zero. A search campaign cannot spend a meaningful budget on demand that does not exist.",
+    "We will say that before taking a budget rather than after three months of reporting on impressions. For most Leitrim businesses, paid social should be the main channel and search should be a small, cheap supporting campaign.",
+  ],
+  sections: [
+    {
+      heading: "What search can genuinely do here",
+      body: [
+        "Not fill a diary. It can catch the few high-intent searches that happen, and it can catch people who heard your name and are checking you out.",
+        "Both are worth having and both are cheap. Neither is a growth channel on its own in a county this size.",
+      ],
+      list: [
+        {
+          title: "Worth running on search",
+          body: "Emergency and urgent work, anything with a deadline, and your own business name so a competitor cannot bid on it.",
+        },
+        {
+          title: "Worth running on social instead",
+          body: "Everything discretionary or visual. Nobody in Leitrim is searching for a new kitchen today; they have to be shown one.",
+        },
+        {
+          title: "Worth extending across the border of the county",
+          body: "Carrick-on-Shannon's catchment reaches into Roscommon, Sligo and Longford. That is where the search volume actually is.",
+        },
+      ],
+    },
+    {
+      heading: "If you run search, run it wide",
+      body: [
+        "A campaign limited to County Leitrim will struggle to spend fifty euro a week. Extended across a realistic driving radius into the neighbouring counties, it becomes viable.",
+        "That is not a trick to spend more of your money. It is the honest shape of the market — your customers already live over the line.",
+      ],
+    },
+    {
+      heading: "What we would rather you spent it on",
+      body: [
+        "For most businesses here: a modest social budget reaching the households in your catchment repeatedly, plus enough search to catch the urgent work.",
+        "That split produces more enquiries per euro in Leitrim than any search-led approach we have seen.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Leitrim areas we target",
+    body: "Campaigns extend across a realistic driving radius into Roscommon, Sligo, Cavan and Longford, because Leitrim alone cannot supply the volume.",
+    towns: [
+      "Carrick-on-Shannon",
+      "Manorhamilton",
+      "Mohill",
+      "Drumshanbo",
+      "Ballinamore",
+      "Dromod",
+      "Kinlough",
+      "Drumkeeran",
+      "Leitrim village",
+      "Rossinver",
+      "Keshcarrigan",
+      "Newtowngore",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is Google Ads right for a Leitrim business?",
+      a: "Usually not as the main channel. The search volume is not there, and we would rather say so than report on impressions.",
+    },
+    {
+      q: "What should we run instead?",
+      a: "Paid social for reach, with a small search campaign for urgent work and your own business name.",
+    },
+    {
+      q: "Should the campaign cross into other counties?",
+      a: "Yes, always. A Leitrim-only campaign will struggle to spend fifty euro a week.",
+    },
+    {
+      q: "Is that just a way to spend more of our money?",
+      a: "No — the budget stays whatever you set. It is about reaching the customers who are already over the county line.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Leitrim", href: "/locations/leitrim/seo/" },
+    { label: "Social media marketing in Leitrim", href: "/locations/leitrim/social-media-marketing/" },
+  ],
+};
+
+const longfordGoogleAds: ServicePage = {
+  county: "Longford",
+  countySlug: "longford",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Longford | PPC Management for Longford Businesses",
+  description:
+    "Google Ads management for Longford businesses in Longford town, Ballymahon and across the county. One concentrated campaign, cheaply run.",
+  h1: "Google Ads in Longford, where one campaign is genuinely enough.",
+  intro: [
+    "In most rural counties we split campaigns by town because the catchments do not overlap. Longford is the exception: one clear centre, a concentrated population and short distances mean a single well-targeted campaign usually covers the real market.",
+    "That makes it one of the simplest and cheapest counties in Ireland to advertise in properly.",
+  ],
+  sections: [
+    {
+      heading: "Concentration is an advantage",
+      body: [
+        "Because most of Longford's population and nearly all of its commercial activity sit around one town, a single campaign reaches the genuine catchment without the waste that a county-wide campaign causes elsewhere.",
+        "Fewer campaigns means the budget is not split across several learning periods, which in a low-volume market matters more than it sounds.",
+      ],
+    },
+    {
+      heading: "Volume is the ceiling and it is low",
+      body: [
+        "Longford is a small county. Once you are capturing the searches available, additional budget does not find additional customers — it repeats your advert to the same people.",
+        "We will tell you when you have reached that point and recommend moving the surplus to social rather than bidding harder, which is the opposite of what a percentage-of-spend agency would advise.",
+      ],
+    },
+    {
+      heading: "Ballymahon is a second, different market",
+      body: [
+        "The visitor and employment activity around the resort in the south of the county behaves differently from Longford town's local trade — different timing, different customers, partly seasonal.",
+        "If you serve it, it is worth a separate small campaign rather than being averaged into the main one.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Longford areas we target",
+    body: "One concentrated campaign around Longford town usually covers the genuine catchment, with the south of the county handled separately if you serve it.",
+    towns: [
+      "Longford town",
+      "Ballymahon",
+      "Granard",
+      "Edgeworthstown",
+      "Lanesborough",
+      "Drumlish",
+      "Newtownforbes",
+      "Ballinalee",
+      "Keenagh",
+      "Abbeyshrule",
+      "Legan",
+      "Moydow",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Do we need separate town campaigns?",
+      a: "Usually not, which is unusual for a rural county. Longford's concentration means one well-targeted campaign covers the real market.",
+    },
+    {
+      q: "How much should we spend?",
+      a: "Modestly. Search volume is low and past a certain point the budget repeats your advert rather than finding new customers.",
+    },
+    {
+      q: "How will we know we have hit the ceiling?",
+      a: "Spend rises and booked jobs do not. At that point we would move the surplus to social rather than bid harder.",
+    },
+    {
+      q: "Is Longford cheap?",
+      a: "Among the cheapest in Ireland. Very light competition.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Longford", href: "/locations/longford/seo/" },
+    { label: "Digital marketing in Longford", href: "/locations/longford/digital-marketing/" },
+  ],
+};
+
+const monaghanGoogleAds: ServicePage = {
+  county: "Monaghan",
+  countySlug: "monaghan",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Monaghan | PPC Management & Recruitment Ads",
+  description:
+    "Google Ads management for Monaghan businesses, including business-to-business search and recruitment campaigns across the border region.",
+  h1: "Google Ads in Monaghan, for customers and for staff.",
+  intro: [
+    "Monaghan's industrial base means a large share of local demand is business-to-business, where a single enquiry can be worth a year of budget and the acceptable cost per click is many times a consumer campaign's.",
+    "It also means a lot of employers here need people more urgently than they need sales, and search advertising for recruitment is cheaper and faster than most realise.",
+  ],
+  sections: [
+    {
+      heading: "B2B search is a different account entirely",
+      body: [
+        "Business buyers search in long, specific phrases, there are few of them, and each is worth a great deal. A campaign built for consumer volume will miss all of it.",
+        "We build these around capability and problem terms with a much higher acceptable cost per enquiry, and judge them on contracts rather than lead count.",
+      ],
+    },
+    {
+      heading: "Recruitment campaigns are under-used here",
+      body: [
+        "Advertising a role on search reaches people actively looking; advertising it on social reaches people who are not. For skilled trades and production roles in Monaghan, the second pool is far larger.",
+        "Either way, a few hundred euro will usually fill a role against recruitment agency fees of several thousand. For several Monaghan employers this is the higher-value use of the budget and we will say so.",
+      ],
+    },
+    {
+      heading: "The border is real volume",
+      body: [
+        "A meaningful share of Monaghan's natural market is in Armagh, Tyrone and beyond, for both customers and staff.",
+        "If you trade or hire there, target it deliberately with its own budget so you can see whether it works, rather than letting it bleed into a Republic-only campaign.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Monaghan areas we target",
+    body: "Campaigns cover your catchment on both sides of the border, and separate business-to-business search from consumer and recruitment work.",
+    towns: [
+      "Monaghan town",
+      "Carrickmacross",
+      "Castleblayney",
+      "Clones",
+      "Ballybay",
+      "Emyvale",
+      "Scotstown",
+      "Newbliss",
+      "Inniskeen",
+      "Threemilehouse",
+      "Smithborough",
+      "Glaslough",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Does Google Ads work for B2B?",
+      a: "Well, because so few Irish suppliers advertise on capability terms. Few searches, each worth a great deal, and almost no competition.",
+    },
+    {
+      q: "Can we use ads to hire?",
+      a: "Yes, and cheaply — usually a few hundred euro against agency fees of several thousand. For many Monaghan employers it is the better use of the budget.",
+    },
+    {
+      q: "Should we target Northern Ireland?",
+      a: "If you trade or hire there, deliberately and with its own budget so you can see whether it works.",
+    },
+    {
+      q: "Is consumer advertising worth it too?",
+      a: "Yes, and separately. Different buyers, different budgets, different measures of success.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Monaghan", href: "/locations/monaghan/seo/" },
+    { label: "Digital marketing in Monaghan", href: "/locations/monaghan/digital-marketing/" },
+  ],
+};
+
+const offalyGoogleAds: ServicePage = {
+  county: "Offaly",
+  countySlug: "offaly",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Offaly | PPC Management for Offaly Businesses",
+  description:
+    "Google Ads management for Offaly businesses in Tullamore, Birr and Edenderry. Three towns, three campaigns, reported separately.",
+  h1: "Google Ads in Offaly, three towns that need three budgets.",
+  intro: [
+    "Tullamore, Birr and Edenderry are far enough apart that a single county campaign pays to reach all three to serve customers in one. They also differ in cost: Edenderry is pulled upward by its proximity to Kildare and the Dublin commuter belt.",
+    "Reporting them together hides a campaign working well in one town and badly in another, which is the state most Offaly accounts are in when we see them.",
+  ],
+  sections: [
+    {
+      heading: "Three markets, three sets of numbers",
+      body: [
+        "Split, budgeted and reported separately, so you can see where the money is actually working.",
+      ],
+      list: [
+        {
+          title: "Tullamore",
+          body: "The commercial centre and the largest catchment. Moderate competition, the best volume in the county.",
+        },
+        {
+          title: "Birr",
+          body: "Smaller, cheaper, with a heritage and tourism layer that is seasonal and worth separating if it applies to you.",
+        },
+        {
+          title: "Edenderry",
+          body: "Looks east. Dublin and Kildare advertisers reach into it and click prices are higher than the rest of Offaly.",
+        },
+      ],
+    },
+    {
+      heading: "Daytime availability is worth advertising",
+      body: [
+        "A significant share of Offaly households now work from home part of the week, which makes midweek daytime appointments viable in a way they were not before.",
+        "Almost no local business says in its adverts that it can come during the day midweek. It is a genuine differentiator and it costs nothing to state.",
+      ],
+    },
+    {
+      heading: "The volume ceiling arrives early",
+      body: [
+        "Even across three towns, Offaly supplies a finite number of relevant searches. Past that, additional budget widens reach rather than finding customers.",
+        "We will name that point rather than take an increased budget and report on impressions.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Offaly areas we target",
+    body: "Campaigns are built per town, because Tullamore, Birr and Edenderry differ in cost, competition and customer.",
+    towns: [
+      "Tullamore",
+      "Birr",
+      "Edenderry",
+      "Clara",
+      "Banagher",
+      "Ferbane",
+      "Kilcormac",
+      "Daingean",
+      "Shinrone",
+      "Cloghan",
+      "Rhode",
+      "Portarlington side",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Why three campaigns?",
+      a: "Because the towns are far apart and differ in cost. One county campaign pays to reach all three to serve customers in one.",
+    },
+    {
+      q: "Why is Edenderry more expensive?",
+      a: "It looks east toward Kildare and Dublin, and advertisers from there reach into it.",
+    },
+    {
+      q: "What is worth saying in the adverts?",
+      a: "That you can come midweek during the day, if you can. A lot of Offaly households now work from home and almost nobody advertises it.",
+    },
+    {
+      q: "How much should we spend?",
+      a: "Enough for the town you actually serve. Past the county's volume ceiling the budget widens reach rather than finding customers.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Offaly", href: "/locations/offaly/seo/" },
+    { label: "Digital marketing in Offaly", href: "/locations/offaly/digital-marketing/" },
+  ],
+};
+
+const roscommonGoogleAds: ServicePage = {
+  county: "Roscommon",
+  countySlug: "roscommon",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Roscommon | PPC Management for Roscommon Businesses",
+  description:
+    "Google Ads management for Roscommon businesses, targeted at Athlone, Carrick-on-Shannon and the centres your customers actually use.",
+  h1: "Google Ads in Roscommon, aimed at towns in other counties.",
+  intro: [
+    "Roscommon has no town large enough to anchor it, and its commercial centres mostly sit outside its borders. A campaign targeted at County Roscommon is aimed at the place your customers leave rather than the place they go.",
+    "For most businesses here the right targeting names Athlone, Carrick-on-Shannon, Ballinasloe or Longford — whichever centre your customers actually use.",
+  ],
+  sections: [
+    {
+      heading: "Target the centre, not the county",
+      body: [
+        "This is counter-intuitive and it is the single biggest improvement available on a Roscommon account.",
+        "South Roscommon lives off Athlone. The north lives off Carrick-on-Shannon or Boyle. The east looks at Longford. Target accordingly and the same budget produces considerably more.",
+      ],
+    },
+    {
+      heading: "Paid search covers what proximity denies you",
+      body: [
+        "A Roscommon address will not put you in Athlone's map results no matter what you do — that is decided by distance.",
+        "Google Ads is not bound by proximity in the same way, which makes it the only realistic route into those neighbouring markets. This is the clearest argument for paid over organic in the county.",
+      ],
+    },
+    {
+      heading: "Volume is thin and the ceiling is real",
+      body: [
+        "Even targeting the neighbouring centres, the available search volume is modest.",
+        "Once you are capturing it, further budget widens reach rather than finding customers, and it is better moved to social — which in a dispersed county with strong community networks tends to work well.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Roscommon areas we target",
+    body: "Campaigns target whichever commercial centre your customers actually use, which for most Roscommon businesses lies outside the county.",
+    towns: [
+      "Roscommon town",
+      "Boyle",
+      "Castlerea",
+      "Ballaghaderreen",
+      "Strokestown",
+      "Elphin",
+      "Frenchpark",
+      "Knockcroghery",
+      "Ballyforan",
+      "Tarmonbarry",
+      "Ballinasloe side",
+      "Lanesborough",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Should we target Athlone rather than Roscommon?",
+      a: "For most south Roscommon businesses, yes. It is counter-intuitive and it is the biggest improvement available here.",
+    },
+    {
+      q: "Why use ads rather than SEO for those towns?",
+      a: "Because a Roscommon address cannot rank in Athlone's map results. Paid search is not bound by proximity in the same way.",
+    },
+    {
+      q: "How much can we usefully spend?",
+      a: "Modestly. Volume is thin even across the neighbouring centres, and past the ceiling the budget widens reach rather than finding customers.",
+    },
+    {
+      q: "Is Roscommon cheap?",
+      a: "Yes, and so are the neighbouring towns. Competition across the region is light.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Roscommon", href: "/locations/roscommon/seo/" },
+    { label: "Digital marketing in Roscommon", href: "/locations/roscommon/digital-marketing/" },
+  ],
+};
+
+const westmeathGoogleAds: ServicePage = {
+  county: "Westmeath",
+  countySlug: "westmeath",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Westmeath | PPC Management for Athlone & Mullingar",
+  description:
+    "Google Ads management for Westmeath businesses in Athlone, Mullingar and across the county. Two campaigns for two very different markets.",
+  h1: "Google Ads in Westmeath, two towns with two different budgets.",
+  intro: [
+    "Athlone and Mullingar face opposite directions and cost different amounts. Athlone reaches a genuinely regional catchment across four counties at low click prices. Mullingar is commuter territory where Dublin advertisers push prices up.",
+    "Running them together means overpaying in one and under-reaching in the other, which is the state of most Westmeath accounts we inherit.",
+  ],
+  sections: [
+    {
+      heading: "Athlone is the best value targeting in the midlands",
+      body: [
+        "Athlone's catchment reaches into Roscommon, east Galway and north Offaly, and click prices across that region are among the lowest in the country.",
+        "An Athlone business that extends its targeting properly reaches several counties' worth of customers for very little extra. Almost nobody does it, which is the opportunity.",
+      ],
+    },
+    {
+      heading: "Mullingar competes with Dublin",
+      body: [
+        "Mullingar's commuter households attract Dublin advertisers, which pushes click prices well above Athlone's despite the smaller catchment.",
+        "The answer there is tighter targeting and better conversion rather than higher bids — and a landing page that actually converts, because at those prices a poor one is expensive.",
+      ],
+      list: [
+        {
+          title: "Athlone",
+          body: "Regional targeting across four counties. Low click prices, high return, badly under-used.",
+        },
+        {
+          title: "Mullingar",
+          body: "Commuter market, Dublin competition, higher costs. Conversion matters more than budget.",
+        },
+        {
+          title: "The rural county",
+          body: "Moate, Kinnegad, Castlepollard and the rest. Cheap, thin volume, worth including in whichever campaign is nearest.",
+        },
+      ],
+    },
+    {
+      heading: "Report them separately or you will learn nothing",
+      body: [
+        "A combined Westmeath figure averages a cheap campaign and an expensive one, and hides which is working.",
+        "Split reporting is the minimum here, and it usually reveals that one town is carrying the account.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Westmeath areas we target",
+    body: "Athlone is targeted across its four-county catchment; Mullingar is targeted tightly as a commuter market with Dublin competition.",
+    towns: [
+      "Athlone",
+      "Mullingar",
+      "Moate",
+      "Castlepollard",
+      "Kinnegad",
+      "Killucan",
+      "Rochfortbridge",
+      "Kilbeggan",
+      "Delvin",
+      "Multyfarnham",
+      "Ballynacargy",
+      "Tyrrellspass",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Should Athlone and Mullingar share a campaign?",
+      a: "No. They face opposite directions, cost different amounts, and a combined figure hides which one is working.",
+    },
+    {
+      q: "Why is Athlone good value?",
+      a: "Its catchment reaches four counties at some of the lowest click prices in the country, and almost no local business targets it that way.",
+    },
+    {
+      q: "Why is Mullingar dearer?",
+      a: "Commuter households attract Dublin advertisers. Tighter targeting and better conversion beat higher bids there.",
+    },
+    {
+      q: "What is the first thing you would change?",
+      a: "Splitting the two towns, then extending Athlone's targeting across its real catchment.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Westmeath", href: "/locations/westmeath/seo/" },
+    { label: "Digital marketing in Westmeath", href: "/locations/westmeath/digital-marketing/" },
+  ],
+};
+
 export const servicePages: ServicePage[] = [
   limerickDigitalMarketing,
   limerickSocial,
@@ -11931,6 +13824,24 @@ export const servicePages: ServicePage[] = [
   mayoGoogleAds,
   sligoGoogleAds,
   cavanGoogleAds,
+  carlowSeo,
+  donegalSeo,
+  laoisSeo,
+  leitrimSeo,
+  longfordSeo,
+  monaghanSeo,
+  offalySeo,
+  roscommonSeo,
+  westmeathSeo,
+  carlowGoogleAds,
+  donegalGoogleAds,
+  laoisGoogleAds,
+  leitrimGoogleAds,
+  longfordGoogleAds,
+  monaghanGoogleAds,
+  offalyGoogleAds,
+  roscommonGoogleAds,
+  westmeathGoogleAds,
 ];
 
 export const servicePageBy = (countySlug: string, serviceSlug: string) =>
