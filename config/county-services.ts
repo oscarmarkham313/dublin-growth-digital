@@ -13717,6 +13717,646 @@ const westmeathGoogleAds: ServicePage = {
   ],
 };
 
+const tipperaryWeb: ServicePage = {
+  county: "Tipperary",
+  countySlug: "tipperary",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Tipperary | Websites Built to Convert Enquiries",
+  description:
+    "Web design for Tipperary businesses in Clonmel, Thurles, Nenagh and across the county. Fast, mobile-first sites built in about two weeks.",
+  h1: "Websites for Tipperary businesses, built to say where you work.",
+  intro: [
+    "In a county with four separate town catchments and no centre, the most expensive thing a website can do is leave the reader guessing about whether you cover them.",
+    "Somebody in Nenagh looking at a Clonmel business's site needs to know within a few seconds whether it is worth ringing. Most Tipperary sites never answer that question at all.",
+  ],
+  sections: [
+    {
+      heading: "Name the towns, plainly and early",
+      body: [
+        "Not 'serving Tipperary and surrounding areas'. The actual towns, in the first screen, and how far you will travel.",
+        "It feels blunt and it is the single highest-return change available on a website in this county. It wins the enquiries inside your range and saves you the calls from outside it.",
+      ],
+    },
+    {
+      heading: "What you get",
+      body: [
+        "A site built around one job: getting the phone to ring.",
+      ],
+      list: [
+        {
+          title: "Built in about two weeks",
+          body: "Copy, build and launch once you have supplied photographs and details.",
+        },
+        {
+          title: "Fast on a phone",
+          body: "Most first visits are mobile, and parts of the county have patchy coverage.",
+        },
+        {
+          title: "Coverage stated in the first screen",
+          body: "Which towns, and the honest limit of how far you drive.",
+        },
+        {
+          title: "Enquiry forms that qualify",
+          body: "The questions you would ask on the phone, asked before it rings.",
+        },
+        {
+          title: "Yours outright",
+          body: "Domain, hosting and site in your name. No lock-in.",
+        },
+      ],
+    },
+  ],
+  areas: {
+    heading: "Tipperary areas we build for",
+    body: "Sites are written around the town catchments you genuinely serve, because in a county with four centres that is the question every visitor has.",
+    towns: [
+      "Clonmel",
+      "Thurles",
+      "Nenagh",
+      "Carrick-on-Suir",
+      "Tipperary town",
+      "Cashel",
+      "Roscrea",
+      "Templemore",
+      "Cahir",
+      "Fethard",
+      "Newport",
+      "Borrisokane",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 once off, built in about two weeks. The domain and hosting stay in your name, the site is yours outright, and you can move it elsewhere whenever you like.",
+    ],
+  },
+  faqs: [
+    {
+      q: "What matters most on a Tipperary website?",
+      a: "Saying which towns you cover, in the first screen. In a county with four separate catchments it is the question every visitor arrives with.",
+    },
+    {
+      q: "Do I need a blog?",
+      a: "Not initially. Service pages, coverage and speed first.",
+    },
+    {
+      q: "Can you keep our existing site?",
+      a: "If it is fast and converting, yes, and we will say so rather than sell you a rebuild you do not need.",
+    },
+    {
+      q: "How long does it take?",
+      a: "About two weeks from the point we have your photographs and details.",
+    },
+    {
+      q: "What does it cost?",
+      a: "€1,500 once off, with the domain and hosting in your name. You own the site outright and can move it whenever you like.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Tipperary", href: "/locations/tipperary/digital-marketing/" },
+    { label: "SEO in Tipperary", href: "/locations/tipperary/seo/" },
+  ],
+};
+
+const kilkennyWeb: ServicePage = {
+  county: "Kilkenny",
+  countySlug: "kilkenny",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Kilkenny | Websites Built to Convert Enquiries",
+  description:
+    "Web design for Kilkenny businesses in the city, Callan, Thomastown and across the county. Fast, mobile-first sites built in about two weeks.",
+  h1: "Websites for Kilkenny businesses, where the local bar is high.",
+  intro: [
+    "Kilkenny has a genuine national reputation in craft and design, and that raises expectations locally in a way it does not in most Irish counties. A site that would pass unnoticed elsewhere looks dated here.",
+    "The other Kilkenny-specific problem is visitors: a good share of your traffic is people here for two nights, and the site has to serve them without confusing the local customers who actually matter.",
+  ],
+  sections: [
+    {
+      heading: "Two audiences on the same page",
+      body: [
+        "A resident wants to know what you do, what it costs and how to book. A visitor wants opening hours, where you are and whether it is worth the walk.",
+        "Those are different needs and most Kilkenny sites serve one at the expense of the other. Handling both cleanly — usually by putting practical detail where a visitor looks and depth where a resident looks — is straightforward once somebody decides to do it.",
+      ],
+    },
+    {
+      heading: "What you get",
+      body: [
+        "A site that holds up against a locally high standard.",
+      ],
+      list: [
+        {
+          title: "Built in about two weeks",
+          body: "Copy, build and launch once you have supplied photographs and details.",
+        },
+        {
+          title: "Design that stands up locally",
+          body: "Kilkenny's craft and design reputation raises the bar. A generic template is more noticeable here.",
+        },
+        {
+          title: "Practical detail made obvious",
+          body: "Hours, location, parking and booking — what a visitor checks before deciding.",
+        },
+        {
+          title: "Real photographs",
+          body: "Of your own work and your own premises, not stock imagery of somebody else's.",
+        },
+        {
+          title: "Yours outright",
+          body: "Domain, hosting and site in your name.",
+        },
+      ],
+    },
+  ],
+  areas: {
+    heading: "Kilkenny areas we build for",
+    body: "Sites are written for the city and the county towns, and for the visitors as well as the residents where both matter to you.",
+    towns: [
+      "Kilkenny city",
+      "Callan",
+      "Thomastown",
+      "Castlecomer",
+      "Graiguenamanagh",
+      "Ballyragget",
+      "Urlingford",
+      "Bennettsbridge",
+      "Inistioge",
+      "Freshford",
+      "Mooncoin",
+      "Piltown",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 once off, built in about two weeks. The domain and hosting stay in your name, the site is yours outright, and you can move it elsewhere whenever you like.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Why does design matter more in Kilkenny?",
+      a: "The county has a real craft and design reputation and local expectations follow it. A generic template is more noticeable here than elsewhere.",
+    },
+    {
+      q: "How do we serve visitors and locals?",
+      a: "Practical detail where a visitor looks, depth where a resident looks. Most local sites serve one at the expense of the other.",
+    },
+    {
+      q: "Do we need professional photography?",
+      a: "Real photographs matter more than professional ones. Stock imagery is recognised instantly and costs you credibility.",
+    },
+    {
+      q: "How long does it take?",
+      a: "About two weeks from the point we have your photographs and details.",
+    },
+    {
+      q: "What does it cost?",
+      a: "€1,500 once off, with the domain and hosting in your name. You own the site outright and can move it whenever you like.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Kilkenny", href: "/locations/kilkenny/digital-marketing/" },
+    { label: "SEO in Kilkenny", href: "/locations/kilkenny/seo/" },
+  ],
+};
+
+const wexfordWeb: ServicePage = {
+  county: "Wexford",
+  countySlug: "wexford",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Wexford | Websites Built to Convert Enquiries",
+  description:
+    "Web design for Wexford businesses in Wexford town, Gorey, Enniscorthy and the coast. Fast, mobile-first sites built in about two weeks.",
+  h1: "Websites for Wexford businesses, built for a short season.",
+  intro: [
+    "A seasonal business gets a limited number of chances to convert, concentrated into a few months. A website that loses one visitor in three costs a Wexford coastal business far more than it costs a business trading evenly all year.",
+    "That is the argument for getting it right here, and it is arithmetic rather than aesthetics.",
+  ],
+  sections: [
+    {
+      heading: "Availability is the thing people are checking",
+      body: [
+        "Visitors arriving on a Wexford business's website are usually checking one of three things: are you open, can they book, and is it worth the drive.",
+        "Burying opening hours, availability or booking below the fold is the most common and most expensive fault on sites in this county. Everything else on the page matters less than those three answers.",
+      ],
+    },
+    {
+      heading: "Photograph in summer, publish all year",
+      body: [
+        "A coastal business photographed in February sells nothing. The same business photographed in July sells through the following spring, which is when people are deciding.",
+        "Building the image library during the season and using it out of season is the single most practical habit available here, and the site should be built to make use of it.",
+      ],
+    },
+    {
+      heading: "What you get",
+      body: [
+        "A site built to convert in the weeks that matter.",
+      ],
+      list: [
+        {
+          title: "Built in about two weeks",
+          body: "In time for the season if we start in winter, which is when this work should happen.",
+        },
+        {
+          title: "Availability and booking made obvious",
+          body: "Above the fold, not buried.",
+        },
+        {
+          title: "Fast on a phone",
+          body: "Visitors research on mobile, frequently on patchy coastal coverage.",
+        },
+        {
+          title: "Real seasonal photographs",
+          body: "Shot when the place looks like the reason people come.",
+        },
+        {
+          title: "Yours outright",
+          body: "Domain, hosting and site in your name.",
+        },
+      ],
+    },
+  ],
+  areas: {
+    heading: "Wexford areas we build for",
+    body: "Sites are written around the towns you serve and the season you serve them in, because coastal Wexford and inland Wexford have different years.",
+    towns: [
+      "Wexford town",
+      "Enniscorthy",
+      "Gorey",
+      "New Ross",
+      "Rosslare",
+      "Bunclody",
+      "Ferns",
+      "Courtown",
+      "Castlebridge",
+      "Taghmon",
+      "Kilmuckridge",
+      "Duncannon",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 once off, built in about two weeks. The domain and hosting stay in your name, the site is yours outright, and you can move it elsewhere whenever you like.",
+    ],
+  },
+  faqs: [
+    {
+      q: "When should we build?",
+      a: "Winter. A site launched in June has missed most of the season it was built for.",
+    },
+    {
+      q: "What matters most for a coastal business?",
+      a: "Opening hours, availability and booking, above the fold. Those three answers decide more than the design does.",
+    },
+    {
+      q: "Do we need seasonal photographs?",
+      a: "Yes, and take them in summer for use all year. A coastal business photographed in February sells nothing.",
+    },
+    {
+      q: "How long does it take?",
+      a: "About two weeks from the point we have your photographs and details.",
+    },
+    {
+      q: "What does it cost?",
+      a: "€1,500 once off, with the domain and hosting in your name. You own the site outright and can move it whenever you like.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Wexford", href: "/locations/wexford/digital-marketing/" },
+    { label: "SEO in Wexford", href: "/locations/wexford/seo/" },
+  ],
+};
+
+const louthWeb: ServicePage = {
+  county: "Louth",
+  countySlug: "louth",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Louth | Websites Built to Convert Enquiries",
+  description:
+    "Web design for Louth businesses in Drogheda, Dundalk and across the county. Fast, mobile-first sites built in about two weeks.",
+  h1: "Websites for Louth businesses, built for the right town.",
+  intro: [
+    "Drogheda and Dundalk are twenty minutes apart and their residents do not cross between them for ordinary services. A website that says 'serving County Louth' is telling half its visitors nothing useful.",
+    "Drogheda visitors also arrive with commuter expectations — faster, more impatient, comparing two or three businesses in an evening — which sets a higher bar than Dundalk does.",
+  ],
+  sections: [
+    {
+      heading: "Say which town, not which county",
+      body: [
+        "A Dundalk homeowner does not want a business that covers Louth. They want one that covers Dundalk, and they will scan for the word.",
+        "If you genuinely serve both towns, say both explicitly. If you serve one, say that plainly — it wins the right enquiries and saves you the wrong ones.",
+      ],
+    },
+    {
+      heading: "Drogheda sets the standard",
+      body: [
+        "Commuter households compare quickly and leave quickly. A slow site or one that hides its prices loses them to whoever answered the question first.",
+        "That raises the bar for the whole county, because a site good enough for Drogheda is comfortably good enough for Ardee.",
+      ],
+    },
+    {
+      heading: "What you get",
+      body: [
+        "A site built for a market that compares before it rings.",
+      ],
+      list: [
+        {
+          title: "Built in about two weeks",
+          body: "Copy, build and launch once you have supplied photographs and details.",
+        },
+        {
+          title: "The right town named",
+          body: "Drogheda, Dundalk, or both if you genuinely serve both.",
+        },
+        {
+          title: "Fast on a phone",
+          body: "Commuter households compare in the evening, on mobile, and do not wait.",
+        },
+        {
+          title: "Price ranges where you can give them",
+          body: "Comparison shoppers filter hard, and hiding price loses more than it protects.",
+        },
+        {
+          title: "Yours outright",
+          body: "Domain, hosting and site in your name.",
+        },
+      ],
+    },
+  ],
+  areas: {
+    heading: "Louth areas we build for",
+    body: "Sites name the town you actually serve, because Drogheda and Dundalk are separate markets that happen to share a county.",
+    towns: [
+      "Drogheda",
+      "Dundalk",
+      "Ardee",
+      "Blackrock",
+      "Carlingford",
+      "Dunleer",
+      "Termonfeckin",
+      "Clogherhead",
+      "Louth village",
+      "Knockbridge",
+      "Tallanstown",
+      "Omeath",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 once off, built in about two weeks. The domain and hosting stay in your name, the site is yours outright, and you can move it elsewhere whenever you like.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Should the site say Drogheda or Louth?",
+      a: "The town. A Dundalk homeowner scans for Dundalk, and 'County Louth' tells half your visitors nothing useful.",
+    },
+    {
+      q: "Why does Drogheda set the standard?",
+      a: "Commuter households compare quickly and leave quickly. A site that works for them works everywhere else in the county.",
+    },
+    {
+      q: "Should we publish prices?",
+      a: "A range at minimum. Comparison shoppers filter hard and hiding price loses more than it protects.",
+    },
+    {
+      q: "How long does it take?",
+      a: "About two weeks from the point we have your photographs and details.",
+    },
+    {
+      q: "What does it cost?",
+      a: "€1,500 once off, with the domain and hosting in your name. You own the site outright and can move it whenever you like.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Louth", href: "/locations/louth/digital-marketing/" },
+    { label: "SEO in Louth", href: "/locations/louth/seo/" },
+  ],
+};
+
+const clareWeb: ServicePage = {
+  county: "Clare",
+  countySlug: "clare",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Clare | Websites Built to Convert Enquiries",
+  description:
+    "Web design for Clare businesses in Ennis, Shannon, Lahinch and across the county. Fast, mobile-first sites built in about two weeks.",
+  h1: "Websites for Clare businesses, competing with Limerick on the same screen.",
+  intro: [
+    "A homeowner in south Clare searching for a service sees Limerick businesses alongside Clare ones, and on a phone screen the county boundary is invisible. Your website is frequently the only thing that tells them you are the local option.",
+    "That makes being unmistakably local the main job of a Clare business website, and it is a job most of them do not do.",
+  ],
+  sections: [
+    {
+      heading: "Make local obvious in the first screen",
+      body: [
+        "Not in the footer, not on the about page. Your town, your coverage and something recognisably Clare in the first thing a visitor sees.",
+        "A Limerick firm can claim to cover Clare. It cannot show photographs of work in Ennistymon or an address in Ennis, and that difference is what your site should lead with.",
+      ],
+    },
+    {
+      heading: "Coverage in the west is patchy",
+      body: [
+        "Mobile coverage along the coast and through the north of the county is uneven, and a heavy site fails silently for those visitors. You never see them in your enquiry figures.",
+        "Building light is not a refinement here; for a share of your market it is the difference between the site loading and not.",
+      ],
+    },
+    {
+      heading: "What you get",
+      body: [
+        "A site that wins on being local rather than on being loud.",
+      ],
+      list: [
+        {
+          title: "Built in about two weeks",
+          body: "Copy, build and launch once you have supplied photographs and details.",
+        },
+        {
+          title: "Local stated up front",
+          body: "Your town and your Clare coverage in the first screen, not the footer.",
+        },
+        {
+          title: "Genuinely light",
+          body: "Because coverage in the west is uneven and heavy sites fail without telling you.",
+        },
+        {
+          title: "Real local photographs",
+          body: "Work in recognisable Clare places, which a Limerick competitor cannot produce.",
+        },
+        {
+          title: "Yours outright",
+          body: "Domain, hosting and site in your name.",
+        },
+      ],
+    },
+  ],
+  areas: {
+    heading: "Clare areas we build for",
+    body: "Sites are written to make your Clare presence unmistakable, because Limerick businesses appear alongside you on the same screen.",
+    towns: [
+      "Ennis",
+      "Shannon",
+      "Kilrush",
+      "Kilkee",
+      "Lahinch",
+      "Ennistymon",
+      "Sixmilebridge",
+      "Newmarket-on-Fergus",
+      "Tulla",
+      "Scariff",
+      "Corofin",
+      "Doolin",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 once off, built in about two weeks. The domain and hosting stay in your name, the site is yours outright, and you can move it elsewhere whenever you like.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Why does being local matter so much here?",
+      a: "Because Limerick businesses appear in the same results and the county boundary is invisible on a phone. Your site is what tells people you are the local option.",
+    },
+    {
+      q: "Does page speed really matter?",
+      a: "In the west and along the coast, yes. Heavy sites fail silently for a share of visitors you never see.",
+    },
+    {
+      q: "What should be in the first screen?",
+      a: "Your town, your coverage and a real photograph of local work. A Limerick competitor cannot produce those.",
+    },
+    {
+      q: "How long does it take?",
+      a: "About two weeks from the point we have your photographs and details.",
+    },
+    {
+      q: "What does it cost?",
+      a: "€1,500 once off, with the domain and hosting in your name. You own the site outright and can move it whenever you like.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Clare", href: "/locations/clare/digital-marketing/" },
+    { label: "SEO in Clare", href: "/locations/clare/seo/" },
+  ],
+};
+
+const mayoWeb: ServicePage = {
+  county: "Mayo",
+  countySlug: "mayo",
+  service: "Web design",
+  serviceSlug: "web-design",
+  title: "Web Design Mayo | Websites Built to Convert Enquiries",
+  description:
+    "Web design for Mayo businesses in Castlebar, Ballina, Westport and across the county. Light, fast sites that load on rural coverage.",
+  h1: "Websites for Mayo businesses, built to load on one bar.",
+  intro: [
+    "Mobile coverage across large parts of Mayo is genuinely poor, and most business sites here are built as though every visitor is on fibre. For a meaningful share of your traffic a heavy site does not load slowly — it does not load.",
+    "You never see those people in your enquiry figures, which is exactly why the problem persists for years.",
+  ],
+  sections: [
+    {
+      heading: "Page weight is a feature here, not a refinement",
+      body: [
+        "A site that takes eight seconds on a weak signal loses most of the people who open it, and none of them tell you.",
+        "Building light costs nothing extra if it is done from the start. Retrofitting it onto a template-built site is considerably harder, which is why most Mayo businesses never do.",
+      ],
+    },
+    {
+      heading: "Say how far you will travel",
+      body: [
+        "Mayo is large and its roads are slow. A visitor in Belmullet looking at a Castlebar business genuinely does not know whether to ring.",
+        "Stating your realistic travel distance wins the enquiries inside it and saves you the ones outside — and in a county this size that is a meaningful amount of wasted time either way.",
+      ],
+    },
+    {
+      heading: "What you get",
+      body: [
+        "A site built for the coverage your customers actually have.",
+      ],
+      list: [
+        {
+          title: "Built in about two weeks",
+          body: "Copy, build and launch once you have supplied photographs and details.",
+        },
+        {
+          title: "Genuinely light",
+          body: "Treated as a requirement rather than a nice-to-have. This matters more in Mayo than almost anywhere.",
+        },
+        {
+          title: "Travel distance stated",
+          body: "How far you go, plainly, in the first screen.",
+        },
+        {
+          title: "Real photographs of local work",
+          body: "Recognition does more here than production value.",
+        },
+        {
+          title: "Yours outright",
+          body: "Domain, hosting and site in your name.",
+        },
+      ],
+    },
+  ],
+  areas: {
+    heading: "Mayo areas we build for",
+    body: "Sites are written around your realistic travel distance and built to load on the coverage those areas actually have.",
+    towns: [
+      "Castlebar",
+      "Ballina",
+      "Westport",
+      "Claremorris",
+      "Ballinrobe",
+      "Swinford",
+      "Belmullet",
+      "Charlestown",
+      "Knock",
+      "Foxford",
+      "Kiltimagh",
+      "Newport",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 once off, built in about two weeks. The domain and hosting stay in your name, the site is yours outright, and you can move it elsewhere whenever you like.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Why does page weight matter so much in Mayo?",
+      a: "Coverage across large parts of the county is poor. A heavy site fails silently for a share of visitors and you never see them in your figures.",
+    },
+    {
+      q: "What should the site say about coverage?",
+      a: "How far you will actually travel, plainly and early. A visitor in Belmullet genuinely does not know whether to ring a Castlebar business.",
+    },
+    {
+      q: "Can you keep our existing site?",
+      a: "If it is light and converting, yes. If it is a heavy template build, retrofitting it is usually harder than replacing it.",
+    },
+    {
+      q: "How long does it take?",
+      a: "About two weeks from the point we have your photographs and details.",
+    },
+    {
+      q: "What does it cost?",
+      a: "€1,500 once off, with the domain and hosting in your name. You own the site outright and can move it whenever you like.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Mayo", href: "/locations/mayo/digital-marketing/" },
+    { label: "SEO in Mayo", href: "/locations/mayo/seo/" },
+  ],
+};
+
 export const servicePages: ServicePage[] = [
   limerickDigitalMarketing,
   limerickSocial,
@@ -13842,6 +14482,12 @@ export const servicePages: ServicePage[] = [
   offalyGoogleAds,
   roscommonGoogleAds,
   westmeathGoogleAds,
+  tipperaryWeb,
+  kilkennyWeb,
+  wexfordWeb,
+  louthWeb,
+  clareWeb,
+  mayoWeb,
 ];
 
 export const servicePageBy = (countySlug: string, serviceSlug: string) =>
