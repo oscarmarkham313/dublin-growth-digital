@@ -9291,6 +9291,1362 @@ const louthGoogleAds: ServicePage = {
   ],
 };
 
+const galwaySeo: ServicePage = {
+  county: "Galway",
+  countySlug: "galway",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Galway | Search Engine Optimisation for Galway Businesses",
+  description:
+    "SEO for Galway businesses in the city, Salthill, Oranmore and across the county. Local search and Google Business Profile work reported in enquiries.",
+  h1: "SEO in Galway, with the student traffic taken out.",
+  intro: [
+    "Galway city's search figures are inflated by a very large student population that arrives in September and leaves in May. For pubs and takeaways they are the market. For a solicitor, a plumber or an estate agent they are noise that makes reporting look healthier than it is.",
+    "Beyond the city, the county is enormous and thinly populated, and Google's map results are decided largely by how far the searcher is from your door — which in Connemara is a serious constraint.",
+  ],
+  sections: [
+    {
+      heading: "The four things that actually move a Galway business",
+      body: [
+        "In order of what they return for the effort.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "The map results sit above everything on a phone. Most Galway profiles are a third complete, and finishing one properly is frequently enough to move you up on its own.",
+        },
+        {
+          title: "Service pages that name the service",
+          body: "Not 'our services' but wedding photography, boiler replacement, conveyancing. One page each, with the areas you cover named.",
+        },
+        {
+          title: "Reviews",
+          body: "The clearest way to outrank a competitor who is equally close to the searcher. Thin across Galway, which means a modest number goes a long way.",
+        },
+        {
+          title: "Links",
+          body: "A handful of genuine Irish links. Few Galway competitors have any, so this is cheaper to win here than in Dublin or Cork.",
+        },
+        {
+          title: "Excluding students where they are not your market",
+          body: "Reduces your reach figures and improves everything that matters.",
+        },
+      ],
+    },
+    {
+      heading: "You will not rank across Connemara",
+      body: [
+        "Proximity dominates the map results, and the distances west of the city are real. A Galway city business will rank in the city, reasonably in Oranmore and Barna, and barely at all in Clifden.",
+        "That is not fixable by optimisation and we will not pretend otherwise. If you want work out there, paid advertising is the honest route.",
+      ],
+    },
+    {
+      heading: "The Irish-language opportunity nobody takes",
+      body: [
+        "Parts of the county are Gaeltacht, searches are made in Irish, and almost no business optimises for them.",
+        "If you can genuinely serve customers in Irish, saying so and having a page that does it is an almost entirely uncontested advantage. If you cannot, leave it alone.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Galway areas we work on",
+    body: "Optimisation is built around the part of Galway you can realistically serve, because proximity decides the map results and the county is very large.",
+    towns: [
+      "Galway city",
+      "Salthill",
+      "Oranmore",
+      "Tuam",
+      "Ballinasloe",
+      "Loughrea",
+      "Athenry",
+      "Clifden",
+      "Gort",
+      "Headford",
+      "Moycullen",
+      "Barna",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Do students distort our numbers?",
+      a: "For most service businesses, yes. They are cheap to reach, they click, and they are not customers — which makes a campaign look busy while producing nothing.",
+    },
+    {
+      q: "Can a city business rank in Connemara?",
+      a: "Organically, rarely. Proximity decides the map results and the distances are real. Paid advertising is the honest answer for that gap.",
+    },
+    {
+      q: "Is Galway competitive?",
+      a: "The city is moderately so, more in hospitality and retail than in trades. The county is among the easier markets in Connacht.",
+    },
+    {
+      q: "Is Irish-language SEO worth it?",
+      a: "If you can genuinely serve customers in Irish, yes, and almost nobody does it. If you cannot, do not claim it.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Galway", href: "/locations/galway/digital-marketing/" },
+    { label: "Web design in Galway", href: "/locations/galway/web-design/" },
+  ],
+};
+
+const meathSeo: ServicePage = {
+  county: "Meath",
+  countySlug: "meath",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Meath | Search Engine Optimisation for Meath Businesses",
+  description:
+    "SEO for Meath businesses in Navan, Ashbourne, Trim and across the county. Local search work split between the commuter east and the agricultural west.",
+  h1: "SEO in Meath, where the county is two difficulties.",
+  intro: [
+    "East Meath — Ashbourne, Dunboyne, Ratoath — competes in search against Dublin businesses, because Dublin businesses treat it as their patch. West and north Meath, out through Trim, Athboy and Kells, is a rural market with a fraction of the contest.",
+    "The same work produces very different timelines depending on which half you are in, and any SEO plan that ignores that will disappoint one end of the county.",
+  ],
+  sections: [
+    {
+      heading: "What the work consists of",
+      body: [
+        "Identical either side of the county. The difficulty is not.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "Proximity plus completeness decides the map results, and the map results are where most local calls come from.",
+        },
+        {
+          title: "One page per service, with towns named",
+          body: "Navan and Ashbourne are different local results and should be treated as such.",
+        },
+        {
+          title: "Reviews",
+          body: "The tiebreaker when two businesses are equally close to the searcher.",
+        },
+        {
+          title: "Links",
+          body: "Suppliers, trade bodies, clubs you already sponsor. Five real ones beats any amount of content.",
+        },
+        {
+          title: "Honest target selection",
+          body: "We will tell you which terms are reachable in months and which are a multi-year fight.",
+        },
+      ],
+    },
+    {
+      heading: "East Meath is a Dublin fight",
+      body: [
+        "In Ashbourne, Dunboyne and Ratoath you are competing with north Dublin firms that have more links, more reviews and a longer history.",
+        "Progress there is measured in quarters rather than weeks, and paid advertising usually has to carry the enquiries while it happens. That is worth knowing before you start rather than after six months.",
+      ],
+    },
+    {
+      heading: "West Meath is genuinely winnable",
+      body: [
+        "Around Trim, Athboy, Kells and Oldcastle the competition is thin and competitor foundations are usually poor.",
+        "A properly built page plus a complete Google profile can reach the top of the local results there in weeks rather than months, which makes it far better value per euro than the commuter belt.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Meath areas we work on",
+    body: "Optimisation is built around which half of the county you are competing in, because east and west Meath are different difficulties with different timelines.",
+    towns: [
+      "Navan",
+      "Ashbourne",
+      "Trim",
+      "Kells",
+      "Dunboyne",
+      "Ratoath",
+      "Laytown",
+      "Athboy",
+      "Dunshaughlin",
+      "Enfield",
+      "Slane",
+      "Oldcastle",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is Meath competitive for SEO?",
+      a: "In the east, effectively as competitive as north Dublin. In the west, one of the easier markets in Leinster.",
+    },
+    {
+      q: "How long will it take?",
+      a: "Weeks for map results in west Meath. Two to three quarters in Ashbourne or Ratoath, where you are competing with Dublin.",
+    },
+    {
+      q: "Should we run ads at the same time?",
+      a: "In east Meath, usually yes — organic will not carry you early and the enquiries have to come from somewhere.",
+    },
+    {
+      q: "What matters most?",
+      a: "Google Business Profile and reviews, then a page for each service you actually want work for.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Google Ads in Meath", href: "/locations/meath/google-ads/" },
+    { label: "Digital marketing in Meath", href: "/locations/meath/digital-marketing/" },
+  ],
+};
+
+const louthSeo: ServicePage = {
+  county: "Louth",
+  countySlug: "louth",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Louth | Search Engine Optimisation for Drogheda & Dundalk",
+  description:
+    "SEO for Louth businesses in Drogheda, Dundalk and across the county. Local search work run as two towns, because that is how the results work.",
+  h1: "SEO in Louth, where you rank in one town and not the other.",
+  intro: [
+    "Louth is the smallest county in Ireland and contains two of its largest towns, twenty minutes apart. Google's map results are decided largely by distance from the searcher, which means a Drogheda business will rank in Drogheda and be close to invisible in Dundalk.",
+    "That is the single most important fact about search here, and it is the one most Louth businesses discover the expensive way.",
+  ],
+  sections: [
+    {
+      heading: "What the work consists of",
+      body: [
+        "The same foundations, aimed at one town rather than a county.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "Your verified address decides which town you compete in. There is no setting that changes that.",
+        },
+        {
+          title: "Town-level service pages",
+          body: "A page for Drogheda and a page for Dundalk, genuinely different, if you actually serve both.",
+        },
+        {
+          title: "Reviews that mention the town",
+          body: "A review saying 'great job on our house in Ardee' associates you with a place in a way a bare five stars does not.",
+        },
+        {
+          title: "Links",
+          body: "Local business directories, chamber, suppliers, sponsorship. Genuinely obtainable by asking.",
+        },
+        {
+          title: "Honest coverage claims",
+          body: "Saying you cover both towns is fine. Expecting to rank organically in both is not.",
+        },
+      ],
+    },
+    {
+      heading: "Drogheda is the harder half",
+      body: [
+        "Drogheda's commuter growth has brought Dublin-based competitors into its search results, so it is more contested and slower than Dundalk despite the towns being a similar size.",
+        "The compensation is that the jobs tend to be worth more. It is a fair trade, but budget and expectations should reflect it.",
+      ],
+    },
+    {
+      heading: "Cross-border searches are a real thing",
+      body: [
+        "Dundalk sits close enough to the border that a meaningful share of local searching and buying crosses it, in both directions and moving with the exchange rate.",
+        "If you serve or want to serve Northern Ireland, that needs saying explicitly on the site. Google will not infer it and neither will customers.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Louth areas we work on",
+    body: "Optimisation is built around the town you actually operate from, because proximity decides the map results and Drogheda and Dundalk are separate ones.",
+    towns: [
+      "Drogheda",
+      "Dundalk",
+      "Ardee",
+      "Blackrock",
+      "Carlingford",
+      "Dunleer",
+      "Termonfeckin",
+      "Clogherhead",
+      "Louth village",
+      "Knockbridge",
+      "Tallanstown",
+      "Omeath",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can we rank in both Drogheda and Dundalk?",
+      a: "Organically, rarely. Proximity decides it and your verified address sits in one of them. Paid advertising is the honest way to cover the other.",
+    },
+    {
+      q: "Which town is harder?",
+      a: "Drogheda, because commuter growth has pulled Dublin competitors into its results. The jobs there are usually worth more too.",
+    },
+    {
+      q: "Should we mention Northern Ireland?",
+      a: "If you serve it, yes, and explicitly. Google will not infer it from proximity.",
+    },
+    {
+      q: "How long does it take?",
+      a: "Map results can move in weeks with profile and review work. Organic pages take a few months, longer in Drogheda.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Google Ads in Louth", href: "/locations/louth/google-ads/" },
+    { label: "Digital marketing in Louth", href: "/locations/louth/digital-marketing/" },
+  ],
+};
+
+const waterfordSeo: ServicePage = {
+  county: "Waterford",
+  countySlug: "waterford",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Waterford | Search Engine Optimisation for Waterford Businesses",
+  description:
+    "SEO for Waterford businesses in the city, Tramore, Dungarvan and across the county. Local search work reported in enquiries, not rankings reports.",
+  h1: "SEO in Waterford, an under-contested city.",
+  intro: [
+    "Waterford is the smallest of Ireland's cities and by some distance the least competitive online. Relatively few businesses here take search seriously, competitor sites are frequently slow and thin, and the foundations most of them lack are straightforward to put in.",
+    "That makes SEO better value in Waterford than in Cork or Limerick, provided the targets are chosen sensibly.",
+  ],
+  sections: [
+    {
+      heading: "What the work consists of",
+      body: [
+        "Against noticeably weaker competition than a city this size implies.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "Most Waterford profiles are incomplete. Finishing one properly moves the needle here more reliably than anywhere else we work.",
+        },
+        {
+          title: "Service pages, one per service",
+          body: "Broad 'what we do' pages rank for nothing. Named services and named towns do.",
+        },
+        {
+          title: "Reviews",
+          body: "Thin across the city, which means a modest number of genuine reviews goes a long way.",
+        },
+        {
+          title: "Links",
+          body: "Very few local competitors have any. Five real Irish links is a genuine competitive position here.",
+        },
+        {
+          title: "Speed",
+          body: "Several of the businesses you are competing with have sites that take six seconds on a phone. Beating that is not difficult.",
+        },
+      ],
+    },
+    {
+      heading: "The coast is a separate, seasonal market",
+      body: [
+        "Tramore and Dungarvan run on a short intense season and their search demand rises and falls with it.",
+        "If your customers are visitors, ranking in February does nothing for you and the content should be built and refreshed ahead of the season rather than during it.",
+      ],
+    },
+    {
+      heading: "Do not stop at the county line",
+      body: [
+        "Waterford city's commercial catchment reaches into south Kilkenny and east Cork, and most local sites never mention either.",
+        "Naming those towns is a ten-minute change that regularly produces enquiries from people who assumed you did not cover them.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Waterford areas we work on",
+    body: "Optimisation covers the city and the towns you serve, including the south Kilkenny and east Cork catchment most Waterford businesses forget to name.",
+    towns: [
+      "Waterford city",
+      "Tramore",
+      "Dungarvan",
+      "Lismore",
+      "Portlaw",
+      "Cappoquin",
+      "Ardmore",
+      "Dunmore East",
+      "Kilmacthomas",
+      "Tallow",
+      "Ballymacarbry",
+      "Passage East",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is Waterford hard to rank in?",
+      a: "The least competitive Irish city by a reasonable margin. Most competitor foundations are weak and the bar is low.",
+    },
+    {
+      q: "How long does it take?",
+      a: "Map results can move in weeks. Organic pages typically two to four months, faster than Cork or Limerick.",
+    },
+    {
+      q: "Is the coastal trade different?",
+      a: "Sharply seasonal around Tramore and Dungarvan. Content and profile work should be ready before the season, not during it.",
+    },
+    {
+      q: "Should we mention Kilkenny and Cork?",
+      a: "If you serve them, yes. The city's catchment crosses both boundaries and almost nobody says so.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Waterford", href: "/locations/waterford/digital-marketing/" },
+    { label: "Web design in Waterford", href: "/locations/waterford/web-design/" },
+  ],
+};
+
+const tipperarySeo: ServicePage = {
+  county: "Tipperary",
+  countySlug: "tipperary",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Tipperary | Search Engine Optimisation for Tipperary Businesses",
+  description:
+    "SEO for Tipperary businesses in Clonmel, Thurles, Nenagh and across the county. Town-level local search work reported in enquiries.",
+  h1: "SEO in Tipperary, where you rank in your own town.",
+  intro: [
+    "Tipperary has no dominant centre. Clonmel, Thurles, Nenagh and Carrick-on-Suir each anchor their own catchment, and Google's map results treat them as the separate places they are.",
+    "Practically that means a Clonmel business will rank in Clonmel and nowhere near the top in Nenagh, an hour away. Accepting that early saves a great deal of wasted effort.",
+  ],
+  sections: [
+    {
+      heading: "What the work consists of",
+      body: [
+        "Aimed at one town's results rather than a county's.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "Your address decides which town's map results you compete in. Completeness decides where you sit within them.",
+        },
+        {
+          title: "A page per service, naming your own towns",
+          body: "Service plus town is how people actually search in a county with four centres.",
+        },
+        {
+          title: "Reviews",
+          body: "The tiebreaker between businesses that are equally close. Thin here, so a modest number counts.",
+        },
+        {
+          title: "Links",
+          body: "Clubs, suppliers, trade bodies. Almost no Tipperary competitor has built any.",
+        },
+        {
+          title: "Realistic targeting",
+          body: "County-wide terms are a poor target here. Town-level terms are genuinely winnable.",
+        },
+      ],
+    },
+    {
+      heading: "Search volume is the constraint, not competition",
+      body: [
+        "The mistake in a dispersed county is assuming competitors are the problem. Usually the issue is that not enough people are searching in your own town on any given day to fill a diary from search alone.",
+        "SEO is still worth doing because it is cheap and compounds, but it should not be the only thing running. In Tipperary it works best alongside paid social, which reaches people before they search.",
+      ],
+    },
+    {
+      heading: "The agricultural side barely searches",
+      body: [
+        "A substantial part of Tipperary's economy is farming, and that work is won through relationships and community networks far more than through Google.",
+        "If your customers are farmers we will tell you where search genuinely helps and where it will not, rather than selling you optimisation that cannot pay for itself.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Tipperary areas we work on",
+    body: "Optimisation is aimed at the town catchments you genuinely serve, because Tipperary's four centres are four separate sets of local results.",
+    towns: [
+      "Clonmel",
+      "Thurles",
+      "Nenagh",
+      "Carrick-on-Suir",
+      "Tipperary town",
+      "Cashel",
+      "Roscrea",
+      "Templemore",
+      "Cahir",
+      "Fethard",
+      "Newport",
+      "Borrisokane",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can we rank across the county?",
+      a: "Not in the map results. Clonmel and Nenagh are an hour apart and proximity decides it. Town-level ranking is the realistic goal.",
+    },
+    {
+      q: "Is search enough on its own here?",
+      a: "For most businesses, no. Volume in any one Tipperary town is thin, so search works best alongside paid social.",
+    },
+    {
+      q: "Is competition heavy?",
+      a: "No. Very few Tipperary businesses compete seriously online, which makes the town-level terms genuinely winnable.",
+    },
+    {
+      q: "Do farmers search?",
+      a: "Far less than they ask around. We will say where search helps and where it does not rather than selling you optimisation either way.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Tipperary", href: "/locations/tipperary/digital-marketing/" },
+    { label: "Social media marketing in Tipperary", href: "/locations/tipperary/social-media-marketing/" },
+  ],
+};
+
+const kilkennySeo: ServicePage = {
+  county: "Kilkenny",
+  countySlug: "kilkenny",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Kilkenny | Search Engine Optimisation for Kilkenny Businesses",
+  description:
+    "SEO for Kilkenny businesses in the city, Callan, Thomastown and across the county. Local search work with visitor traffic filtered out.",
+  h1: "SEO in Kilkenny, minus the people who are here for a weekend.",
+  intro: [
+    "Kilkenny's search figures are flattered by a substantial visitor economy. Festivals, tourism and weekend trade produce clicks from people who will never be local customers, and a business judging its rankings on traffic alone is reading the wrong number.",
+    "Underneath that, the genuinely local market is small, compact and unusually winnable — most Kilkenny competitors are not competing seriously at all.",
+  ],
+  sections: [
+    {
+      heading: "What the work consists of",
+      body: [
+        "Straightforward foundations against light competition.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "Completeness does a great deal of work in a compact market where everyone is close to everyone.",
+        },
+        {
+          title: "Service pages naming real towns",
+          body: "The city, Callan, Thomastown, Castlecomer. Most Kilkenny sites name none of them.",
+        },
+        {
+          title: "Reviews",
+          body: "Genuinely decisive here, because the map results are tight and proximity rarely separates anyone.",
+        },
+        {
+          title: "Links",
+          body: "Local media, the chamber, sponsorship, craft and design networks. Kilkenny has more of these available than most counties.",
+        },
+        {
+          title: "Filtering visitors where they are not your market",
+          body: "Improves every number that matters and reduces the ones that do not.",
+        },
+      ],
+    },
+    {
+      heading: "Compactness is a genuine advantage",
+      body: [
+        "Most Kilkenny businesses can serve the city, Callan, Thomastown and Castlecomer without stretching their operation, which is unusual.",
+        "That means the pages you build can honestly claim a wide coverage area, and proximity will not work against you the way it does in Tipperary or Mayo.",
+      ],
+    },
+    {
+      heading: "The craft and design reputation is usable",
+      body: [
+        "Kilkenny has a genuine national reputation in craft and design, and businesses connected to it can rank for terms that reach well beyond the county.",
+        "That is a rare thing for a small city and it is under-used. If it applies to you, it is worth building content around deliberately.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Kilkenny areas we work on",
+    body: "Optimisation covers the city and the county towns, which most Kilkenny businesses can genuinely serve without stretching.",
+    towns: [
+      "Kilkenny city",
+      "Callan",
+      "Thomastown",
+      "Castlecomer",
+      "Graiguenamanagh",
+      "Ballyragget",
+      "Urlingford",
+      "Bennettsbridge",
+      "Inistioge",
+      "Freshford",
+      "Mooncoin",
+      "Piltown",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Do visitors distort the numbers?",
+      a: "Yes, and flatteringly, which is worse. A site can look like it is working while producing nothing local.",
+    },
+    {
+      q: "Is Kilkenny competitive?",
+      a: "Under-contested rather than small. Very few businesses here compete seriously in search.",
+    },
+    {
+      q: "Can we claim the whole county?",
+      a: "Most Kilkenny businesses genuinely can serve a good deal of it, which is unusual and worth building around.",
+    },
+    {
+      q: "Does the craft reputation help?",
+      a: "For the businesses it applies to, it supports terms that reach beyond the county. Rare for a city this size and under-used.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Kilkenny", href: "/locations/kilkenny/digital-marketing/" },
+    { label: "Web design in Kilkenny", href: "/locations/kilkenny/web-design/" },
+  ],
+};
+
+const wexfordSeo: ServicePage = {
+  county: "Wexford",
+  countySlug: "wexford",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Wexford | Search Engine Optimisation for Wexford Businesses",
+  description:
+    "SEO for Wexford businesses in Wexford town, Gorey, Enniscorthy and the coast. Local search work built around a sharply seasonal year.",
+  h1: "SEO in Wexford, for a county with two different years.",
+  intro: [
+    "Search demand on the Wexford coast rises and collapses with the season. From Courtown down through Rosslare, the people searching in July are not the people searching in January, and they are not looking for the same things.",
+    "Gorey complicates it further: it is close enough to the Dublin commuter belt that its search results are more contested than the rest of the county.",
+  ],
+  sections: [
+    {
+      heading: "What the work consists of",
+      body: [
+        "The usual foundations, timed around a year that is anything but even.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "Opening hours and seasonal availability matter more here than almost anywhere, because visitors check before they travel.",
+        },
+        {
+          title: "Service pages per town",
+          body: "Gorey, Wexford town, Enniscorthy and New Ross are separate local results.",
+        },
+        {
+          title: "Reviews, collected in season",
+          body: "When you are busiest is when customers are most willing, and it is when almost nobody remembers to ask.",
+        },
+        {
+          title: "Links",
+          body: "Local media, tourism listings, chamber, sponsorship.",
+        },
+        {
+          title: "Content built ahead of the season",
+          body: "Ranking in June for July is too late. The work has to be done in spring.",
+        },
+      ],
+    },
+    {
+      heading: "Gorey is the contested end",
+      body: [
+        "Gorey's commuter households and proximity to Wicklow and Dublin make its search results noticeably harder than Wexford town's.",
+        "If you serve both, expect different timelines and do not read a slow start in Gorey as the whole campaign failing.",
+      ],
+    },
+    {
+      heading: "Rank before the season, not during it",
+      body: [
+        "Search rankings take months to move, and a coastal business that starts optimising in June has missed the year.",
+        "Winter is the right time to do this work — it is when you have the time, it is when the competition is not paying attention, and it is early enough to be in place when the demand arrives.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Wexford areas we work on",
+    body: "Optimisation is built around the towns you serve and the season you serve them in, because coastal Wexford and inland Wexford have different years.",
+    towns: [
+      "Wexford town",
+      "Enniscorthy",
+      "Gorey",
+      "New Ross",
+      "Rosslare",
+      "Bunclody",
+      "Ferns",
+      "Courtown",
+      "Castlebridge",
+      "Taghmon",
+      "Kilmuckridge",
+      "Duncannon",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "When should we start SEO?",
+      a: "Winter. Rankings take months to move and a coastal business starting in June has already missed the season.",
+    },
+    {
+      q: "Is Gorey harder than the rest?",
+      a: "Meaningfully. Commuter households and proximity to Wicklow and Dublin make its results more contested.",
+    },
+    {
+      q: "Does seasonality affect rankings?",
+      a: "It affects demand, not the rankings themselves. The work is to be in place before the demand arrives.",
+    },
+    {
+      q: "What matters most for a coastal business?",
+      a: "Your Google profile, with accurate opening hours and availability. Visitors check that before they travel.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Wexford", href: "/locations/wexford/digital-marketing/" },
+    { label: "Social media marketing in Wexford", href: "/locations/wexford/social-media-marketing/" },
+  ],
+};
+
+const kerrySeo: ServicePage = {
+  county: "Kerry",
+  countySlug: "kerry",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Kerry | Search Engine Optimisation for Kerry Businesses",
+  description:
+    "SEO for Kerry businesses in Tralee, Killarney, Listowel and Dingle. Local search work that separates visitor demand from local demand.",
+  h1: "SEO in Kerry, where two different markets search for you.",
+  intro: [
+    "Kerry businesses are searched for by two entirely separate populations. Visitors planning a trip search from Dublin, Cork or Manchester months ahead, with no local knowledge at all. Residents search locally, all year, for ordinary things.",
+    "They use different words, they are in different places, and almost no Kerry business optimises for both deliberately.",
+  ],
+  sections: [
+    {
+      heading: "What the work consists of",
+      body: [
+        "Two audiences, and the profile work that serves both.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "For a visitor-facing business it is close to the whole game — photographs, hours, reviews and location decide it.",
+        },
+        {
+          title: "Separate pages for visitor and local demand",
+          body: "A visitor searching 'things to do in Dingle' and a resident searching 'plumber Tralee' need different pages entirely.",
+        },
+        {
+          title: "Reviews, in volume",
+          body: "Visitors have nothing else to judge you on. This is the most review-dependent county we work in.",
+        },
+        {
+          title: "Links",
+          body: "Tourism listings, local media, associations. Kerry has more of these genuinely available than most counties.",
+        },
+        {
+          title: "Distances stated plainly",
+          body: "The Ring roads are slower than a map suggests and customers need to know what you actually cover.",
+        },
+      ],
+    },
+    {
+      heading: "Visitors search months early and from far away",
+      body: [
+        "Somebody planning a week in Kenmare is searching in March from somewhere else entirely, and they will never see a result optimised purely for local proximity.",
+        "That demand is won with content and reviews rather than with map presence, and it is a completely different job from ranking for a resident in Tralee.",
+      ],
+    },
+    {
+      heading: "Tralee and Listowel are the steady half",
+      body: [
+        "The working towns trade all year and their search demand barely moves with the season, which makes them the more predictable market.",
+        "If you serve both tourism and local trade — and plenty here do — they should be treated as two campaigns, not averaged into one.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Kerry areas we work on",
+    body: "Optimisation is split between visitor demand and local demand, because they search from different places, at different times, for different things.",
+    towns: [
+      "Tralee",
+      "Killarney",
+      "Listowel",
+      "Dingle",
+      "Kenmare",
+      "Castleisland",
+      "Killorglin",
+      "Cahersiveen",
+      "Ballybunion",
+      "Milltown",
+      "Tarbert",
+      "Sneem",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Do visitors and locals really need different pages?",
+      a: "Yes. They use different words, search from different places and are months apart in timing. One page serving both serves neither well.",
+    },
+    {
+      q: "How important are reviews in Kerry?",
+      a: "More than anywhere else we work. A visitor has nothing else to judge you on before they arrive.",
+    },
+    {
+      q: "When do visitors search?",
+      a: "Months ahead, from wherever they live. Being visible in March matters more than being visible in July.",
+    },
+    {
+      q: "Are Tralee and Killarney different?",
+      a: "Substantially. One is a working town trading all year, the other is seasonal and visitor-led.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Kerry", href: "/locations/kerry/digital-marketing/" },
+    { label: "Web design in Kerry", href: "/locations/kerry/web-design/" },
+  ],
+};
+
+const clareSeo: ServicePage = {
+  county: "Clare",
+  countySlug: "clare",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Clare | Search Engine Optimisation for Clare Businesses",
+  description:
+    "SEO for Clare businesses in Ennis, Shannon and across the county. Local search work that accounts for Limerick city appearing in your results.",
+  h1: "SEO in Clare, where Limerick keeps showing up in your results.",
+  intro: [
+    "Limerick city is close enough that its businesses appear in searches made across south and east Clare, and they have more links, more reviews and a longer history than most Clare businesses do.",
+    "That is the defining feature of search here. You are competing with a city you are not in, and the answer is to be unmistakably local rather than to try to outrank it on general terms.",
+  ],
+  sections: [
+    {
+      heading: "What the work consists of",
+      body: [
+        "Foundations, with an emphasis on being visibly Clare-based.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "Your verified Clare address is the one advantage a Limerick competitor cannot copy. Make the profile complete enough to use it.",
+        },
+        {
+          title: "Town-level service pages",
+          body: "Ennis, Shannon, Kilrush, Ennistymon. Naming them is what separates you from a city firm advertising in.",
+        },
+        {
+          title: "Reviews from Clare customers",
+          body: "A review mentioning Ennis does something a bare rating does not — it associates you with a place.",
+        },
+        {
+          title: "Links",
+          body: "Local business directories, clubs, suppliers. Clare competitors have very few.",
+        },
+        {
+          title: "Honest reach",
+          body: "Ennis to Kilkee is a long way and the map results know it.",
+        },
+      ],
+    },
+    {
+      heading: "Four economies, four sets of results",
+      body: [
+        "Ennis is administrative and commercial, Shannon is industrial, the west coast is tourism, and the rest is rural. They search differently and they rank separately.",
+        "A single county-wide SEO plan serves none of them properly. We build around whichever one your customers actually come from.",
+      ],
+    },
+    {
+      heading: "The coast is seasonal and Ennis is not",
+      body: [
+        "Lahinch, Doolin and Kilkee see demand concentrate into a few months, while Ennis trades steadily all year.",
+        "For coastal businesses the work needs doing in winter to be in place for summer. For Ennis it can start whenever.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Clare areas we work on",
+    body: "Optimisation is built around which part of Clare you actually serve, and around being visibly local against Limerick firms appearing in your results.",
+    towns: [
+      "Ennis",
+      "Shannon",
+      "Kilrush",
+      "Kilkee",
+      "Lahinch",
+      "Ennistymon",
+      "Sixmilebridge",
+      "Newmarket-on-Fergus",
+      "Tulla",
+      "Scariff",
+      "Corofin",
+      "Doolin",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Why do Limerick businesses appear in our results?",
+      a: "Because the city is close and its firms have more links and reviews. Being unmistakably local is the effective counter, not outbidding them on general terms.",
+    },
+    {
+      q: "Can we rank across the county?",
+      a: "Not in the map results — Ennis to Kilkee is a long way and proximity decides it. Town-level ranking is realistic.",
+    },
+    {
+      q: "Is Clare competitive?",
+      a: "Lightly, apart from the Limerick spillover. Most Clare competitors have very weak foundations.",
+    },
+    {
+      q: "When should a coastal business start?",
+      a: "Winter, so the work is in place before the season. Ennis businesses can start any time.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Clare", href: "/locations/clare/digital-marketing/" },
+    { label: "Social media marketing in Clare", href: "/locations/clare/social-media-marketing/" },
+  ],
+};
+
+const mayoSeo: ServicePage = {
+  county: "Mayo",
+  countySlug: "mayo",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Mayo | Search Engine Optimisation for Mayo Businesses",
+  description:
+    "SEO for Mayo businesses in Castlebar, Ballina, Westport and across the county. Local search work built around real driving distance.",
+  h1: "SEO in Mayo, where the map results are unforgiving.",
+  intro: [
+    "Google ranks local results largely on how far the searcher is from your registered address, and Mayo is large enough that this decides almost everything. A Castlebar business will rank in Castlebar, reasonably in Claremorris, and effectively nowhere in Belmullet.",
+    "No amount of optimisation changes that. What it does change is where you sit among the businesses that are genuinely close, and that is a fight worth having because so few Mayo competitors are having it.",
+  ],
+  sections: [
+    {
+      heading: "What the work consists of",
+      body: [
+        "Foundations, and an honest map of where they can reach.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "In a dispersed county this carries more weight than the website. Complete it properly before anything else.",
+        },
+        {
+          title: "Pages for the towns you actually serve",
+          body: "Named, and limited to where you will genuinely drive.",
+        },
+        {
+          title: "Reviews",
+          body: "The only lever that improves your position among businesses equally close to the searcher.",
+        },
+        {
+          title: "Links",
+          body: "Almost no Mayo competitor has any. Five genuine Irish links is a real advantage here.",
+        },
+        {
+          title: "Page weight",
+          body: "Coverage across the west is patchy and heavy sites fail silently for a share of your visitors.",
+        },
+      ],
+    },
+    {
+      heading: "Driving time, not radius",
+      body: [
+        "Every plan here starts with an honest answer to how far you will actually travel, because optimising for towns you will not drive to produces enquiries you have to turn down.",
+        "That is worse than no enquiry — it costs you a reply, a reputation hit and sometimes a review.",
+      ],
+    },
+    {
+      heading: "The diaspora searches from elsewhere",
+      body: [
+        "People with Mayo connections who live in Dublin, Britain or further afield search for services here when they are renovating a family property or arranging something from a distance.",
+        "They search without local proximity, which means content and reviews decide it rather than the map. For building trades that is a genuine second audience and almost nobody writes for it.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Mayo areas we work on",
+    body: "Optimisation is drawn by realistic driving time, because the map results are decided by distance and Mayo is large enough that this settles most of it.",
+    towns: [
+      "Castlebar",
+      "Ballina",
+      "Westport",
+      "Claremorris",
+      "Ballinrobe",
+      "Swinford",
+      "Belmullet",
+      "Charlestown",
+      "Knock",
+      "Foxford",
+      "Kiltimagh",
+      "Newport",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can we rank across Mayo?",
+      a: "No. Proximity decides the map results and the county is too large. Ranking well in your own catchment is the realistic and worthwhile goal.",
+    },
+    {
+      q: "Is Mayo too rural for SEO?",
+      a: "Under-contested rather than too rural. Competitor foundations are weak and a handful of real links goes a long way.",
+    },
+    {
+      q: "Does page speed matter here?",
+      a: "Yes. Coverage across the west is patchy and heavy sites fail for a share of visitors without ever appearing in your figures.",
+    },
+    {
+      q: "Can we reach people who moved away?",
+      a: "To a useful degree, through content and reviews rather than the map. For renovation trades it is a real audience.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Mayo", href: "/locations/mayo/digital-marketing/" },
+    { label: "Social media marketing in Mayo", href: "/locations/mayo/social-media-marketing/" },
+  ],
+};
+
+const sligoSeo: ServicePage = {
+  county: "Sligo",
+  countySlug: "sligo",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Sligo | Search Engine Optimisation for Sligo Businesses",
+  description:
+    "SEO for Sligo businesses in the town, Ballymote, Tubbercurry and across the northwest. Local search work built around a regional catchment.",
+  h1: "SEO in Sligo, where ranking well reaches four counties.",
+  intro: [
+    "Sligo town is the service centre for the northwest, and people travel in from south Donegal, north Mayo and most of Leitrim for things they cannot get closer.",
+    "That makes SEO unusually valuable here: a business that ranks well in Sligo is visible to a catchment several times the county's own population, and very few local competitors have realised it.",
+  ],
+  sections: [
+    {
+      heading: "What the work consists of",
+      body: [
+        "Ordinary foundations with an unusually large payoff.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "Your Sligo address serves a far wider area than the town, because there is little competition between here and Donegal.",
+        },
+        {
+          title: "Pages that name the region, not just the town",
+          body: "Ballina, Manorhamilton, Bundoran, Carrick-on-Shannon. Most Sligo sites name none of them.",
+        },
+        {
+          title: "Reviews",
+          body: "Particularly ones that mention where the customer travelled from — it tells both Google and the reader that people come to you.",
+        },
+        {
+          title: "Links",
+          body: "Local media, the institute, chamber, tourism. Sligo has more genuinely available than most counties its size.",
+        },
+        {
+          title: "Practical detail",
+          body: "Parking, opening hours and directions convert regional visitors who are deciding whether to drive an hour.",
+        },
+      ],
+    },
+    {
+      heading: "Justify the journey on the page",
+      body: [
+        "A Sligo business has a job a purely local one does not: convincing somebody in Ballina that the drive is worth making.",
+        "That belongs on the page — what you offer that is not available closer, and the practical details that make travelling easy. Almost nobody makes the argument explicitly, which is why it works.",
+      ],
+    },
+    {
+      heading: "Students inflate the town's figures",
+      body: [
+        "Sligo's third-level population swells the town on a schedule and, for most service businesses, contributes nothing.",
+        "They are worth excluding where they are not your market, which will lower your traffic numbers and improve your enquiries.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Sligo areas we work on",
+    body: "Optimisation is built around Sligo's regional catchment — south Donegal, north Mayo and Leitrim — rather than the county alone.",
+    towns: [
+      "Sligo town",
+      "Ballymote",
+      "Tubbercurry",
+      "Enniscrone",
+      "Collooney",
+      "Strandhill",
+      "Rosses Point",
+      "Grange",
+      "Coolaney",
+      "Easkey",
+      "Riverstown",
+      "Gurteen",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is the regional catchment real?",
+      a: "It is the main opportunity here. Sligo serves a region several times its county population and most local businesses advertise as though it does not.",
+    },
+    {
+      q: "How do we justify the drive?",
+      a: "On the page: say what you offer that is not available closer, and make parking, hours and directions obvious.",
+    },
+    {
+      q: "Do students matter?",
+      a: "For food, pubs and retail, somewhat. For trades and professional services they are noise worth excluding.",
+    },
+    {
+      q: "Is Sligo competitive?",
+      a: "Lightly, and the payoff for ranking is disproportionate because so few competitors exist between here and Donegal.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Sligo", href: "/locations/sligo/digital-marketing/" },
+    { label: "Web design in Sligo", href: "/locations/sligo/web-design/" },
+  ],
+};
+
+const cavanSeo: ServicePage = {
+  county: "Cavan",
+  countySlug: "cavan",
+  service: "SEO",
+  serviceSlug: "seo",
+  title: "SEO Cavan | Search Engine Optimisation for Cavan Businesses",
+  description:
+    "SEO for Cavan businesses in Cavan town, Virginia, Bailieborough and across the county. Town-level local search work reported in enquiries.",
+  h1: "SEO in Cavan, a county of a dozen small results.",
+  intro: [
+    "Cavan never developed a dominant town, and its drumlins and lakes mean journeys take longer than the distance suggests. Google's local results reflect that faithfully: a dozen small, separate sets of rankings rather than one county-wide contest.",
+    "A Cavan town business will rank in Cavan town and barely register in Kingscourt. That is the constraint to plan around rather than fight.",
+  ],
+  sections: [
+    {
+      heading: "What the work consists of",
+      body: [
+        "Foundations aimed at one catchment rather than a county.",
+      ],
+      list: [
+        {
+          title: "Google Business Profile",
+          body: "In a dispersed county this does more than the website. Complete it fully before anything else.",
+        },
+        {
+          title: "Pages naming your own towns",
+          body: "Service plus town, for the two or three catchments you genuinely serve.",
+        },
+        {
+          title: "Reviews",
+          body: "The tiebreaker within a small local result, and Cavan competitors have very few.",
+        },
+        {
+          title: "Links",
+          body: "Clubs, suppliers, the chamber. Almost nobody here has built any, so a handful is decisive.",
+        },
+        {
+          title: "Page weight",
+          body: "Coverage in parts of Cavan is patchy and heavy sites simply fail for those visitors.",
+        },
+      ],
+    },
+    {
+      heading: "The N3 corridor is a different contest",
+      body: [
+        "Virginia, Bailieborough and Kingscourt have become Dublin commuter territory, and their search results are more contested than the west of the county as a result.",
+        "They also carry better-paying work. It is a fair trade, but the timeline there is longer and worth knowing in advance.",
+      ],
+    },
+    {
+      heading: "Search volume is thin, so SEO is a supporting act",
+      body: [
+        "On any given day the number of people searching your service within a Cavan catchment is small. SEO is worth doing because it is cheap and it compounds, not because it will fill a diary alone.",
+        "In this county it works best alongside paid social, which reaches people before they think to search.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Cavan areas we work on",
+    body: "Optimisation is aimed at the two or three town catchments you genuinely serve, because Cavan is a dozen separate sets of local results.",
+    towns: [
+      "Cavan town",
+      "Virginia",
+      "Bailieborough",
+      "Cootehill",
+      "Kingscourt",
+      "Ballyjamesduff",
+      "Belturbet",
+      "Ballyconnell",
+      "Arva",
+      "Killeshandra",
+      "Shercock",
+      "Mountnugent",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can we rank across Cavan?",
+      a: "No. The county is a dozen separate local results and proximity decides each one. Ranking in your own catchment is the realistic goal.",
+    },
+    {
+      q: "Is the N3 belt different?",
+      a: "Yes — more contested because of Dublin commuters, and better paying. Expect a longer timeline there.",
+    },
+    {
+      q: "Is SEO enough on its own?",
+      a: "In a county with this little search volume, rarely. It works best alongside paid social, which reaches people before they search.",
+    },
+    {
+      q: "Is competition heavy?",
+      a: "Very light. Most Cavan competitors have no links and incomplete profiles, which makes the basics unusually effective.",
+    },
+    {
+      q: "Do you guarantee rankings?",
+      a: "No, and nobody honest does. We report enquiries and what they cost, with rankings as a diagnostic rather than the deliverable.",
+    },
+    {
+      q: "What does it cost?",
+      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+    },
+  ],
+  related: [
+    { label: "Digital marketing in Cavan", href: "/locations/cavan/digital-marketing/" },
+    { label: "Social media marketing in Cavan", href: "/locations/cavan/social-media-marketing/" },
+  ],
+};
+
 export const servicePages: ServicePage[] = [
   limerickDigitalMarketing,
   limerickSocial,
@@ -9374,6 +10730,18 @@ export const servicePages: ServicePage[] = [
   dublinGoogleAds,
   meathGoogleAds,
   louthGoogleAds,
+  galwaySeo,
+  meathSeo,
+  louthSeo,
+  waterfordSeo,
+  tipperarySeo,
+  kilkennySeo,
+  wexfordSeo,
+  kerrySeo,
+  clareSeo,
+  mayoSeo,
+  sligoSeo,
+  cavanSeo,
 ];
 
 export const servicePageBy = (countySlug: string, serviceSlug: string) =>
