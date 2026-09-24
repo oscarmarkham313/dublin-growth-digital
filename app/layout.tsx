@@ -10,6 +10,7 @@ import ChromeSwitch from "@/components/ChromeSwitch";
 import Analytics from "@/components/Analytics";
 import LeadModal from "@/components/LeadModal";
 import OfferStickyCta from "@/components/OfferStickyCta";
+import CallBar from "@/components/CallBar";
 import ConsentBanner from "@/components/ConsentBanner";
 
 const archivo = Archivo({
@@ -152,7 +153,9 @@ export default function RootLayout({
 }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="en-IE" className={archivo.variable}>
-      <body className="font-sans">
+      {/* pb-[68px] on mobile clears the fixed CallBar so it never covers
+            the footer; the offer routes keep their own spacing. */}
+      <body className="font-sans pb-[68px] md:pb-0">
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organisation) }}
@@ -168,6 +171,7 @@ export default function RootLayout({
         </ChromeSwitch>
         <LeadModal />
         <OfferStickyCta />
+        <CallBar />
         <Analytics />
         <ConsentBanner />
       </body>

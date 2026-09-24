@@ -96,7 +96,16 @@ export default function Nav() {
             ))}
           </ul>
 
-          <div className="hidden md:block">
+          <div className="hidden items-center gap-6 md:flex">
+            {/* The number was previously only in the footer, on every page.
+                A visitor who wants to ring should never have to scroll. */}
+            <a
+              href={`tel:${site.phone}`}
+              data-analytics="nav-phone"
+              className="tnum text-[13px] font-semibold text-ink transition-colors duration-200 hover:text-accent"
+            >
+              {site.phoneDisplay}
+            </a>
             <Link
               href={nav.cta.href}
               className="inline-block bg-ink px-5 py-2.5 text-[13px] font-semibold text-inverse transition-colors duration-200 hover:bg-accent"
@@ -104,6 +113,28 @@ export default function Nav() {
               {nav.cta.label}
             </Link>
           </div>
+
+          <a
+            href={`tel:${site.phone}`}
+            data-analytics="nav-phone-mobile"
+            aria-label={`Call ${site.phoneDisplay}`}
+            className="ml-auto mr-1 flex h-10 items-center gap-2 px-3 text-[13px] font-semibold text-ink md:hidden"
+          >
+            <svg
+              width="15"
+              height="15"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              aria-hidden="true"
+            >
+              <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92Z" />
+            </svg>
+            Call
+          </a>
 
           <button
             className="flex h-10 w-10 flex-col items-center justify-center gap-[5px] md:hidden"
@@ -167,6 +198,13 @@ export default function Nav() {
               >
                 {nav.cta.label}
               </Link>
+              <a
+                href={`tel:${site.phone}`}
+                data-analytics="nav-drawer-phone"
+                className="tnum mt-6 block text-2xl font-extrabold tracking-display text-inverse"
+              >
+                {site.phoneDisplay}
+              </a>
             </motion.div>
           </motion.div>
         )}
