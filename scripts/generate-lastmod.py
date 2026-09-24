@@ -73,7 +73,8 @@ def file_date(path):
 
 
 result = {"industries": track("config/industries.ts", "slug"),
-          "counties": track("config/counties.ts", "slug")}
+          "counties": track("config/counties.ts", "slug"),
+          "towns": track("config/towns.ts", "slug")}
 
 # service x county pages are keyed by the pair, so hash per county block
 sp = {}
@@ -104,6 +105,7 @@ result["core"] = {
     "/industries/": file_date("app/industries/page.tsx"),
     "/locations/": file_date("app/locations/page.tsx"),
     "/blog/": file_date("app/blog/page.tsx"),
+    "/towns/": file_date("app/towns/page.tsx"),
     "/about/": file_date("app/about/page.tsx"),
     "/contact/": file_date("app/contact/page.tsx"),
     "/privacy/": file_date("app/privacy/page.tsx"),

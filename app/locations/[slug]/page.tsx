@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { counties, countyBySlug } from "@/config/counties";
 import { servicePagesForCounty, isCountyIndexable } from "@/config/county-services";
+import { townsForCounty } from "@/config/towns";
 import { industryBySlug } from "@/config/industries";
 import { site } from "@/config/copy";
 import Reveal from "@/components/Reveal";
@@ -57,6 +58,7 @@ export default async function CountyPage({
     .filter((x): x is NonNullable<typeof x> => Boolean(x));
   const neighbours = counties.filter((x) => x.province === c.province && x.slug !== c.slug);
   const deepServices = servicePagesForCounty(c.slug);
+  const countyTowns = townsForCounty(c.slug);
 
   // County-specific FAQs where we have them (the indexable counties). The
   // interpolated set below is a fallback for the noindexed counties, where
@@ -150,6 +152,27 @@ export default async function CountyPage({
           </div>
         </div>
       </section>
+
+      {/* Town pages, where we have them. A business in Naas is not
+          competing with one in Athy, so link the level down. */}
+      {countyTowns.length > 0 && (
+        <section className="border-b border-hairline bg-bg py-14 md:py-16">
+          <div className="mx-auto max-w-container px-5 md:px-10">
+            <span className="eyebrow">Towns in {c.name}</span>
+            <div className="mt-6 flex flex-wrap gap-x-6 gap-y-3">
+              {countyTowns.map((t) => (
+                <Link
+                  key={t.slug}
+                  href={`/towns/${t.slug}/`}
+                  className="text-lg font-extrabold tracking-display text-text-2 underline decoration-hairline-dk underline-offset-4 transition-colors hover:text-ink md:text-xl"
+                >
+                  {t.name}
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* What is actually different about this county. The shared template
           below is the same everywhere by design; this is not. */}
