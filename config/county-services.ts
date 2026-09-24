@@ -10647,6 +10647,1183 @@ const cavanSeo: ServicePage = {
   ],
 };
 
+const galwayGoogleAds: ServicePage = {
+  county: "Galway",
+  countySlug: "galway",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Galway | PPC Management for Galway Businesses",
+  description:
+    "Google Ads management for Galway businesses in the city, Salthill, Oranmore and across the county. Search campaigns reported in enquiries.",
+  h1: "Google Ads in Galway, with the wasted clicks taken out.",
+  intro: [
+    "Galway has two features that quietly drain a search budget: a very large student population that clicks on everything, and a tourism economy that brings in searches from people who will be gone by Sunday.",
+    "Neither shows up as a problem in the dashboard. Both show up in the cost per enquiry, and removing them is usually the single biggest improvement available on a Galway account.",
+  ],
+  sections: [
+    {
+      heading: "Where a Galway budget actually leaks",
+      body: [
+        "Four things, in the order we check them on an account we inherit.",
+      ],
+      list: [
+        {
+          title: "Missing negative keywords",
+          body: "Galway's broad terms pull in university, tourism and events traffic in volume. This is where most inherited accounts are haemorrhaging.",
+        },
+        {
+          title: "Broad match left on",
+          body: "In a city with this much irrelevant search volume, broad match is close to a donation to Google.",
+        },
+        {
+          title: "City and county in one campaign",
+          body: "Galway city and Connemara have different competition and different costs. Averaging them serves neither.",
+        },
+        {
+          title: "Untracked calls",
+          body: "Most Galway enquiries arrive by phone. An account counting only forms is optimising on half the data.",
+        },
+      ],
+    },
+    {
+      heading: "Seasonality is sharper than people plan for",
+      body: [
+        "Tourism-facing businesses in Galway see demand concentrate hard into a few months, and spending evenly across the year wastes most of the off-season budget.",
+        "Weighting spend into the weeks when your customers are actually deciding — which for visitors is before they travel, not when they arrive — is straightforward and almost nobody does it.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Galway areas we target",
+    body: "Campaigns are split between the city and the county, because Galway city and the west have different competition, different costs and different customers.",
+    towns: [
+      "Galway city",
+      "Salthill",
+      "Oranmore",
+      "Tuam",
+      "Ballinasloe",
+      "Loughrea",
+      "Athenry",
+      "Clifden",
+      "Gort",
+      "Headford",
+      "Moycullen",
+      "Barna",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Why is our cost per lead high in Galway?",
+      a: "Usually students and tourism traffic that nobody excluded. Negative keywords are the first thing we look at on a Galway account.",
+    },
+    {
+      q: "Should city and county share a campaign?",
+      a: "No. Different competition, different click prices, different customers.",
+    },
+    {
+      q: "Is Galway expensive?",
+      a: "Moderate by Irish standards — cheaper than Dublin or Cork city, dearer than the rest of Connacht.",
+    },
+    {
+      q: "How seasonal is it?",
+      a: "For tourism-facing businesses, sharply. Budget should follow the season rather than sitting flat.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Galway", href: "/locations/galway/seo/" },
+    { label: "Digital marketing in Galway", href: "/locations/galway/digital-marketing/" },
+  ],
+};
+
+const wicklowGoogleAds: ServicePage = {
+  county: "Wicklow",
+  countySlug: "wicklow",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Wicklow | PPC Management for Wicklow Businesses",
+  description:
+    "Google Ads management for Wicklow businesses in Bray, Greystones, Arklow and across the county. Campaigns split north and south.",
+  h1: "Google Ads in Wicklow, where paid is the only way to cover the county.",
+  intro: [
+    "Wicklow is the county where paid search earns its place most obviously, because the mountains make organic coverage impossible. A Bray business cannot rank in Arklow no matter how good its SEO is — proximity decides the map results and driving time does not enter into it.",
+    "Google Ads does not care about proximity. It is the only realistic way to be visible in the half of the county you are not in.",
+  ],
+  sections: [
+    {
+      heading: "North and south are different budgets",
+      body: [
+        "Bray and Greystones sit inside the south Dublin advertising market, with click prices to match. Rathdrum, Tinahely and Baltinglass cost a fraction of that.",
+        "Running one Wicklow campaign averages them, which means overpaying in the south and under-bidding in the north. Splitting them is the first thing we do here.",
+      ],
+      list: [
+        {
+          title: "North Wicklow",
+          body: "Bray, Greystones, Delgany, Enniskerry. Dublin-grade competition and Dublin-grade prices, with jobs worth more to match.",
+        },
+        {
+          title: "Mid Wicklow",
+          body: "Wicklow town, Ashford, Rathdrum, Newtownmountkennedy. Moderate on both counts.",
+        },
+        {
+          title: "South and west",
+          body: "Arklow, Tinahely, Baltinglass, Blessington. Cheap clicks, thin competition, longer distances.",
+        },
+      ],
+    },
+    {
+      heading: "Use paid where geography beats you",
+      body: [
+        "This is the clearest case in Ireland for running ads alongside SEO rather than instead of it. Optimise for the area you are in, advertise into the area you are not.",
+        "It is also why we will not sell a Wicklow business SEO alone and promise county coverage. The mountains make that promise impossible to keep.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Wicklow areas we target",
+    body: "Campaigns are split north and south, because north Wicklow carries Dublin prices and the south does not, and the mountains between them are real.",
+    towns: [
+      "Bray",
+      "Greystones",
+      "Wicklow town",
+      "Arklow",
+      "Blessington",
+      "Newtownmountkennedy",
+      "Delgany",
+      "Kilcoole",
+      "Rathdrum",
+      "Enniskerry",
+      "Tinahely",
+      "Baltinglass",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Why do we need ads if we do SEO?",
+      a: "Because the mountains make organic county coverage impossible. A Bray business will never rank in Arklow, and paid is the only way to be visible there.",
+    },
+    {
+      q: "Is north Wicklow expensive?",
+      a: "Effectively south Dublin prices. The jobs are worth more, but the budget needs to reflect it.",
+    },
+    {
+      q: "Should we run one county campaign?",
+      a: "No. North and south differ enough in cost that averaging them wastes money at both ends.",
+    },
+    {
+      q: "Where is the best value?",
+      a: "South and west Wicklow, if you genuinely travel there. Cheap clicks and very little competition.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Wicklow", href: "/locations/wicklow/seo/" },
+    { label: "Digital marketing in Wicklow", href: "/locations/wicklow/digital-marketing/" },
+  ],
+};
+
+const limerickGoogleAds: ServicePage = {
+  county: "Limerick",
+  countySlug: "limerick",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Limerick | PPC Management for Limerick Businesses",
+  description:
+    "Google Ads management for Limerick businesses in the city, Newcastle West, Adare and across the county. Search campaigns reported in enquiries.",
+  h1: "Google Ads in Limerick, where the obvious keywords are a trap.",
+  intro: [
+    "Limerick's broad search terms are dominated by courses and jobs. 'Digital marketing Limerick', 'marketing Limerick' and their relatives are searched mostly by students and job-seekers, and an account bidding on them will spend a great deal of money on people who are not buying anything.",
+    "That is not a Limerick-specific quirk of one industry — the same pattern applies across trades, professional services and anything with a training course attached to its name.",
+  ],
+  sections: [
+    {
+      heading: "The negative keyword list matters more here",
+      body: [
+        "Limerick has a large third-level population and a lot of course-related search volume attached to ordinary commercial terms.",
+        "Building the negative list properly before launch is worth more than any bid strategy. On accounts we inherit in Limerick it is almost always the biggest single saving available.",
+      ],
+      list: [
+        {
+          title: "Course and training terms",
+          body: "Anything with course, jobs, apprenticeship, degree, diploma or internship attached.",
+        },
+        {
+          title: "University and student traffic",
+          body: "High volume, cheap clicks, no commercial intent for most businesses.",
+        },
+        {
+          title: "Research-intent phrasing",
+          body: "'How to', 'what is', 'salary' and similar. Useful for content, useless for a search campaign.",
+        },
+        {
+          title: "Neighbouring counties you do not serve",
+          body: "Clare and Tipperary spillover is easy to pick up accidentally.",
+        },
+      ],
+    },
+    {
+      heading: "Clicks are cheap here, which cuts both ways",
+      body: [
+        "Limerick is genuinely inexpensive by Irish city standards and competition is light, so a modest budget can produce real volume.",
+        "The risk is that cheap clicks make waste invisible. At sixty cents a click nobody notices a badly targeted campaign for months, which is exactly how they run for a year without improving.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Limerick areas we target",
+    body: "Campaigns cover the city and the towns you serve, including the Clare and Tipperary catchment most Limerick businesses forget to include deliberately.",
+    towns: [
+      "Limerick city",
+      "Newcastle West",
+      "Adare",
+      "Castleconnell",
+      "Abbeyfeale",
+      "Kilmallock",
+      "Rathkeale",
+      "Croom",
+      "Patrickswell",
+      "Askeaton",
+      "Bruff",
+      "Cappamore",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Why avoid broad Limerick terms?",
+      a: "They are dominated by courses and jobs. You will spend real money reaching students and job-seekers rather than customers.",
+    },
+    {
+      q: "Is Limerick cheap to advertise in?",
+      a: "Yes by city standards, and that is a double-edged thing — cheap clicks make a badly targeted campaign hard to notice.",
+    },
+    {
+      q: "Should we target Clare?",
+      a: "If you serve it, deliberately rather than by accident. A lot of Limerick businesses pick up Clare traffic without meaning to.",
+    },
+    {
+      q: "What is the first thing you would change?",
+      a: "The negative keyword list, almost certainly. It is the biggest saving available on most Limerick accounts.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Limerick", href: "/locations/limerick/seo/" },
+    { label: "Digital marketing in Limerick", href: "/locations/limerick/digital-marketing/" },
+  ],
+};
+
+const waterfordGoogleAds: ServicePage = {
+  county: "Waterford",
+  countySlug: "waterford",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Waterford | PPC Management for Waterford Businesses",
+  description:
+    "Google Ads management for Waterford businesses in the city, Tramore, Dungarvan and across the county. Reported in enquiries, not clicks.",
+  h1: "Google Ads in Waterford, the cheapest city in the country to compete in.",
+  intro: [
+    "Waterford has the lowest search competition of any Irish city, and click prices to match. A budget that would barely register in Cork can produce meaningful volume here.",
+    "The constraint is not cost, it is supply. There are only so many people searching for any given service in Waterford on a given day, and no amount of budget creates more of them.",
+  ],
+  sections: [
+    {
+      heading: "You will hit a volume ceiling, not a cost one",
+      body: [
+        "In Dublin the question is whether you can afford the clicks. In Waterford it is whether there are enough of them.",
+        "That changes how an account should be run. Once you are capturing most of the available search volume, increasing the budget simply shows the same people your advert more often. At that point the money is better spent on paid social, which can reach people before they search.",
+      ],
+    },
+    {
+      heading: "The coast has a different year",
+      body: [
+        "Tramore and Dungarvan see demand concentrate into a short season, while the city trades steadily.",
+        "If you serve both, they should not share a budget. Coastal spend weighted into the season and city spend held level is a straightforward improvement that most local accounts never make.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Waterford areas we target",
+    body: "Campaigns cover the city and the coast separately, because one trades all year and the other does not.",
+    towns: [
+      "Waterford city",
+      "Tramore",
+      "Dungarvan",
+      "Lismore",
+      "Portlaw",
+      "Cappoquin",
+      "Ardmore",
+      "Dunmore East",
+      "Kilmacthomas",
+      "Tallow",
+      "Ballymacarbry",
+      "Passage East",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is Waterford cheap to advertise in?",
+      a: "The cheapest Irish city by a reasonable margin. Competition is light and clicks are inexpensive.",
+    },
+    {
+      q: "What is the catch?",
+      a: "Search volume. There is a ceiling on how many people are looking, and past that point more budget just repeats your advert to the same people.",
+    },
+    {
+      q: "What should we do once we hit that ceiling?",
+      a: "Move the extra budget to paid social, which reaches people before they search rather than competing for the same limited clicks.",
+    },
+    {
+      q: "Should the coast have its own budget?",
+      a: "Yes. Tramore and Dungarvan are seasonal and the city is not.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Waterford", href: "/locations/waterford/seo/" },
+    { label: "Digital marketing in Waterford", href: "/locations/waterford/digital-marketing/" },
+  ],
+};
+
+const tipperaryGoogleAds: ServicePage = {
+  county: "Tipperary",
+  countySlug: "tipperary",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Tipperary | PPC Management for Tipperary Businesses",
+  description:
+    "Google Ads management for Tipperary businesses in Clonmel, Thurles, Nenagh and across the county. Campaigns built town by town.",
+  h1: "Google Ads in Tipperary, where one campaign is four campaigns.",
+  intro: [
+    "Tipperary has no dominant town, which means a county-wide campaign is paying to reach four separate catchments to serve customers in one of them.",
+    "It also means search volume in any single town is modest, so the realistic daily budget is lower than a business expects — and trying to spend more than the town can supply pushes Google into showing your advert to people further away who will never travel.",
+  ],
+  sections: [
+    {
+      heading: "Budget has to match the town, not the ambition",
+      body: [
+        "If Clonmel can supply twelve relevant searches a day for your service, a budget sized for forty will be spent reaching Nenagh, Cashel and Carrick-on-Suir instead.",
+        "That looks like growth in the dashboard and is not. We size the budget to the catchment and put the surplus somewhere it can actually work.",
+      ],
+    },
+    {
+      heading: "Four towns, four sets of numbers",
+      body: [
+        "Clonmel, Thurles, Nenagh and Carrick-on-Suir have different competition, different costs and different customers, and they should be reported separately.",
+        "Most accounts we see here report one county figure that hides a campaign working well in one town and badly in another.",
+      ],
+      list: [
+        {
+          title: "Clonmel",
+          body: "The largest catchment, and the most contested of the four.",
+        },
+        {
+          title: "Thurles and Nenagh",
+          body: "Moderate volume, light competition, good value if you genuinely serve them.",
+        },
+        {
+          title: "Carrick-on-Suir and the south",
+          body: "Overlaps with Waterford, which is worth targeting deliberately rather than by accident.",
+        },
+      ],
+    },
+    {
+      heading: "Agricultural demand barely searches",
+      body: [
+        "A substantial part of Tipperary's economy is farming, and that work moves through relationships rather than Google.",
+        "If your customers are farmers we will tell you that search is the wrong channel rather than take the budget and report on clicks.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Tipperary areas we target",
+    body: "Campaigns are built per town, because Tipperary's four centres are four markets and a county campaign serves none of them.",
+    towns: [
+      "Clonmel",
+      "Thurles",
+      "Nenagh",
+      "Carrick-on-Suir",
+      "Tipperary town",
+      "Cashel",
+      "Roscrea",
+      "Templemore",
+      "Cahir",
+      "Fethard",
+      "Newport",
+      "Borrisokane",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Why not run one county campaign?",
+      a: "Because you would pay to reach four catchments to serve customers in one. Town-level campaigns are the whole efficiency here.",
+    },
+    {
+      q: "How much should we spend?",
+      a: "Less than most businesses expect. Budget should match what the town can actually supply, or Google spends it reaching people who will not travel.",
+    },
+    {
+      q: "Which town is most competitive?",
+      a: "Clonmel, by a margin. Thurles and Nenagh are better value if you genuinely serve them.",
+    },
+    {
+      q: "Do farmers respond to search ads?",
+      a: "Rarely. That work moves through relationships, and we will say so rather than take the budget.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Tipperary", href: "/locations/tipperary/seo/" },
+    { label: "Digital marketing in Tipperary", href: "/locations/tipperary/digital-marketing/" },
+  ],
+};
+
+const kilkennyGoogleAds: ServicePage = {
+  county: "Kilkenny",
+  countySlug: "kilkenny",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Kilkenny | PPC Management for Kilkenny Businesses",
+  description:
+    "Google Ads management for Kilkenny businesses in the city, Callan, Thomastown and across the county. Visitor traffic filtered out.",
+  h1: "Google Ads in Kilkenny, minus the weekend visitors.",
+  intro: [
+    "Kilkenny's tourism and festival economy produces a steady stream of searches from people who are here for two nights. They click, they are cheap, and for most local service businesses they are worth nothing.",
+    "Filtering them out is the main technical job on a Kilkenny account, and it is the reason most inherited accounts here look busier than they perform.",
+  ],
+  sections: [
+    {
+      heading: "Excluding visitors without excluding customers",
+      body: [
+        "Location targeting has two settings that matter: whether you target people in an area or people interested in an area, and whether you exclude people merely passing through.",
+        "Most accounts are left on the defaults, which is why they pick up so much visitor traffic. Changing them takes minutes, reduces your click volume and improves your cost per enquiry immediately.",
+      ],
+    },
+    {
+      heading: "A compact county is cheap to cover properly",
+      body: [
+        "Because most Kilkenny businesses can genuinely serve the city, Callan, Thomastown and Castlecomer, a single well-targeted campaign can cover the real catchment without waste.",
+        "That is unusual — in most counties we split campaigns by town. Here the compactness means you generally do not have to, which makes the budget go further.",
+      ],
+    },
+    {
+      heading: "Festival weeks distort everything",
+      body: [
+        "Search volume, click prices and competition all move during the major festivals, and an account left on autopilot will overspend in those weeks on traffic that does not convert.",
+        "For hospitality that traffic is the business. For everyone else it is worth planning around deliberately.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Kilkenny areas we target",
+    body: "One well-targeted campaign usually covers the real catchment here, because Kilkenny is compact enough that most businesses can serve most of it.",
+    towns: [
+      "Kilkenny city",
+      "Callan",
+      "Thomastown",
+      "Castlecomer",
+      "Graiguenamanagh",
+      "Ballyragget",
+      "Urlingford",
+      "Bennettsbridge",
+      "Inistioge",
+      "Freshford",
+      "Mooncoin",
+      "Piltown",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How do we stop paying for visitors?",
+      a: "Location targeting settings, mostly. The defaults pick up people merely passing through, and changing them takes minutes.",
+    },
+    {
+      q: "Do we need separate town campaigns?",
+      a: "Usually not, which is unusual. Kilkenny is compact enough that one well-targeted campaign covers the genuine catchment.",
+    },
+    {
+      q: "Do festivals affect the account?",
+      a: "Volume, prices and competition all move. For hospitality that is the business; for everyone else it is worth planning around.",
+    },
+    {
+      q: "Is Kilkenny cheap?",
+      a: "Yes. Light competition and modest volume, which makes a small budget go a long way.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Kilkenny", href: "/locations/kilkenny/seo/" },
+    { label: "Digital marketing in Kilkenny", href: "/locations/kilkenny/digital-marketing/" },
+  ],
+};
+
+const wexfordGoogleAds: ServicePage = {
+  county: "Wexford",
+  countySlug: "wexford",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Wexford | PPC Management for Wexford Businesses",
+  description:
+    "Google Ads management for Wexford businesses in Wexford town, Gorey, Enniscorthy and the coast. Budget weighted to a sharp season.",
+  h1: "Google Ads in Wexford, and the trick almost nobody uses.",
+  intro: [
+    "Google Ads can target where somebody is searching from, which for a seasonal Wexford business is the most useful setting available and the one least often used.",
+    "A household that holidays in Courtown every August is searching for it in May, from Dublin. You can reach them there, months early, at a fraction of what it costs to compete locally in July.",
+  ],
+  sections: [
+    {
+      heading: "Target where they are, not where they are going",
+      body: [
+        "Most Wexford tourism accounts target Wexford, which means they reach visitors only once they have already arrived and already chosen.",
+        "Targeting Dublin, Kildare and the commuter counties in spring, for people searching Wexford terms, reaches the same customers at the point the decision is actually made. It is cheaper, earlier and almost entirely uncontested.",
+      ],
+    },
+    {
+      heading: "Gorey costs more than the rest of the county",
+      body: [
+        "Gorey's commuter households and proximity to Wicklow pull its click prices above Wexford town and New Ross.",
+        "If you serve both ends of the county, they should not share a budget — Gorey will quietly absorb it.",
+      ],
+    },
+    {
+      heading: "Off-season spending has to be justified",
+      body: [
+        "For a coastal business, advertising in January reaches almost nobody who is going to buy. Holding budget for the season beats spreading it evenly.",
+        "The exception is next-season planning traffic, which starts earlier than most businesses realise — and that is worth being present for.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Wexford areas we target",
+    body: "Campaigns cover the towns you serve and, for seasonal businesses, the counties your visitors travel from before they arrive.",
+    towns: [
+      "Wexford town",
+      "Enniscorthy",
+      "Gorey",
+      "New Ross",
+      "Rosslare",
+      "Bunclody",
+      "Ferns",
+      "Courtown",
+      "Castlebridge",
+      "Taghmon",
+      "Kilmuckridge",
+      "Duncannon",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Can we really advertise to people before they visit?",
+      a: "Yes, and it is the most under-used setting in this county. Target where they live in spring rather than competing locally in July.",
+    },
+    {
+      q: "Is Gorey more expensive?",
+      a: "Noticeably, because of commuter households and Wicklow proximity. It will absorb a shared county budget.",
+    },
+    {
+      q: "Should we advertise in winter?",
+      a: "Lightly, for next-season planning traffic. Spreading budget evenly across a sharply seasonal year wastes most of it.",
+    },
+    {
+      q: "What about the ferry and Rosslare traffic?",
+      a: "Relevant for a narrow set of businesses and worth targeting separately where it applies.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Wexford", href: "/locations/wexford/seo/" },
+    { label: "Digital marketing in Wexford", href: "/locations/wexford/digital-marketing/" },
+  ],
+};
+
+const kerryGoogleAds: ServicePage = {
+  county: "Kerry",
+  countySlug: "kerry",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Kerry | PPC Management for Kerry Businesses",
+  description:
+    "Google Ads management for Kerry businesses in Tralee, Killarney, Listowel and Dingle. Campaigns split between visitors and local trade.",
+  h1: "Google Ads in Kerry, bidding where your customers actually are.",
+  intro: [
+    "A Kerry tourism business has customers who are not in Kerry. They are in Dublin, Cork, Britain and further afield, searching months ahead, and a campaign targeted at Kerry will never show them an advert.",
+    "That single geographic fact is the difference between a Kerry account that works and one that quietly spends the season reaching people who already booked somewhere else.",
+  ],
+  sections: [
+    {
+      heading: "Two campaigns, two locations, two calendars",
+      body: [
+        "Visitor campaigns target the places visitors live and run hardest in spring. Local campaigns target Kerry and run all year.",
+        "They need separate budgets, separate keywords and separate landing pages, and they will look nothing like each other. Most Kerry accounts run one campaign and wonder why the summer is expensive.",
+      ],
+      list: [
+        {
+          title: "Visitor demand",
+          body: "Targeted at Dublin, Cork, the UK and beyond. Peaks in spring for a summer trip. Long booking windows.",
+        },
+        {
+          title: "Local trade",
+          body: "Targeted at Kerry. Steady all year. Short decision, high intent, much cheaper clicks.",
+        },
+        {
+          title: "Events and weddings",
+          body: "Long lead times, high value, and searched from outside the county almost entirely.",
+        },
+      ],
+    },
+    {
+      heading: "Distances make radius targeting expensive",
+      body: [
+        "The Ring roads are slow and a radius drawn around Tralee includes places nobody will drive from for an ordinary service.",
+        "Targeting by town rather than by radius is the cheapest correction available on most Kerry accounts.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Kerry areas we target",
+    body: "Visitor campaigns target where your customers live before they travel; local campaigns target the Kerry towns you actually serve.",
+    towns: [
+      "Tralee",
+      "Killarney",
+      "Listowel",
+      "Dingle",
+      "Kenmare",
+      "Castleisland",
+      "Killorglin",
+      "Cahersiveen",
+      "Ballybunion",
+      "Milltown",
+      "Tarbert",
+      "Sneem",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Should we target outside Kerry?",
+      a: "If you serve visitors, absolutely. They are searching from Dublin, Cork and Britain months before they arrive, and a Kerry-targeted campaign never reaches them.",
+    },
+    {
+      q: "When should visitor campaigns run?",
+      a: "Hardest in spring. By July the decision is largely made and you are competing with everyone.",
+    },
+    {
+      q: "Why not use radius targeting?",
+      a: "Because the Ring roads are slow and a radius includes places nobody will drive from. Town targeting is cheaper and more accurate.",
+    },
+    {
+      q: "Are Tralee and Killarney different?",
+      a: "Completely. One is steady local trade, the other is seasonal and visitor-led.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Kerry", href: "/locations/kerry/seo/" },
+    { label: "Digital marketing in Kerry", href: "/locations/kerry/digital-marketing/" },
+  ],
+};
+
+const clareGoogleAds: ServicePage = {
+  county: "Clare",
+  countySlug: "clare",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Clare | PPC Management for Clare Businesses",
+  description:
+    "Google Ads management for Clare businesses in Ennis, Shannon and across the county. Campaigns that account for Limerick advertisers bidding in.",
+  h1: "Google Ads in Clare, against advertisers from another county.",
+  intro: [
+    "Limerick businesses bid into south and east Clare routinely, which means a Clare advertiser is competing with a city's budgets in its own county.",
+    "You will not outspend them and you do not need to. Local relevance — a Clare-specific advert going to a Clare-specific page — beats a generic city campaign at higher bids more often than people expect.",
+  ],
+  sections: [
+    {
+      heading: "Relevance beats budget in a borrowed market",
+      body: [
+        "Google rewards ads that match the search closely, which means a well-built small campaign can outrank a larger, looser one.",
+        "An advert that names Ennis, going to a page about Ennis, from a business with an Ennis address, will beat a Limerick firm's county-wide advert at a lower cost per click. That is the whole strategy here.",
+      ],
+    },
+    {
+      heading: "Four economies, four budgets",
+      body: [
+        "Ennis is commercial, Shannon is industrial, the coast is seasonal tourism and the rest is rural. They do not share customers and they should not share a campaign.",
+        "The coastal towns in particular need budget weighted into a short season rather than spread across a year in which most of them are quiet.",
+      ],
+      list: [
+        {
+          title: "Ennis",
+          body: "Steady, commercial, the largest catchment. Moderate competition including Limerick spillover.",
+        },
+        {
+          title: "Shannon",
+          body: "Industrial and B2B-heavy. Different keywords, different buyers, worth separating.",
+        },
+        {
+          title: "The coast",
+          body: "Lahinch, Kilkee, Doolin. Short intense season; budget belongs in it, not around it.",
+        },
+      ],
+    },
+    {
+      heading: "Exclude Limerick unless you serve it",
+      body: [
+        "It is easy to pick up Limerick city traffic accidentally from an Ennis campaign, and unless you genuinely travel there it is expensive traffic that will not convert.",
+        "Deliberate exclusion is a two-minute change that regularly cuts a meaningful share of wasted spend.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Clare areas we target",
+    body: "Campaigns are built per catchment, and Limerick is included or excluded deliberately rather than picked up by accident.",
+    towns: [
+      "Ennis",
+      "Shannon",
+      "Kilrush",
+      "Kilkee",
+      "Lahinch",
+      "Ennistymon",
+      "Sixmilebridge",
+      "Newmarket-on-Fergus",
+      "Tulla",
+      "Scariff",
+      "Corofin",
+      "Doolin",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "How do we compete with Limerick advertisers?",
+      a: "On relevance rather than budget. A Clare advert to a Clare page from a Clare business beats a generic city campaign at lower cost.",
+    },
+    {
+      q: "Should we target Limerick city?",
+      a: "Only if you genuinely travel there. Picking it up accidentally is a common and expensive mistake.",
+    },
+    {
+      q: "Is the coast worth advertising to?",
+      a: "In season, yes. Spreading coastal budget across the year wastes most of it.",
+    },
+    {
+      q: "Is Shannon different?",
+      a: "Substantially — industrial and B2B-heavy, with different keywords and buyers. Worth its own campaign.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Clare", href: "/locations/clare/seo/" },
+    { label: "Digital marketing in Clare", href: "/locations/clare/digital-marketing/" },
+  ],
+};
+
+const mayoGoogleAds: ServicePage = {
+  county: "Mayo",
+  countySlug: "mayo",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Mayo | PPC Management for Mayo Businesses",
+  description:
+    "Google Ads management for Mayo businesses in Castlebar, Ballina, Westport and across the county. Targeted by driving time, not radius.",
+  h1: "Google Ads in Mayo, where radius targeting quietly wastes money.",
+  intro: [
+    "A radius drawn around Castlebar looks reasonable on a map and includes a great many people who will never drive to you. Mayo is large enough, and its roads slow enough, that distance and travel time are genuinely different things.",
+    "Radius targeting is the default and it is wrong here. Targeting the towns you actually serve is the single biggest efficiency available on a Mayo account.",
+  ],
+  sections: [
+    {
+      heading: "Towns, not circles",
+      body: [
+        "Every campaign here starts with an honest answer to how far you will drive, and then targets those towns by name.",
+        "It reduces reach, it reduces click volume, and it improves cost per booked job — which is the only number that matters.",
+      ],
+    },
+    {
+      heading: "Volume is the ceiling, and it arrives early",
+      body: [
+        "Search volume across Mayo is thin enough that most businesses hit the limit of what the county can supply at a modest budget.",
+        "Past that point Google spends the surplus widening your reach to people further away. If your account is spending more and producing the same number of jobs, that is what is happening, and the fix is to cap it rather than to push.",
+      ],
+    },
+    {
+      heading: "Three towns that do not overlap",
+      body: [
+        "Castlebar, Ballina and Westport are far enough apart to be separate markets with separate competition, and Westport carries a tourism season the other two do not.",
+        "Reporting them together hides which one is working.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Mayo areas we target",
+    body: "Campaigns target named towns within realistic driving time rather than a radius, because in Mayo those are very different things.",
+    towns: [
+      "Castlebar",
+      "Ballina",
+      "Westport",
+      "Claremorris",
+      "Ballinrobe",
+      "Swinford",
+      "Belmullet",
+      "Charlestown",
+      "Knock",
+      "Foxford",
+      "Kiltimagh",
+      "Newport",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Why not use radius targeting?",
+      a: "Because Mayo's roads make distance and driving time different things. A radius includes people who will never travel to you.",
+    },
+    {
+      q: "How much should we spend?",
+      a: "Less than you might expect. Search volume across the county is thin and past a certain point Google spends the surplus widening reach rather than finding customers.",
+    },
+    {
+      q: "How do we know we have hit the ceiling?",
+      a: "Spend rises and booked jobs do not. That is the signal to cap the budget rather than increase it.",
+    },
+    {
+      q: "Should Castlebar, Ballina and Westport share a campaign?",
+      a: "No. Separate markets, separate competition, and Westport has a season the others do not.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Mayo", href: "/locations/mayo/seo/" },
+    { label: "Digital marketing in Mayo", href: "/locations/mayo/digital-marketing/" },
+  ],
+};
+
+const sligoGoogleAds: ServicePage = {
+  county: "Sligo",
+  countySlug: "sligo",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Sligo | PPC Management for Sligo Businesses",
+  description:
+    "Google Ads management for Sligo businesses. Campaigns built around a regional catchment reaching into Donegal, Mayo and Leitrim.",
+  h1: "Google Ads in Sligo, targeted at four counties.",
+  intro: [
+    "A Sligo business that targets Sligo is advertising to a fraction of the people who would travel to it. The town serves the northwest, and there is very little competition between here and Donegal.",
+    "Extending the targeting to south Donegal, north Mayo and Leitrim usually costs very little extra and reaches a catchment several times the county's own population.",
+  ],
+  sections: [
+    {
+      heading: "Regional targeting is cheap here",
+      body: [
+        "Click prices across the northwest are among the lowest in the country, and the competition thins out further the wider you go.",
+        "That means extending your targeting is not the expensive decision it would be in Leinster. For most Sligo businesses it is the first change worth making.",
+      ],
+    },
+    {
+      heading: "Make the advert answer the distance question",
+      body: [
+        "Somebody in Ballina deciding whether to drive an hour needs a reason. An advert that names their town and says what you offer that is not available closer will out-perform a generic one substantially.",
+        "That is an ad copy problem rather than a bidding one, and it is where most of the gain is here.",
+      ],
+    },
+    {
+      heading: "Exclude students where they are not your market",
+      body: [
+        "Sligo's third-level population produces click volume and, for most service businesses, nothing else.",
+        "It is easy to exclude and rarely done, and it is usually the largest single source of waste on a Sligo account.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Sligo areas we target",
+    body: "Campaigns reach across the northwest — south Donegal, north Mayo and Leitrim — because that is genuinely where Sligo's customers come from.",
+    towns: [
+      "Sligo town",
+      "Ballymote",
+      "Tubbercurry",
+      "Enniscrone",
+      "Collooney",
+      "Strandhill",
+      "Rosses Point",
+      "Grange",
+      "Coolaney",
+      "Easkey",
+      "Riverstown",
+      "Gurteen",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Should we target outside the county?",
+      a: "Almost certainly. Sligo serves the northwest and click prices out there are low enough that extending costs very little.",
+    },
+    {
+      q: "How do we justify the drive in an advert?",
+      a: "Name their town and say what you offer that is not available closer. It is an ad copy problem, not a bidding one.",
+    },
+    {
+      q: "Do students waste budget?",
+      a: "For most service businesses, yes, and they are easy to exclude. It is usually the biggest single saving on a Sligo account.",
+    },
+    {
+      q: "Is the northwest expensive?",
+      a: "Among the cheapest in the country, which is what makes the regional strategy work.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Sligo", href: "/locations/sligo/seo/" },
+    { label: "Digital marketing in Sligo", href: "/locations/sligo/digital-marketing/" },
+  ],
+};
+
+const cavanGoogleAds: ServicePage = {
+  county: "Cavan",
+  countySlug: "cavan",
+  service: "Google Ads",
+  serviceSlug: "google-ads",
+  title: "Google Ads Cavan | PPC Management for Cavan Businesses",
+  description:
+    "Google Ads management for Cavan businesses in Cavan town, Virginia, Bailieborough and across the county. Honest about the volume ceiling.",
+  h1: "Google Ads in Cavan, and when it is the wrong channel.",
+  intro: [
+    "Cavan has a dozen small towns, no dominant centre, and modest search volume in any one of them. For a lot of businesses here the honest answer is that Google Ads alone will not fill a diary, and we would rather say that than take a budget and report on clicks.",
+    "Where it does work is for urgent, high-intent services — the things people search for at the moment something goes wrong.",
+  ],
+  sections: [
+    {
+      heading: "What works on search here, and what does not",
+      body: [
+        "The distinction is whether people search at the moment of need or have to be shown the idea first.",
+      ],
+      list: [
+        {
+          title: "Works well",
+          body: "Emergency and urgent trades, repairs, vets, legal and anything with a deadline. People type these the moment they need them.",
+        },
+        {
+          title: "Works moderately",
+          body: "Established services with clear intent — accountants, dentists, driving schools.",
+        },
+        {
+          title: "Works poorly",
+          body: "Discretionary and visual purchases: landscaping, kitchens, home improvement. Almost nobody searches for these in Cavan on a given day; they have to be shown.",
+        },
+        {
+          title: "Usually wrong channel",
+          body: "Agricultural services, which move through relationships and marts rather than through Google.",
+        },
+      ],
+    },
+    {
+      heading: "The N3 belt costs more",
+      body: [
+        "Virginia, Bailieborough and Kingscourt have become Dublin commuter territory, and Dublin advertisers reach into them. Click prices there run above the rest of the county.",
+        "The work is also worth more, so it can still be the better market — but the two halves should not share a budget.",
+      ],
+    },
+    {
+      heading: "Where the surplus budget should go",
+      body: [
+        "Once you are capturing the search volume your catchment can supply, more budget does not find more customers.",
+        "In Cavan that ceiling arrives early, and the honest recommendation is usually to move the surplus to paid social, which reaches people before they think to search.",
+      ],
+    },
+  ],
+  areas: {
+    heading: "Cavan areas we target",
+    body: "Campaigns are built around your own catchment, with the N3 commuter towns budgeted separately from the rest of the county.",
+    towns: [
+      "Cavan town",
+      "Virginia",
+      "Bailieborough",
+      "Cootehill",
+      "Kingscourt",
+      "Ballyjamesduff",
+      "Belturbet",
+      "Ballyconnell",
+      "Arva",
+      "Killeshandra",
+      "Shercock",
+      "Mountnugent",
+    ],
+  },
+  pricing: {
+    heading: "What it costs",
+    body: [
+      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+    ],
+  },
+  faqs: [
+    {
+      q: "Is Google Ads right for a Cavan business?",
+      a: "For urgent, high-intent services, yes. For discretionary or visual purchases, usually not — almost nobody searches for those here on a given day.",
+    },
+    {
+      q: "Why is the N3 belt more expensive?",
+      a: "Dublin advertisers reach into Virginia, Bailieborough and Kingscourt. The work there is usually worth more too.",
+    },
+    {
+      q: "What happens when we hit the volume ceiling?",
+      a: "More budget stops finding customers. The honest move is to shift the surplus to paid social rather than bid harder.",
+    },
+    {
+      q: "Do agricultural services work on search?",
+      a: "Rarely. That trade moves through relationships and marts, and we will say so rather than take the budget.",
+    },
+    {
+      q: "Do you charge a percentage of ad spend?",
+      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+    },
+    {
+      q: "Who owns the Google Ads account?",
+      a: "You do. We work inside your account and you keep it, with all its history, if we ever part company.",
+    },
+  ],
+  related: [
+    { label: "SEO in Cavan", href: "/locations/cavan/seo/" },
+    { label: "Digital marketing in Cavan", href: "/locations/cavan/digital-marketing/" },
+  ],
+};
+
 export const servicePages: ServicePage[] = [
   limerickDigitalMarketing,
   limerickSocial,
@@ -10742,6 +11919,18 @@ export const servicePages: ServicePage[] = [
   mayoSeo,
   sligoSeo,
   cavanSeo,
+  galwayGoogleAds,
+  wicklowGoogleAds,
+  limerickGoogleAds,
+  waterfordGoogleAds,
+  tipperaryGoogleAds,
+  kilkennyGoogleAds,
+  wexfordGoogleAds,
+  kerryGoogleAds,
+  clareGoogleAds,
+  mayoGoogleAds,
+  sligoGoogleAds,
+  cavanGoogleAds,
 ];
 
 export const servicePageBy = (countySlug: string, serviceSlug: string) =>
