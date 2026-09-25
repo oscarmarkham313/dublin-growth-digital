@@ -152,6 +152,15 @@ def main():
     ok &= cohort("all industry / niche pages",
                  load(os.path.join("out", "industries", "*", "index.html"),
                       lambda p: os.path.basename(os.path.dirname(p))))
+    # industries/*/*/ matches BOTH industry x county and the SEO x
+    # industry pages, so the SEO ones are excluded explicitly. Without
+    # this the cohort silently blends two different page types.
+    ic = {k: v for k, v in
+          load(os.path.join("out", "industries", "*", "*", "index.html"),
+               lambda p: "/".join(
+                   p.replace("\\", "/").split("/")[-3:-1])).items()
+          if not k.endswith("/seo")}
+    ok &= cohort("industry x county pages", ic)
     ok &= cohort("SEO x industry pages",
                  load(os.path.join("out", "industries", "*", "seo", "index.html"),
                       lambda p: os.path.basename(

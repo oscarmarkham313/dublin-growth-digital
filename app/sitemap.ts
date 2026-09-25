@@ -6,6 +6,7 @@ import { posts } from "@/config/posts";
 import { servicePages, isCountyIndexable } from "@/config/county-services";
 import { towns } from "@/config/towns";
 import { industrySeo } from "@/config/industry-seo";
+import { industryCounty } from "@/config/industry-county";
 import lastmod from "@/config/lastmod.json";
 
 export const dynamic = "force-static";
@@ -79,6 +80,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.9,
   }));
 
+  // Industry x county. Deliberately small: only combinations where the
+  // county genuinely changes the trade. Built because the two largest
+  // non-brand queries on the site are both roofing-in-Cork.
+  const industryCountyUrls: MetadataRoute.Sitemap = industryCounty.map((x) => ({
+    url: `${site.domain}/industries/${x.industry}/${x.county}/`,
+    lastModified: when(dateFor("industryCounty", `${x.industry}/${x.county}`), BUILT),
+    changeFrequency: "monthly",
+    priority: 0.9,
+  }));
+
   // Town pages — built from real query evidence (Naas earns ~40
   // impressions across nine queries with no page of its own).
   const townUrls: MetadataRoute.Sitemap = towns.map((t) => ({
@@ -113,6 +124,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...industryUrls,
     ...townUrls,
     ...industrySeoUrls,
+    ...industryCountyUrls,
     ...countyUrls,
     ...postUrls,
   ];

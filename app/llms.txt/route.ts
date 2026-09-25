@@ -5,6 +5,7 @@ import { posts } from "@/config/posts";
 import { servicePages } from "@/config/county-services";
 import { towns } from "@/config/towns";
 import { industrySeo } from "@/config/industry-seo";
+import { industryCounty } from "@/config/industry-county";
 import { isCountyIndexable } from "@/config/county-services";
 
 /**
@@ -85,6 +86,14 @@ ${servicePages
       p.description,
     ),
   )
+  .join("\n")}
+
+### Industry by county
+
+Where a county genuinely changes a trade — Atlantic weather for Cork and Galway roofers, Dublin click prices, Kildare's larger commuter gardens. Deliberately few of these.
+
+${industryCounty
+  .map((x) => line(`${x.industryLabel} in ${x.countyName}`, `${B}/industries/${x.industry}/${x.county}/`, x.description))
   .join("\n")}
 
 ### Towns
