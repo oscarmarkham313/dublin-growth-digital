@@ -152,6 +152,10 @@ def main():
     ok &= cohort("all industry / niche pages",
                  load(os.path.join("out", "industries", "*", "index.html"),
                       lambda p: os.path.basename(os.path.dirname(p))))
+    ok &= cohort("SEO x industry pages",
+                 load(os.path.join("out", "industries", "*", "seo", "index.html"),
+                      lambda p: os.path.basename(
+                          os.path.dirname(os.path.dirname(p)))))
     ok &= cohort("town pages",
                  load(os.path.join("out", "towns", "*", "index.html"),
                       lambda p: os.path.basename(os.path.dirname(p))))

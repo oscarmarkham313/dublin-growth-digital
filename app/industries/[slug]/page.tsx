@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { industries, industryBySlug } from "@/config/industries";
+import { industrySeoBySlug } from "@/config/industry-seo";
 import { counties } from "@/config/counties";
 import { posts } from "@/config/posts";
 import { site } from "@/config/copy";
@@ -45,6 +46,7 @@ export default async function IndustryPage({
   const ind = industryBySlug(slug);
   if (!ind) notFound();
 
+  const seoPage = industrySeoBySlug(ind.slug);
   const related = ind.related
     .map((s) => industryBySlug(s))
     .filter((x): x is NonNullable<typeof x> => Boolean(x));
@@ -308,6 +310,26 @@ export default async function IndustryPage({
           </div>
         </div>
       </section>
+
+      {/* SEO x industry page, where one exists. Built because
+          "landscaping seo ireland" earns impressions with no page. */}
+      {seoPage && (
+        <section className="border-t border-hairline bg-bg-alt py-14 md:py-16">
+          <div className="mx-auto max-w-container px-5 md:px-10">
+            <Link
+              href={`/industries/${ind.slug}/seo/`}
+              className="group flex flex-wrap items-baseline justify-between gap-x-8 gap-y-2 border-y border-hairline py-7 transition-colors hover:bg-ink md:py-8"
+            >
+              <span className="text-2xl font-extrabold tracking-display transition-colors group-hover:text-inverse md:text-3xl">
+                SEO for {seoPage.label}
+              </span>
+              <span className="max-w-xl text-sm leading-relaxed text-text-3 transition-colors group-hover:text-inverse/70">
+                {seoPage.description}
+              </span>
+            </Link>
+          </div>
+        </section>
+      )}
 
       {(related.length > 0 || relatedPosts.length > 0) && (
         <section className="border-t border-hairline bg-bg py-16 md:py-20">

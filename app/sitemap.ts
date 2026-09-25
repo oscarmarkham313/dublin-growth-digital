@@ -5,6 +5,7 @@ import { counties } from "@/config/counties";
 import { posts } from "@/config/posts";
 import { servicePages, isCountyIndexable } from "@/config/county-services";
 import { towns } from "@/config/towns";
+import { industrySeo } from "@/config/industry-seo";
 import lastmod from "@/config/lastmod.json";
 
 export const dynamic = "force-static";
@@ -67,6 +68,17 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.85,
     }));
 
+  // SEO x industry pages. Built because "landscaping seo ireland"
+  // already earns impressions with no page targeting it -- an
+  // industry-plus-SEO query, which every existing SEO page missed
+  // because they were all geographic.
+  const industrySeoUrls: MetadataRoute.Sitemap = industrySeo.map((i) => ({
+    url: `${site.domain}/industries/${i.slug}/seo/`,
+    lastModified: when(dateFor("industrySeo", i.slug), BUILT),
+    changeFrequency: "monthly",
+    priority: 0.9,
+  }));
+
   // Town pages — built from real query evidence (Naas earns ~40
   // impressions across nine queries with no page of its own).
   const townUrls: MetadataRoute.Sitemap = towns.map((t) => ({
@@ -100,6 +112,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...serviceUrls,
     ...industryUrls,
     ...townUrls,
+    ...industrySeoUrls,
     ...countyUrls,
     ...postUrls,
   ];
