@@ -810,6 +810,866 @@ export const industrySeo: IndustrySeo[] = [
       ...COMMON_FAQS,
     ],
   },
+  {
+    slug: "veterinary",
+    label: "veterinary practices",
+    title: "SEO for Vets Ireland | Veterinary Practice SEO",
+    description:
+      "SEO for Irish veterinary practices: out-of-hours searches made in a panic, species and condition pages, and a catchment smaller than you think.",
+    h1: "SEO for vets, written for a worried owner at midnight.",
+    intro: [
+      "A large share of the highest-intent veterinary searches happen out of hours by somebody frightened about an animal. They are searching a symptom and a time — 'emergency vet', 'vet open now', 'dog ate chocolate' — and they are not reading anything long.",
+      "The rest of the practice's search demand is entirely different: routine, planned, price-sensitive and comparison-driven. One website has to do both without confusing either.",
+    ],
+    sections: [
+    {
+      heading: "Out-of-hours is a map pack and a phone number",
+      body: [
+        "Somebody whose dog has been hit by a car does not read your about page. They want to know whether you are open, how far away you are and what the number is.",
+        "So the emergency side is profile work plus an unambiguous out-of-hours page that states the arrangement plainly — whether you cover it yourself, who you refer to, and what it costs. Vagueness there produces angry phone calls rather than bookings.",
+      ],
+    },
+    {
+      heading: "Species and condition pages, not service pages",
+      body: [
+        "Owners search what is wrong with their animal, not the name of the procedure. 'Cat not eating', 'lump on dog', 'rabbit vaccinations', 'horse dental'.",
+        "Each is a page. A practice with one 'Our Services' page ranks for almost none of it, and the condition pages also reduce time-wasting calls because people arrive better informed.",
+      ],
+      list: [
+        {
+          title: "Emergency and out-of-hours",
+          body: "Stated plainly: who covers it, when, and roughly what it costs. The single most searched thing a practice has.",
+        },
+        {
+          title: "Preventive care by species",
+          body: "Vaccination schedules, neutering, parasite control. Routine, predictable, and searched constantly.",
+        },
+        {
+          title: "Common presentations",
+          body: "Written in what the owner sees rather than in clinical terms.",
+        },
+        {
+          title: "Farm and equine, if you do it",
+          body: "A completely different audience that searches differently and should not share pages with small animal.",
+        },
+      ],
+    },
+    {
+      heading: "Your catchment is smaller than you think",
+      body: [
+        "People do not drive far with a distressed animal. Veterinary catchments are unusually tight, and ranking for a town twenty minutes away is worth considerably less than it looks.",
+        "That makes proximity and reviews do most of the work, and it makes a wide geographic content strategy largely wasted effort.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "What matters most for a vet practice?",
+        a: "Your Google profile, reviews and an unambiguous out-of-hours page. The highest-intent searches are made by frightened people who are not reading anything long.",
+      },
+      {
+        q: "Should we write about conditions?",
+        a: "Yes, in the words owners use rather than clinical terms. They search what they can see, not the name of the procedure.",
+      },
+      {
+        q: "How wide should we target?",
+        a: "Narrower than most practices assume. People do not travel far with a distressed animal, so proximity does most of the work.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "opticians",
+    label: "opticians",
+    title: "SEO for Opticians Ireland | Optician & Eyecare SEO",
+    description:
+      "SEO for Irish opticians: the PRSI eye test entitlement, retail and clinical intent pulling in different directions, and an ageing search audience.",
+    h1: "SEO for opticians, between a shop and a clinic.",
+    intro: [
+      "An optician is two businesses wearing one sign. The clinical side is eye tests, conditions and referrals. The retail side is frames, lenses and price, and the people searching for each want completely different pages.",
+      "The thing that links them commercially is the PRSI treatment benefit, which entitles a great many people to a free eye test and which most of them do not know they have.",
+    ],
+    sections: [
+    {
+      heading: "The PRSI entitlement is the best entry point you have",
+      body: [
+        "A large share of the working and retired population is entitled to a free eye test under PRSI treatment benefit. It is searched, it is misunderstood, and it is explained badly almost everywhere.",
+        "A page that sets out who qualifies, what it covers and how to check is genuinely useful, ranks well because so little good content exists, and brings in people who had been putting off an appointment on cost grounds.",
+      ],
+    },
+    {
+      heading: "Clinical and retail need separate pages",
+      body: [
+        "Somebody searching 'dry eye treatment' and somebody searching 'cheap glasses Dublin' are not the same customer and should not land on the same page.",
+        "Clinical content builds authority and brings in the higher-value appointments. Retail content competes on price and range with chains that will outspend you. Both are worth having; blending them serves neither.",
+      ],
+      list: [
+        {
+          title: "Eye test and PRSI entitlement",
+          body: "The highest-volume, most misunderstood search in the category.",
+        },
+        {
+          title: "Conditions and symptoms",
+          body: "Dry eye, floaters, glaucoma screening, diabetic retinopathy. Clinical intent, higher value.",
+        },
+        {
+          title: "Frames, lenses and price",
+          body: "Retail intent. Comparison-driven and competing with chains.",
+        },
+        {
+          title: "Children's eyecare",
+          body: "Searched by parents specifically and rarely written for.",
+        },
+        {
+          title: "Contact lens aftercare",
+          body: "Recurring revenue, and the searches are practical rather than price-led.",
+        },
+      ],
+    },
+    {
+      heading: "An older audience searches differently",
+      body: [
+        "The demographic weight in this category skews older than most, which means more search and less social, more reading before deciding, and considerably less tolerance for a slow or confusing website.",
+        "Practical clarity — where you are, when you are open, what a test costs, how to book — matters more here than design does.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "What is the best content for an optician?",
+        a: "The PRSI eye test entitlement. It is heavily searched, widely misunderstood and explained badly almost everywhere, and it brings in people who were delaying on cost.",
+      },
+      {
+        q: "Should clinical and retail share pages?",
+        a: "No. Somebody searching dry eye treatment and somebody searching cheap glasses are different customers with different value.",
+      },
+      {
+        q: "Does the older audience change anything?",
+        a: "Yes. More search than social, more reading before deciding, and far less patience with a slow site.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "driving-schools",
+    label: "driving schools",
+    title: "SEO for Driving Schools Ireland | Driving Instructor SEO",
+    description:
+      "SEO for Irish driving schools: EDT, test centre catchments, pass rates and an audience that searches for about eight weeks and then disappears.",
+    h1: "SEO for driving schools, around EDT and a test centre.",
+    intro: [
+      "Learner drivers in Ireland have a mandatory twelve-lesson EDT structure, which means the search is not 'driving lessons' in the abstract — it is EDT, price per lesson, and how quickly somebody can get a test.",
+      "It is also a short-lived audience. A learner searches intensively for a few weeks, books, and never searches again. There is no repeat customer and no loyalty to build on.",
+    ],
+    sections: [
+    {
+      heading: "Test centres define the catchment, not towns",
+      body: [
+        "Learners choose an instructor near the test centre they are booked into, not near their house, because familiarity with the routes matters to them.",
+        "That makes test centre pages the single most under-used content in this category. A page about a specific centre — the routes, the common failure points, the waiting times — is highly searched and almost never written.",
+      ],
+    },
+    {
+      heading: "EDT, pricing and availability are the whole search",
+      body: [
+        "The three questions are what the twelve lessons cost, whether you have availability, and how soon somebody could sit a test.",
+        "Answering all three plainly on the page converts far better than any amount of copy about patient, friendly instruction — which every competitor also claims.",
+      ],
+      list: [
+        {
+          title: "EDT explained",
+          body: "What the twelve lessons cover and why they are mandatory. Searched constantly by first-time learners and their parents.",
+        },
+        {
+          title: "Price per lesson and for a block",
+          body: "The most filtered-on figure in the category.",
+        },
+        {
+          title: "Test centre pages",
+          body: "Routes, common faults, waiting times. Highly searched, almost never written.",
+        },
+        {
+          title: "Pretest and mock test",
+          body: "A separate, higher-intent service searched by people close to a date.",
+        },
+        {
+          title: "Automatic tuition",
+          body: "A distinct and growing search with far less competition than manual.",
+        },
+      ],
+    },
+    {
+      heading: "Parents are half the audience",
+      body: [
+        "A significant share of enquiries for teenage learners are made or paid for by a parent, who is looking for safety, patience and reliability rather than speed.",
+        "Writing for both — the learner who wants a test date and the parent who wants reassurance — is straightforward once you know to do it, and almost nobody does.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "What should a driving school write about?",
+        a: "Test centres. The routes, common failure points and waiting times at a specific centre are heavily searched and almost nobody writes them.",
+      },
+      {
+        q: "Should we publish prices?",
+        a: "Yes. Price per lesson and for the EDT block is the most filtered-on figure in the category and hiding it loses bookings.",
+      },
+      {
+        q: "Who are we actually writing for?",
+        a: "Often a parent as much as the learner. They want reassurance; the learner wants a test date. Both belong on the page.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "funeral-directors",
+    label: "funeral directors",
+    title: "SEO for Funeral Directors Ireland | Funeral Home SEO",
+    description:
+      "SEO for Irish funeral directors: searched at three in the morning by somebody in shock, and a category where restraint is the strategy.",
+    h1: "SEO for funeral directors, handled with restraint.",
+    intro: [
+      "Funeral search happens at the worst moment of somebody's life, frequently in the middle of the night, and frequently by a family member who has never arranged anything like it before.",
+      "That changes what good looks like entirely. The job is to be findable, clear and calm. Anything that reads as marketing will cost you the call, and a good deal of standard SEO practice is inappropriate here.",
+    ],
+    sections: [
+    {
+      heading: "What we will not do in this category",
+      body: [
+        "No retargeting of people who visited the site. No audiences built from bereavement signals. No urgency or scarcity language. No review-request automation timed to a funeral.",
+        "All of it is technically available and some agencies use it. It is intrusive, it damages the relationships with hospitals, nursing homes and clergy that actually carry this trade, and we will not set it up.",
+      ],
+    },
+    {
+      heading: "Practical information is the whole content strategy",
+      body: [
+        "Families search process questions at three in the morning: what to do when someone dies at home, how to register a death, what a funeral costs, how long it takes to arrange.",
+        "Answering those plainly and completely is genuinely useful at the worst possible time, and it is the content that earns the call. It also happens to be the most searched material in the category and almost nobody publishes it properly.",
+      ],
+      list: [
+        {
+          title: "What to do when someone dies",
+          body: "At home, in hospital, in a nursing home. Different processes, all searched, rarely written.",
+        },
+        {
+          title: "Costs, stated openly",
+          body: "Families are afraid to ask and afraid of being taken advantage of. A clear price list is a kindness that also converts.",
+        },
+        {
+          title: "Registering a death",
+          body: "Practical, procedural, and reliably searched.",
+        },
+        {
+          title: "Repatriation",
+          body: "For families abroad. A specific, high-value search with very little competition.",
+        },
+        {
+          title: "Service options",
+          body: "Burial, cremation, humanist, religious. Explained without pressure.",
+        },
+      ],
+    },
+    {
+      heading: "Proximity decides almost everything",
+      body: [
+        "Families use a funeral director close to home or close to the church, and they choose in hours rather than days. The map result is the business.",
+        "Which means the Google profile, accurate hours, and a phone answered at any time matter more than anything on the website. The website's job is to reassure the person who has already found you.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "Is SEO appropriate for a funeral director?",
+        a: "Being findable and clear is. Pursuing people is not. We do not retarget, we do not build audiences from bereavement signals and we do not use urgency language.",
+      },
+      {
+        q: "What content actually helps?",
+        a: "Practical process information — what to do when someone dies, how to register a death, what it costs. Searched at three in the morning and rarely written properly.",
+      },
+      {
+        q: "Should we publish prices?",
+        a: "Yes. Families are afraid to ask and afraid of being taken advantage of. Openness is both decent and effective.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "wedding-venues",
+    label: "wedding venues",
+    title: "SEO for Wedding Venues Ireland | Venue SEO",
+    description:
+      "SEO for Irish wedding venues: an eighteen-month booking window, image-led search, and couples who filter on capacity and date before anything else.",
+    h1: "SEO for wedding venues, eighteen months ahead.",
+    intro: [
+      "Couples book venues twelve to eighteen months out, and the search happens in a concentrated burst after Christmas and New Year when most engagements occur.",
+      "It is also one of the most visual searches there is. Couples browse images, shortlist five venues, and only then read anything — which means your photographs are doing the ranking and the converting before a word is read.",
+    ],
+    sections: [
+    {
+      heading: "Capacity and date are the first filters",
+      body: [
+        "Before style, before price, before location, a couple filters on whether you can hold their number on their date. A venue that makes either hard to find loses the shortlist place immediately.",
+        "Capacity ranges, available dates and a clear enquiry route belong high on the page. It is unglamorous and it is what couples are actually doing.",
+      ],
+    },
+    {
+      heading: "Real weddings are your best pages",
+      body: [
+        "A page about a specific wedding — the couple's numbers, the layout used, the season, the photographs — ranks for far more long-tail searches than a generic venue page, and converts far better because couples can picture themselves in it.",
+        "It is also the content most venues have sitting in a folder and never publish.",
+      ],
+      list: [
+        {
+          title: "Real wedding pages",
+          body: "One per wedding, with season, numbers and photographs. The highest-return content in this category.",
+        },
+        {
+          title: "Capacity and layout detail",
+          body: "Seated, standing, ceremony on site or not. The first filter couples apply.",
+        },
+        {
+          title: "Pricing structure",
+          body: "Even a from-price. Couples filter hard and hiding it loses shortlist places.",
+        },
+        {
+          title: "Accommodation and logistics",
+          body: "Rooms, transport, nearby options. A practical concern that decides bookings.",
+        },
+        {
+          title: "Off-peak and midweek",
+          body: "A separate, under-served search made by couples specifically looking for value.",
+        },
+      ],
+    },
+    {
+      heading: "The season is the search, not the wedding",
+      body: [
+        "Your ranking needs to be in place for January, not for the summer when the weddings actually happen.",
+        "That means the work is done in autumn. A venue starting to think about search in May has missed the enquiry season by four months.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "When should a venue do this work?",
+        a: "Autumn, for January. Engagements cluster around Christmas and the enquiry burst follows immediately, while rankings take months.",
+      },
+      {
+        q: "What is the best content?",
+        a: "Real wedding pages — one per wedding, with numbers, season and photographs. Most venues have this material and never publish it.",
+      },
+      {
+        q: "Should we publish prices?",
+        a: "A from-price at minimum. Couples filter hard on budget and hiding it costs you shortlist places.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "hotels-and-guesthouses",
+    label: "hotels and guesthouses",
+    title: "SEO for Hotels Ireland | Hotel & Guesthouse SEO",
+    description:
+      "SEO for Irish hotels and guesthouses: winning direct bookings back from the OTAs that are bidding on your own name.",
+    h1: "SEO for hotels, taking bookings back from the OTAs.",
+    intro: [
+      "Booking.com and its competitors will out-rank you for almost every generic search, and they are frequently bidding on your own hotel name as well. That is the commercial reality and no amount of optimisation reverses it.",
+      "What is winnable is direct booking: the guest who already knows your name, or who is searching something specific enough that the OTAs have not built a page for it.",
+    ],
+    sections: [
+    {
+      heading: "Your own name is the battleground",
+      body: [
+        "The highest-value search you have is your hotel name, made by somebody who has already decided. Every one of those bookings taken by an OTA costs you commission on a guest you had already won.",
+        "Ranking first for your own name, with a direct booking route that is obviously better — best rate, free cancellation, room choice — is the single highest-return piece of work available to a hotel.",
+      ],
+    },
+    {
+      heading: "Specific beats generic, always",
+      body: [
+        "You will not beat Booking.com for 'hotels in Galway'. You can beat them for 'dog friendly hotel Connemara', 'hotel with EV charger Killarney', 'family room Dingle three nights'.",
+        "Those searches are specific, high-intent and unprofitable for an OTA to target individually. They are the long tail that belongs to independent properties.",
+      ],
+      list: [
+        {
+          title: "Facility and need pages",
+          body: "Dog friendly, accessible rooms, EV charging, family rooms, sea view. Specific and under-served.",
+        },
+        {
+          title: "Local guide content",
+          body: "What to do nearby, written properly. Ranks for planning searches months before a booking.",
+        },
+        {
+          title: "Event and occasion pages",
+          body: "Weddings, communions, golf, walking. High value and searched distinctly.",
+        },
+        {
+          title: "Direct booking incentive",
+          body: "Stated plainly on every page. The whole point of the exercise.",
+        },
+        {
+          title: "Accurate profile and photographs",
+          body: "Because a good share of guests decide from the Google listing without opening the site.",
+        },
+      ],
+    },
+    {
+      heading: "Reviews feed more than the map",
+      body: [
+        "Hotel reviews are aggregated and displayed across Google, the OTAs and travel sites, and they move both ranking and conversion at once.",
+        "Answering them — all of them, in a real voice — is visible work that affects revenue more directly here than in almost any other category.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "Can we beat Booking.com?",
+        a: "For generic searches, no. For specific ones — dog friendly, EV charging, family rooms, accessible — yes, and those are unprofitable for an OTA to target individually.",
+      },
+      {
+        q: "What is the highest-return work?",
+        a: "Ranking first for your own hotel name with an obviously better direct booking route. Every one of those taken by an OTA is commission on a guest you had already won.",
+      },
+      {
+        q: "Do reviews matter more here?",
+        a: "They move ranking and conversion simultaneously and are displayed across Google and the OTAs at once. Answer all of them.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "creches",
+    label: "creches and childcare",
+    title: "SEO for Creches Ireland | Childcare & Montessori SEO",
+    description:
+      "SEO for Irish creches and childcare: the National Childcare Scheme, waiting lists, Tusla registration and a catchment of about ten minutes.",
+    h1: "SEO for creches, in a catchment the size of a commute.",
+    intro: [
+      "Childcare catchments are tiny. Parents choose somewhere on the way to work or a few minutes from home, which means your realistic market is a handful of estates rather than a town, and certainly not a county.",
+      "Within that small area, the decision is made with more care than almost any other purchase a family makes, and it is made largely on trust signals that have to be visible before anybody rings.",
+    ],
+    sections: [
+    {
+      heading: "The NCS is the most searched thing you have",
+      body: [
+        "The National Childcare Scheme is heavily searched, widely misunderstood, and explained badly nearly everywhere. Parents want to know what they are entitled to, how it is calculated and what it means for their weekly fee.",
+        "A page that sets that out clearly, with your actual fees before and after, ranks well and does an enormous amount of the selling before a parent makes contact.",
+      ],
+    },
+    {
+      heading: "Trust signals belong above the fold",
+      body: [
+        "Tusla registration, ratios, qualifications, inspection reports and how long staff have been there. Parents look for these first and most websites bury them.",
+        "Being explicit is not a compliance exercise here — it is the main thing a parent is trying to establish, and saying it plainly beats any amount of warm language about nurturing environments.",
+      ],
+      list: [
+        {
+          title: "Fees, and NCS applied",
+          body: "What a week actually costs before and after the subsidy. The single most searched question.",
+        },
+        {
+          title: "Tusla registration and ratios",
+          body: "Stated plainly and high on the page.",
+        },
+        {
+          title: "Waiting list, honestly",
+          body: "If you are full, say so and capture the list. Most creches let that traffic go entirely.",
+        },
+        {
+          title: "Age group pages",
+          body: "Baby room, wobblers, toddlers, Montessori, ECCE, afterschool. Searched separately.",
+        },
+        {
+          title: "The day, described",
+          body: "Routines, meals, outdoor time. What parents actually want to picture.",
+        },
+      ],
+    },
+    {
+      heading: "Being full is not a reason to stop",
+      body: [
+        "Most creches stop caring about search when they have a waiting list, then start again in a panic when places open.",
+        "Capturing the waiting list continuously is the whole game. Those enquiries cost nothing to collect and they fill next September without any advertising at all.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "How wide should we target?",
+        a: "Much narrower than you think. Childcare catchments are about ten minutes — a few estates, not a town.",
+      },
+      {
+        q: "What is the most valuable page?",
+        a: "Fees with the National Childcare Scheme applied. It is heavily searched, widely misunderstood and explained badly nearly everywhere.",
+      },
+      {
+        q: "Should we bother if we are full?",
+        a: "Yes — capture the waiting list continuously. It fills next September without any advertising, and most creches let that traffic go.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "home-care",
+    label: "home care providers",
+    title: "SEO for Home Care Ireland | Home Care Provider SEO",
+    description:
+      "SEO for Irish home care providers: the adult child is searching, not the client, and the language that works is nothing like care-sector marketing.",
+    h1: "SEO for home care, written for the daughter making the call.",
+    intro: [
+      "The person searching for home care is almost never the person who will receive it. It is an adult child, frequently living elsewhere, frequently after a hospital discharge or a fall, and usually feeling guilty.",
+      "Almost all home care marketing is written for the client. Writing for the person actually searching is the single biggest change available in this category and very few providers have made it.",
+    ],
+    sections: [
+    {
+      heading: "Write for the adult child",
+      body: [
+        "They are searching practical, anxious, specific things: how much home care costs, whether the HSE will fund any of it, how quickly someone can start, what happens if it is not enough.",
+        "They are not searching for compassionate person-centred care, which is what nearly every competitor's homepage says. Answering the practical questions plainly outperforms warmth every time, because warmth is assumed and cost is not.",
+      ],
+    },
+    {
+      heading: "Funding is the question everybody has",
+      body: [
+        "What the HSE provides, what the Fair Deal scheme covers and does not, what private care costs per hour, and how the two fit together.",
+        "It is complicated, it is searched constantly and it is explained badly. A provider who sets it out clearly — including when the HSE option is the better one — earns a level of trust that no amount of testimonial copy achieves.",
+      ],
+      list: [
+        {
+          title: "Hourly and weekly costs",
+          body: "Stated openly. Families are budgeting and cannot plan against 'contact us'.",
+        },
+        {
+          title: "HSE, Fair Deal and private",
+          body: "How they interact. Genuinely useful and almost nobody writes it.",
+        },
+        {
+          title: "After a hospital discharge",
+          body: "A specific, urgent, high-intent search with a hard deadline.",
+        },
+        {
+          title: "Dementia and condition-specific care",
+          body: "Searched distinctly and reassuring to find.",
+        },
+        {
+          title: "How quickly you can start",
+          body: "The second question every family asks after cost.",
+        },
+      ],
+    },
+    {
+      heading: "Restraint matters here too",
+      body: [
+        "We do not retarget people who looked at home care, and we do not build audiences from health or caregiving signals.",
+        "Beyond being inappropriate it fails commercially — a family already feeling guilty about a parent does not respond well to being followed around the internet about it.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "Who is actually searching?",
+        a: "Almost always an adult child, not the person needing care. Writing for them rather than for the client is the biggest change available in this category.",
+      },
+      {
+        q: "What content works?",
+        a: "Cost and funding — hourly rates, what the HSE covers, how Fair Deal interacts with private care. Complicated, heavily searched and explained badly nearly everywhere.",
+      },
+      {
+        q: "Do you retarget in this category?",
+        a: "No. We do not follow families around the internet about a parent's care, and it fails commercially as well as ethically.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "med-spas",
+    label: "med spas and aesthetic clinics",
+    title: "SEO for Med Spas Ireland | Aesthetic Clinic SEO",
+    description:
+      "SEO for Irish med spas and aesthetic clinics, inside the rules: prescription-only treatments cannot be advertised to the public, and that changes everything.",
+    h1: "SEO for med spas, inside rules most agencies ignore.",
+    intro: [
+      "In Ireland, prescription-only medicines cannot be advertised to the public. That covers botulinum toxin and a range of other treatments a med spa would most like to promote, and it is not a grey area.",
+      "A great deal of what agencies propose to aesthetic clinics — naming those treatments in ads, in page titles, in meta descriptions — is not available here. Working properly inside the rules is both safer and, done well, a genuine advantage.",
+    ],
+    sections: [
+    {
+      heading: "What cannot be advertised, and what can",
+      body: [
+        "Prescription-only treatments cannot be promoted to the public by name. What can be published is educational information about concerns, consultations, non-prescription treatments and the clinic itself.",
+        "In practice that means building around the concern rather than the product — lines and wrinkles, skin texture, pigmentation, acne scarring — and around the consultation as the entry point. It ranks perfectly well and it does not put a clinic at risk.",
+      ],
+      list: [
+        {
+          title: "Concern-led pages",
+          body: "What the patient sees in the mirror, not what is in the syringe.",
+        },
+        {
+          title: "Consultation as the offer",
+          body: "The compliant, and genuinely better, entry point.",
+        },
+        {
+          title: "Non-prescription treatments",
+          body: "Peels, microneedling, laser, skincare. Freely promotable and heavily searched.",
+        },
+        {
+          title: "Practitioner credentials",
+          body: "Who is doing it and what they are qualified in. A real differentiator in a category with a trust problem.",
+        },
+        {
+          title: "Aftercare and realistic outcomes",
+          body: "Builds trust and reduces the complaints that come from oversold expectations.",
+        },
+      ],
+    },
+    {
+      heading: "The category has a trust problem you can use",
+      body: [
+        "Aesthetic treatment carries genuine public anxiety about who is holding the needle, and plenty of the market does nothing to address it.",
+        "A clinic that is explicit about qualifications, consultation process, what can go wrong and who to contact if it does will stand out sharply — and that content ranks, because almost nobody writes it.",
+      ],
+    },
+    {
+      heading: "Before-and-after images need care",
+      body: [
+        "Images are powerful in this category and they carry both advertising-standards and patient-consent obligations.",
+        "We will use them where consent is properly documented and the presentation is not misleading, and we will say no where it is not. It is not worth a complaint to the clinic's regulator over a photograph.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "Can we advertise botulinum toxin treatments?",
+        a: "Not to the public. Prescription-only medicines cannot be advertised to the public in Ireland, and that includes naming them in page titles and meta descriptions.",
+      },
+      {
+        q: "So what can we publish?",
+        a: "Concern-led content — lines, texture, pigmentation, scarring — plus consultations, non-prescription treatments and practitioner credentials. It ranks well and it does not put the clinic at risk.",
+      },
+      {
+        q: "What about before-and-after photographs?",
+        a: "Where consent is properly documented and the presentation is not misleading. We will say no where it is not — it is not worth a regulatory complaint.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "electricians",
+    label: "electricians",
+    title: "SEO for Electricians Ireland | Electrical Contractor SEO",
+    description:
+      "SEO for Irish electricians: emergency call-outs, EV charger grant searches and the certification questions that decide who gets the job.",
+    h1: "SEO for electricians, from fault-finding to EV chargers.",
+    intro: [
+      "Electrical search splits three ways and the three have almost nothing in common. Emergencies are decided in minutes. Rewires and upgrades are researched for weeks. EV charger installation is driven almost entirely by a grant and a car delivery date.",
+      "Most electrician websites are built for the first and ignore the other two, which is where the better-paid work actually is.",
+    ],
+    sections: [
+    {
+      heading: "Safe Electric registration is a ranking and conversion asset",
+      body: [
+        "Registration is searched for directly, it is required for grant work, and it is the first thing a careful customer checks.",
+        "Stating it plainly, with the registration number, on every relevant page does two things: it satisfies the search and it removes the doubt that stops people ringing. Very few electricians put it anywhere visible.",
+      ],
+    },
+    {
+      heading: "EV chargers are a separate business with a separate calendar",
+      body: [
+        "The searches are about the SEAI grant, eligibility, what is included and how long the install takes, and they are made by somebody waiting on a car with a delivery date.",
+        "That is a planned, time-boxed, grant-driven purchase and it deserves its own pages. Bundled into a general electrical services page it ranks for nothing.",
+      ],
+      list: [
+        {
+          title: "Emergency and fault finding",
+          body: "Map pack work. Proximity, reviews, answered phone.",
+        },
+        {
+          title: "EV charger and SEAI grant",
+          body: "Eligibility, cost, what you handle. Heavily searched and poorly served.",
+        },
+        {
+          title: "Rewires and consumer units",
+          body: "Planned, higher value, researched. Content genuinely decides these.",
+        },
+        {
+          title: "Certification and compliance",
+          body: "Completion certs, landlord reports, commercial periodic inspection. Searched by a different, more valuable customer.",
+        },
+        {
+          title: "Commercial and landlord work",
+          body: "Recurring and contract-based. Different search behaviour entirely.",
+        },
+      ],
+    },
+    {
+      heading: "Landlord and commercial searches are under-served",
+      body: [
+        "Letting agents and landlords search for certification, periodic inspection and compliance work with real urgency and real budgets, and almost no residential electrician writes for them.",
+        "It is recurring, it is scheduled rather than emergency, and it is the closest thing to predictable revenue in the trade.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "What should be on every page?",
+        a: "Your Safe Electric registration and number. It is searched directly, required for grant work, and it removes the doubt that stops people ringing.",
+      },
+      {
+        q: "Are EV chargers worth separate pages?",
+        a: "Yes. It is a grant-driven, time-boxed purchase with its own searches, and bundled into a general services page it ranks for nothing.",
+      },
+      {
+        q: "What is the most under-served work?",
+        a: "Landlord and commercial certification. Urgent, budgeted, recurring, and almost no residential electrician writes for it.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "kitchens",
+    label: "kitchen companies",
+    title: "SEO for Kitchen Companies Ireland | Kitchen Showroom SEO",
+    description:
+      "SEO for Irish kitchen companies: a six-month consideration, image-led search, and a price question everybody asks and nobody answers.",
+    h1: "SEO for kitchen companies, over a six-month decision.",
+    intro: [
+      "A kitchen is imagined for months before anybody walks into a showroom. People browse images, save styles, work out roughly what it costs and only then make contact — by which point they have usually decided who they trust.",
+      "That makes this one of the few trades where content genuinely determines who gets the enquiry, because the decision is made largely before any conversation happens.",
+    ],
+    sections: [
+    {
+      heading: "Answer the price question",
+      body: [
+        "'How much does a new kitchen cost in Ireland' is the most searched question in the category by a distance, and nearly every kitchen company refuses to answer it.",
+        "A page giving real ranges — a small kitchen, a typical family kitchen, a large one, with what moves the price — will out-rank and out-convert competitors who say 'every kitchen is bespoke'. It also stops you quoting for people whose budget was never going to reach.",
+      ],
+    },
+    {
+      heading: "Style and material pages catch the browsing months",
+      body: [
+        "People search shaker, handleless, in-frame, quartz versus granite, painted versus vinyl wrap, island sizes. These are the searches made during the six months of imagining.",
+        "Being present for them is how you become the company they were already thinking of when they finally decide to ring somebody.",
+      ],
+      list: [
+        {
+          title: "Cost guidance, with real ranges",
+          body: "The most searched and least answered question in the trade.",
+        },
+        {
+          title: "Style pages",
+          body: "Shaker, handleless, in-frame, modern. Searched heavily during the browsing phase.",
+        },
+        {
+          title: "Material comparisons",
+          body: "Worktops, doors, carcasses. Practical and decision-shaping.",
+        },
+        {
+          title: "Completed kitchen pages",
+          body: "One per project, with the town, the style, the layout and the budget band.",
+        },
+        {
+          title: "Process and timeline",
+          body: "Survey to install. Reduces anxiety and reduces time-wasting enquiries.",
+        },
+      ],
+    },
+    {
+      heading: "Your installed kitchens are the ranking asset",
+      body: [
+        "A page per completed kitchen — photographs, town, style, layout, rough budget — ranks for far more than a gallery, and converts far better because somebody recognises a kitchen like the one they are picturing.",
+        "Most kitchen companies have hundreds of these photographs and publish them as an undifferentiated grid.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "Should we publish kitchen prices?",
+        a: "Real ranges, yes. It is the most searched question in the category, almost nobody answers it, and it stops you quoting for budgets that were never going to reach.",
+      },
+      {
+        q: "What content works during the browsing phase?",
+        a: "Style and material pages — shaker, handleless, quartz versus granite. That is what people search during the months before they contact anybody.",
+      },
+      {
+        q: "How should we present completed kitchens?",
+        a: "One page per kitchen with town, style, layout and budget band. A single gallery ranks for almost nothing.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "heat-pumps",
+    label: "heat pump installers",
+    title: "SEO for Heat Pump Installers Ireland | Heat Pump SEO",
+    description:
+      "SEO for Irish heat pump installers: grant eligibility, the BER requirement and honest suitability content that stops wasted surveys.",
+    h1: "SEO for heat pump installers, around eligibility and doubt.",
+    intro: [
+      "Heat pump search in Ireland is dominated by grant questions and by one underlying doubt: will this actually work in my house. Almost every search in the category is a version of one of those.",
+      "It is also the trade where unsuitable enquiries cost the most, because a survey on a house that will never qualify is a wasted day. Content that filters honestly is worth more here than content that sells.",
+    ],
+    sections: [
+    {
+      heading: "The BER requirement is the filter everybody trips over",
+      body: [
+        "Grant support for heat pumps carries a building energy rating requirement, which a great many older Irish houses do not meet without fabric upgrades first.",
+        "Explaining that clearly — including that some houses need insulation and glazing before a heat pump makes sense — prevents surveys that were never going to convert, and it earns trust from the homeowners who do qualify.",
+      ],
+    },
+    {
+      heading: "Say when it is a bad idea",
+      body: [
+        "A poorly insulated house, a household away all day, an oversized system, an unrealistic expectation about running costs. These are the reasons heat pump installations disappoint, and they are all foreseeable.",
+        "An installer who publishes that honestly stands out sharply in a category where most marketing is enthusiastic, and attracts customers whose expectations match what will actually happen.",
+      ],
+      list: [
+        {
+          title: "Grant eligibility and the BER requirement",
+          body: "The most searched thing in the category and the most common disqualifier.",
+        },
+        {
+          title: "Running cost comparisons",
+          body: "Against oil and gas, with real assumptions stated so a reader can check them.",
+        },
+        {
+          title: "Suitability by house type",
+          body: "1970s semi, new build, bungalow, period house. Concrete and genuinely useful.",
+        },
+        {
+          title: "The technical assessment",
+          body: "What it involves and what it costs. Demystifies the first step.",
+        },
+        {
+          title: "Fabric upgrades first",
+          body: "When insulation and glazing should come before the heat pump. The most trust-building page you can publish.",
+        },
+      ],
+    },
+    {
+      heading: "Long research means be present early",
+      body: [
+        "Somebody installing in summer started reading in winter. If you are only visible to people ready to buy, you are arriving at the end of a conversation they have been having with a competitor's website.",
+        "This is one of the few trades where informational content genuinely wins the job rather than merely attracting traffic.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "What do people actually search?",
+        a: "Grant eligibility and whether a heat pump will work in their house. Nearly every search in the category is a version of one of those two.",
+      },
+      {
+        q: "Should we publish when it is a bad idea?",
+        a: "Yes. It prevents surveys on houses that will never qualify, and it stands out sharply in a category where most marketing is enthusiastic.",
+      },
+      {
+        q: "Why does content matter so much here?",
+        a: "Because the decision takes months. The installer whose pages did the educating usually gets the assessment.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
 ];
 
 export const industrySeoBySlug = (slug: string) =>
