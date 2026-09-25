@@ -3,6 +3,8 @@ import { industries } from "@/config/industries";
 import { counties } from "@/config/counties";
 import { posts } from "@/config/posts";
 import { servicePages } from "@/config/county-services";
+import { towns } from "@/config/towns";
+import { industrySeo } from "@/config/industry-seo";
 import { isCountyIndexable } from "@/config/county-services";
 
 /**
@@ -52,6 +54,14 @@ ${industries
   .map((i) => line(i.label, `${B}/industries/${i.slug}/`, i.description))
   .join("\n")}
 
+### SEO by industry
+
+How search differs by trade. An emergency plumber lives on the map pack; an estate agent competes with Daft rather than with other agents; a restaurant's Google profile is effectively its website.
+
+${industrySeo
+  .map((i) => line(`SEO for ${i.label}`, `${B}/industries/${i.slug}/seo/`, i.description))
+  .join("\n")}
+
 ## Locations
 
 ${counties
@@ -75,6 +85,14 @@ ${servicePages
       p.description,
     ),
   )
+  .join("\n")}
+
+### Towns
+
+Town-level pages, because a business in Naas is not competing with one in Athy and a county page cannot say both things at once.
+
+${towns
+  .map((t) => line(`${t.name}, Co. ${t.county}`, `${B}/towns/${t.slug}/`, t.description))
   .join("\n")}
 
 ## Guides
