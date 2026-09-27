@@ -1670,6 +1670,870 @@ export const industrySeo: IndustrySeo[] = [
       ...COMMON_FAQS,
     ],
   },
+  {
+    slug: "mortgage-brokers",
+    label: "mortgage brokers",
+    title: "SEO for Mortgage Brokers Ireland | Broker SEO",
+    description:
+      "SEO for Irish mortgage brokers inside the Central Bank advertising rules: first-time buyer content, approval questions and lender comparison.",
+    h1: "SEO for mortgage brokers, inside the rules.",
+    intro: [
+      "Mortgage search in Ireland is dominated by one audience with one question: a first-time buyer trying to work out what they can borrow and whether they will be approved.",
+      "It is also a regulated activity. The Central Bank sets requirements for how regulated firms advertise, including warning statements and restrictions on how products can be presented, and a good deal of standard SEO advice would put a broker in breach of them.",
+    ],
+    sections: [
+    {
+      heading: "Write for the first-time buyer, because that is who is searching",
+      body: [
+        "How much can I borrow, what deposit do I need, what is approval in principle, how long does it take, what happens if I am self-employed, what is the Help to Buy scheme.",
+        "Those questions carry most of the search volume in this category and almost every broker site answers none of them, preferring to describe the firm. Answering them properly is both the ranking opportunity and the trust-building exercise.",
+      ],
+      list: [
+        {
+          title: "Approval in principle explained",
+          body: "What it is, what it is not, and how long it lasts. The single most misunderstood step.",
+        },
+        {
+          title: "Deposit and lending rules",
+          body: "Loan-to-income and loan-to-value limits in plain language, with exemptions explained.",
+        },
+        {
+          title: "Self-employed and contractor applications",
+          body: "Specific, high-value and rarely written for.",
+        },
+        {
+          title: "Help to Buy and first home schemes",
+          body: "Heavily searched, frequently misunderstood.",
+        },
+        {
+          title: "Switching",
+          body: "A separate audience entirely, with different motivation and different timing.",
+        },
+      ],
+    },
+    {
+      heading: "The compliance constraints are real",
+      body: [
+        "Advertising by a regulated firm carries obligations: warning statements where required, no misleading impressions of cost or availability, and care with anything that could be read as a promise about approval.",
+        "We write to what can be stood over and we will say no to anything that cannot. Beyond the regulatory exposure, careful wording reads as more credible in a category where overclaiming is common.",
+      ],
+    },
+    {
+      heading: "Switching is the under-served half",
+      body: [
+        "Most broker content aims at purchase. A large and growing audience is already a homeowner and is searching whether switching is worth it, what it costs and how long it takes.",
+        "That work is faster to complete, less emotionally fraught and almost uncontested in search.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "What should a broker publish?",
+        a: "The first-time buyer questions: borrowing capacity, deposit, approval in principle, self-employed applications, Help to Buy. Most broker sites answer none of them.",
+      },
+      {
+        q: "Are there advertising rules?",
+        a: "Yes. The Central Bank sets requirements for regulated firms, including warning statements and restrictions on how products are presented. We write inside them and will say no where something cannot be stood over.",
+      },
+      {
+        q: "Is switching worth targeting?",
+        a: "It is the under-served half of the market — faster to complete, less fraught and almost uncontested in search.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "insurance-brokers",
+    label: "insurance brokers",
+    title: "SEO for Insurance Brokers Ireland | Broker SEO",
+    description:
+      "SEO for Irish insurance brokers: you will not out-rank the comparison sites, so compete where advice matters and comparison engines cannot follow.",
+    h1: "SEO for insurance brokers, where comparison sites cannot go.",
+    intro: [
+      "Comparison sites own generic insurance search in Ireland and a broker will not displace them. Motor, home and travel quotes are their ground and the spend behind them is not matchable.",
+      "What they cannot do is advise. Anything requiring judgement — unusual risks, commercial cover, non-standard construction, a claims history — is where a broker wins, and comparison engines do not compete there at all.",
+    ],
+    sections: [
+    {
+      heading: "Target the risks a comparison engine cannot quote",
+      body: [
+        "Thatched roofs, holiday homes, unoccupied property, listed buildings, high-value contents, taxi and haulage, tradesman liability, professional indemnity, farm cover.",
+        "Each is a specific search made by somebody who has already been declined or confused by a comparison site. The volume is modest and the intent is extremely high.",
+      ],
+      list: [
+        {
+          title: "Non-standard home insurance",
+          body: "Thatch, listed, flood-risk, unoccupied, holiday home. Specific and under-served.",
+        },
+        {
+          title: "Commercial and trade cover",
+          body: "Liability, fleet, PI. A different buyer entirely and worth its own pages.",
+        },
+        {
+          title: "Claims and refusal content",
+          body: "Somebody who has been declined is searching urgently and almost nobody writes for them.",
+        },
+        {
+          title: "Farm and agricultural",
+          body: "Distinct cover, distinct language, and very little competition.",
+        },
+        {
+          title: "Renewal and mid-term changes",
+          body: "Practical questions people search and brokers rarely answer online.",
+        },
+      ],
+    },
+    {
+      heading: "Regulated advertising applies here too",
+      body: [
+        "As a regulated firm you carry obligations about how cover is described and what can be implied about price or suitability.",
+        "We write to what you can stand over. That rules out some of what an unregulated content agency would happily publish, and it produces pages that are both compliant and more convincing.",
+      ],
+    },
+    {
+      heading: "Reviews carry unusual weight",
+      body: [
+        "Insurance is bought with suspicion. A broker with visible, specific reviews describing a claim handled well is answering the exact fear the buyer has.",
+        "That is worth more here than in almost any other professional category, and very few Irish brokers collect them systematically.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "Can we compete with comparison sites?",
+        a: "Not on generic motor or home quotes. You compete where advice matters — non-standard risks, commercial cover, declined applicants — and comparison engines do not follow there.",
+      },
+      {
+        q: "What are the best pages?",
+        a: "Non-standard home insurance, commercial and trade cover, and content for people who have been declined. Modest volume, extremely high intent.",
+      },
+      {
+        q: "Do the advertising rules affect us?",
+        a: "Yes. As a regulated firm there are obligations about how cover and price are described, and we write inside them.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "financial-advisors",
+    label: "financial advisors",
+    title: "SEO for Financial Advisors Ireland | Adviser SEO",
+    description:
+      "SEO for Irish financial advisors under the Central Bank advertising rules: pension and retirement content that cannot promise returns and does not need to.",
+    h1: "SEO for financial advisors, without promising anything.",
+    intro: [
+      "Financial advice is a regulated activity and the advertising rules are strict about performance claims, risk warnings and the impression a page creates. A great deal of what content agencies propose would not survive a compliance review.",
+      "It is also a category where the honest content genuinely wins, because the searches are anxious and specific and almost nobody answers them plainly.",
+    ],
+    sections: [
+    {
+      heading: "Pension questions carry the volume",
+      body: [
+        "What is my pension worth, can I access it early, what happens to it if I change jobs, what is the difference between a PRSA and an occupational scheme, how much do I need to retire.",
+        "These are searched constantly by people with real money at stake and very little understanding, and they can be answered accurately without any performance claim whatsoever.",
+      ],
+      list: [
+        {
+          title: "Pension basics and transfers",
+          body: "PRSA, occupational schemes, buy-out bonds, what happens when you change employer.",
+        },
+        {
+          title: "Retirement planning",
+          body: "How much is enough, drawdown versus annuity, the practical decisions.",
+        },
+        {
+          title: "Protection",
+          body: "Life cover, income protection, serious illness. Searched by people with a specific trigger.",
+        },
+        {
+          title: "Self-employed and company directors",
+          body: "A distinct audience with distinct structures and little content written for them.",
+        },
+        {
+          title: "Fees and how advisers are paid",
+          body: "The question everybody has and almost nobody publishes.",
+        },
+      ],
+    },
+    {
+      heading: "What cannot be said",
+      body: [
+        "No promises or implications about investment returns, no selective presentation of past performance, and risk warnings where required. The rules exist for good reason and a breach is serious.",
+        "We write to what can be stood over and decline what cannot. In practice that is not a limitation — explaining a pension transfer clearly is more persuasive than any figure a compliance officer would strike out.",
+      ],
+    },
+    {
+      heading: "Publishing your fee structure is a differentiator",
+      body: [
+        "Most people assume financial advice is expensive and opaque, and most adviser websites confirm that impression by saying nothing.",
+        "Explaining how you are paid — fee, commission, or both — is uncomfortable, compliant, heavily searched and almost entirely uncontested.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "What can we publish about returns?",
+        a: "Nothing that promises or implies them. Performance claims, selective past performance and missing risk warnings are exactly what the rules address, and we write inside them.",
+      },
+      {
+        q: "What content works then?",
+        a: "Pension questions — transfers, early access, changing jobs, how much is enough. Answerable accurately with no performance claim at all.",
+      },
+      {
+        q: "Should we explain our fees?",
+        a: "Yes. It is uncomfortable, compliant, heavily searched and almost nobody does it.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "recruitment-agencies",
+    label: "recruitment agencies",
+    title: "SEO for Recruitment Agencies Ireland | Agency SEO",
+    description:
+      "SEO for Irish recruitment agencies: a two-sided market where candidate content and employer content need entirely separate strategies.",
+    h1: "SEO for recruitment, two audiences that never overlap.",
+    intro: [
+      "A recruitment agency has to attract candidates and clients at the same time, and they search for completely different things. Candidates search roles, salaries and companies. Employers search cost, process and sector expertise.",
+      "Almost every agency site is built for one and bolts the other on, usually a candidate-facing job board with an 'Employers' tab nobody visits.",
+    ],
+    sections: [
+    {
+      heading: "Candidate side: salary content is the traffic engine",
+      body: [
+        "Salary guides by role and county are the highest-volume searches in the category by a distance, they are updated annually, and they bring in exactly the people you want on your database.",
+        "They are also genuinely useful, which is rare in recruitment content. An agency that publishes real Irish salary ranges rather than a lead-gated PDF will out-rank the ones that gate it.",
+      ],
+    },
+    {
+      heading: "Employer side: cost and process, not culture",
+      body: [
+        "Employers search what a recruitment agency charges, how the fee works, what a rebate period is, how long a placement takes and whether you know their sector.",
+        "Explaining the fee model plainly is the single most effective employer-facing page an agency can publish, and almost nobody does it because it invites negotiation. It also invites the clients who were always going to pay.",
+      ],
+      list: [
+        {
+          title: "Salary guides by role and county",
+          body: "Highest volume in the category. Publish them, do not gate them.",
+        },
+        {
+          title: "Fee structure and rebate terms",
+          body: "Employer-facing, uncomfortable and effective.",
+        },
+        {
+          title: "Sector pages",
+          body: "Construction, tech, healthcare, finance. Both audiences search these.",
+        },
+        {
+          title: "Interview and CV content",
+          body: "Candidate-facing, high volume, builds the database.",
+        },
+        {
+          title: "Time-to-hire expectations",
+          body: "What an employer actually wants to know before calling.",
+        },
+      ],
+    },
+    {
+      heading: "Job listings alone will not rank",
+      body: [
+        "Job boards and aggregators dominate role searches and an agency listing page will rarely beat them.",
+        "The winnable ground is the content around the job — salary, process, sector insight — which is where an agency has genuine knowledge and an aggregator has none.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "What brings in candidates?",
+        a: "Salary guides by role and county. Highest-volume search in the category, genuinely useful, and far more effective published openly than gated behind a form.",
+      },
+      {
+        q: "What brings in employers?",
+        a: "Fee structure, rebate terms and time-to-hire, explained plainly. It invites negotiation and it also invites the clients who were always going to pay.",
+      },
+      {
+        q: "Can we rank for job searches?",
+        a: "Rarely. Aggregators own those. The content around the job is where an agency has knowledge they do not.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "it-support",
+    label: "IT support companies",
+    title: "SEO for IT Support Companies Ireland | MSP SEO",
+    description:
+      "SEO for Irish IT support providers and MSPs: business buyers search problems and compliance, not managed services.",
+    h1: "SEO for IT support, written for a business buyer.",
+    intro: [
+      "Nobody searches for a managed service provider. Business buyers search a problem they are having or an obligation they have to meet — email gone down, ransomware, Microsoft 365 migration, cyber insurance requirements, GDPR.",
+      "Those searches are low volume, high value and almost entirely uncontested by Irish providers, most of whom publish a services page and nothing else.",
+    ],
+    sections: [
+    {
+      heading: "Problems and obligations, not service names",
+      body: [
+        "'Managed IT services Dublin' is a small, contested search. 'Microsoft 365 migration for small business', 'what cyber insurance requires', 'ransomware recovery Ireland' and 'GDPR data retention' are specific, valuable and open.",
+        "Each maps to a real business problem with a budget attached, and each is a page almost no competitor has written.",
+      ],
+      list: [
+        {
+          title: "Compliance-driven pages",
+          body: "Cyber insurance requirements, GDPR obligations, sector rules. Deadlines attached, budget attached.",
+        },
+        {
+          title: "Migration and project content",
+          body: "365, cloud, server replacement, office moves. Searched when a project is already funded.",
+        },
+        {
+          title: "Incident content",
+          body: "Ransomware, breach, outage. Urgent and high value.",
+        },
+        {
+          title: "Sector pages",
+          body: "Legal, medical, accountancy, construction. Each has specific software and specific obligations.",
+        },
+        {
+          title: "Pricing model explained",
+          body: "Per user, per device, or project. Buyers filter on it and almost nobody publishes it.",
+        },
+      ],
+    },
+    {
+      heading: "The buying trigger is usually a bad day",
+      body: [
+        "Most IT support relationships start after something went wrong — an outage, a breach, a failed backup, an auditor asking questions.",
+        "Writing for the aftermath of those moments rather than for a planned procurement process reaches the buyer at the point the decision is actually made.",
+      ],
+    },
+    {
+      heading: "Low volume is the point, not a problem",
+      body: [
+        "A dozen well-targeted pages might produce a handful of enquiries a month, and in a category where one managed contract is worth tens of thousands a year, that is a complete success.",
+        "Judging this on traffic will make it look like a failure. Judge it on contracts.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "What should an MSP write about?",
+        a: "Problems and obligations — cyber insurance requirements, 365 migrations, ransomware recovery, GDPR. Not 'managed IT services', which is small and contested.",
+      },
+      {
+        q: "How do we measure it?",
+        a: "Contracts, not traffic. A dozen pages producing a handful of enquiries a month is a success when one contract is worth tens of thousands a year.",
+      },
+      {
+        q: "Should we publish pricing?",
+        a: "The model at least — per user, per device or project. Buyers filter on it and almost no Irish provider explains it.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "self-storage",
+    label: "self storage facilities",
+    title: "SEO for Self Storage Ireland | Storage Facility SEO",
+    description:
+      "SEO for Irish self storage: a catchment of a few kilometres, a price-and-size search, and life events that trigger the whole decision.",
+    h1: "SEO for self storage, in a catchment you can drive in ten minutes.",
+    intro: [
+      "Self storage is bought within a very small radius. People will not drive across a city to store things they need to access, which makes this one of the tightest catchments of any business we work with.",
+      "Inside that radius the search is remarkably consistent: what size do I need, what does it cost, and can I get in when I want.",
+    ],
+    sections: [
+    {
+      heading: "Size and price are the entire search",
+      body: [
+        "Somebody searching storage has a rough idea what they need to store and no idea what size unit that requires. Answering that — with comparisons, dimensions and what fits — is the highest-value content in the category.",
+        "Publishing prices alongside it removes the second question. Facilities that hide both force the customer to ring three competitors, and most of them do not ring back.",
+      ],
+      list: [
+        {
+          title: "Size guide with real comparisons",
+          body: "What fits in each unit, in terms of rooms and furniture rather than cubic metres.",
+        },
+        {
+          title: "Prices, per size, per month",
+          body: "The most filtered-on figure. Hiding it loses bookings to whoever published theirs.",
+        },
+        {
+          title: "Access hours and security",
+          body: "The two practical concerns after size and price.",
+        },
+        {
+          title: "Business storage",
+          body: "Stock, archive, tools. A different customer with longer tenancies and better margins.",
+        },
+        {
+          title: "Life event pages",
+          body: "Moving house, renovating, emigrating, bereavement, student summer. Each is a distinct trigger.",
+        },
+      ],
+    },
+    {
+      heading: "Life events are the trigger, not a category",
+      body: [
+        "Nobody decides to rent storage in the abstract. They are moving, renovating, downsizing, emigrating, dealing with a house after a death, or a student going home for the summer.",
+        "Pages written around those situations reach people at the moment the need appears, and they rank easily because almost no facility writes them.",
+      ],
+    },
+    {
+      heading: "Business storage is the better tenancy",
+      body: [
+        "Domestic customers store for a few months. Businesses storing stock, archives or equipment stay for years and rarely move.",
+        "It is a smaller audience, worth considerably more per unit, and under-advertised by nearly every Irish facility.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "How wide is the catchment?",
+        a: "A few kilometres. People will not drive across a city to reach things they need to access, which makes this one of the tightest catchments there is.",
+      },
+      {
+        q: "Should we publish prices?",
+        a: "Yes, with a size guide alongside. Hiding both forces customers to ring three competitors, and most do not ring back.",
+      },
+      {
+        q: "What triggers the search?",
+        a: "A life event — moving, renovating, emigrating, a bereavement, a student going home. Pages written around those rank easily and almost no facility writes them.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "security-and-alarms",
+    label: "alarm and security companies",
+    title: "SEO for Alarm Companies Ireland | Security SEO",
+    description:
+      "SEO for Irish alarm and security installers: PSA licensing, monitoring versus standalone, and a purchase triggered by something that just happened.",
+    h1: "SEO for alarm companies, after something has happened.",
+    intro: [
+      "Most alarm enquiries follow an event — a break-in nearby, an insurance requirement, a new house, or a neighbour's security camera catching something on the local Facebook page.",
+      "That makes the demand reactive and clustered, and it makes proximity and credibility matter more than any amount of content about technology.",
+    ],
+    sections: [
+    {
+      heading: "PSA licensing is a search and a trust signal",
+      body: [
+        "Installers of security systems in Ireland require licensing from the Private Security Authority, and customers increasingly check it. Insurers frequently require it too.",
+        "Publishing your licence number plainly does two jobs: it satisfies people searching for a licensed installer and it removes doubt from everyone else. Very few installer websites show it anywhere obvious.",
+      ],
+      list: [
+        {
+          title: "PSA licence, stated with the number",
+          body: "Searched directly and required by many insurers.",
+        },
+        {
+          title: "Monitored versus unmonitored",
+          body: "The central decision, with honest running costs for each.",
+        },
+        {
+          title: "Insurance requirements",
+          body: "What insurers typically require and what standard applies. Heavily searched, rarely answered.",
+        },
+        {
+          title: "CCTV and GDPR",
+          body: "Domestic and commercial camera obligations. A real question with almost no good Irish content.",
+        },
+        {
+          title: "Commercial and retail systems",
+          body: "A different buyer, larger budgets, contract-based.",
+        },
+      ],
+    },
+    {
+      heading: "CCTV carries obligations people search for",
+      body: [
+        "Anyone installing cameras that capture beyond their own property has data protection responsibilities, and both homeowners and businesses search this with genuine uncertainty.",
+        "It is a question your industry is well placed to answer and almost nobody does. The content ranks and it positions you as the installer who knows the rules.",
+      ],
+    },
+    {
+      heading: "Monitoring is the recurring revenue",
+      body: [
+        "A standalone install is a single sale. A monitored system is a monthly contract that runs for years, and the economics of the business sit there.",
+        "Content explaining monitoring honestly — including what it costs and what it does not do — attracts the customers who stay rather than the ones shopping purely on install price.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "What should be on every page?",
+        a: "Your PSA licence number. It is searched directly, frequently required by insurers, and almost no installer displays it prominently.",
+      },
+      {
+        q: "Is CCTV and GDPR worth writing about?",
+        a: "Yes. Cameras capturing beyond your own property carry data protection obligations, people search this uncertainly, and there is almost no good Irish content.",
+      },
+      {
+        q: "Why focus on monitoring?",
+        a: "It is the recurring revenue. A standalone install is one sale; a monitored contract runs for years, and that is where the business actually is.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "skin-clinics",
+    label: "skin clinics",
+    title: "SEO for Skin Clinics Ireland | Skin & Laser Clinic SEO",
+    description:
+      "SEO for Irish skin and laser clinics: concern-led content, honest outcomes and the advertising limits that apply to clinical treatments.",
+    h1: "SEO for skin clinics, built on concerns not products.",
+    intro: [
+      "People search what they see in the mirror, not what is in your treatment menu. Acne scarring, pigmentation, rosacea, sun damage, melasma, texture — those are the searches, and a clinic organised around device names ranks for none of them.",
+      "It is also a category where claims about outcomes carry real weight, both with regulators and with patients who have been disappointed elsewhere.",
+    ],
+    sections: [
+    {
+      heading: "Organise around the concern, always",
+      body: [
+        "A page named after a laser platform reaches people who already know they want that platform, which is a very small audience. A page about pigmentation reaches everybody with the problem.",
+        "Within each concern page you can explain which treatments suit, which do not, and why — which is more useful and ranks for far more.",
+      ],
+      list: [
+        {
+          title: "Concern pages",
+          body: "Acne, scarring, pigmentation, rosacea, sun damage, ageing skin, texture.",
+        },
+        {
+          title: "Realistic outcomes",
+          body: "Number of sessions, what improvement looks like, what will not change.",
+        },
+        {
+          title: "Skin type considerations",
+          body: "Which treatments suit which skin types. Genuinely important and rarely covered.",
+        },
+        {
+          title: "Aftercare and downtime",
+          body: "The practical question people search before booking.",
+        },
+        {
+          title: "Practitioner credentials",
+          body: "Who performs each treatment and what they are qualified in.",
+        },
+      ],
+    },
+    {
+      heading: "Careful claims beat enthusiastic ones",
+      body: [
+        "There are standards governing how treatments and results can be presented, and prescription-only products cannot be advertised to the public at all.",
+        "Beyond compliance, restraint converts better here. A clinic that says a course of six sessions gives gradual improvement and will not remove every mark reads as more credible than one promising transformation, and it produces patients whose expectations match reality.",
+      ],
+    },
+    {
+      heading: "Before-and-after images need consent and care",
+      body: [
+        "They are the most persuasive content in the category and they carry both consent obligations and rules about misleading presentation.",
+        "We use them where consent is documented and the presentation is fair, and decline where it is not. A regulatory complaint over a photograph is not a trade worth making.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "Should pages be named after treatments or concerns?",
+        a: "Concerns. People search what they see in the mirror, not the name of a laser platform, and a concern page ranks for far more.",
+      },
+      {
+        q: "What can we claim about results?",
+        a: "What you can stand over. There are standards on presenting outcomes, and prescription-only products cannot be advertised to the public at all.",
+      },
+      {
+        q: "Can we publish before-and-after photographs?",
+        a: "Where consent is documented and the presentation is fair. We decline where it is not — a regulatory complaint over a photograph is not worth it.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "chiropractors",
+    label: "chiropractors",
+    title: "SEO for Chiropractors Ireland | Chiropractic Clinic SEO",
+    description:
+      "SEO for Irish chiropractic clinics: patients search the pain not the profession, and claims about outcomes need care.",
+    h1: "SEO for chiropractors, around the pain not the profession.",
+    intro: [
+      "Almost nobody searches for a chiropractor. They search a lower back that has stopped them sleeping, a neck they cannot turn, sciatica down one leg, or headaches they have had for a month.",
+      "A clinic with one page about chiropractic care ranks for none of that, and it is competing for a small, decided audience rather than the much larger one still working out who to see.",
+    ],
+    sections: [
+    {
+      heading: "Condition pages carry the volume",
+      body: [
+        "Lower back pain, sciatica, neck pain, headaches, shoulder problems, posture, pregnancy-related pain. Each is a separate search with separate competition.",
+        "Written in symptoms rather than clinical language, these reach people earlier in the decision and considerably more cheaply than the professional term does.",
+      ],
+      list: [
+        {
+          title: "One page per presentation",
+          body: "In the words patients use, describing what they are feeling.",
+        },
+        {
+          title: "What a first appointment involves",
+          body: "Reduces the apprehension that stops people booking.",
+        },
+        {
+          title: "Session counts and cost",
+          body: "A range with reasoning. 'It depends' is honest and unhelpful.",
+        },
+        {
+          title: "Occupational pain",
+          body: "Desk workers, drivers, trades. Specific and searched.",
+        },
+        {
+          title: "When to see someone else",
+          body: "Red flags warranting a GP. Builds more trust than anything else you can publish.",
+        },
+      ],
+    },
+    {
+      heading: "Be careful what is claimed",
+      body: [
+        "Claims about treating conditions beyond musculoskeletal pain attract regulatory attention and, more immediately, attract patients whose expectations cannot be met.",
+        "We write to what can be stood over on a call. It keeps the clinic out of difficulty and produces better-matched patients, which reduces the complaints and refund conversations that damage a practice.",
+      ],
+    },
+    {
+      heading: "Reviews do the work reputation cannot",
+      body: [
+        "People are cautious about their spine and about a profession they may not fully understand. Reviews describing a specific problem resolved are the reassurance that converts.",
+        "They also feed the map results, which is where most local enquiries in this category come from.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "Should we write about conditions or treatments?",
+        a: "Conditions, in the words patients use. Nobody searches for an adjustment technique; they search a back that has stopped them sleeping.",
+      },
+      {
+        q: "What can we claim?",
+        a: "What you can stand over on a call. Claims beyond musculoskeletal pain attract regulatory attention and attract patients whose expectations cannot be met.",
+      },
+      {
+        q: "Should we publish session counts and prices?",
+        a: "A range with the reasoning. 'It depends' is honest and it is the worst possible answer for somebody deciding whether to book.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "audiologists",
+    label: "audiology clinics",
+    title: "SEO for Audiologists Ireland | Hearing Clinic SEO",
+    description:
+      "SEO for Irish hearing clinics: the PRSI treatment benefit, a decision measured in years, and an adult child who is often the one searching.",
+    h1: "SEO for hearing clinics, and the family doing the searching.",
+    intro: [
+      "Hearing loss is noticed by a family long before the person admits it, and the gap between first noticing and doing something about it is frequently measured in years.",
+      "That makes this a patience business. The clinic that gets the appointment is usually the one that was already visible and already trusted when the family finally raised it.",
+    ],
+    sections: [
+    {
+      heading: "Two audiences, searching differently",
+      body: [
+        "The person with hearing loss searches tentatively and privately — discreet hearing aids, do I need a test, will anyone notice. The adult child searches practically — hearing test near me, how much do hearing aids cost, how to tell a parent.",
+        "Writing for both, separately, is the single biggest content opportunity here and almost no Irish clinic does it.",
+      ],
+      list: [
+        {
+          title: "PRSI treatment benefit",
+          body: "The entitlement towards hearing aids. Widely held, widely unknown, heavily searched.",
+        },
+        {
+          title: "Free hearing test",
+          body: "The standard entry point and a low-commitment search.",
+        },
+        {
+          title: "Cost of hearing aids",
+          body: "The question everybody has and clinics avoid answering online.",
+        },
+        {
+          title: "Content for family members",
+          body: "How to raise it, what to expect. Almost nobody writes this.",
+        },
+        {
+          title: "Tinnitus",
+          body: "A distinct, anxious, high-volume search with very little good Irish content.",
+        },
+      ],
+    },
+    {
+      heading: "The PRSI entitlement is the strongest hook you have",
+      body: [
+        "A large share of the working and retired population has an entitlement under PRSI treatment benefit towards hearing aids and does not know it.",
+        "Explaining it accurately — including what it does not cover — brings in people who had assumed cost put this out of reach. Overstating it produces angry consultations, so accuracy matters more than enthusiasm.",
+      ],
+    },
+    {
+      heading: "Publish the cost",
+      body: [
+        "Hearing aids are expensive and the uncertainty is a major reason people delay. Most clinics will not put a figure online.",
+        "A range, with what moves it and how the PRSI benefit applies, removes the main barrier to a first appointment and differentiates you immediately in a category built on vagueness.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "Who is actually searching?",
+        a: "Frequently an adult child rather than the person with hearing loss. They search practically while the patient searches tentatively, and both deserve their own pages.",
+      },
+      {
+        q: "What is the strongest content?",
+        a: "The PRSI treatment benefit. Widely held, widely unknown and heavily searched, and it brings in people who assumed cost ruled this out.",
+      },
+      {
+        q: "Should we publish prices?",
+        a: "A range, with what moves it. Cost uncertainty is a major reason people delay, and almost no clinic puts a figure online.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "pest-control",
+    label: "pest control companies",
+    title: "SEO for Pest Control Ireland | Pest Control Company SEO",
+    description:
+      "SEO for Irish pest control: species-led searches, sharp seasonal spikes and customers who want it dealt with discreetly and today.",
+    h1: "SEO for pest control, species by species.",
+    intro: [
+      "Nobody searches for pest control. They search rats in the attic, wasp nest removal, bed bugs, mice in the kitchen, squirrels in the roof — and they search it urgently, often at night, having just seen something.",
+      "A company with one services page ranks for almost none of it, and species pages are the easiest ranking win in this trade.",
+    ],
+    sections: [
+    {
+      heading: "A page per species, written for someone who just saw one",
+      body: [
+        "Rats, mice, wasps, bed bugs, fleas, squirrels, birds, ants, cockroaches. Each is a separate search with separate seasonality and separate anxiety attached.",
+        "Include what the signs are, what the treatment involves, how long it takes and roughly what it costs. Somebody who has just found droppings wants to know what happens next, not your company history.",
+      ],
+      list: [
+        {
+          title: "One page per species",
+          body: "Signs, treatment, timeline, cost. The single highest-return structure in this trade.",
+        },
+        {
+          title: "Seasonal content",
+          body: "Wasps in late summer, rodents in autumn, ants in spring. Predictable and plannable.",
+        },
+        {
+          title: "Commercial and food premises",
+          body: "HACCP, audits, contracts. A different buyer with recurring revenue.",
+        },
+        {
+          title: "Discretion",
+          body: "Unmarked vans and confidentiality. Searched more than companies realise.",
+        },
+        {
+          title: "Prevention and proofing",
+          body: "Higher-margin follow-on work most companies never advertise.",
+        },
+      ],
+    },
+    {
+      heading: "Seasonality is sharp and entirely predictable",
+      body: [
+        "Wasp enquiries collapse and surge on a calendar. Rodent work climbs as the weather turns. Bed bugs follow travel.",
+        "Because it repeats every year, the content and the profile work can be ready in advance rather than written in the week of the spike — which is when every competitor is also scrambling.",
+      ],
+    },
+    {
+      heading: "Discretion is a selling point nobody advertises",
+      body: [
+        "Domestic customers are frequently embarrassed, particularly about bed bugs and infestations in a shared building. They search for unmarked vehicles and confidentiality more than most companies realise.",
+        "Saying plainly that you are discreet addresses a real concern and costs nothing.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "What is the best structure for a pest control site?",
+        a: "A page per species — rats, wasps, bed bugs, mice, squirrels — with signs, treatment, timeline and cost. It is the easiest ranking win in the trade.",
+      },
+      {
+        q: "How seasonal is it?",
+        a: "Sharply and predictably. Wasps in late summer, rodents in autumn, bed bugs with travel. Prepare in advance rather than in the week of the spike.",
+      },
+      {
+        q: "Is discretion worth mentioning?",
+        a: "Yes. Customers are frequently embarrassed and search for unmarked vans and confidentiality more than companies realise.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
+  {
+    slug: "insulation",
+    label: "insulation installers",
+    title: "SEO for Insulation Installers Ireland | Grant-Led SEO",
+    description:
+      "SEO for Irish insulation installers: SEAI grant searches dominate, and the BER and eligibility questions decide who gets the survey.",
+    h1: "SEO for insulation, where the grant is the search.",
+    intro: [
+      "Insulation search in Ireland is almost entirely grant search. Attic, cavity, external wall, internal dry lining — every one of those queries arrives attached to a question about SEAI support, eligibility and what the homeowner will actually pay.",
+      "An installer whose website mentions the grant in a single line is invisible to most of the demand in their own category.",
+    ],
+    sections: [
+    {
+      heading: "Grant content is the category",
+      body: [
+        "Which grants exist, what each covers, what the property must qualify on, how the application works, how long it takes and what the homeowner pays after support.",
+        "This is heavily searched, genuinely complicated and poorly explained nearly everywhere. Explaining it accurately is both the ranking opportunity and the reason somebody rings you rather than the installer who published nothing.",
+      ],
+      list: [
+        {
+          title: "Grant eligibility by measure",
+          body: "Attic, cavity, external, internal. Different rules and different amounts.",
+        },
+        {
+          title: "BER and what it means",
+          body: "The requirement people trip over and the one they search most.",
+        },
+        {
+          title: "One-stop-shop versus individual grants",
+          body: "Two routes that confuse almost everybody.",
+        },
+        {
+          title: "Cost after grant",
+          body: "What the homeowner actually pays. The number they are hunting for.",
+        },
+        {
+          title: "Registered contractor status",
+          body: "Required for grant work and checked by customers.",
+        },
+      ],
+    },
+    {
+      heading: "Be honest about what will not qualify",
+      body: [
+        "Plenty of houses do not meet the conditions, or need work in a particular order for the support to apply.",
+        "Saying so on the page prevents surveys that were never going to convert and builds trust with the homeowners who do qualify. It also stops the angry phone call that follows a wasted assessment.",
+      ],
+    },
+    {
+      heading: "The season is decided by the weather and the news",
+      body: [
+        "Insulation demand climbs when it gets cold and spikes whenever energy prices are in the news, which is not entirely predictable but is reliably seasonal from autumn.",
+        "Content and profile work belong in summer, when nobody is competing for attention and the rankings have time to establish before the demand arrives.",
+      ],
+    },
+    ],
+    faqs: [
+      {
+        q: "What do people actually search?",
+        a: "The SEAI grants. Eligibility, what is covered, the BER requirement and what they will pay after support. An installer mentioning it in one line is invisible to most of the demand.",
+      },
+      {
+        q: "Should we say when a house will not qualify?",
+        a: "Yes. It prevents surveys that were never going to convert and avoids the angry call after a wasted assessment.",
+      },
+      {
+        q: "When should we do this work?",
+        a: "Summer. Demand climbs from autumn and rankings need months to establish before it arrives.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
 ];
 
 export const industrySeoBySlug = (slug: string) =>
