@@ -3829,6 +3829,810 @@ export const posts: Post[] = [
     ],
     related: ["roofers", "solar-installers", "gyms-and-fitness"],
   },
+  {
+    slug: "first-ten-google-reviews",
+    title: "How to get your first ten Google reviews",
+    description:
+      "The hardest reviews to get are the first few. A method that works for Irish trades and service businesses, and the three mistakes that get reviews removed.",
+    date: "2026-09-27",
+    minutes: 6,
+    intro:
+      "Ten reviews is the point where a business stops looking new. Getting from zero to ten is disproportionately hard, because there is no social proof to borrow and no habit of asking. Here is how to do it in about three weeks without annoying anybody or breaking Google's rules.",
+    sections: [
+      {
+        h: "Ask at the moment of relief",
+        p: [
+          "There is a window, usually a few minutes long, when a customer is visibly pleased that the thing is fixed. That is when to ask, in person, once.",
+          "An email three weeks later asks somebody to reconstruct a feeling they have stopped having. The in-person ask at the right moment converts several times better and costs nothing.",
+        ],
+      },
+      {
+        h: "Make it one tap",
+        p: [
+          "Nobody is going to search for your business, find the reviews tab and work out how to write one. You need a direct link, and Google provides one.",
+          "In your Google Business Profile there is a 'Ask for reviews' option that gives a short link straight to the review box. Put it in a text message you send the same day. That single change does more than any wording.",
+        ],
+        list: [
+          "Get the short review link from your Google Business Profile",
+          "Save it in a text template on your phone",
+          "Send it the same day, while the job is fresh",
+          "One follow-up after three days, then stop",
+          "Thank everyone who leaves one",
+        ],
+      },
+      {
+        h: "Go back through the last six months",
+        p: [
+          "You have customers from earlier in the year who were happy and were never asked. They are the easiest reviews you will ever get.",
+          "Send ten messages on a Tuesday morning. Mention the specific job so they remember. Expect three or four to land, which gets you a third of the way in an afternoon.",
+        ],
+      },
+      {
+        h: "What gets reviews removed",
+        p: [
+          "Offering a discount, a voucher or a prize in exchange is against Google's policies and the reviews can be deleted along with, in bad cases, the profile's standing.",
+          "So is asking staff or family to leave them, and so is gating — asking happy customers for a review and unhappy ones for private feedback. That last one is common advice and it is against the rules.",
+        ],
+      },
+      {
+        h: "Reply to every one",
+        p: [
+          "A short, human reply under each review is read by everyone deciding whether to ring you, and it signals to Google that the profile is actively managed.",
+          "Two sentences. Name the job if you can. It takes a minute and it is the cheapest reputation work available.",
+        ],
+      },
+    ],
+    related: ["roofers", "plumbers-and-heating", "restaurants-and-cafes"],
+  },
+  {
+    slug: "sponsoring-a-local-club",
+    title: "Is sponsoring a local club worth it?",
+    description:
+      "Irish businesses spend thousands on club sponsorship and get almost nothing back, usually because nobody outside the club ever finds out about it.",
+    date: "2026-09-27",
+    minutes: 6,
+    intro:
+      "Almost every Irish small business is asked to sponsor something — a club, a team, a fundraiser, a programme. Most say yes out of decency and get nothing commercial back. The money is rarely the problem; what is missing is everything that should happen after the cheque.",
+    sections: [
+      {
+        h: "The sponsorship itself is not the marketing",
+        p: [
+          "A logo on a jersey is seen by people at matches, most of whom already know you exist. That is goodwill, and goodwill is worth something, but it is not a campaign.",
+          "The commercial value comes from what you do with it: the announcement, the photographs, the website link, the mention in the club's newsletter, and the fact that you can now honestly say you support the club when you advertise locally.",
+        ],
+      },
+      {
+        h: "Ask for the link",
+        p: [
+          "Almost every club has a website with a sponsors page. A link from it is a real, relevant, local backlink — the kind that is genuinely hard to get and that improves how often Google crawls your site.",
+          "You have already paid for it. Most businesses never ask, and most clubs are happy to add it. This is the single most valuable and most commonly wasted part of Irish club sponsorship.",
+        ],
+        list: [
+          "A link from the club website to yours",
+          "A named mention in the announcement, not just a logo",
+          "Permission to use the sponsorship in your own advertising",
+          "Photographs you are allowed to publish",
+          "A mention in the match programme or newsletter",
+        ],
+      },
+      {
+        h: "Make the announcement do work",
+        p: [
+          "A club posting 'thanks to our sponsor' reaches the club's followers. You posting the same thing reaches yours, and the two together reach considerably more people than either alone.",
+          "Put a modest budget behind your own post targeted at the town. It costs very little and it turns a private arrangement into local visibility.",
+        ],
+      },
+      {
+        h: "When to say no",
+        p: [
+          "If the club is not in an area you serve, if the sponsorship is purely a logo with no link and no mention, or if you are being asked mainly because you are known to say yes.",
+          "Saying no to sponsorship that produces nothing is not meanness. It leaves money for the one that does.",
+        ],
+      },
+      {
+        h: "The honest arithmetic",
+        p: [
+          "A few hundred euro for a jersey, properly used, buys a real backlink, local goodwill, content for the year and a story you can tell in your advertising.",
+          "The same money spent with none of that buys a logo on a jersey. Same cheque, entirely different outcome.",
+        ],
+      },
+    ],
+    related: ["roofers", "landscapers", "gyms-and-fitness"],
+  },
+  {
+    slug: "google-profile-suspended",
+    title: "Your Google Business Profile got suspended. What now?",
+    description:
+      "Suspension removes you from the map results overnight. Why it happens to Irish businesses, what to do in the first hour, and how long reinstatement takes.",
+    date: "2026-09-27",
+    minutes: 6,
+    intro:
+      "A suspended Google Business Profile disappears from the map results immediately, which for a local business usually means the phone stops. It happens more often than people expect and almost always for a fixable reason. Panicking and changing everything makes it worse.",
+    sections: [
+      {
+        h: "Do not edit anything yet",
+        p: [
+          "The instinct is to start fixing whatever might have caused it. Resist that for an hour.",
+          "Editing the profile during a suspension can complicate the appeal, and you need to know what triggered it before you change anything. Take a screenshot of the profile as it stands first.",
+        ],
+      },
+      {
+        h: "The usual causes in Ireland",
+        p: [
+          "Keyword stuffing the business name is the most common — adding 'Roofing Dublin' to a name that is legally just a surname. Competitors report it and Google acts.",
+          "After that: a virtual office or a mailbox as the address, a service-area business showing a home address that keeps changing, multiple profiles at one address, a sudden category change, or a burst of reviews that looked bought.",
+        ],
+        list: [
+          "Business name that is not the real trading name",
+          "An address that is a mailbox, coworking desk or virtual office",
+          "Two profiles for the same business at the same address",
+          "A big category change made all at once",
+          "A sudden cluster of reviews, especially from one device",
+        ],
+      },
+      {
+        h: "What the appeal needs",
+        p: [
+          "Evidence that the business is real and located where it says. Utility bills, a bank statement showing the address, signage photographs, vehicle livery, a lease or a rates bill.",
+          "Send it once, completely. Repeated appeals with partial evidence take longer, and submitting several appeals at once can stall the whole thing.",
+        ],
+      },
+      {
+        h: "How long it takes",
+        p: [
+          "Days if the evidence is clean and the cause obvious. Weeks if the address is genuinely ambiguous or the appeal is incomplete.",
+          "In the meantime you are invisible in the map results, which is the argument for having something other than the profile producing enquiries — paid, referrals, or a site that ranks organically.",
+        ],
+      },
+      {
+        h: "Preventing it",
+        p: [
+          "Use your actual trading name. Use a real address or hide it properly as a service-area business. Do not run two profiles for one location. Earn reviews steadily rather than in bursts.",
+          "None of that is difficult. Nearly every suspension we see traces back to somebody being slightly clever with one of those five things.",
+        ],
+      },
+    ],
+    related: ["estate-agents", "car-garages", "restaurants-and-cafes"],
+  },
+  {
+    slug: "facebook-reach-collapsed",
+    title: "Why your Facebook page reach collapsed",
+    description:
+      "Organic reach on a business page has been falling for a decade. What actually changed, what still works, and why boosting a post is usually the wrong fix.",
+    date: "2026-09-27",
+    minutes: 6,
+    intro:
+      "Most Irish business pages reach a small fraction of their followers, and owners reasonably conclude the platform has stopped working. It has not, exactly — but what a page reaches for free and what it can reach for money are now two very different things, and treating them as one is where the money goes.",
+    sections: [
+      {
+        h: "Followers were never an audience",
+        p: [
+          "A follower is somebody who once tapped a button. Facebook has spent a decade deciding that a feed full of business posts is worse than a feed full of friends and video, and it shows business pages to fewer of their own followers every year.",
+          "That is not going to reverse. A page with three thousand followers reaching sixty of them is normal, not broken.",
+        ],
+      },
+      {
+        h: "What still gets organic reach",
+        p: [
+          "Things people respond to rather than scroll past: before-and-afters, a genuine local story, something being built or finished, a face, and anything people tag each other in.",
+          "Links out of the platform and plain promotional posts get the least. That is not a conspiracy, it is what the feed is optimised for.",
+        ],
+        list: [
+          "Before-and-after photographs of real work",
+          "Short video of something being done, filmed on a phone",
+          "A named local job people recognise",
+          "Anything that makes somebody tag a friend",
+          "Replying in the comments, which extends reach further than the post",
+        ],
+      },
+      {
+        h: "Boosting is not advertising",
+        p: [
+          "The Boost button spends money to show a post to more people. It is not the same as a campaign with an objective, an audience and a lead form, and it optimises for engagement rather than for enquiries.",
+          "Boosted posts produce likes. Properly built campaigns produce enquiries. A great deal of Irish small business ad spend goes into the first while the owner wonders where the second is.",
+        ],
+      },
+      {
+        h: "The practical version",
+        p: [
+          "Post because it keeps the page looking alive for the people who check you out before ringing. That is a real job and it is worth doing.",
+          "Run actual campaigns when you want enquiries. Expect the page itself to reach very few people for free, and stop measuring your marketing by it.",
+        ],
+      },
+    ],
+    related: ["restaurants-and-cafes", "landscapers", "gyms-and-fitness"],
+  },
+  {
+    slug: "traffic-up-enquiries-down",
+    title: "Traffic went up but enquiries went down",
+    description:
+      "The most common and most misread pattern in small business marketing. Four causes, and how to tell which one you have in about twenty minutes.",
+    date: "2026-09-27",
+    minutes: 6,
+    intro:
+      "More visitors and fewer enquiries feels like a contradiction and it is usually a straightforward diagnosis. It almost always means you are reaching more of the wrong people, or the same people are hitting something that stops them.",
+    sections: [
+      {
+        h: "Cause one: the traffic changed",
+        p: [
+          "A campaign widened its targeting, a page started ranking for a term with different intent, or a piece of content brought in readers rather than buyers.",
+          "Check which pages gained the traffic. If the growth is on a blog post or a broad informational page, nothing is broken — those visitors were never going to ring. Judge the pages that were always meant to convert.",
+        ],
+      },
+      {
+        h: "Cause two: something broke",
+        p: [
+          "Forms stop sending. A phone number changes and nobody updates the site. A page starts erroring on mobile only. Tracking is removed in an update, so enquiries are arriving and not being counted.",
+          "Submit your own form and ring your own number from a mobile. It takes two minutes and it is the single most common cause we find.",
+        ],
+        list: [
+          "Submit the form yourself and confirm the email arrives",
+          "Tap the phone number on a phone and check it dials",
+          "Load the page on mobile data, not wifi",
+          "Check whether the enquiry email is going to spam",
+          "Confirm the tracking still fires",
+        ],
+      },
+      {
+        h: "Cause three: you started competing differently",
+        p: [
+          "If you raised prices, changed your offer, or started ranking against stronger competitors on a comparison-heavy search, more people may be arriving and finding you are not what they wanted.",
+          "That is not necessarily bad. Fewer, better-qualified enquiries at a higher price is a good trade. Check what the enquiries you did get were worth before concluding anything.",
+        ],
+      },
+      {
+        h: "Cause four: the follow-up slipped",
+        p: [
+          "Enquiries arriving and not being answered quickly produces fewer jobs, and to the owner it feels like fewer enquiries.",
+          "Count the enquiries received, not the jobs won, before deciding the marketing broke. They are frequently different problems with different fixes.",
+        ],
+      },
+    ],
+    related: ["roofers", "solar-installers", "kitchens"],
+  },
+  {
+    slug: "what-ill-get-back-to-you-costs",
+    title: "The real cost of saying I will get back to you",
+    description:
+      "A quote that takes four days loses to one that takes four hours, regardless of price. The arithmetic of response time for Irish trades and service businesses.",
+    date: "2026-09-27",
+    minutes: 5,
+    intro:
+      "Almost every business we look at has the same leak in the same place: enquiries arrive, somebody means to reply, and by the time they do the customer has booked elsewhere. It is not a marketing problem and no amount of budget fixes it.",
+    sections: [
+      {
+        h: "First is not a small advantage",
+        p: [
+          "A homeowner who contacts three businesses forms a provisional decision when the first one replies, and compares the other two against it. Being first means being the benchmark.",
+          "For urgent work — a leak, no heat, a broken appliance — it is close to decisive. Whoever answers gets the job and price barely enters into it.",
+        ],
+      },
+      {
+        h: "Work out your own number",
+        p: [
+          "Take last month's enquiries and the jobs that came from them. Then estimate how many of the ones you lost went to somebody who replied sooner.",
+          "Most owners land somewhere between a quarter and a half. At an average job value, that is usually a larger number than their entire advertising budget.",
+        ],
+      },
+      {
+        h: "What to change, in order",
+        p: [
+          "An automatic acknowledgement that gives a specific time you will ring. Not a robot message — a sentence that sounds like you.",
+          "Then a fixed slot in the day for quoting, rather than 'the evening', which in practice means Sunday.",
+          "Then a price range on the phone for the jobs you have done a hundred times, instead of a site visit that delays everything by three days.",
+        ],
+        list: [
+          "Auto-reply naming a time you will ring",
+          "A fixed daily slot for quotes, not evenings",
+          "Phone ranges for standard jobs",
+          "One follow-up on quotes after four days",
+          "Someone else answering when you are on a roof",
+        ],
+      },
+      {
+        h: "The uncomfortable bit",
+        p: [
+          "Response time is not a marketing spend, it is an operational habit, and it is harder to change than a budget.",
+          "But it is free, it compounds, and until it is fixed every euro spent on advertising is buying enquiries that leak out the same hole.",
+        ],
+      },
+    ],
+    related: ["plumbers-and-heating", "roofers", "electricians"],
+  },
+  {
+    slug: "raising-your-prices",
+    title: "How to raise your prices without losing customers",
+    description:
+      "Most Irish trades and service businesses are underpriced and know it. A practical method for raising prices that does not cost you the customers worth keeping.",
+    date: "2026-09-27",
+    minutes: 6,
+    intro:
+      "Almost every owner-run business we work with is charging less than it should, usually because the price was set years ago when they were starting and has crept up with inflation rather than with skill. Here is how to fix that without a painful month.",
+    sections: [
+      {
+        h: "Raise it for new customers first",
+        p: [
+          "You do not have to tell anybody. Quote the new price on the next enquiry and see what happens.",
+          "Most businesses discover the conversion rate barely moves, which tells them the old price was never the reason people were saying yes. That is the cheapest possible test and it takes a fortnight.",
+        ],
+      },
+      {
+        h: "Existing customers are a separate decision",
+        p: [
+          "Recurring customers deserve notice — a month is normal and decent — and an explanation that is honest rather than apologetic. Costs have risen, the service has improved, this is the new rate.",
+          "Expect to lose a few. The ones you lose are almost always the ones who took the most time and complained most, and the maths usually improves immediately even with fewer customers.",
+        ],
+      },
+      {
+        h: "Raise the floor, not everything",
+        p: [
+          "If a full increase feels too much, start with a minimum call-out or minimum job value. It removes the small jobs that consume a day and earn nothing, without touching your rate for real work.",
+          "That single change is frequently worth more than a percentage increase across the board.",
+        ],
+        list: [
+          "Quote the new price to new enquiries only, first",
+          "Set or raise a minimum job value",
+          "Give recurring customers a month's notice",
+          "Stop discounting to close — it trains people to ask",
+          "Re-quote anything that has been sitting more than six weeks",
+        ],
+      },
+      {
+        h: "What to do when someone pushes back",
+        p: [
+          "Have a number you will not go below and know it before the conversation. Saying 'that is the price' calmly, once, works more often than people expect.",
+          "If you discount because somebody asked, you have taught them and everybody they talk to that your price is negotiable, and you will be doing it forever.",
+        ],
+      },
+      {
+        h: "The test that settles it",
+        p: [
+          "If you are busy and turning work away, you are underpriced. If you are quoting constantly and winning most of it, you are underpriced.",
+          "Winning roughly half your quotes at a price you are happy with is about right. Winning nearly all of them means the price is too low, not that you are good at selling.",
+        ],
+      },
+    ],
+    related: ["builders-and-extensions", "landscapers", "kitchens"],
+  },
+  {
+    slug: "busy-or-profitable",
+    title: "Busy is not the same as profitable",
+    description:
+      "Why a full diary can hide a business that is barely making money, and the three numbers that tell you which one you have.",
+    date: "2026-09-27",
+    minutes: 6,
+    intro:
+      "Plenty of Irish trades and service businesses are working flat out and finishing the year with very little. Being busy feels like success and it is not the same thing, and the difference is usually visible in three numbers most owners do not track.",
+    sections: [
+      {
+        h: "The three numbers",
+        p: [
+          "What a job is actually worth after materials, travel and the hours nobody bills for. How many hours a week go to work that earns nothing. And what your worst-paying job type actually contributes.",
+          "Most owners know their turnover and their bank balance and nothing in between, which is exactly the gap where a busy year turns into a poor one.",
+        ],
+        list: [
+          "Contribution per job after materials and travel",
+          "Unbilled hours: quoting, driving, chasing, admin",
+          "Which job types you lose money on",
+          "How many jobs you turned down and why",
+          "Debtor days — how long you wait to be paid",
+        ],
+      },
+      {
+        h: "Travel is the hidden killer",
+        p: [
+          "An hour each way for a two-hour job is a day gone for a fraction of what a local job earns, and it never appears as a loss on any invoice.",
+          "Businesses in dispersed counties — Mayo, Donegal, Tipperary — are especially exposed. Tightening the radius frequently raises profit while lowering turnover, which feels wrong and is right.",
+        ],
+      },
+      {
+        h: "Small jobs are usually the problem",
+        p: [
+          "The half-hour call-out with a twenty-minute drive either side earns almost nothing once you count the whole block of time it occupies.",
+          "A minimum job value, or a call-out fee, fixes this in a week. Most businesses resist it and then find nothing bad happens.",
+        ],
+      },
+      {
+        h: "Turnover is a vanity number",
+        p: [
+          "A business doing four hundred thousand at a poor margin is harder work and less rewarding than one doing two hundred and fifty at a good one.",
+          "If you are going to track one figure, track contribution per working day rather than turnover. It changes which jobs you chase.",
+        ],
+      },
+    ],
+    related: ["builders-and-extensions", "plumbers-and-heating", "landscapers"],
+  },
+  {
+    slug: "fake-or-malicious-review",
+    title: "What to do about a fake or malicious review",
+    description:
+      "Competitor reviews, mistaken identity and reviews from people who were never customers. What Google will actually remove and how to get it done.",
+    date: "2026-09-27",
+    minutes: 5,
+    intro:
+      "A review from somebody who was never a customer is infuriating and it is not the emergency it feels like. Google does remove a proportion of them, slowly and inconsistently, and there are things that help and things that make it worse.",
+    sections: [
+      {
+        h: "Work out which kind it is",
+        p: [
+          "A fake review from a competitor, a case of mistaken identity where somebody has reviewed the wrong business, or a genuine customer being unfair. Those need completely different responses.",
+          "Mistaken identity is the easiest to resolve and surprisingly common where two businesses share a similar name in the same county.",
+        ],
+      },
+      {
+        h: "What Google will remove",
+        p: [
+          "Reviews containing abuse, profanity, personal information or obvious spam. Reviews from a competitor where there is evidence. Reviews clearly about a different business.",
+          "What it will generally not remove is a genuine customer being harsh or unreasonable. 'This is unfair' is not a policy violation, however true it is.",
+        ],
+        list: [
+          "Report it once through the profile, with the specific policy it breaches",
+          "Keep a screenshot in case it changes",
+          "Reply publicly, calmly, without disputing facts",
+          "Do not contact the reviewer privately to pressure them",
+          "Do not ask staff or family to post reviews to bury it",
+        ],
+      },
+      {
+        h: "Reply as if the reviewer is not reading",
+        p: [
+          "They are not the audience. Everybody deciding whether to ring you is. A short, calm reply that does not dispute or accuse reads far better than a detailed rebuttal.",
+          "If you genuinely have no record of them, saying so once and neutrally — that you can find no record of this job and would like to look into it — is both true and effective.",
+        ],
+      },
+      {
+        h: "The real defence is volume",
+        p: [
+          "One bad review among six is damage. One among sixty is invisible and even faintly reassuring, because a business with no criticism at all looks curated.",
+          "If a review has hurt you, the answer is not the appeal. It is asking the next twenty happy customers, which most businesses have never systematically done.",
+        ],
+      },
+    ],
+    related: ["restaurants-and-cafes", "car-garages", "dentists"],
+  },
+  {
+    slug: "job-ad-that-gets-applicants",
+    title: "How to write a job ad that gets applicants",
+    description:
+      "Irish trades and small employers struggle to hire, and the ad is usually part of the problem. What to change, starting with the thing nobody puts in.",
+    date: "2026-09-27",
+    minutes: 5,
+    intro:
+      "Most small business job ads in Ireland are written as though applicants are lucky to be considered, and they produce nothing. The people you want are usually employed and reasonably content, which means the ad has to give them a reason to move.",
+    sections: [
+      {
+        h: "Put the money in",
+        p: [
+          "'Competitive rates' tells a tradesperson you are probably below market, because anybody above market says the number.",
+          "A range is enough. This single change does more than everything else combined, and the reluctance to do it is the main reason small employers lose candidates to bigger ones who do.",
+        ],
+      },
+      {
+        h: "Write for somebody who is not looking",
+        p: [
+          "The person you want has a job. They are not scrolling a jobs board, so the ad has to reach them on social and give them a concrete reason to think about it.",
+          "Newer vans, better tools, no weekends, local work, no overnight travel, a real finish time. Those move people. 'Fast-paced dynamic team' does not.",
+        ],
+        list: [
+          "Actual pay or a genuine range",
+          "Where the work is and how far the travel goes",
+          "The hours, honestly, including weekends",
+          "One or two real reasons to move",
+          "Photographs of the actual team and vans",
+          "An application that takes under two minutes",
+        ],
+      },
+      {
+        h: "Make applying trivial",
+        p: [
+          "Nobody is writing a cover letter from a phone at lunchtime. A short form with three questions and a number will out-perform a careers page by a wide margin.",
+          "Then reply the same day. Candidates who are not actively looking cool off within days, and the good ones are gone within a week.",
+        ],
+      },
+      {
+        h: "Show the place",
+        p: [
+          "People move jobs to somewhere that looks well run. Photographs of a tidy yard, decent equipment and people who look content do more than any list of benefits.",
+          "It is also the same content that wins customers, which is why the two efforts support each other.",
+        ],
+      },
+    ],
+    related: ["roofers", "plumbers-and-heating", "recruitment-agencies"],
+  },
+  {
+    slug: "one-customer-too-big",
+    title: "When one customer is too much of your revenue",
+    description:
+      "A single client worth forty per cent of turnover feels like security and is the opposite. How Irish small businesses end up there and how to get out.",
+    date: "2026-09-27",
+    minutes: 6,
+    intro:
+      "It usually happens by accident and by degrees. One good customer grows, you make room for them, and two years later they are most of your year. It feels like stability right up until the phone call.",
+    sections: [
+      {
+        h: "Work out the actual number",
+        p: [
+          "Take last year's invoices and calculate what share your largest customer represents. Then the top three combined.",
+          "Anything over about a quarter from one customer is worth watching. Over forty per cent and the business is not really yours to run any more — their decisions become your decisions.",
+        ],
+      },
+      {
+        h: "What it costs before anything goes wrong",
+        p: [
+          "Concentration changes how you behave long before it changes your income. You discount for them. You drop other work for them. You do not raise prices. You tolerate slow payment.",
+          "Each of those is rational on its own and together they are why a business with one big customer is frequently less profitable than one with twenty small ones.",
+        ],
+        list: [
+          "What share your largest customer is",
+          "How long they have been growing as a share",
+          "Whether your prices to them have moved in two years",
+          "How long they take to pay compared with everyone else",
+          "How many months you could survive losing them",
+        ],
+      },
+      {
+        h: "Growing out of it beats cutting",
+        p: [
+          "The instinct is to reduce the big customer. That is painful and usually unnecessary.",
+          "The better route is to grow everything else until the share falls, which means putting real effort into finding customers while you are busy — precisely when it feels least urgent and is most possible.",
+        ],
+      },
+      {
+        h: "Advertising is cheap insurance here",
+        p: [
+          "A modest ongoing marketing spend while you have a full diary from one client is not a cost, it is a hedge. It keeps other work flowing and it means you are not starting from nothing if the call comes.",
+          "Businesses that switch marketing off because one customer is keeping them busy are the ones that get hurt worst when it ends.",
+        ],
+      },
+    ],
+    related: ["builders-and-extensions", "it-support", "couriers-and-delivery"],
+  },
+  {
+    slug: "should-you-rebrand",
+    title: "Should you rebrand?",
+    description:
+      "A new logo rarely fixes what is actually wrong. When a rebrand genuinely helps an Irish small business, and the four cheaper things to try first.",
+    date: "2026-09-27",
+    minutes: 5,
+    intro:
+      "Rebranding is appealing because it feels like progress and it is visible. It is also expensive, disruptive and frequently a way of avoiding a harder problem. Here is how to tell which situation you are in.",
+    sections: [
+      {
+        h: "The cheaper things to try first",
+        p: [
+          "If enquiries are low, the problem is usually visibility, response time, reviews or the website converting badly. All four are cheaper to fix than a rebrand and all four produce faster results.",
+          "A new logo on a slow website with no reviews and an unanswered phone changes nothing at all.",
+        ],
+        list: [
+          "Are you visible where your customers search?",
+          "Are enquiries answered within the hour?",
+          "Do you have more than ten reviews?",
+          "Does the website load fast and say what you do?",
+          "Have you asked customers why they chose you?",
+        ],
+      },
+      {
+        h: "When a rebrand is genuinely right",
+        p: [
+          "The name limits you — it names a service you no longer lead with, or a town you have outgrown. The name is confusingly close to a competitor's. The business has genuinely changed what it does.",
+          "Or there is a reputational reason, which is a real and legitimate one, though it needs handling carefully rather than quietly.",
+        ],
+      },
+      {
+        h: "What it costs beyond the design",
+        p: [
+          "Vehicle livery, signage, workwear, stationery, the website, your Google profile, directory listings, social accounts and every printed thing you have.",
+          "And a period where people who knew you no longer recognise you, which for a local business with word-of-mouth referrals is a real cost that nobody budgets for.",
+        ],
+      },
+      {
+        h: "If you do it, keep the equity",
+        p: [
+          "Do not change the name and the look and the positioning at once unless you have to. Whatever recognition you have is worth keeping.",
+          "And redirect everything properly — old URLs, the Google profile, the directory listings. Rebrands routinely lose rankings because nobody handled the redirects.",
+        ],
+      },
+    ],
+    related: ["estate-agents", "restaurants-and-cafes", "gyms-and-fitness"],
+  },
+  {
+    slug: "competitor-copied-your-website",
+    title: "A competitor copied your website. What can you do?",
+    description:
+      "It happens more than you would think in Irish trades. What is actually enforceable, what to do first, and why it matters less than it feels.",
+    date: "2026-09-27",
+    minutes: 5,
+    intro:
+      "Finding your own words on a competitor's website is genuinely annoying. There are things worth doing about it and a larger number not worth the energy, and telling them apart saves a bad week.",
+    sections: [
+      {
+        h: "Copying text is a copyright matter",
+        p: [
+          "Original copy you paid for or wrote is protected by copyright, and lifting it is an infringement. Layout and general design are much harder to claim.",
+          "So the enforceable complaint is usually about text and photographs, particularly photographs of your own work, which are unambiguous.",
+        ],
+      },
+      {
+        h: "The practical steps, in order",
+        p: [
+          "Screenshot everything with dates. Check whether their site is newer than yours using the Internet Archive.",
+          "Then a polite email asking them to remove it. That resolves it more often than people expect, because it is frequently a web designer who did it rather than the owner.",
+        ],
+        list: [
+          "Screenshot both sites with the date visible",
+          "Check the Internet Archive for which came first",
+          "A polite email to the business owner first",
+          "A DMCA notice to their host if that fails",
+          "Google's copyright removal request as a last resort",
+        ],
+      },
+      {
+        h: "Why it matters less than it feels",
+        p: [
+          "Duplicate text does not usually hurt your rankings — Google generally works out which came first, and the copier gains very little.",
+          "What actually wins is the material they cannot copy: your photographs of your own jobs, your reviews, your Google profile, your response time. Those are the things a competitor cannot lift.",
+        ],
+      },
+      {
+        h: "The useful response",
+        p: [
+          "Send the email, then go and add the things that cannot be copied. Recent photographs with dates, named local jobs, reviews from this month.",
+          "A copied website is always slightly out of date and always generic. Making yours specific and current is a better use of the annoyance than a fortnight of legal correspondence.",
+        ],
+      },
+    ],
+    related: ["roofers", "landscapers", "kitchens"],
+  },
+  {
+    slug: "marketing-when-you-cannot-scale",
+    title: "Should you advertise if you cannot take more work?",
+    description:
+      "Generating enquiries you have to turn down damages your reputation and wastes money. What to do instead when the constraint is capacity, not demand.",
+    date: "2026-09-27",
+    minutes: 5,
+    intro:
+      "A surprising number of businesses ask us to increase their marketing when their actual problem is that they cannot deliver any more than they already are. Advertising into that produces frustrated callers and one-star reviews from people who were never served.",
+    sections: [
+      {
+        h: "Turning people away is not free",
+        p: [
+          "Somebody who rings, waits for a call back and is told you are booked until March does not think 'they must be good'. They think you wasted their week, and a proportion of them say so publicly.",
+          "Every one of those was also paid for. You bought an enquiry in order to disappoint somebody.",
+        ],
+      },
+      {
+        h: "Raise prices before raising budget",
+        p: [
+          "If demand exceeds capacity, the price is too low. That is not a marketing opinion, it is arithmetic, and it is the correct first response.",
+          "Higher prices reduce demand to match capacity and increase what each job earns. The business gets less busy and more profitable at the same time.",
+        ],
+        list: [
+          "Raise prices until you are winning about half your quotes",
+          "Set or raise a minimum job value",
+          "Build a waiting list instead of saying no",
+          "Reduce spend rather than stopping it",
+          "Spend the difference on reviews, photographs and the website",
+        ],
+      },
+      {
+        h: "Keep a waiting list, not a no",
+        p: [
+          "Somebody who rings when you are full is a customer you already paid to acquire. Telling them no sends them elsewhere permanently; offering a date in six weeks keeps a good share of them.",
+          "This is the cheapest capacity a business has and most never build it.",
+        ],
+      },
+      {
+        h: "What to spend the money on instead",
+        p: [
+          "Reviews, photographs, the website, and the content that will rank in three months. All of it compounds and none of it generates an enquiry you have to refuse today.",
+          "Then when capacity opens — a new van, a new hire, a quiet season — you are already visible instead of starting cold.",
+        ],
+      },
+    ],
+    related: ["landscapers", "builders-and-extensions", "roofers"],
+  },
+  {
+    slug: "how-to-fire-a-supplier-or-agency",
+    title: "How to leave a supplier without losing your accounts",
+    description:
+      "Websites, ad accounts, domains and profiles are routinely held by whoever set them up. What to secure before you give notice, in the right order.",
+    date: "2026-09-27",
+    minutes: 6,
+    intro:
+      "The worst time to discover you do not own your own ad account is the week you decide to leave whoever runs it. A short checklist, done before any conversation, prevents nearly every version of this going wrong.",
+    sections: [
+      {
+        h: "Find out what you actually own",
+        p: [
+          "Domain registration, hosting, the website files, the Google Ads account, the Meta business account and ad account, the Google Business Profile, analytics, and any email attached to the domain.",
+          "Each of these can be held by an agency or a designer, and each is painful to recover afterwards. Check all of them before you say anything.",
+        ],
+        list: [
+          "Domain — registered in your name, on your account",
+          "Hosting — in your name",
+          "Google Ads account — yours, with you as owner",
+          "Meta Business Manager — your business owns the assets",
+          "Google Business Profile — you have primary ownership",
+          "Analytics — your account, not theirs",
+          "The website files and any custom code",
+        ],
+      },
+      {
+        h: "Secure ownership before giving notice",
+        p: [
+          "Ask to be made owner rather than manager on each account. This is a normal request and a reluctance to grant it tells you a great deal.",
+          "Do it as routine housekeeping rather than as a prelude to leaving, and it is usually straightforward.",
+        ],
+      },
+      {
+        h: "Ad account history is worth real money",
+        p: [
+          "Google and Meta accounts accumulate learning and history that make campaigns cheaper to run. Starting a fresh account throws that away and the first months cost more.",
+          "This is the most commonly overlooked asset in an agency change and it is frequently worth more than the website.",
+        ],
+      },
+      {
+        h: "Leave properly",
+        p: [
+          "Give the notice in the contract, in writing, and ask for a handover list. Most of it is professional courtesy and most agencies will oblige.",
+          "If they will not, having already secured ownership means it costs you a fortnight of awkwardness rather than your accounts.",
+        ],
+      },
+    ],
+    related: ["it-support", "accountants", "solicitors"],
+  },
+  {
+    slug: "what-to-do-in-a-quiet-month",
+    title: "What to do in a quiet month",
+    description:
+      "A gap in the diary is the only time you have to fix the things that cause gaps in the diary. Nine things worth doing, in order of what pays back fastest.",
+    date: "2026-09-27",
+    minutes: 6,
+    intro:
+      "Quiet months are when most small businesses either panic-discount or do nothing. They are also the only time available for the work that makes the next quiet month less likely, and almost all of it is free.",
+    sections: [
+      {
+        h: "Ask for reviews first",
+        p: [
+          "Go through the last six months of customers and ask the happy ones. It costs nothing, it takes an afternoon, and reviews affect both your map ranking and whether people ring you.",
+          "If you do one thing on this list, do this one. It is the highest return available to a business with time and no money.",
+        ],
+      },
+      {
+        h: "Then the things that compound",
+        p: [
+          "Photographs of finished work, filed properly. Content for the searches you want in three months. Your Google profile completed fully. Old quotes followed up. Past customers contacted where there is a genuine reason.",
+          "None of it produces work this week, which is why it never gets done in a busy month, and all of it produces work later.",
+        ],
+        list: [
+          "Ask the last six months of customers for reviews",
+          "Photograph and file finished work properly",
+          "Complete every field on your Google profile",
+          "Follow up quotes older than three weeks",
+          "Contact past customers where something is genuinely due",
+          "Write the pages you want ranking in three months",
+          "Fix whatever is slow or broken on the website",
+          "Ask three suppliers to list you on their site",
+          "Work out what your best job type actually earns",
+        ],
+      },
+      {
+        h: "Ask suppliers for a link",
+        p: [
+          "Manufacturers, wholesalers and trade bodies frequently have 'approved installer' or 'stockist' pages. A link from one is relevant, real and genuinely hard to get any other way.",
+          "You already have the relationship. It takes three emails and it is one of the few things that measurably improves how often Google crawls your site.",
+        ],
+      },
+      {
+        h: "What not to do",
+        p: [
+          "Do not discount to fill the diary. It trains customers to wait for a quiet month and it drags your rate down for everybody.",
+          "And do not switch the advertising off. Restarting costs more than keeping it running at a lower budget, and a quiet month is exactly when you need the pipeline building.",
+        ],
+      },
+    ],
+    related: ["roofers", "landscapers", "painters-and-decorators"],
+  },
 ];
 
 export const postBySlug = (slug: string) => posts.find((p) => p.slug === slug);
