@@ -9635,7 +9635,7 @@ const waterfordSeo: ServicePage = {
   countySlug: "waterford",
   service: "SEO",
   serviceSlug: "seo",
-  title: "SEO Waterford | Search Engine Optimisation for Waterford Businesses",
+  title: "SEO Waterford | Search Engine Optimisation, Co. Waterford",
   description:
     "SEO for Waterford businesses in the city, Tramore, Dungarvan and across the county. Local search work reported in enquiries, not rankings reports.",
   h1: "SEO in Waterford, an under-contested city.",
@@ -9748,7 +9748,7 @@ const tipperarySeo: ServicePage = {
   countySlug: "tipperary",
   service: "SEO",
   serviceSlug: "seo",
-  title: "SEO Tipperary | Search Engine Optimisation for Tipperary Businesses",
+  title: "SEO Tipperary | Search Engine Optimisation, Co. Tipperary",
   description:
     "SEO for Tipperary businesses in Clonmel, Thurles, Nenagh and across the county. Town-level local search work reported in enquiries.",
   h1: "SEO in Tipperary, where you rank in your own town.",
@@ -12613,7 +12613,7 @@ const roscommonSeo: ServicePage = {
   countySlug: "roscommon",
   service: "SEO",
   serviceSlug: "seo",
-  title: "SEO Roscommon | Search Engine Optimisation for Roscommon Businesses",
+  title: "SEO Roscommon | Search Engine Optimisation, Co. Roscommon",
   description:
     "SEO for Roscommon businesses in Roscommon town, Boyle, Castlerea and across the county. Optimisation aimed at the towns your customers actually use.",
   h1: "SEO in Roscommon, where you should rank for other counties' towns.",
@@ -12726,7 +12726,7 @@ const westmeathSeo: ServicePage = {
   countySlug: "westmeath",
   service: "SEO",
   serviceSlug: "seo",
-  title: "SEO Westmeath | Search Engine Optimisation for Athlone & Mullingar",
+  title: "SEO Westmeath | Athlone & Mullingar Search Optimisation",
   description:
     "SEO for Westmeath businesses in Athlone, Mullingar and across the county. Local search work run as two towns facing opposite directions.",
   h1: "SEO in Westmeath, two towns and two different prizes.",

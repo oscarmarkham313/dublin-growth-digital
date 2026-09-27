@@ -26,6 +26,9 @@ jobs:
         with:
           node-version: 20
           cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
       - run: npm ci
       - run: npm run build
         env:
@@ -44,6 +47,25 @@ jobs:
           # components/ConsentBanner.tsx.
           NEXT_PUBLIC_META_PIXEL_ID: "1618086275952154"
           NEXT_PUBLIC_GA4_ID: ${{ vars.NEXT_PUBLIC_GA4_ID }}
+
+      # ————— SEO checks —————
+      # These ran only when somebody remembered to run them by hand,
+      # which is how five over-length titles and two whole page types
+      # missing from llms.txt reached production. They now block the
+      # deploy instead of being discovered by accident weeks later.
+      #
+      # Each script exits non-zero on a regression and prints what and
+      # where, so a failed run is actionable without reproducing locally.
+
+      - name: On-page SEO audit
+        run: python scripts/seo_audit.py
+
+      - name: Sitemap / llms.txt parity
+        run: python scripts/parity_check.py
+
+      - name: Duplicate content gate
+        run: python scripts/duplication-gate.py
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: out
@@ -64,3 +86,32 @@ jobs:
       # the only publisher and there is nothing left to race.
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  notify-search-engines:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: npm ci
+      - run: npm run build
+        env:
+          NEXT_PUBLIC_META_PIXEL_ID: "1618086275952154"
+          NEXT_PUBLIC_GA4_ID: ${{ vars.NEXT_PUBLIC_GA4_ID }}
+
+      # Submits only URLs whose lastmod falls in the window, which is
+      # accurate because lastmod comes from git history rather than the
+      # build clock. Bing and Yandex honour this; Google does not have an
+      # equivalent and still depends on re-reading the sitemap.
+      #
+      # continue-on-error: a failed ping must never mark a good deploy as
+      # failed. The site is already live by this point.
+      - name: Ping IndexNow with what changed
+        continue-on-error: true
+        run: python scripts/indexnow.py --days 3

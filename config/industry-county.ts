@@ -332,7 +332,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Dublin",
     title: "Plumbing Leads Dublin | Marketing for Dublin Plumbers",
     description:
-      "Lead generation for Dublin plumbers and heating engineers: emergency work decided in minutes, heat pump work decided over weeks, at the highest click prices in Ireland.",
+      "Lead generation for Dublin plumbers and heating engineers: emergency work decided in minutes, heat pump work researched over weeks.",
     h1: "Plumbing leads in Dublin, emergency and planned.",
     intro: [
       "Dublin plumbing is two businesses at once. An emergency — a burst pipe, no heat, a leak through a ceiling — is decided in minutes from the map results. A boiler replacement or a heat pump is researched for weeks.",
