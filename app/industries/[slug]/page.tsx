@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { industries, industryBySlug } from "@/config/industries";
 import { industrySeoBySlug } from "@/config/industry-seo";
+import { industryCountyFor } from "@/config/industry-county";
 import { counties } from "@/config/counties";
 import { posts } from "@/config/posts";
 import { site } from "@/config/copy";
@@ -47,6 +48,7 @@ export default async function IndustryPage({
   if (!ind) notFound();
 
   const seoPage = industrySeoBySlug(ind.slug);
+  const countyPages = industryCountyFor(ind.slug);
   const related = ind.related
     .map((s) => industryBySlug(s))
     .filter((x): x is NonNullable<typeof x> => Boolean(x));
@@ -310,6 +312,28 @@ export default async function IndustryPage({
           </div>
         </div>
       </section>
+
+      {/* Industry x county pages. These were built and then left as
+          orphans -- zero contextual inbound links, reachable only from
+          the sitemap. The link graph audit found it. */}
+      {countyPages.length > 0 && (
+        <section className="border-t border-hairline bg-bg py-14 md:py-16">
+          <div className="mx-auto max-w-container px-5 md:px-10">
+            <span className="eyebrow">{ind.label} by county</span>
+            <div className="mt-6 flex flex-wrap gap-x-6 gap-y-3">
+              {countyPages.map((c) => (
+                <Link
+                  key={c.county}
+                  href={`/industries/${c.industry}/${c.county}/`}
+                  className="text-lg font-extrabold tracking-display text-text-2 underline decoration-hairline-dk underline-offset-4 transition-colors hover:text-ink md:text-xl"
+                >
+                  {c.countyName}
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* SEO x industry page, where one exists. Built because
           "landscaping seo ireland" earns impressions with no page. */}

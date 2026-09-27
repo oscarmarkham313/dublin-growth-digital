@@ -136,7 +136,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["solar-installers", "roofers", "builders-and-extensions"],
+    related: ["solicitors", "accountants", "mortgage-brokers"],
   },
   {
     slug: "solar-installers",
@@ -219,7 +219,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["plumbers-and-heating", "roofers", "estate-agents"],
+    related: ["heat-pumps", "plumbers-and-heating", "stoves-and-fireplaces"],
   },
   {
     slug: "roofers",
@@ -357,7 +357,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["driveways-and-paving", "landscapers", "builders-and-extensions"],
+    related: ["gutter-cleaning", "chimney-sweeps", "powerwashing"],
   },
   {
     slug: "landscapers",
@@ -440,7 +440,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["driveways-and-paving", "roofers", "builders-and-extensions"],
+    related: ["driveways-and-paving", "fencing-and-gates", "tree-surgery"],
   },
   {
     slug: "driveways-and-paving",
@@ -523,7 +523,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["landscapers", "roofers", "builders-and-extensions"],
+    related: ["fencing-and-gates", "tree-surgery", "artificial-grass"],
   },
   {
     slug: "bathroom-renovations",
@@ -606,7 +606,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["builders-and-extensions", "plumbers-and-heating", "solar-installers"],
+    related: ["tilers", "flooring", "painters-and-decorators"],
   },
   {
     slug: "plumbers-and-heating",
@@ -689,7 +689,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["solar-installers", "bathroom-renovations", "roofers"],
+    related: ["stoves-and-fireplaces", "ev-charger-installers", "electricians"],
   },
   {
     slug: "builders-and-extensions",
@@ -772,7 +772,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["bathroom-renovations", "roofers", "estate-agents"],
+    related: ["attic-conversions", "garage-conversions", "sunrooms-and-conservatories"],
   },
   {
     slug: "electricians",
@@ -839,7 +839,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. No setup fee, month to month.",
       },
     ],
-    related: ["plumbers-and-heating", "solar-installers", "builders-and-extensions"],
+    related: ["solar-installers", "heat-pumps", "plumbers-and-heating"],
   },
   {
     slug: "kitchens",
@@ -906,7 +906,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. Month to month, no setup fee.",
       },
     ],
-    related: ["bathroom-renovations", "builders-and-extensions", "flooring"],
+    related: ["bathroom-renovations", "tilers", "flooring"],
   },
   {
     slug: "attic-conversions",
@@ -973,7 +973,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. Month to month, no setup fee.",
       },
     ],
-    related: ["builders-and-extensions", "garden-rooms", "bathroom-renovations"],
+    related: ["garage-conversions", "sunrooms-and-conservatories", "garden-rooms"],
   },
   {
     slug: "garden-rooms",
@@ -1040,7 +1040,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. Month to month.",
       },
     ],
-    related: ["attic-conversions", "builders-and-extensions", "landscapers"],
+    related: ["architects", "engineers-and-surveyors", "groundworks"],
   },
   {
     slug: "windows-and-doors",
@@ -1107,7 +1107,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["solar-installers", "builders-and-extensions", "bathroom-renovations"],
+    related: ["glazing", "asbestos-removal", "roofers"],
   },
   {
     slug: "heat-pumps",
@@ -1174,7 +1174,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["solar-installers", "plumbers-and-heating", "windows-and-doors"],
+    related: ["plumbers-and-heating", "stoves-and-fireplaces", "ev-charger-installers"],
   },
   {
     slug: "drainage",
@@ -1241,7 +1241,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["plumbers-and-heating", "damp-proofing", "roofers"],
+    related: ["septic-tank-services", "water-treatment", "pest-control"],
   },
   {
     slug: "damp-proofing",
@@ -1308,7 +1308,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["drainage", "roofers", "builders-and-extensions"],
+    related: ["insulation", "windows-and-doors", "glazing"],
   },
   {
     slug: "painters-and-decorators",
@@ -1375,7 +1375,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["flooring", "tilers", "bathroom-renovations"],
+    related: ["blinds-and-curtains", "interior-designers", "shopfitting"],
   },
   {
     slug: "tilers",
@@ -1442,7 +1442,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["bathroom-renovations", "flooring", "painters-and-decorators"],
+    related: ["flooring", "painters-and-decorators", "blinds-and-curtains"],
   },
   {
     slug: "flooring",
@@ -1509,7 +1509,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["tilers", "kitchens", "painters-and-decorators"],
+    related: ["painters-and-decorators", "blinds-and-curtains", "interior-designers"],
   },
   {
     slug: "fencing-and-gates",
@@ -1576,7 +1576,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["landscapers", "driveways-and-paving", "garden-rooms"],
+    related: ["tree-surgery", "artificial-grass", "pools-and-hot-tubs"],
   },
   {
     slug: "med-spas",
@@ -1643,7 +1643,7 @@ export const industries: Industry[] = [
         a: "Yes, and they are usually the better fit. A single clinic with a strong local reputation has advantages a chain cannot copy, and a budget that is small nationally goes a long way across one catchment.",
       },
     ],
-    related: ["skin-clinics", "estate-agents", "insurance-brokers"],
+    related: ["skin-clinics", "barbers", "dog-grooming"],
   },
   {
     slug: "skin-clinics",
@@ -1710,7 +1710,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. Month to month, no setup fee.",
       },
     ],
-    related: ["med-spas", "estate-agents", "insurance-brokers"],
+    related: ["barbers", "dog-grooming", "med-spas"],
   },
   {
     slug: "insurance-brokers",
@@ -1777,7 +1777,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. No setup fee, month to month, and ad spend is paid directly to the platforms from your own account.",
       },
     ],
-    related: ["estate-agents", "med-spas", "skin-clinics"],
+    related: ["estate-agents", "solicitors", "accountants"],
   },
   {
     slug: "insulation",
@@ -1860,7 +1860,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["heat-pumps", "solar-installers", "windows-and-doors"],
+    related: ["windows-and-doors", "glazing", "asbestos-removal"],
   },
   {
     slug: "plastering",
@@ -1943,7 +1943,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["painters-and-decorators", "builders-and-extensions", "tilers"],
+    related: ["carpentry-and-joinery", "stonemasons", "builders-and-extensions"],
   },
   {
     slug: "stoves-and-fireplaces",
@@ -2026,7 +2026,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["plumbers-and-heating", "heat-pumps", "builders-and-extensions"],
+    related: ["ev-charger-installers", "electricians", "solar-installers"],
   },
   {
     slug: "sunrooms-and-conservatories",
@@ -2109,7 +2109,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["garden-rooms", "builders-and-extensions", "windows-and-doors"],
+    related: ["garden-rooms", "architects", "engineers-and-surveyors"],
   },
   {
     slug: "security-and-alarms",
@@ -2192,7 +2192,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["electricians", "drainage", "builders-and-extensions"],
+    related: ["fire-safety", "signage-and-print", "couriers-and-delivery"],
   },
   {
     slug: "tree-surgery",
@@ -2275,7 +2275,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["landscapers", "fencing-and-gates", "drainage"],
+    related: ["artificial-grass", "pools-and-hot-tubs", "landscapers"],
   },
   {
     slug: "dentists",
@@ -2368,7 +2368,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["med-spas", "skin-clinics", "physiotherapy"],
+    related: ["physiotherapy", "chiropractors", "podiatry-and-chiropody"],
   },
   {
     slug: "physiotherapy",
@@ -2451,7 +2451,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["dentists", "gyms-and-fitness", "med-spas"],
+    related: ["chiropractors", "podiatry-and-chiropody", "opticians"],
   },
   {
     slug: "veterinary",
@@ -2534,7 +2534,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["physiotherapy", "dentists", "car-garages"],
+    related: ["agricultural-contractors", "farm-buildings", "equine-services"],
   },
   {
     slug: "solicitors",
@@ -2617,7 +2617,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["accountants", "estate-agents", "insurance-brokers"],
+    related: ["accountants", "funeral-directors", "estate-agents"],
   },
   {
     slug: "accountants",
@@ -2700,7 +2700,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["solicitors", "insurance-brokers", "estate-agents"],
+    related: ["mortgage-brokers", "financial-advisors", "insurance-brokers"],
   },
   {
     slug: "car-garages",
@@ -2783,7 +2783,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["veterinary", "electricians", "drainage"],
+    related: ["mobile-mechanics", "tyre-fitting", "windscreen-repair"],
   },
   {
     slug: "gyms-and-fitness",
@@ -2866,7 +2866,7 @@ export const industries: Industry[] = [
         ],
       },
     ],
-    related: ["physiotherapy", "skin-clinics", "med-spas"],
+    related: ["creches", "grinds-and-tutoring", "driving-schools"],
   },
   {
     slug: "mortgage-brokers",
@@ -2949,7 +2949,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["insurance-brokers", "accountants", "estate-agents"],
+    related: ["financial-advisors", "insurance-brokers", "estate-agents"],
   },
   {
     slug: "architects",
@@ -3032,7 +3032,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["builders-and-extensions", "attic-conversions", "sunrooms-and-conservatories"],
+    related: ["engineers-and-surveyors", "interior-designers", "builders-and-extensions"],
   },
   {
     slug: "pest-control",
@@ -3115,7 +3115,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["drainage", "damp-proofing", "security-and-alarms"],
+    related: ["cleaning-companies", "drainage", "septic-tank-services"],
   },
   {
     slug: "locksmiths",
@@ -3198,7 +3198,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["security-and-alarms", "drainage", "electricians"],
+    related: ["appliance-repair", "it-support", "health-and-safety-consultants"],
   },
   {
     slug: "powerwashing",
@@ -3281,7 +3281,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["driveways-and-paving", "roofers", "landscapers"],
+    related: ["damp-proofing", "insulation", "windows-and-doors"],
   },
   {
     slug: "carpentry-and-joinery",
@@ -3364,7 +3364,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["kitchens", "flooring", "builders-and-extensions"],
+    related: ["stonemasons", "builders-and-extensions", "attic-conversions"],
   },
   {
     slug: "asbestos-removal",
@@ -3447,7 +3447,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["damp-proofing", "builders-and-extensions", "insulation"],
+    related: ["roofers", "gutter-cleaning", "chimney-sweeps"],
   },
   {
     slug: "skip-hire",
@@ -3530,7 +3530,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["builders-and-extensions", "landscapers", "drainage"],
+    related: ["locksmiths", "appliance-repair", "it-support"],
   },
   {
     slug: "it-support",
@@ -3613,7 +3613,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["accountants", "solicitors", "security-and-alarms"],
+    related: ["health-and-safety-consultants", "recruitment-agencies", "security-and-alarms"],
   },
   {
     slug: "agricultural-contractors",
@@ -3696,7 +3696,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["fencing-and-gates", "tree-surgery", "drainage"],
+    related: ["farm-buildings", "equine-services", "veterinary"],
   },
   {
     slug: "home-care",
@@ -3779,7 +3779,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["physiotherapy", "veterinary", "dentists"],
+    related: ["stairlifts-and-mobility", "removals-companies", "self-storage"],
   },
   {
     slug: "opticians",
@@ -3862,7 +3862,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["dentists", "physiotherapy", "skin-clinics"],
+    related: ["audiologists", "counselling-and-therapy", "dentists"],
   },
   {
     slug: "restaurants-and-cafes",
@@ -3945,7 +3945,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["hotels-and-guesthouses", "wedding-venues", "gyms-and-fitness"],
+    related: ["hotels-and-guesthouses", "wedding-venues", "catering-companies"],
   },
   {
     slug: "hotels-and-guesthouses",
@@ -4028,7 +4028,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["restaurants-and-cafes", "wedding-venues", "med-spas"],
+    related: ["wedding-venues", "catering-companies", "marquee-hire"],
   },
   {
     slug: "wedding-venues",
@@ -4111,7 +4111,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["hotels-and-guesthouses", "restaurants-and-cafes", "med-spas"],
+    related: ["catering-companies", "marquee-hire", "wedding-planners"],
   },
   {
     slug: "barbers",
@@ -4194,7 +4194,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["skin-clinics", "gyms-and-fitness", "med-spas"],
+    related: ["dog-grooming", "med-spas", "skin-clinics"],
   },
   {
     slug: "driving-schools",
@@ -4277,7 +4277,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["car-garages", "gyms-and-fitness", "creches"],
+    related: ["swimming-schools", "music-schools", "personal-trainers"],
   },
   {
     slug: "creches",
@@ -4360,7 +4360,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["home-care", "driving-schools", "physiotherapy"],
+    related: ["grinds-and-tutoring", "driving-schools", "swimming-schools"],
   },
   {
     slug: "funeral-directors",
@@ -4443,7 +4443,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["solicitors", "home-care", "insurance-brokers"],
+    related: ["monumental-sculptors", "celebrants", "solicitors"],
   },
   {
     slug: "financial-advisors",
@@ -4526,7 +4526,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["insurance-brokers", "mortgage-brokers", "accountants"],
+    related: ["insurance-brokers", "estate-agents", "solicitors"],
   },
   {
     slug: "engineers-and-surveyors",
@@ -4609,7 +4609,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["architects", "estate-agents", "builders-and-extensions"],
+    related: ["groundworks", "steel-fabrication", "scaffolding"],
   },
   {
     slug: "shopfitting",
@@ -4692,7 +4692,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["carpentry-and-joinery", "builders-and-extensions", "signage-and-print"],
+    related: ["kitchens", "bathroom-renovations", "tilers"],
   },
   {
     slug: "signage-and-print",
@@ -4775,7 +4775,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["shopfitting", "it-support", "skip-hire"],
+    related: ["couriers-and-delivery", "equipment-hire", "skip-hire"],
   },
   {
     slug: "equipment-hire",
@@ -4858,7 +4858,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["skip-hire", "builders-and-extensions", "agricultural-contractors"],
+    related: ["skip-hire", "locksmiths", "appliance-repair"],
   },
   {
     slug: "scaffolding",
@@ -4941,7 +4941,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["roofers", "builders-and-extensions", "plastering"],
+    related: ["plastering", "carpentry-and-joinery", "stonemasons"],
   },
   {
     slug: "glazing",
@@ -5024,7 +5024,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["windows-and-doors", "security-and-alarms", "locksmiths"],
+    related: ["asbestos-removal", "roofers", "gutter-cleaning"],
   },
   {
     slug: "garage-conversions",
@@ -5107,7 +5107,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["attic-conversions", "builders-and-extensions", "garden-rooms"],
+    related: ["sunrooms-and-conservatories", "garden-rooms", "architects"],
   },
   {
     slug: "artificial-grass",
@@ -5190,7 +5190,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["landscapers", "driveways-and-paving", "fencing-and-gates"],
+    related: ["pools-and-hot-tubs", "landscapers", "driveways-and-paving"],
   },
   {
     slug: "pools-and-hot-tubs",
@@ -5273,7 +5273,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["landscapers", "garden-rooms", "plumbers-and-heating"],
+    related: ["landscapers", "driveways-and-paving", "fencing-and-gates"],
   },
   {
     slug: "chimney-sweeps",
@@ -5356,7 +5356,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["stoves-and-fireplaces", "roofers", "gutter-cleaning"],
+    related: ["powerwashing", "damp-proofing", "insulation"],
   },
   {
     slug: "gutter-cleaning",
@@ -5439,7 +5439,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["roofers", "powerwashing", "chimney-sweeps"],
+    related: ["chimney-sweeps", "powerwashing", "damp-proofing"],
   },
   {
     slug: "mobile-mechanics",
@@ -5522,7 +5522,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["car-garages", "equipment-hire", "drainage"],
+    related: ["tyre-fitting", "windscreen-repair", "car-valeting"],
   },
   {
     slug: "recruitment-agencies",
@@ -5605,7 +5605,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["it-support", "accountants", "solicitors"],
+    related: ["security-and-alarms", "fire-safety", "signage-and-print"],
   },
   {
     slug: "equine-services",
@@ -5688,7 +5688,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["agricultural-contractors", "veterinary", "farm-buildings"],
+    related: ["veterinary", "agricultural-contractors", "farm-buildings"],
   },
   {
     slug: "farm-buildings",
@@ -5771,7 +5771,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["agricultural-contractors", "equine-services", "builders-and-extensions"],
+    related: ["equine-services", "veterinary", "agricultural-contractors"],
   },
   {
     slug: "self-storage",
@@ -5854,7 +5854,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
       },
     ],
-    related: ["equipment-hire", "skip-hire", "estate-agents"],
+    related: ["home-care", "stairlifts-and-mobility", "removals-companies"],
   },
   {
     slug: "ev-charger-installers",
@@ -5949,7 +5949,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included. No setup fee, month to month, and ad spend is paid directly to the platforms.",
       },
     ],
-    related: ["solar-installers", "electricians", "heat-pumps"],
+    related: ["electricians", "solar-installers", "heat-pumps"],
   },
   {
     slug: "septic-tank-services",
@@ -6058,7 +6058,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, no setup fee, month to month.",
       },
     ],
-    related: ["drainage", "agricultural-contractors", "plumbers-and-heating"],
+    related: ["water-treatment", "pest-control", "cleaning-companies"],
   },
   {
     slug: "grinds-and-tutoring",
@@ -6166,7 +6166,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["creches", "driving-schools", "recruitment-agencies"],
+    related: ["driving-schools", "swimming-schools", "music-schools"],
   },
   {
     slug: "cleaning-companies",
@@ -6275,7 +6275,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["powerwashing", "gutter-cleaning", "home-care"],
+    related: ["drainage", "septic-tank-services", "water-treatment"],
   },
   {
     slug: "removals-companies",
@@ -6370,7 +6370,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["self-storage", "estate-agents", "equipment-hire"],
+    related: ["self-storage", "home-care", "stairlifts-and-mobility"],
   },
   {
     slug: "audiologists",
@@ -6465,7 +6465,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["opticians", "home-care", "physiotherapy"],
+    related: ["counselling-and-therapy", "dentists", "physiotherapy"],
   },
   {
     slug: "stairlifts-and-mobility",
@@ -6574,7 +6574,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["home-care", "attic-conversions", "bathroom-renovations"],
+    related: ["removals-companies", "self-storage", "home-care"],
   },
   {
     slug: "blinds-and-curtains",
@@ -6669,7 +6669,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["kitchens", "flooring", "windows-and-doors"],
+    related: ["interior-designers", "shopfitting", "kitchens"],
   },
   {
     slug: "water-treatment",
@@ -6778,7 +6778,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["plumbers-and-heating", "drainage", "septic-tank-services"],
+    related: ["pest-control", "cleaning-companies", "drainage"],
   },
   {
     slug: "interior-designers",
@@ -6886,7 +6886,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["architects", "kitchens", "builders-and-extensions"],
+    related: ["shopfitting", "kitchens", "bathroom-renovations"],
   },
   {
     slug: "health-and-safety-consultants",
@@ -6981,7 +6981,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["engineers-and-surveyors", "it-support", "recruitment-agencies"],
+    related: ["recruitment-agencies", "security-and-alarms", "fire-safety"],
   },
   {
     slug: "photographers",
@@ -7090,7 +7090,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["wedding-venues", "hotels-and-guesthouses", "signage-and-print"],
+    related: ["restaurants-and-cafes", "hotels-and-guesthouses", "wedding-venues"],
   },
   {
     slug: "windscreen-repair",
@@ -7178,7 +7178,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["car-garages", "mobile-mechanics", "glazing"],
+    related: ["car-valeting", "bike-shops", "car-garages"],
   },
   {
     slug: "tyre-fitting",
@@ -7279,7 +7279,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["car-garages", "mobile-mechanics", "equipment-hire"],
+    related: ["windscreen-repair", "car-valeting", "bike-shops"],
   },
   {
     slug: "appliance-repair",
@@ -7367,7 +7367,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["electricians", "plumbers-and-heating", "it-support"],
+    related: ["it-support", "health-and-safety-consultants", "recruitment-agencies"],
   },
   {
     slug: "car-valeting",
@@ -7455,7 +7455,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["car-garages", "powerwashing", "mobile-mechanics"],
+    related: ["bike-shops", "car-garages", "mobile-mechanics"],
   },
   {
     slug: "dog-grooming",
@@ -7543,7 +7543,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["veterinary", "home-care", "creches"],
+    related: ["med-spas", "skin-clinics", "barbers"],
   },
   {
     slug: "personal-trainers",
@@ -7631,7 +7631,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["gyms-and-fitness", "physiotherapy", "skin-clinics"],
+    related: ["gyms-and-fitness", "creches", "grinds-and-tutoring"],
   },
   {
     slug: "couriers-and-delivery",
@@ -7719,7 +7719,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["self-storage", "equipment-hire", "it-support"],
+    related: ["equipment-hire", "skip-hire", "locksmiths"],
   },
   {
     slug: "groundworks",
@@ -7807,7 +7807,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["builders-and-extensions", "drainage", "agricultural-contractors"],
+    related: ["steel-fabrication", "scaffolding", "plastering"],
   },
   {
     slug: "steel-fabrication",
@@ -7895,7 +7895,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["engineers-and-surveyors", "farm-buildings", "fencing-and-gates"],
+    related: ["scaffolding", "plastering", "carpentry-and-joinery"],
   },
   {
     slug: "stonemasons",
@@ -7983,7 +7983,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["builders-and-extensions", "plastering", "landscapers"],
+    related: ["monumental-sculptors", "plastering", "carpentry-and-joinery"],
   },
   {
     slug: "monumental-sculptors",
@@ -8071,7 +8071,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["funeral-directors", "stonemasons", "solicitors"],
+    related: ["celebrants", "solicitors", "funeral-directors"],
   },
   {
     slug: "fire-safety",
@@ -8159,7 +8159,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["security-and-alarms", "health-and-safety-consultants", "electricians"],
+    related: ["signage-and-print", "couriers-and-delivery", "equipment-hire"],
   },
   {
     slug: "counselling-and-therapy",
@@ -8247,7 +8247,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["physiotherapy", "home-care", "skin-clinics"],
+    related: ["dentists", "physiotherapy", "chiropractors"],
   },
   {
     slug: "chiropractors",
@@ -8335,7 +8335,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["physiotherapy", "gyms-and-fitness", "skin-clinics"],
+    related: ["podiatry-and-chiropody", "opticians", "audiologists"],
   },
   {
     slug: "podiatry-and-chiropody",
@@ -8423,7 +8423,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["physiotherapy", "home-care", "audiologists"],
+    related: ["opticians", "audiologists", "counselling-and-therapy"],
   },
   {
     slug: "swimming-schools",
@@ -8511,7 +8511,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["gyms-and-fitness", "creches", "grinds-and-tutoring"],
+    related: ["music-schools", "personal-trainers", "gyms-and-fitness"],
   },
   {
     slug: "music-schools",
@@ -8599,7 +8599,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["grinds-and-tutoring", "driving-schools", "creches"],
+    related: ["personal-trainers", "gyms-and-fitness", "creches"],
   },
   {
     slug: "wedding-planners",
@@ -8687,7 +8687,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["wedding-venues", "photographers", "hotels-and-guesthouses"],
+    related: ["celebrants", "photographers", "restaurants-and-cafes"],
   },
   {
     slug: "celebrants",
@@ -8775,7 +8775,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["wedding-venues", "wedding-planners", "funeral-directors"],
+    related: ["wedding-planners", "funeral-directors", "wedding-venues"],
   },
   {
     slug: "catering-companies",
@@ -8863,7 +8863,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["wedding-venues", "restaurants-and-cafes", "hotels-and-guesthouses"],
+    related: ["marquee-hire", "wedding-planners", "celebrants"],
   },
   {
     slug: "marquee-hire",
@@ -8951,7 +8951,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["wedding-venues", "equipment-hire", "catering-companies"],
+    related: ["wedding-planners", "celebrants", "photographers"],
   },
   {
     slug: "bike-shops",
@@ -9039,7 +9039,7 @@ export const industries: Industry[] = [
         a: "€1,500 a month with everything included, month to month.",
       },
     ],
-    related: ["car-garages", "gyms-and-fitness", "equipment-hire"],
+    related: ["car-garages", "mobile-mechanics", "tyre-fitting"],
   },
 ];
 
