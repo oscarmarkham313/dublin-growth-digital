@@ -1,6 +1,8 @@
 import Link from "next/link";
 import { home } from "@/config/copy";
 import { caseStudies } from "@/config/case-studies";
+import { industries } from "@/config/industries";
+import { counties } from "@/config/counties";
 import HeroVideo from "@/components/HeroVideo";
 import RotatingWord from "@/components/RotatingWord";
 import TestimonialCarousel from "@/components/TestimonialCarousel";
@@ -9,9 +11,60 @@ import Reveal from "@/components/Reveal";
 import StatNumber from "@/components/StatNumber";
 import Funnel from "@/components/Funnel";
 
+/**
+ * The niches and counties surfaced on the home page.
+ *
+ * This section exists for readers — someone landing here wants to know
+ * whether we work with their kind of business and their area — but it
+ * also fixes something that was quietly throttling the whole site.
+ *
+ * Outside the nav and footer, the home page linked to exactly one page:
+ * /results/. Google discounts sitewide boilerplate, so 479 of 482 pages
+ * had no editorial path from the strongest page on the domain. With no
+ * external links at all, that is the only authority there is, and it
+ * was reaching nothing. 445 pages discovered, 35 indexed.
+ *
+ * The hubs were already wired correctly — /industries/ links to 107,
+ * /blog/ to 117 — so linking the hubs contextually from here is what
+ * opens the path. The named niches below are the ones with real search
+ * signal, so they get the direct link.
+ */
+const HOME_NICHES = [
+  "roofers",
+  "solar-installers",
+  "estate-agents",
+  "plumbers-and-heating",
+  "builders-and-extensions",
+  "landscapers",
+  "electricians",
+  "kitchens",
+  "dentists",
+  "accountants",
+  "car-garages",
+  "gyms-and-fitness",
+];
+
+const HOME_COUNTIES = [
+  "dublin",
+  "kildare",
+  "meath",
+  "wicklow",
+  "cork",
+  "galway",
+  "wexford",
+  "kerry",
+];
+
 export default function Home() {
   const { hero, proof, services, resultsPreview, testimonials, closing } = home;
   const featured = caseStudies.filter((c) => c.featured).slice(0, 2);
+
+  const niches = HOME_NICHES.map((s) =>
+    industries.find((i) => i.slug === s),
+  ).filter((x): x is NonNullable<typeof x> => Boolean(x));
+  const places = HOME_COUNTIES.map((s) =>
+    counties.find((c) => c.slug === s),
+  ).filter((x): x is NonNullable<typeof x> => Boolean(x));
 
   return (
     <main>
@@ -128,6 +181,84 @@ export default function Home() {
               </Reveal>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* ————— SECTORS & PLACES ————— */}
+      <section className="border-t border-hairline bg-bg-alt py-20 md:py-28">
+        <div className="mx-auto max-w-container px-5 md:px-10">
+          <Reveal>
+            <span className="eyebrow">Who this is for</span>
+            <h2 className="mt-4 max-w-3xl text-4xl font-extrabold leading-[0.98] tracking-display md:text-6xl">
+              The same machine, built for one trade in one county.
+            </h2>
+            <p className="mt-6 max-w-2xl text-[15px] leading-relaxed text-text-2">
+              A roofer in Donegal and an estate agent in Cork are not
+              running the same business, and they should not be running
+              the same campaign. We write for the trade and the county
+              rather than for &ldquo;local business&rdquo;.
+            </p>
+          </Reveal>
+
+          <Reveal delay={0.05}>
+            <div className="mt-12">
+              <span className="eyebrow">Trades and professions</span>
+              <div className="mt-5 flex flex-wrap gap-x-6 gap-y-3">
+                {niches.map((i) => (
+                  <Link
+                    key={i.slug}
+                    href={`/industries/${i.slug}/`}
+                    className="text-sm font-semibold text-text-2 underline decoration-hairline-dk underline-offset-4 transition-colors hover:text-ink"
+                  >
+                    {i.label}
+                  </Link>
+                ))}
+                <Link
+                  href="/industries/"
+                  className="text-sm font-semibold text-ink underline decoration-accent underline-offset-4 transition-colors hover:text-accent"
+                >
+                  All {industries.length} industries →
+                </Link>
+              </div>
+            </div>
+          </Reveal>
+
+          <Reveal delay={0.1}>
+            <div className="mt-10">
+              <span className="eyebrow">Counties</span>
+              <div className="mt-5 flex flex-wrap gap-x-6 gap-y-3">
+                {places.map((c) => (
+                  <Link
+                    key={c.slug}
+                    href={`/locations/${c.slug}/`}
+                    className="text-sm font-semibold text-text-2 underline decoration-hairline-dk underline-offset-4 transition-colors hover:text-ink"
+                  >
+                    {c.name}
+                  </Link>
+                ))}
+                <Link
+                  href="/locations/"
+                  className="text-sm font-semibold text-ink underline decoration-accent underline-offset-4 transition-colors hover:text-accent"
+                >
+                  Every county →
+                </Link>
+              </div>
+            </div>
+          </Reveal>
+
+          <Reveal delay={0.15}>
+            <p className="mt-10 max-w-2xl text-[15px] leading-relaxed text-text-2">
+              If you would rather read before you talk to anyone, the{" "}
+              <Link
+                href="/blog/"
+                className="font-semibold text-ink underline decoration-accent underline-offset-4 transition-colors hover:text-accent"
+              >
+                guides
+              </Link>{" "}
+              cover what we would tell you on a call — what a lead should
+              cost, what to block in Google Ads, and what we would do first.
+            </p>
+          </Reveal>
         </div>
       </section>
 
