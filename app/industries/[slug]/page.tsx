@@ -68,7 +68,14 @@ export default async function IndustryPage({
     .sort(
       (a, b) =>
         a.related.indexOf(ind.slug) - b.related.indexOf(ind.slug) ||
-        a.related.length - b.related.length,
+        a.related.length - b.related.length ||
+        // Those two keys leave large ties — fourteen guides claim
+        // estate-agents first in a list of three, and file order was
+        // breaking it in favour of whatever was written earliest. That
+        // buried an entire niche cluster behind four generic guides.
+        // Newest first is the honest tiebreak: a guide written for a
+        // niche is written when that niche is being built out.
+        (b.updated ?? b.date).localeCompare(a.updated ?? a.date),
     )
     .slice(0, 6);
   const topCounties = counties.filter((c) => c.focus.includes(ind.slug)).slice(0, 8);
