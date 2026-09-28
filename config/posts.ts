@@ -5147,6 +5147,466 @@ export const posts: Post[] = [
     ],
     related: ["roofers", "plumbers-and-heating", "drainage"],
   },
+  {
+    slug: "solar-grant-sales-conversation",
+    title: "What the SEAI grant does to a solar sales conversation",
+    description:
+      "The grant brings you enquiries and then quietly costs you jobs. What it changes about how Irish homeowners compare solar quotes, and how to handle it.",
+    date: "2026-09-28",
+    minutes: 7,
+    intro:
+      "Every solar installer in Ireland benefits from the SEAI grant and most of them are damaged by it too. It brings people to the market who would never otherwise have looked, and it trains those same people to treat the decision as a form-filling exercise where the only variable is price. Understanding both halves is the difference between a campaign that fills a diary and one that fills an inbox.",
+    sections: [
+      {
+        h: "The grant creates the enquiry, not the sale",
+        p: [
+          "A homeowner hears there is money available, searches, and lands on three installer websites that all say roughly the same thing about the same grant. Nothing on any of them helps them choose.",
+          "So they choose on price, which is the worst possible ground for an installer who does the job properly. The grant did its job — it produced an interested customer — and then left you competing on the one axis you cannot win.",
+          "The fix is not to stop mentioning the grant. It is to stop making the grant the centrepiece, because the grant is identical for every quote they will receive.",
+        ],
+      },
+      {
+        h: "It anchors the price at the wrong number",
+        p: [
+          "People hear the grant figure and mentally subtract it from a price they have half-remembered from somewhere. By the time they speak to you, they have an expectation that may have nothing to do with their roof.",
+          "Setting the real range early, before the site visit, saves everybody time. An honest page saying what a system for a typical three-bedroom semi costs in your county, grant included and excluded, removes the shock from the conversation and filters out the people who were never going to proceed.",
+        ],
+      },
+      {
+        h: "It steps down, and that is a real deadline",
+        p: [
+          "The domestic rate has been reducing year on year. That gives you the only legitimate urgency available in this trade: the support is worth more now than it will be later.",
+          "Use it accurately and it works well. Invent a deadline that does not exist and you will be caught, because this is a scheme people can check in thirty seconds.",
+        ],
+      },
+      {
+        h: "The paperwork is a selling point nobody uses",
+        p: [
+          "Applications, timing, what has to happen before work starts, the BER assessment afterwards — it is not difficult but it is unfamiliar, and unfamiliar is exactly what stops people proceeding.",
+          "An installer who says plainly 'we handle the application and here is the order things happen in' removes the friction that kills a proportion of jobs after the quote. Very few websites explain the sequence at all.",
+        ],
+      },
+      {
+        h: "What to put in front of the customer instead",
+        p: [
+          "The grant belongs in the copy, once, factually. The things that actually differentiate you belong everywhere else.",
+        ],
+        list: [
+          "Photographs of your own installs on houses like theirs, in their county",
+          "What their roof specifically can and cannot do, said early",
+          "Realistic generation figures for their location, not national averages",
+          "Who does the work — your crew or a subcontractor",
+          "What happens in year six when something needs attention",
+        ],
+      },
+      {
+        h: "The uncomfortable summary",
+        p: [
+          "If your marketing is built on the grant, you are running the same campaign as everyone else with the same message about the same money, and the customer will settle it on price.",
+          "The installers who do well in Ireland treat the grant as context and sell on competence. It is slower to build and much harder to copy.",
+        ],
+      },
+    ],
+    related: ["solar-installers", "heat-pumps", "insulation"],
+  },
+  {
+    slug: "solar-quote-compared-to-three-others",
+    title: "Your solar quote is being compared to three others",
+    description:
+      "Irish homeowners get three or four solar quotes and cannot tell them apart. What to put in yours so the comparison stops being about price alone.",
+    date: "2026-09-28",
+    minutes: 6,
+    intro:
+      "Almost nobody buys solar from the first installer they speak to. The quote you send lands on a kitchen table beside two or three others, from companies the customer cannot distinguish, for equipment they have never heard of, at prices that are probably within a few hundred euro of each other. Whatever happens next is decided by what is on those pages.",
+    sections: [
+      {
+        h: "The customer is not qualified to compare you",
+        p: [
+          "They cannot evaluate a panel, an inverter or a mounting system. They have no way of judging whether your design is better than the cheaper one.",
+          "So they compare what they can read: the total, how quickly you came back, whether the document looks like it was written for them, and whether anything in it made them feel understood. That is the actual competition and it has little to do with the specification.",
+        ],
+      },
+      {
+        h: "Show their roof",
+        p: [
+          "A layout drawing of the panels on their own roof does more than any amount of technical detail. It proves you designed something for this house rather than quoting a package.",
+          "Include which roof planes you are using and why, and what you are deliberately not using. A competitor who has quoted the same total without explaining the design suddenly looks like they guessed.",
+        ],
+      },
+      {
+        h: "Give generation and savings honestly",
+        p: [
+          "Optimistic figures win the job and lose the review. Realistic figures for their orientation, their pitch and their county, with a note on what you have assumed about their usage, are more persuasive to the kind of customer you want.",
+          "Say what happens to the exported units and roughly what they are worth. Most quotes skate over this and most customers do not understand it, so explaining it plainly is a differentiator that costs nothing.",
+        ],
+      },
+      {
+        h: "Answer the question they are too polite to ask",
+        p: [
+          "What if it breaks. That is the fear underneath the whole purchase and most quotes do not touch it.",
+          "Warranty on panels, on the inverter and on your workmanship, stated separately, plus what actually happens if they ring you in year four. An installer who addresses it directly removes the main reason people delay.",
+        ],
+      },
+      {
+        h: "Speed reads as competence",
+        p: [
+          "A quote the same evening, or the next morning, tells the customer how you will behave for the rest of the project. One that takes nine days tells them something too.",
+          "This is consistently among the most-cited reasons Irish homeowners give for choosing one tradesperson over another, and it costs nothing but process.",
+        ],
+      },
+      {
+        h: "Then follow up once",
+        p: [
+          "Most installers send the quote and wait. A single call three days later, asking whether anything needs explaining, recovers a real share of jobs that would otherwise drift.",
+          "Not a discount call. A clarifying call. The customer is usually confused rather than unconvinced, and the installer who resolves the confusion is the one who gets the work.",
+        ],
+      },
+    ],
+    related: ["solar-installers", "heat-pumps", "ev-charger-installers"],
+  },
+  {
+    slug: "selling-solar-batteries-without-fear",
+    title: "Selling batteries without selling fear",
+    description:
+      "Storage is the bigger job and often the honest recommendation. How to make that case in Ireland without blackout scaremongering or invented payback figures.",
+    date: "2026-09-28",
+    minutes: 6,
+    intro:
+      "Battery storage is where the margin is, which is exactly why so much of the marketing around it is bad. Blackout imagery, implied grid collapse and payback numbers that only work if electricity doubles in price — all of it is effective in the short term and corrosive over a few years. The honest case for storage in Ireland is strong enough on its own, particularly for the households most installers are actually selling to.",
+    sections: [
+      {
+        h: "Start with when the house is empty",
+        p: [
+          "A commuter household generates most of its solar between nine and five with nobody home. Those units get exported, and an exported unit is worth a fraction of one you did not have to buy.",
+          "That is the entire argument and it is arithmetic, not fear. Show the customer their own day — out at eight, back at six — and the gap explains itself.",
+          "For a retired couple at home all day, the same argument is much weaker, and saying so is what makes you credible when you do recommend it.",
+        ],
+      },
+      {
+        h: "Night-rate charging is the part people miss",
+        p: [
+          "A battery is not only a solar accessory. On a day-and-night tariff it can be filled cheaply overnight and used through the expensive part of the evening, which works in December when the panels are contributing very little.",
+          "Most quotes never mention this, and it is frequently the strongest part of the case. It also makes the system useful year-round rather than seasonally.",
+        ],
+      },
+      {
+        h: "Do not promise backup unless you are supplying it",
+        p: [
+          "A standard battery installation does not necessarily keep the lights on in a power cut. That requires specific equipment and configuration, and customers routinely assume otherwise.",
+          "If you are not providing it, say so in the quote. This is the single most common source of angry phone calls in the months after a storm, and it is entirely avoidable.",
+        ],
+      },
+      {
+        h: "Be careful with payback claims",
+        p: [
+          "Battery payback depends on the tariff, the usage pattern and what electricity prices do next, and nobody knows the last one.",
+          "Give a range, state the assumptions, and let the customer adjust them. A quote that says 'here is what we assumed and here is what changes if you are wrong' is far more convincing than a confident single number that a competitor has undercut by two years.",
+        ],
+      },
+      {
+        h: "The EV is the easiest version of this conversation",
+        p: [
+          "A household charging a car overnight from the grid while their roof exported all day has an obvious problem, and they can usually see it as soon as it is described.",
+          "Installers who handle solar, storage and charging together have a natural sequence of sales and a real reason to contact a past customer. Those who do not are handing the second and third jobs to someone else.",
+        ],
+      },
+    ],
+    related: ["solar-installers", "ev-charger-installers", "electricians"],
+  },
+  {
+    slug: "farm-solar-is-a-different-customer",
+    title: "Farm solar is a different customer entirely",
+    description:
+      "Irish farms have the best self-consumption profile in the country and almost no installer markets to them. What changes when the roof is a shed.",
+    date: "2026-09-28",
+    minutes: 7,
+    intro:
+      "The best solar customer in Ireland is not a homeowner. It is a dairy farm, where cooling, water heating and vacuum pumps draw hard through daylight hours on buildings with enormous unshaded roofs. Nearly every installer in the country markets exclusively to households, which leaves the better market to whoever bothers to speak to it.",
+    sections: [
+      {
+        h: "Self-consumption is the whole argument",
+        p: [
+          "A unit used on site is worth what you would have paid for it. A unit exported is worth considerably less. Domestic solar in Ireland exports a lot, because the house is empty during the day.",
+          "A working yard is not. Milk cooling runs after each milking, plate coolers and water heating run through the day, and the load profile lines up with production in a way a house never does.",
+          "That means the return calculation is genuinely better, and it can be made without optimism or hand-waving — which matters, because this customer will check it.",
+        ],
+      },
+      {
+        h: "They buy like a business, because they are one",
+        p: [
+          "Payback period, capital allowances, and how it sits alongside the other things the yard needs this year. Not monthly savings and not environmental feeling.",
+          "There is also a separate grant route for farm investment at a considerably better rate than the domestic scheme, with its own application windows and its own paperwork. Timing your marketing around those windows matters more than anything you do to the ads themselves.",
+        ],
+      },
+      {
+        h: "Your website is written for the wrong person",
+        p: [
+          "A farmer landing on a page about reducing your household bills leaves immediately. They are looking for evidence you have done a yard like theirs.",
+          "That means photographs of arrays on parlours, sheds and grain stores; system sizes in the range they care about; and language that assumes three-phase supply and a working building rather than a semi-detached house.",
+          "A separate page is the minimum. A separate campaign with its own lead form is better, because the qualifying questions are completely different.",
+        ],
+      },
+      {
+        h: "What the farm lead form should ask",
+        p: [
+          "Different questions, because the wrong ones make you look like you have never done this.",
+        ],
+        list: [
+          "Enterprise type — dairy, tillage, poultry, pigs, beef",
+          "Roughly what the yard spends on electricity a year",
+          "Single or three-phase supply",
+          "Shed roof type, age and rough area",
+          "Whether a grant application is already in train, and for what",
+        ],
+      },
+      {
+        h: "Where these people actually are",
+        p: [
+          "Cork, Tipperary, Limerick, Wexford, Meath and Kilkenny carry most of it. A national campaign spreads a budget across a country where the customer is concentrated in a handful of counties.",
+          "They also read the farming press and talk to each other constantly. One completed yard in a parish generates conversations you did not pay for, which is the opposite of how domestic solar referrals work.",
+        ],
+      },
+    ],
+    related: ["solar-installers", "agricultural-contractors", "farm-buildings"],
+  },
+  {
+    slug: "what-a-solar-enquiry-form-must-ask",
+    title: "The five questions a solar enquiry form has to ask",
+    description:
+      "Every extra question costs a few cheap leads and saves a wasted site visit. The five that decide whether a solar enquiry is worth driving to.",
+    date: "2026-09-28",
+    minutes: 5,
+    intro:
+      "A solar site visit is most of a morning once you include the drive, the roof, the consumer unit and the conversation at the kitchen table. Sending a surveyor to a house that was never going to work is the most expensive mistake in this trade, and it is almost always preventable with five questions asked before anybody gets in a van.",
+    sections: [
+      {
+        h: "1. Do you own the property?",
+        p: [
+          "Renters and people buying a house they have not closed on cannot proceed, and they appear in solar enquiries constantly because the grant coverage brings in everybody.",
+          "One question, and it removes a category of enquiry entirely.",
+        ],
+      },
+      {
+        h: "2. What type of house is it?",
+        p: [
+          "Detached, semi-detached, terraced, bungalow or apartment. That gives you a usable first estimate of roof area and tells you immediately whether the job is plausible.",
+          "Apartments are the important one. The resident frequently cannot make this decision at all, and finding that out on arrival is a wasted morning.",
+        ],
+      },
+      {
+        h: "3. Which way does the back of the house face?",
+        p: [
+          "Most people do not know their roof orientation and will guess, but they do know which way the back garden faces, and a surprising number know roughly where the sun is at lunchtime.",
+          "Even an approximate answer separates a good prospect from a difficult one before you commit a morning to it. Offer compass points rather than asking for degrees.",
+        ],
+      },
+      {
+        h: "4. Does anything overshadow the roof?",
+        p: [
+          "Trees, a taller neighbouring building, a chimney on the wrong side. Shading changes the design and sometimes kills the job.",
+          "Asking here also starts managing expectations early, which is far better than raising it for the first time at the survey after they have spent two weeks imagining the savings.",
+        ],
+      },
+      {
+        h: "5. Roughly what is the annual electricity bill?",
+        p: [
+          "This sizes the system, indicates whether storage belongs in the conversation, and tells you whether the numbers will work at all.",
+          "Give bands rather than asking for a figure. People will pick a band; they will abandon a form that asks them to go and find a bill.",
+        ],
+      },
+      {
+        h: "What this does to the numbers",
+        p: [
+          "Lead volume falls. Installers hate this and it is the reason most forms ask for a name and a phone number and nothing else.",
+          "But the cost per survey improves, the cost per install improves more, and the surveyor stops spending mornings on roofs that were never viable. Cost per lead is a vanity number; installs per euro spent is the business.",
+          "One more thing worth adding: how soon they want it done. 'Within three months' goes to the top of the diary and 'just researching' gets an email sequence instead of a phone call.",
+        ],
+      },
+    ],
+    related: ["solar-installers", "heat-pumps", "windows-and-doors"],
+  },
+  {
+    slug: "solar-ads-that-dont-look-like-solar-ads",
+    title: "Solar ads that do not look like every other solar ad",
+    description:
+      "Irish feeds are full of identical solar creative: a stock roof, a grant figure, a countdown. What actually stops the scroll, and why it is cheaper.",
+    date: "2026-09-28",
+    minutes: 6,
+    intro:
+      "Open Facebook in Ireland and the solar ads are interchangeable. A stock photograph of panels on a house that is not in this country, a grant figure in large yellow text, and some manufactured urgency. They all look the same because they were all built from the same template, and the result is that none of them are believed.",
+    sections: [
+      {
+        h: "The stock photograph is the tell",
+        p: [
+          "People cannot articulate why an image looks foreign, but they register it. American-style shingle roofs, Mediterranean light, houses that do not exist here.",
+          "A genuine photograph of a real install on a real Irish house — slate or concrete tile, Irish sky, a recognisable style of home — outperforms polished stock consistently. It looks less professional and it works better, which installers find hard to accept.",
+        ],
+      },
+      {
+        h: "Show the roof mid-job",
+        p: [
+          "Scaffolding, rails going on, two people working. It is evidence that the thing happened, and evidence is what this market is short of.",
+          "The finished array is a nice picture. The half-finished one is proof.",
+        ],
+      },
+      {
+        h: "Drop the countdown",
+        p: [
+          "Manufactured deadlines are everywhere in this trade and Irish consumers have learned to discount them. Worse, they attract the price-led enquiries you least want.",
+          "The genuine timing argument — that the grant rate has been stepping down, and that an install booked now happens before winter — is available and true. Use the real one.",
+        ],
+      },
+      {
+        h: "Put a person in it",
+        p: [
+          "The installer talking to camera on a roof for thirty seconds, explaining one specific thing — why that roof needed a different layout, what shading does — outperforms produced video in this market by a distance.",
+          "It is uncomfortable to make and almost nobody does it, which is exactly why it works. It also builds something a competitor cannot copy by hiring the same freelancer.",
+        ],
+      },
+      {
+        h: "Be specific about place",
+        p: [
+          "'Solar panels in Ireland' is an ad for nowhere. 'This install in Newbridge last month' is an ad somebody in Newbridge stops on.",
+          "Naming the town is the cheapest improvement available to a solar ad and it costs nothing but the discipline to make one variant per area.",
+        ],
+      },
+      {
+        h: "What to test first",
+        p: [
+          "Do not rebuild everything at once. Run the current creative against one honest variant and let the cost per qualified enquiry settle it.",
+        ],
+        list: [
+          "Your own install photograph versus the stock image",
+          "A named town versus 'Ireland'",
+          "Thirty seconds of the installer talking versus a produced video",
+          "The real grant timing versus a countdown",
+          "Mid-job photograph versus finished array",
+        ],
+      },
+    ],
+    related: ["solar-installers", "ev-charger-installers", "heat-pumps"],
+  },
+  {
+    slug: "solar-sales-cycle-is-longer-than-you-think",
+    title: "The solar sale takes longer than your follow-up does",
+    description:
+      "Most Irish solar enquiries do not convert in the first fortnight, and most installers stop trying after two calls. What to do in the gap.",
+    date: "2026-09-28",
+    minutes: 6,
+    intro:
+      "Solar is a four-figure purchase that nobody needs to make this week. People enquire, get quotes, think about it, talk to a partner, look at the bill again in three months and then decide. Installers, meanwhile, ring twice, get no answer, and write the lead off. The gap between how long the decision takes and how long the follow-up lasts is where most of the wasted ad spend in this trade goes.",
+    sections: [
+      {
+        h: "The enquiry is the start of a conversation, not the end",
+        p: [
+          "A solar enquiry is rarely a decision. It is somebody gathering information, often quite early, frequently without having discussed it properly at home.",
+          "Treating it as a hot lead and pushing produces a polite no. Treating it as the opening of a months-long conversation produces a job, sometimes in the next quarter.",
+        ],
+      },
+      {
+        h: "Two calls is not a follow-up",
+        p: [
+          "Most installers ring, ring again, and stop. The customer who was in a meeting both times is now gone, and the ad spend that produced them is wasted.",
+          "A sequence that runs over weeks rather than days — a call, a message, a useful email, another call a fortnight later — recovers a meaningful share of them. None of it is clever, which is why so few do it.",
+        ],
+      },
+      {
+        h: "Give them something to read",
+        p: [
+          "Between the quote and the decision, the customer is researching. They will read something. It may as well be yours.",
+          "A short piece on how the grant process actually runs, what a realistic generation figure looks like in their county, or what the system needs in year five, keeps you present while they make up their mind. It is also the kind of thing a partner reads over their shoulder, and the partner is frequently the one who has not been convinced.",
+        ],
+      },
+      {
+        h: "Winter enquiries convert in spring",
+        p: [
+          "People think about electricity bills in January and install in April. An enquiry that goes quiet in February is not necessarily lost.",
+          "A list of unconverted enquiries from the previous winter is one of the most valuable things a solar business owns, and most of them are sitting unused in an inbox.",
+        ],
+      },
+      {
+        h: "Keep track of them somewhere",
+        p: [
+          "The practical blocker is almost always that nobody knows which enquiries are outstanding. A spreadsheet is enough — name, date, what stage, when to contact next.",
+          "Without it, follow-up depends on remembering, and nobody remembers in August what they quoted in March.",
+        ],
+      },
+      {
+        h: "What this is worth",
+        p: [
+          "If you are paying for leads and converting the first fortnight only, you are buying the whole pipeline and using a fraction of it.",
+          "Extending the follow-up costs no additional ad spend at all. It is the cheapest increase in installs available to most solar businesses, and it usually beats increasing the budget.",
+        ],
+      },
+    ],
+    related: ["solar-installers", "heat-pumps", "insulation"],
+  },
+  {
+    slug: "google-ads-for-solar-installers-ireland",
+    title: "Where a solar installer's Google Ads budget leaks",
+    description:
+      "Grant-only searchers, DIY kits, panel wholesalers and job seekers all cost Irish solar installers money on a default setup. What to block, and what to keep.",
+    date: "2026-09-28",
+    minutes: 7,
+    intro:
+      "Solar has an unusually bad ratio of interested searchers to actual buyers, because a government grant brings a large number of people into the market to look rather than to buy. On a default Google Ads setup you pay for all of them equally. On most solar accounts we review, a substantial share of the spend is going to searches that could never have become an install.",
+    sections: [
+      {
+        h: "Grant-only searches are the biggest category",
+        p: [
+          "'SEAI grant', 'solar grant application', 'how much is the solar grant', 'grant calculator' — these people want information about money, and a sizeable share of them are years away from buying anything.",
+          "This is genuinely arguable, and it depends on your budget. Some installers do well capturing them with a useful page and an email sequence. On a small budget they crowd out people ready to buy, and the honest move is to block them and revisit when there is room.",
+          "What is not arguable is that they should be a deliberate decision rather than something that happens to you.",
+        ],
+      },
+      {
+        h: "DIY, wholesale and equipment searches",
+        p: [
+          "'Solar panel kit', 'panels for sale', 'solar panel price per panel', 'inverter wholesale' — somebody is buying equipment, not an installation.",
+          "There is also a steady stream of caravan, shed and off-grid searches that look relevant and are not.",
+        ],
+        list: [
+          "kit, kits, diy, self install, wholesale, supplier, distributor",
+          "caravan, motorhome, campervan, boat, shed, off grid, 12v",
+          "second hand, used, ebay, amazon, done deal",
+        ],
+      },
+      {
+        h: "Jobs, courses and training",
+        p: [
+          "Solar is a growing trade and a lot of people are searching for a way into it. 'Solar installer jobs', 'PV training', 'solar course Ireland', 'safe electric registration'.",
+          "Easy to block, frequently a fifth of a poorly set up account's traffic, and no loss whatsoever.",
+        ],
+        list: [
+          "jobs, vacancy, hiring, apprentice, career, salary, wage",
+          "course, training, qualification, certificate, college, diploma",
+        ],
+      },
+      {
+        h: "The commercial and utility confusion",
+        p: [
+          "'Solar farm', 'solar field', 'ground mount acre', 'PPA' — these are utility-scale searches and they are expensive.",
+          "If you do domestic and light commercial work, block them. If you do want farm work, that is a separate campaign with separate terms, not a stray keyword in the domestic account.",
+        ],
+      },
+      {
+        h: "Location settings and the obvious geography",
+        p: [
+          "Set locations to presence rather than presence-or-interest, or you will pay for people abroad reading about Ireland.",
+          "Add UK and US geographic negatives, and the counties you genuinely will not travel to. A Dublin installer paying for Cork clicks is common and entirely avoidable.",
+        ],
+      },
+      {
+        h: "What to keep and bid properly on",
+        p: [
+          "The terms worth real money are the ones with a place and an intention in them. 'Solar panel installers [town]', 'solar PV quote', 'solar installation cost [county]', 'battery storage installer near me'.",
+          "Those are people who have moved past the grant and are choosing a company. They cost more per click and they are the only clicks that reliably become installs.",
+          "Then read the search terms report weekly for the first month. The lists above are a starting point; your own report is the actual answer, and most installers have never opened it.",
+        ],
+      },
+    ],
+    related: ["solar-installers", "ev-charger-installers", "heat-pumps"],
+  },
 ];
 
 export const postBySlug = (slug: string) => posts.find((p) => p.slug === slug);

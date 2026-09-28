@@ -903,6 +903,448 @@ export const industryCounty: IndustryCounty[] = [
       PRICE_FAQ,
     ],
   },
+  {
+    industry: "solar-installers",
+    county: "wexford",
+    industryLabel: "solar installers",
+    countyName: "Wexford",
+    title: "Solar Leads Wexford | Marketing for Wexford Solar Installers",
+    description:
+      "Lead generation for Wexford solar installers: the sunniest corner of Ireland, a genuine payback argument, and large tillage roofs nobody is selling to.",
+    h1: "Solar leads in Wexford, where the numbers actually work best.",
+    intro: [
+      "The southeast gets more sunshine than anywhere else in Ireland, and Wexford sits at the middle of it. That is not a marketing line — it is the reason a system here generates meaningfully more over a year than the same system in the northwest.",
+      "Almost no installer advertising in this county says so. The pitch is the same national grant-and-savings message used everywhere, which throws away the one argument Wexford genuinely owns.",
+    ],
+    sections: [
+    {
+      heading: "Lead with the thing that is actually true here",
+      body: [
+        "A homeowner comparing quotes cannot tell one installer's panels from another's. What they can understand is that their own roof, in their own county, is a better place for this than most of the country.",
+        "That reframes the conversation from cost to yield, which is the ground you want to be on. It is also checkable, which matters — a claim a customer can verify themselves does more work than one they have to take on trust.",
+      ],
+    },
+    {
+      heading: "Tillage sheds are a separate business",
+      body: [
+        "Wexford is heavy tillage country, and grain drying, ventilation and workshop load run hard during daylight hours in exactly the months the sun is strongest.",
+        "That is the best self-consumption profile there is, on buildings with enormous unshaded roofs and owners used to making capital decisions with a calculator. Almost every installer in the county markets exclusively to households.",
+        "Farm work also comes with its own grant route, at a rate that makes the domestic scheme look modest. It is a different sales conversation, a different form and a different set of searches, and it is largely uncontested.",
+      ],
+    },
+    {
+      heading: "The coast complicates the roofs",
+      body: [
+        "Coastal housing from Courtown to Rosslare brings salt, exposure and a lot of holiday property whose owners are elsewhere and whose daytime electricity use is close to nothing.",
+        "Those are weak solar customers without a battery and honest about it — and saying so in the quote wins you the good ones and saves you the bad ones. Pretending otherwise generates a cancellation later.",
+      ],
+    },
+    {
+      heading: "Gorey prices like Wicklow",
+      body: [
+        "The north of the county behaves like a commuter belt: higher incomes, higher click costs, and households out of the house all day. The south around New Ross and Wexford town is cheaper to reach and slower to decide.",
+        "One county campaign averages the two and serves neither well. Split, the north justifies a battery conversation and the south justifies a lower cost per lead.",
+      ],
+    },
+    ],
+    towns: [
+      "Wexford town",
+      "Gorey",
+      "Enniscorthy",
+      "New Ross",
+      "Rosslare",
+      "Bunclody",
+      "Ferns",
+      "Courtown",
+      "Taghmon",
+      "Castlebridge",
+      "Kilmuckridge",
+      "Duncannon",
+    ],
+    faqs: [
+      {
+        q: "Is Wexford genuinely better for solar?",
+        a: "Yes — the southeast receives more sunshine than the rest of the country, so the same system yields more here than in the northwest. It is the one argument this county owns and almost nobody uses it.",
+      },
+      {
+        q: "Should we market to farms?",
+        a: "Tillage sheds have huge unshaded roofs and daytime load in the sunniest months, plus their own grant route at a far better rate. Very few installers here market to them at all.",
+      },
+      {
+        q: "Are holiday homes worth chasing?",
+        a: "Rarely without a battery — nobody is in them during the day. Saying that honestly in the quote wins the good jobs and avoids the cancellations.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "solar-installers",
+    county: "galway",
+    industryLabel: "solar installers",
+    countyName: "Galway",
+    title: "Solar Leads Galway | Marketing for Galway Solar Installers",
+    description:
+      "Lead generation for Galway solar installers: lower yield than the southeast, long rural drives, and a city market that behaves nothing like the county.",
+    h1: "Solar leads in Galway, with the payback argument done honestly.",
+    intro: [
+      "Galway gets less sun than the southeast. Pretending otherwise in a quote is how an installer ends up in a difficult conversation two years later when the generation figures do not match what was promised.",
+      "The county compensates in other ways: large unshaded rural roofs, high electricity prices felt just as hard, a strong appetite for self-sufficiency, and far less competition than the east coast.",
+    ],
+    sections: [
+    {
+      heading: "Do not oversell the yield",
+      body: [
+        "Irish solar is a sound investment in Galway. It is a slower one than in Wexford, and an installer who says so plainly is immediately more credible than the three who quoted optimistic national averages.",
+        "Customers here are used to being sold to with numbers from somewhere else. Using real local figures is a differentiator precisely because so few bother.",
+      ],
+    },
+    {
+      heading: "Rural roofs are the opportunity",
+      body: [
+        "Detached rural houses and farm buildings across east Galway and south Connemara have roof area that a Dublin semi cannot dream of, no shading and no planning complications.",
+        "Bigger systems, simpler installs and customers who already think in terms of capital spend and payback. That is better work than a constrained city roof, and less contested.",
+      ],
+    },
+    {
+      heading: "The city is a different market",
+      body: [
+        "Galway city has terraced and student-let stock, a large rental sector and shading from neighbouring buildings. Landlords have their own reasons to buy and their own regulations to satisfy, and they are not persuaded by a homeowner savings pitch.",
+        "Running city and county under one message is the most common mistake here. They want different things and search for them differently.",
+      ],
+    },
+    {
+      heading: "Distance has to be priced in",
+      body: [
+        "Connemara and the islands are a long way from anywhere, and a survey plus an install plus any return visit is a real cost that a radius-based campaign hides.",
+        "Name the towns you will genuinely travel to. The enquiries you lose are the ones that were never going to be profitable.",
+      ],
+    },
+    ],
+    towns: [
+      "Galway city",
+      "Salthill",
+      "Oranmore",
+      "Tuam",
+      "Ballinasloe",
+      "Loughrea",
+      "Athenry",
+      "Gort",
+      "Clifden",
+      "Headford",
+      "Moycullen",
+      "Portumna",
+    ],
+    faqs: [
+      {
+        q: "Is solar worth it in Galway?",
+        a: "Yes, but the payback is slower than in the southeast and saying so builds more trust than quoting national averages. Customers here are used to being sold with numbers from elsewhere.",
+      },
+      {
+        q: "Where is the best work?",
+        a: "Rural detached houses and farm buildings — large unshaded roofs, no planning complications, bigger systems and owners who think in payback terms.",
+      },
+      {
+        q: "Should the city have its own campaign?",
+        a: "Yes. Terraces, shading and a large rental sector make it a different product with different buyers. One message across city and county serves neither.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "solar-installers",
+    county: "cork",
+    industryLabel: "solar installers",
+    countyName: "Cork",
+    title: "Solar Leads Cork | Marketing for Cork Solar Installers",
+    description:
+      "Lead generation for Cork solar installers: the dairy daytime load that makes farm solar unarguable, plus a city market with its own constraints.",
+    h1: "Solar leads in Cork, where the farm case sells itself.",
+    intro: [
+      "Cork is the largest county in Ireland and the centre of its dairy industry, and dairy has the single best electricity profile for solar in the country — bulk tank cooling, water heating and vacuum pumps all drawing hard during daylight.",
+      "A farm that uses what it generates rather than exporting it has a completely different return from a house that is empty all day. That is the strongest solar argument available anywhere in Ireland and it is barely being made.",
+    ],
+    sections: [
+    {
+      heading: "The dairy argument is arithmetic, not persuasion",
+      body: [
+        "Milk cooling runs after each milking and plate coolers and water heating draw through the day. A dairy yard consumes electricity on exactly the schedule a solar array produces it.",
+        "That means high self-consumption, which is where the actual money is — a unit used on site is worth far more than a unit exported. The conversation stops being about grants and becomes about the yard's own bill, which is a conversation a farmer will happily have.",
+        "There is also a dedicated farm grant route at a considerably better rate than the domestic scheme. Different forms, different timelines and a different search behaviour.",
+      ],
+    },
+    {
+      heading: "West Cork is distance, not just geography",
+      body: [
+        "An hour and a half each way for a survey, and again for the install, and again if anything needs attention. A radius drawn around the city includes a great deal of work that will not pay.",
+        "Decide the line, name the towns on the site, and let the far enquiries go to somebody closer.",
+      ],
+    },
+    {
+      heading: "The city has its own limits",
+      body: [
+        "Cork city's older terraced stock has small, often shaded and awkwardly oriented roofs, along with a substantial protected and conservation-area element.",
+        "Being straight about which roofs are not suitable is worth more than a survey diary full of jobs that get cancelled after the site visit. It also produces the kind of review that wins the next five.",
+      ],
+    },
+    {
+      heading: "Two campaigns, not one",
+      body: [
+        "Farm and domestic are different customers, different system sizes, different grants and different words typed into Google. They should not share a campaign, a landing page or a lead form.",
+        "Almost every Cork installer runs one domestic campaign and leaves the better market alone.",
+      ],
+    },
+    ],
+    towns: [
+      "Cork city",
+      "Ballincollig",
+      "Carrigaline",
+      "Midleton",
+      "Mallow",
+      "Fermoy",
+      "Bandon",
+      "Youghal",
+      "Clonakilty",
+      "Skibbereen",
+      "Macroom",
+      "Kinsale",
+    ],
+    faqs: [
+      {
+        q: "Why is dairy such a strong solar case?",
+        a: "Bulk tank cooling, water heating and vacuum pumps all draw during daylight, so the farm uses what it generates instead of exporting it. Self-consumption is where the real return is.",
+      },
+      {
+        q: "Should farm and domestic share a campaign?",
+        a: "No. Different system sizes, different grant routes, different search terms and different lead forms. Almost every Cork installer runs domestic only and leaves the better market alone.",
+      },
+      {
+        q: "How far into west Cork should we go?",
+        a: "As far as a survey, an install and a return visit can be done profitably. Name those towns explicitly and let the rest go to somebody closer.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "solar-installers",
+    county: "tipperary",
+    industryLabel: "solar installers",
+    countyName: "Tipperary",
+    title: "Solar Leads Tipperary | Marketing for Tipperary Solar Installers",
+    description:
+      "Lead generation for Tipperary solar installers: a farm-first county with almost no urban market, where the domestic playbook simply does not fit.",
+    h1: "Solar leads in Tipperary, where the customer is usually a farm.",
+    intro: [
+      "Tipperary has no city and a great deal of farmland. An installer running the standard domestic grant-and-savings campaign here is advertising to a small slice of the county and ignoring the rest.",
+      "The dairy and mixed farms across the Golden Vale have large sheds, heavy daytime electricity use and owners who evaluate a capital purchase in terms of payback rather than monthly savings.",
+    ],
+    sections: [
+    {
+      heading: "A farm is not a big house",
+      body: [
+        "System sizes are larger, the roof is a shed rather than a dwelling, the grant route is different and the decision is made on a return calculation rather than on feeling good about the environment.",
+        "A website written for homeowners loses these people in the first paragraph. They are looking for somebody who has done yards like theirs, and they can tell in about ten seconds whether you have.",
+      ],
+    },
+    {
+      heading: "Photographs of sheds, not semis",
+      body: [
+        "Every solar installer in Ireland has photographs of panels on a suburban roof. Very few have photographs of a completed array on a milking parlour or a grain store.",
+        "Those images are worth more in this county than any amount of copy, because they answer the only question a farmer is actually asking: have you done this before, on a building like mine.",
+      ],
+    },
+    {
+      heading: "Seasonality runs on the farming calendar",
+      body: [
+        "Capital decisions cluster around the accounting year and around grant application windows, not around the months a homeowner starts thinking about bills.",
+        "Advertising into a grant window that has just closed is a wasted quarter. Knowing the dates and being visible before them is most of the advantage available here.",
+      ],
+    },
+    {
+      heading: "Towns are a secondary market, not the main one",
+      body: [
+        "Clonmel, Thurles and Nenagh have ordinary domestic demand and it is worth serving, but it will not fill a diary on its own.",
+        "Treat it as the second campaign rather than the first, which is the reverse of how almost every installer here is set up.",
+      ],
+    },
+    ],
+    towns: [
+      "Clonmel",
+      "Thurles",
+      "Nenagh",
+      "Tipperary town",
+      "Cashel",
+      "Carrick-on-Suir",
+      "Roscrea",
+      "Templemore",
+      "Cahir",
+      "Fethard",
+      "Newport",
+      "Borrisokane",
+    ],
+    faqs: [
+      {
+        q: "Is Tipperary a domestic market?",
+        a: "Partly, but not mainly. There is no city and a great deal of farmland, so a domestic-only campaign is advertising to a small slice of the county.",
+      },
+      {
+        q: "What matters most in farm solar marketing?",
+        a: "Photographs of completed arrays on sheds, parlours and grain stores. It answers the only question a farmer is asking, and almost no installer has them.",
+      },
+      {
+        q: "When should we advertise?",
+        a: "Ahead of grant application windows and around the farming accounting year, not on the domestic calendar. Advertising into a window that has just closed wastes a quarter.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "solar-installers",
+    county: "dublin",
+    industryLabel: "solar installers",
+    countyName: "Dublin",
+    title: "Solar Leads Dublin | Marketing for Dublin Solar Installers",
+    description:
+      "Lead generation for Dublin solar installers: the dearest clicks in Ireland, a lot of unsuitable roofs, and why qualifying early is the whole game.",
+    h1: "Solar leads in Dublin, where the wrong lead costs the most.",
+    intro: [
+      "Dublin has the highest click prices in the country, the most installers competing and a housing stock where a meaningful share of roofs are too small, too shaded or facing the wrong way.",
+      "That combination is punishing. Paying the highest cost per lead in Ireland and then sending a surveyor to a roof that was never going to work is the fastest way to lose money in this trade.",
+    ],
+    sections: [
+    {
+      heading: "Qualify before the survey, not after",
+      body: [
+        "Every question on the enquiry form costs you a few cheap leads and saves you a site visit. In Dublin a wasted site visit is half a day in traffic.",
+        "Ownership, house type, roughly which way the back of the house faces, whether anything overshadows it, and the size of the last bill. Five questions, and they remove most of the jobs that were going to be cancelled anyway.",
+        "Installers resist this because the lead count drops. The number that matters is installs per euro spent, and it goes up.",
+      ],
+    },
+    {
+      heading: "Apartments, terraces and protected structures",
+      body: [
+        "Large parts of the city are apartments where the resident cannot make the decision at all, terraces with small roof planes, or conservation areas with their own constraints.",
+        "Saying clearly on the site which properties you can and cannot serve filters more waste than any bid adjustment, and it does it before you have paid for the click.",
+      ],
+    },
+    {
+      heading: "The suburbs are the actual market",
+      body: [
+        "The detached and semi-detached belt — from the older suburbs out through the commuter edge — is where the roofs, the bills and the money are.",
+        "Target that geography specifically rather than the county. A campaign set to Dublin spends a great deal of its budget on the parts of the city that cannot buy.",
+      ],
+    },
+    {
+      heading: "Batteries are a bigger part of the sale here",
+      body: [
+        "High-income households out of the house all day have poor self-consumption without storage, and a solar-only quote for them is a weaker proposition than the customer realises.",
+        "Leading with the battery conversation is more honest and, in this market, usually a larger job. It also separates you from the installers quoting the cheapest possible headline system.",
+      ],
+    },
+    ],
+    towns: [
+      "Dublin city",
+      "Rathfarnham",
+      "Clontarf",
+      "Blackrock",
+      "Swords",
+      "Malahide",
+      "Lucan",
+      "Tallaght",
+      "Dún Laoghaire",
+      "Castleknock",
+      "Terenure",
+      "Skerries",
+    ],
+    faqs: [
+      {
+        q: "Why qualify so hard in Dublin?",
+        a: "Because a wasted site visit is half a day in traffic and the clicks are the dearest in Ireland. Five form questions remove most of the jobs that were going to be cancelled anyway.",
+      },
+      {
+        q: "What should the form ask?",
+        a: "Ownership, house type, which way the back of the house faces, whether anything overshadows it, and the last bill. Lead count drops and installs per euro rise.",
+      },
+      {
+        q: "Should we lead with batteries?",
+        a: "For commuter households out all day, usually yes. Self-consumption is poor without storage, and it is both the more honest pitch and the larger job.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "solar-installers",
+    county: "kildare",
+    industryLabel: "solar installers",
+    countyName: "Kildare",
+    title: "Solar Leads Kildare | Marketing for Kildare Solar Installers",
+    description:
+      "Lead generation for Kildare solar installers: commuter houses empty all day, new estates already fitted, and why the battery is the real product.",
+    h1: "Solar leads in Kildare, where nobody is home at noon.",
+    intro: [
+      "Kildare is commuter country. The households with the biggest roofs and the best incomes are also the households with nobody in them between eight and six, which is precisely when the panels are producing.",
+      "That single fact should shape every campaign run in this county, and it shapes almost none of them.",
+    ],
+    sections: [
+    {
+      heading: "Self-consumption is the whole problem",
+      body: [
+        "Solar pays best when the electricity is used where it is made. A house that is empty all day exports most of what it generates, and exported units are worth a fraction of the ones you avoid buying.",
+        "So the honest Kildare pitch is not a bare panel system. It is panels plus storage, or panels plus a shifted hot water and car charging schedule — and an installer who explains that clearly sounds like the only one who has actually thought about the customer's day.",
+        "It is also the bigger sale. Being straight here and selling more are the same move, which is rare enough to be worth noticing.",
+      ],
+    },
+    {
+      heading: "New estates are already done",
+      body: [
+        "Houses built under the current regulations frequently arrived with panels already fitted. Advertising a first installation into those estates is spending money to reach people who cannot buy.",
+        "They can buy a battery, an EV charger or an expansion. That is a different message and a different campaign, and targeting by estate age is worth the afternoon it takes to set up.",
+      ],
+    },
+    {
+      heading: "EV charging is the same conversation",
+      body: [
+        "Kildare has a high concentration of commuter households running electric cars, and a car charging overnight on grid electricity while the roof exported all day is an obvious thing to fix.",
+        "Installers who handle both have a natural second product and a reason to ring a past customer. Those who do not are leaving the follow-up sale to someone else.",
+      ],
+    },
+    {
+      heading: "Naas, Newbridge, Maynooth behave differently from the west",
+      body: [
+        "The commuter towns have high incomes, high expectations of response time and dear clicks. West Kildare towards Athy and Rathangan is rural, cheaper and slower.",
+        "Two campaigns. The east funds itself on job size; the west funds itself on cost per lead.",
+      ],
+    },
+    ],
+    towns: [
+      "Naas",
+      "Newbridge",
+      "Maynooth",
+      "Celbridge",
+      "Leixlip",
+      "Kildare town",
+      "Athy",
+      "Clane",
+      "Sallins",
+      "Monasterevin",
+      "Kilcock",
+      "Rathangan",
+    ],
+    faqs: [
+      {
+        q: "Why does commuting matter for solar?",
+        a: "Because the house is empty when the panels produce. Most of the generation gets exported, and exported units are worth a fraction of the ones you avoid buying.",
+      },
+      {
+        q: "So what should we actually sell?",
+        a: "Panels with storage, or panels with shifted hot water and car charging. It is both the more honest pitch and the bigger job, which is a rare combination.",
+      },
+      {
+        q: "Are new estates worth advertising to?",
+        a: "Not for a first installation — many arrived with panels fitted. They are worth a battery, EV charger or expansion campaign, which is a different message entirely.",
+      },
+      PRICE_FAQ,
+    ],
+  },
 ];
 
 export const industryCountyFor = (industry: string) =>
