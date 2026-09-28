@@ -52,7 +52,10 @@ export default async function IndustryPage({
   const related = ind.related
     .map((s) => industryBySlug(s))
     .filter((x): x is NonNullable<typeof x> => Boolean(x));
-  const relatedPosts = posts.filter((p) => p.related.includes(ind.slug)).slice(0, 3);
+  // Three was fine when no niche had more than three guides. Roofing now
+  // has twelve and solar ten, so the cap was hiding most of a cluster from
+  // the one page with the authority to pass on.
+  const relatedPosts = posts.filter((p) => p.related.includes(ind.slug)).slice(0, 6);
   const topCounties = counties.filter((c) => c.focus.includes(ind.slug)).slice(0, 8);
 
   const schema = [
