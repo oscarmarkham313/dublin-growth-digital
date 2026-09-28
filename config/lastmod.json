@@ -159,7 +159,13 @@
     "roofers/limerick": "2026-09-28",
     "roofers/mayo": "2026-09-28",
     "roofers/wexford": "2026-09-28",
-    "roofers/wicklow": "2026-09-28"
+    "roofers/wicklow": "2026-09-28",
+    "solar-installers/cork": "2026-09-28",
+    "solar-installers/dublin": "2026-09-28",
+    "solar-installers/galway": "2026-09-28",
+    "solar-installers/kildare": "2026-09-28",
+    "solar-installers/tipperary": "2026-09-28",
+    "solar-installers/wexford": "2026-09-28"
   },
   "industrySeo": {
     "accountants": "2026-09-25",
