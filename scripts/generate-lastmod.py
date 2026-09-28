@@ -76,7 +76,28 @@ result = {"industries": track("config/industries.ts", "slug"),
           "counties": track("config/counties.ts", "slug"),
           "towns": track("config/towns.ts", "slug"),
           "industrySeo": track("config/industry-seo.ts", "slug")}
-# industry x county is keyed by "industry/county", handled below
+
+# industry x county is keyed by "industry/county". app/sitemap.ts has
+# always looked this group up; it was never generated, so all twelve
+# pages fell back to the build date and told Google they had changed on
+# every single deploy.
+ic, ic_last = {}, {}
+for sha, date in commits("config/industry-county.ts"):
+    try:
+        src = blob(sha, "config/industry-county.ts")
+    except Exception:
+        continue
+    for m in re.finditer(
+            r'industry:\s*"([a-z-]+)",\s*\n\s*county:\s*"([a-z-]+)"', src):
+        key = f"{m.group(1)}/{m.group(2)}"
+        nxt = src.find("industry:", m.end())
+        chunk = src[m.start():nxt if nxt != -1 else len(src)]
+        h = hashlib.sha1(chunk.encode("utf-8")).hexdigest()
+        if ic_last.get(key) != h:
+            ic_last[key] = h
+            ic[key] = date
+result["industryCounty"] = ic
+
 
 # service x county pages are keyed by the pair, so hash per county block
 sp = {}
