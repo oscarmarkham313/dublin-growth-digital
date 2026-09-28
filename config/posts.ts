@@ -5607,6 +5607,428 @@ export const posts: Post[] = [
     ],
     related: ["solar-installers", "ev-charger-installers", "heat-pumps"],
   },
+  {
+    slug: "generating-valuation-requests",
+    title: "How to generate valuation requests, properly",
+    description:
+      "The valuation request is the only real first step in estate agency lead generation. What the page, the form and the follow-up have to do.",
+    date: "2026-09-28",
+    minutes: 7,
+    intro:
+      "Estate agency lead generation has one meaningful entry point. A homeowner asks what their house is worth, and everything else follows from there. Almost every Irish agency website treats this as a line on a contact page rather than the single thing the site exists to produce, which is why so many of them generate almost nothing.",
+    sections: [
+      {
+        h: "It should be the most prominent thing you have",
+        p: [
+          "Not in the navigation. Not below three paragraphs about the firm's history. The first thing on the page, with its own dedicated landing page for anyone arriving from an ad.",
+          "This is the work we did for a Dublin property agency — Google Ads pointed at landing pages built specifically around valuation requests and vendor leads, which produced over two hundred and forty qualified enquiries. The mechanic is not complicated. It is just that almost nobody builds the site around it.",
+        ],
+      },
+      {
+        h: "Promise something specific",
+        p: [
+          "'Contact us for a valuation' asks the homeowner to start a relationship with a salesperson. That is a bigger commitment than it looks and a lot of people will not make it.",
+          "Say what actually happens: who comes, how long it takes, that there is no obligation, and when they will have a figure. Removing the uncertainty about what they are agreeing to converts considerably better than any headline change.",
+        ],
+      },
+      {
+        h: "Ask less than you want to",
+        p: [
+          "Name, address, phone. That is enough to do the job. Every additional field costs submissions, and you can ask the rest on the phone.",
+          "The address is the one that matters, because it lets you arrive at the call already knowing the street, the recent comparables and roughly what you are going to say. That preparation is what makes the first call sound different from the other two agencies.",
+        ],
+      },
+      {
+        h: "Answer it within the hour",
+        p: [
+          "Vendors frequently request valuations from more than one agency in the same sitting. The one that rings back first is usually the one that gets to set the terms of the conversation.",
+          "Requests arriving in the evening and at the weekend are the ones most often lost, and they are also when homeowners actually do this. Decide explicitly who is covering those hours.",
+        ],
+      },
+      {
+        h: "The ones who are not ready yet are still worth having",
+        p: [
+          "A proportion of valuation requests come from people who are twelve months away, or curious, or refinancing. Agencies write them off.",
+          "They are exactly the list you want when the market turns. A quarterly note on what has sold locally keeps you present without effort, and when they do decide to move you are not one of three names, you are the name.",
+        ],
+      },
+      {
+        h: "Measure the right number",
+        p: [
+          "Not valuation requests. Instructions won per euro spent, and eventually fee income per euro spent.",
+          "An agency optimising for request volume will end up with a lot of low-quality enquiries and a frustrated valuer. The number that pays the bills is further down the funnel and needs to be tracked all the way.",
+        ],
+      },
+    ],
+    related: ["estate-agents", "mortgage-brokers", "solicitors"],
+  },
+  {
+    slug: "price-register-changed-the-vendor-conversation",
+    title: "The Price Register changed the vendor conversation",
+    description:
+      "Every Irish vendor can look up what the neighbours got. Agencies still treating the valuation as privileged information are losing instructions to ones that do not.",
+    date: "2026-09-28",
+    minutes: 6,
+    intro:
+      "Before the Residential Property Price Register, an estate agent's valuation was an opinion the homeowner had no way to check. Now every vendor in the country can see what actually sold, on what street, for how much, and when. Plenty of Irish agencies have never adjusted to that, and it shows in how they pitch.",
+    sections: [
+      {
+        h: "The vendor has already done the research",
+        p: [
+          "By the time they call you they have looked at the register, looked at the portals, and formed a view. Frequently an optimistic one, because they have compared their house to the best-presented one on the street.",
+          "Walking in and producing a figure as though it were privileged knowledge is now slightly insulting. The job has changed from knowing the number to explaining the number.",
+        ],
+      },
+      {
+        h: "Show the comparables and argue from them",
+        p: [
+          "Bring the recent sales. Say which ones you think are genuinely comparable and which are not, and why — the extension, the aspect, the condition, the year.",
+          "That conversation demonstrates competence in a way an unsupported figure never can. It also inoculates you against the agency that will come in after you and quote a higher number to win the instruction.",
+        ],
+      },
+      {
+        h: "The overvaluing problem got worse, not better",
+        p: [
+          "Because vendors can check, the temptation for a competing agency to flatter them is stronger, not weaker. Winning an instruction on a price that will not achieve is still the most common way Irish agencies damage themselves.",
+          "The defence is evidence, given early and in writing. A vendor who has seen your reasoning is much harder to move with a number six months later when the house has not sold.",
+        ],
+      },
+      {
+        h: "Publish what has sold in your area",
+        p: [
+          "The register is public, so summarising it for a suburb or town is entirely legitimate and genuinely useful. 'What sold in Naas this quarter, and what it tells you' is exactly what a homeowner considering a move searches for.",
+          "Very few Irish agencies publish anything like this. It ranks, it demonstrates local knowledge better than any claim to it, and it brings people to you at the research stage rather than the shortlist stage.",
+        ],
+      },
+      {
+        h: "Use it on the buyer side too",
+        p: [
+          "Buyers check the register as well, and an asking price that looks disconnected from recent sales creates hesitation that slows everything down.",
+          "Addressing it directly in the listing — why this house is priced where it is — removes a friction most listings simply leave sitting there.",
+        ],
+      },
+    ],
+    related: ["estate-agents", "mortgage-brokers", "financial-advisors"],
+  },
+  {
+    slug: "portal-leads-are-not-your-leads",
+    title: "Portal enquiries are not the same as your own leads",
+    description:
+      "Daft and MyHome bring buyers, and buyers are not the scarce thing. Why an agency dependent on the portals has no vendor pipeline of its own.",
+    date: "2026-09-28",
+    minutes: 6,
+    intro:
+      "Every Irish estate agency pays the portals, and almost every Irish estate agency should. That is where buyers look. The mistake is concluding from a full inbox of portal enquiries that lead generation is handled, because portal enquiries are buyers and buyers are not what an agency is short of. Instructions are.",
+    sections: [
+      {
+        h: "Buyers are abundant, vendors are not",
+        p: [
+          "In most Irish markets there are considerably more people trying to buy than there are houses to sell. Portal enquiries reflect that: a lot of them, easy to get, and they arrive attached to a property you already have.",
+          "They do not grow the business. The instruction did that, before the listing ever went up. An agency with a busy portal inbox and no vendor pipeline is fully dependent on a supply it is not generating.",
+        ],
+      },
+      {
+        h: "The portal owns the relationship",
+        p: [
+          "A buyer who found the house on a portal associates the find with the portal. They did not choose you and frequently could not name you afterwards.",
+          "That is the structural problem with any marketplace: the intermediary accumulates the brand equity, and the fee it can charge rises because you have no alternative route to the customer.",
+        ],
+      },
+      {
+        h: "What an independent pipeline actually looks like",
+        p: [
+          "Valuation requests generated by your own advertising and your own site. A list of people who asked about a valuation and are not ready yet. Sold boards concentrated in areas you have chosen. Local search results you rank in for your own towns.",
+          "None of that depends on a portal's pricing decisions, and all of it compounds.",
+        ],
+        list: [
+          "A valuation request page and ads pointed at it",
+          "A retained list of not-yet-ready vendors, contacted quarterly",
+          "Deliberate area farming rather than scattered instructions",
+          "Local content: what sold here, what it means",
+          "A Google Business Profile with recent reviews and photographs",
+        ],
+      },
+      {
+        h: "Keep paying the portals",
+        p: [
+          "This is not an argument for leaving them. Buyers look there and a vendor will ask whether you list there, and the answer has to be yes.",
+          "It is an argument for not confusing a distribution channel with a lead source. The portal sells your listing. It does not win your next instruction, and nothing about a busy portal inbox suggests otherwise.",
+        ],
+      },
+      {
+        h: "The test",
+        p: [
+          "If the portals doubled their price next year, what would happen to your instruction volume? For most Irish agencies the honest answer is that it would be unaffected, because the instructions were never coming from there.",
+          "And if that is true, the follow-up question is what is producing them — and whether anyone is deliberately working on it.",
+        ],
+      },
+    ],
+    related: ["estate-agents", "mortgage-brokers", "solicitors"],
+  },
+  {
+    slug: "justifying-an-estate-agency-fee",
+    title: "Justifying your fee when the vendor has three quotes",
+    description:
+      "Arguing the percentage is a losing position. What Irish agencies can show a vendor instead, and why it has to exist before the meeting.",
+    date: "2026-09-28",
+    minutes: 6,
+    intro:
+      "A vendor sitting with three proposals is looking at three broadly similar services at three slightly different percentages. Unless something in yours explains what the difference buys, they will do the obvious thing. Fee conversations are lost long before the meeting, in the absence of anything that makes the comparison about value.",
+    sections: [
+      {
+        h: "Never defend the percentage",
+        p: [
+          "The moment the conversation is about the number, the cheaper agency has already framed it and you are arguing from behind.",
+          "The useful reframe is the amount, not the rate: what a fee difference actually comes to in euro against what a difference in achieved price comes to. Vendors are frequently comparing a modest saving against a much larger variable and have not seen it put that way.",
+        ],
+      },
+      {
+        h: "Show achieved against asking",
+        p: [
+          "The most persuasive number an agency has is what its listings actually sell for relative to what they were listed at, and how long they take.",
+          "Agencies rarely publish this, usually because nobody has ever assembled it. It takes an afternoon with your own records and it is worth more than every adjective on the website.",
+        ],
+      },
+      {
+        h: "Say what the marketing actually is",
+        p: [
+          "'Full marketing package' means nothing. Professional photography, floor plans, video, which portals, what social advertising, how many hours, who writes the description.",
+          "Itemising it does two things: it makes your proposal comprehensible, and it makes a cheaper competing proposal look like what it often is, which is the same list with things missing.",
+        ],
+      },
+      {
+        h: "Be explicit about who does the work",
+        p: [
+          "Vendors assume the person who valued the house will run the sale. Frequently they will not.",
+          "Saying plainly who handles viewings, who negotiates and who they ring on a Tuesday removes a real anxiety and distinguishes you from agencies that leave it vague because the answer is unflattering.",
+        ],
+      },
+      {
+        h: "It has to be findable before the meeting",
+        p: [
+          "Vendors shortlist before they invite anyone in. If your evidence only exists in the appointment, it does not affect who gets the appointment.",
+          "Achieved prices, time to sale, what the marketing includes, who does what — on the website, where somebody comparing three agencies at ten at night can read it. That is the part almost every Irish agency is missing, and it is the part that decides the shortlist.",
+        ],
+      },
+    ],
+    related: ["estate-agents", "mortgage-brokers", "accountants"],
+  },
+  {
+    slug: "farming-an-area-as-an-estate-agent",
+    title: "Farming an area: how agencies come to own a town",
+    description:
+      "Scattered instructions never compound. Concentrating them does, and in Irish estate agency the sold board is the advertising nobody costs properly.",
+    date: "2026-09-28",
+    minutes: 6,
+    intro:
+      "Estate agency is unusual in that every completed job leaves a sign in a front garden for weeks. That makes concentration worth far more than coverage, and it is the single clearest strategic choice available to an Irish agency — and the one most of them never consciously make.",
+    sections: [
+      {
+        h: "Four boards on one road beats twelve across a county",
+        p: [
+          "A homeowner thinking of selling notices the boards on their own street. Twelve instructions spread across six towns produce almost no such effect anywhere.",
+          "Concentration also compounds in search, in reviews mentioning the same places, and in how many people in one area have actually dealt with you. None of that happens when instructions are taken wherever they land.",
+        ],
+      },
+      {
+        h: "Choose the areas deliberately",
+        p: [
+          "Pick on turnover and price rather than on preference. An area with steady transaction volume and values that support your fee is worth more than a prestigious one that sells twice a year.",
+          "Then commit for long enough to matter. Area farming is a two-year strategy, not a campaign, and agencies that abandon it after a quiet quarter get none of the compounding.",
+        ],
+      },
+      {
+        h: "Be useful in that area specifically",
+        p: [
+          "A quarterly note on what has sold there, and what it means for somebody considering a move. Local search pages for the towns and estates by name.",
+          "It ranks because it is specific, and it demonstrates local knowledge rather than asserting it. Every agency in Ireland claims local expertise; almost none of them evidence it anywhere a vendor can see.",
+        ],
+      },
+      {
+        h: "The sold board is underused advertising",
+        p: [
+          "Make sure it goes up promptly, that it says sold, and that it stays for as long as permitted. It is the cheapest and most credible advertising in the business.",
+          "Photographing it and using it in local social advertising extends the same effect to people who do not drive down that road.",
+        ],
+      },
+      {
+        h: "Measure instructions by area",
+        p: [
+          "Most agencies cannot say which towns or estates their instructions came from over the last two years. Without that, area farming is an intention rather than a strategy.",
+          "It is a simple record to keep and it tells you quickly whether the concentration is working, which areas are responding, and where the next board is worth most.",
+        ],
+      },
+    ],
+    related: ["estate-agents", "solicitors", "mortgage-brokers"],
+  },
+  {
+    slug: "property-listing-photography-and-video",
+    title: "What property photography actually has to do",
+    description:
+      "Listing images are not decoration. What an Irish property listing needs to earn viewings, and the shots that cost agencies time on the market.",
+    date: "2026-09-28",
+    minutes: 6,
+    intro:
+      "A buyer decides in a few seconds on a phone whether to click a listing, and decides on the photographs whether to request a viewing. In a market where the portal shows your listing beside everyone else's, the images are not presentation — they are the whole first round of the competition.",
+    sections: [
+      {
+        h: "The first image decides the click",
+        p: [
+          "It is the only one most people see. It should be the most compelling accurate view of the property, which is frequently not the front elevation everybody defaults to.",
+          "For a coastal or rural house it may be the setting. For a renovated terrace it may be the kitchen. Choosing it deliberately rather than by habit is a free improvement on every listing you run.",
+        ],
+      },
+      {
+        h: "Light is most of the job",
+        p: [
+          "Irish weather makes this harder and more important. A house shot on a flat grey afternoon looks like a different property from the same house shot in decent light.",
+          "Waiting for a better day costs a few days and routinely saves weeks on the market. Agencies under pressure to get the listing up tomorrow make this trade badly and repeatedly.",
+        ],
+      },
+      {
+        h: "Shoot the rooms people actually care about",
+        p: [
+          "Kitchen, main living space, main bedroom, bathroom, garden, and the outlook from the principal rooms. Buyers look for those and get uneasy when one is missing.",
+          "An absent room reads as something being hidden, whether or not it is. If a room is poor, show it honestly — a viewing that ends in disappointment costs more than a click you did not get.",
+        ],
+      },
+      {
+        h: "Floor plans and video earn their cost",
+        p: [
+          "A floor plan answers the question photographs cannot: how it fits together. Listings without one generate viewings from people who then discover the layout does not work for them.",
+          "Video matters most where the buyer cannot easily view — coastal property, rural houses, overseas buyers. It is the difference between a listing that sells to people already nearby and one that reaches the buyer who is not.",
+        ],
+      },
+      {
+        h: "Get the required information right",
+        p: [
+          "A BER rating belongs in the advertisement, and your PSRA licence details belong on your materials. These are requirements rather than marketing choices.",
+          "They also signal competence. A listing missing the basics tells a careful vendor something about how the rest of the sale will be handled.",
+        ],
+      },
+    ],
+    related: ["estate-agents", "photographers", "interior-designers"],
+  },
+  {
+    slug: "winning-landlord-and-management-work",
+    title: "Winning landlord work, which pays every month",
+    description:
+      "Sales income is lumpy and depends on a market you do not control. Management fees arrive monthly, and almost no Irish agency advertises for landlords deliberately.",
+    date: "2026-09-28",
+    minutes: 6,
+    intro:
+      "Most Irish estate agencies get their management business the same way: it turns up. A landlord rings, or a past client buys an investment, or somebody is recommended. Nobody goes looking. That is strange, because it is the only recurring revenue in the business and the only part that does not collapse when transaction volumes fall.",
+    sections: [
+      {
+        h: "Recurring income changes the whole business",
+        p: [
+          "Sales income depends on market conditions, interest rates and supply, none of which you control. Management fees arrive every month regardless of whether anything is selling.",
+          "An agency with a substantial managed portfolio can survive a slow year. One entirely dependent on transactions cannot, and the time to build it is when things are busy rather than when they are not.",
+        ],
+      },
+      {
+        h: "A landlord is a future vendor",
+        p: [
+          "Landlords sell eventually, and the agency managing the property is the obvious choice when they do. That makes the real value of a management contract considerably higher than the monthly fee.",
+          "It also changes what you can afford to spend acquiring one, which is the calculation almost nobody in Irish agency does.",
+        ],
+      },
+      {
+        h: "They have specific, findable problems",
+        p: [
+          "Compliance, registration, deposits, disputes, the rules changing again. Landlords search for answers to these constantly and mostly find generic or out-of-date material.",
+          "An agency that explains the current position clearly gets found by exactly the people it wants, at the moment they are feeling the weight of doing it themselves. That is the natural opening for a management conversation.",
+        ],
+      },
+      {
+        h: "The accidental landlord is the easiest target",
+        p: [
+          "People who inherited a house, moved in with a partner, or emigrated and kept the property. They did not intend to be landlords, they are not enjoying it, and they are handling it badly.",
+          "They are also frequently not local, which makes self-management genuinely difficult. They are the most receptive audience for management services and nobody is speaking to them.",
+        ],
+      },
+      {
+        h: "Say that you want it",
+        p: [
+          "A great many agency websites treat lettings as a footnote behind sales. If it is not visible, prominent and explained, landlords assume it is a sideline and go to a specialist.",
+          "Its own page, its own explanation of what is included, its own fee structure, its own enquiry form. That is the minimum, and it is more than most Irish agencies currently have.",
+        ],
+      },
+    ],
+    related: ["estate-agents", "solicitors", "accountants"],
+  },
+  {
+    slug: "estate-agency-google-ads-waste",
+    title: "Where an estate agency's Google Ads budget disappears",
+    description:
+      "Property searches are dominated by people looking for houses, not agents. What an Irish agency should block, and the handful of terms worth real money.",
+    date: "2026-09-28",
+    minutes: 7,
+    intro:
+      "Estate agency is among the worst sectors in Ireland for wasted search spend, because the overwhelming majority of property searches are made by buyers and renters looking for a house, while the agency actually needs vendors and landlords. On a default campaign you pay for all of it at the same rate.",
+    sections: [
+      {
+        h: "Buyer and renter searches are the bulk of it",
+        p: [
+          "'Houses for sale in Naas', 'apartments to rent Galway', 'property for sale near me' — enormous volume, and almost none of it is a vendor.",
+          "Some of it is worth having if you want listing traffic. Most agencies do not need it, because the portals already supply buyers, and it will eat a small budget entirely.",
+          "This is the decision to make consciously. Letting it happen by default is how an agency concludes Google Ads does not work.",
+        ],
+      },
+      {
+        h: "Block the research and reference searches",
+        p: [
+          "Price register lookups, property tax queries, stamp duty calculators, planning searches and house price index questions all carry property words and none of them are a client.",
+        ],
+        list: [
+          "price register, property price register, ppr, sold prices",
+          "lpt, property tax, stamp duty, calculator, valuation calculator free",
+          "planning permission, planning search, land registry, folio",
+          "house price index, market report, statistics",
+        ],
+      },
+      {
+        h: "Jobs, courses and licensing",
+        p: [
+          "'Estate agent jobs', 'auctioneering course', 'PSRA licence application', 'how to become an estate agent'. Steady volume, zero value.",
+          "The licensing terms are the ones agencies miss, because they look professionally relevant.",
+        ],
+        list: [
+          "jobs, vacancy, hiring, trainee, negotiator job, salary, commission rate",
+          "course, qualification, licence, license, psra application, ipav, scsi",
+        ],
+      },
+      {
+        h: "Free valuation tools are a trap in both directions",
+        p: [
+          "'Free online house valuation', 'instant valuation' and 'what is my house worth calculator' look perfect and frequently are not — a large share want a number, not an agent, and will never convert.",
+          "If you run an instant valuation tool deliberately as a lead magnet, these terms are exactly right. If you do not, they will fill your account with people who bounce the moment a phone number is requested.",
+        ],
+      },
+      {
+        h: "What is actually worth bidding on",
+        p: [
+          "The vendor and landlord terms, which are far lower volume and far higher value.",
+          "'Estate agents [town]', 'sell my house [town]', 'house valuation [town]', 'letting agents [town]', 'property management [town]'. These people are choosing a firm, which is the only search that becomes an instruction.",
+        ],
+        list: [
+          "sell my house / sell my home + town",
+          "estate agents / auctioneers + town",
+          "house valuation / property valuation + town",
+          "letting agents / property management + town",
+          "probate sale, selling inherited property",
+        ],
+      },
+      {
+        h: "Then read your search terms report",
+        p: [
+          "The lists above are a starting point. The real answer is in the report showing what people actually typed, and most agencies have never opened it.",
+          "Weekly for the first month, monthly after. On an inherited agency account it is almost always the largest single saving available, and it usually pays for the work in the first fortnight.",
+        ],
+      },
+    ],
+    related: ["estate-agents", "mortgage-brokers", "solicitors"],
+  },
 ];
 
 export const postBySlug = (slug: string) => posts.find((p) => p.slug === slug);

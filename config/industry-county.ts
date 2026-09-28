@@ -1345,6 +1345,449 @@ export const industryCounty: IndustryCounty[] = [
       PRICE_FAQ,
     ],
   },
+  {
+    industry: "estate-agents",
+    county: "cork",
+    industryLabel: "estate agents",
+    countyName: "Cork",
+    title: "Property Marketing Cork | Lead Generation for Cork Estate Agents",
+    description:
+      "Valuation requests and vendor instructions for Cork estate agents: a second-city market with its own agents, its own loyalties and its own rules.",
+    h1: "Property marketing in Cork, for a market that is not Dublin.",
+    intro: [
+      "Cork is a genuinely separate property market rather than a smaller version of Dublin. It has its own established agencies, its own long-standing family firms, and vendors who will choose a Cork name over a national brand almost as a matter of course.",
+      "That local preference is the thing to work with rather than against. An agency competing in Cork on national scale is competing on the one axis where it has least to gain.",
+    ],
+    sections: [
+    {
+      heading: "The valuation request is the whole funnel",
+      body: [
+        "Estate agency lead generation has exactly one meaningful first step: getting a homeowner to ask what their house is worth. Everything after that is your own process.",
+        "Most agency websites bury this behind a contact form. It should be the most prominent thing on the site, it should take under a minute, and it should promise something specific — a figure and a conversation, not a generic follow-up.",
+        "This is the work we did for a Dublin agency, where Google Ads and landing pages built around valuation requests produced over two hundred and forty qualified enquiries. The mechanic transfers to Cork; the competition here is considerably lighter.",
+      ],
+    },
+    {
+      heading: "City, harbour and west are three markets",
+      body: [
+        "Cork city and the suburbs turn over steadily and have the most agency competition. The harbour towns — Carrigaline, Midleton, Cobh — are commuter markets with their own price bands and buyer profile.",
+        "West Cork is a different business again: holiday and lifestyle purchases, buyers frequently from Dublin or abroad, longer selling times and far more dependence on photography and presentation because the buyer is not local.",
+        "One campaign across all three averages the message and wins in none of them.",
+      ],
+    },
+    {
+      heading: "The Price Register did your negotiating for you",
+      body: [
+        "Every vendor in Cork can look up what the house down the road actually sold for. The days of a valuation being an opinion the homeowner could not check are gone.",
+        "Agencies that lean into this — showing recent comparable sales openly, explaining why this house sits where it does against them — win instructions from agencies still treating the number as privileged information.",
+        "It is also excellent content. A short, regularly updated note on what has sold in a given suburb is exactly what a homeowner thinking of moving searches for, and almost nobody in this county publishes it.",
+      ],
+    },
+    {
+      heading: "Sold boards and the street you already work",
+      body: [
+        "Estate agency is the one trade where your advertising is nailed to the front garden of every job you complete. A concentration of boards in one area is worth more than a broad campaign across the county.",
+        "That argues for deliberately farming areas rather than taking instructions wherever they come from. Pick the suburbs, dominate them, and let the boards and the local search results compound.",
+      ],
+    },
+    ],
+    towns: [
+      "Cork city",
+      "Douglas",
+      "Ballincollig",
+      "Carrigaline",
+      "Midleton",
+      "Cobh",
+      "Mallow",
+      "Bandon",
+      "Kinsale",
+      "Clonakilty",
+      "Fermoy",
+      "Macroom",
+    ],
+    faqs: [
+      {
+        q: "What actually generates estate agency leads?",
+        a: "Valuation requests. It is the only meaningful first step, and most agency websites bury it behind a generic contact form instead of making it the most prominent thing on the page.",
+      },
+      {
+        q: "Do you have property experience?",
+        a: "Yes. We work with a Dublin property agency on Google Ads and landing pages built around valuation requests and vendor leads — over 240 qualified enquiries. Ask on a call and we will talk you through it.",
+      },
+      {
+        q: "Is Cork different from Dublin?",
+        a: "Substantially. Separate established agencies, strong local loyalty, and three distinct sub-markets in the city, the harbour towns and west Cork. Competing on national scale here is competing where you gain least.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "estate-agents",
+    county: "dublin",
+    industryLabel: "estate agents",
+    countyName: "Dublin",
+    title: "Property Marketing Dublin | Leads for Dublin Estate Agents",
+    description:
+      "Valuation requests for Dublin estate agents: the fiercest instruction competition in Ireland, fee pressure, and why speed decides most of it.",
+    h1: "Property marketing in Dublin, where the instruction is the whole fight.",
+    intro: [
+      "Dublin has the highest concentration of estate agencies in the country, the highest property values and the most aggressive competition for every instruction. It also has vendors who will interview three agencies before choosing one.",
+      "The listing is not the hard part. Winning the right to list is, and almost all of that is decided before the vendor ever picks up the phone.",
+    ],
+    sections: [
+    {
+      heading: "Be in front of them six months early",
+      body: [
+        "A homeowner decides to sell over months. They look at the Price Register, they watch what the neighbours got, they mention it to a friend, and eventually they shortlist agencies.",
+        "The agency that wins is usually the one they had already heard of by then. That is a brand-awareness job, not a lead-capture one, and in Dublin it is the difference between competing on fee and being asked first.",
+        "It is also what Meta advertising is genuinely good at in this sector, at a cost per thousand impressions that is trivial compared with the value of one instruction.",
+      ],
+    },
+    {
+      heading: "Valuation requests, answered immediately",
+      body: [
+        "A valuation request that sits for a day is frequently a valuation somebody else has already done. In Dublin the vendor has usually contacted more than one agency in the same sitting.",
+        "Answering within the hour is the single highest-return process change available to most Dublin agencies, and it costs nothing. It is also the thing most often lost when enquiries arrive through a form nobody is watching at the weekend.",
+      ],
+    },
+    {
+      heading: "The postcode is the market",
+      body: [
+        "Dublin is not one property market. D6 and D15 behave differently, sell to different buyers at different speeds and need different messages, and a campaign set to 'Dublin' spends most of its budget outside the areas an agency actually covers.",
+        "Agencies that target by the postcodes and suburbs they genuinely work get a fraction of the waste and considerably better relevance in the results.",
+      ],
+    },
+    {
+      heading: "Fee pressure is answered with evidence, not argument",
+      body: [
+        "Vendors in Dublin will ask why your fee is higher than the agency down the road. Arguing the percentage is a losing position.",
+        "Showing achieved prices against asking prices, average time to sale and what your marketing actually involves changes the conversation to value. That evidence has to exist somewhere a vendor can find it before the meeting, which for most agencies it does not.",
+      ],
+    },
+    ],
+    towns: [
+      "Dublin city",
+      "Rathmines",
+      "Ranelagh",
+      "Clontarf",
+      "Blackrock",
+      "Dún Laoghaire",
+      "Castleknock",
+      "Swords",
+      "Malahide",
+      "Lucan",
+      "Terenure",
+      "Drumcondra",
+    ],
+    faqs: [
+      {
+        q: "Why advertise before someone is selling?",
+        a: "Because the shortlist is made from agencies they had already heard of. In Dublin that is the difference between being asked first and competing on fee.",
+      },
+      {
+        q: "How fast should a valuation request be answered?",
+        a: "Within the hour. Dublin vendors usually contact more than one agency in the same sitting, and a request left overnight is often a valuation someone else has already done.",
+      },
+      {
+        q: "Should we target Dublin as one area?",
+        a: "No. The postcodes are separate markets with different buyers and speeds. A campaign set to Dublin spends most of its budget outside the areas you actually cover.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "estate-agents",
+    county: "galway",
+    industryLabel: "estate agents",
+    countyName: "Galway",
+    title: "Property Marketing Galway | Leads for Galway Estate Agents",
+    description:
+      "Valuation requests for Galway estate agents: a student rental city, a second-home coast and a county market that behaves nothing like either.",
+    h1: "Property marketing in Galway, across three different businesses.",
+    intro: [
+      "Galway city runs on a student and rental economy that most Irish cities do not have at the same intensity, which makes letting and management a far larger share of an agency's income here than elsewhere.",
+      "Outside the city, the coast is second-home and lifestyle property with buyers who are frequently not in the county, and east Galway is an ordinary rural market moving at its own pace.",
+    ],
+    sections: [
+    {
+      heading: "Letting and management is recurring revenue",
+      body: [
+        "Sales income is lumpy and depends on market conditions you do not control. Management fees arrive every month regardless.",
+        "In Galway the volume of rental stock makes landlord acquisition genuinely worth advertising for, and almost no agency does it deliberately — landlords tend to arrive by referral or not at all.",
+        "A landlord is also a future vendor. Winning the management contract now frequently wins the sale later, which makes the acquisition cost look very different.",
+      ],
+    },
+    {
+      heading: "The coastal buyer is not in the county",
+      body: [
+        "Somebody buying in Connemara or on the coast is often in Dublin, London or further away. They cannot view casually, they decide substantially on what they can see online, and they are buying a lifestyle rather than a location on a commute.",
+        "That means photography, video and honest written description do work that a local sale does not require. Agencies that treat a coastal listing like a city one lose months on the market.",
+      ],
+    },
+    {
+      heading: "Students set the calendar",
+      body: [
+        "Rental demand in the city concentrates hard around the academic year, and an agency not visible before it starts is invisible during it.",
+        "The same seasonality applies to landlord acquisition — the moment to reach a landlord is when they are thinking about the coming year, not when they already have a tenant.",
+      ],
+    },
+    {
+      heading: "City and county need separate messages",
+      body: [
+        "A Galway city agency advertising into Loughrea or Ballinasloe with a city message is spending money to look out of place.",
+        "Name the towns you genuinely cover and write for them. Proximity decides most of the map results anyway, so the honest approach is also the effective one.",
+      ],
+    },
+    ],
+    towns: [
+      "Galway city",
+      "Salthill",
+      "Oranmore",
+      "Knocknacarra",
+      "Tuam",
+      "Ballinasloe",
+      "Loughrea",
+      "Athenry",
+      "Clifden",
+      "Moycullen",
+      "Headford",
+      "Gort",
+    ],
+    faqs: [
+      {
+        q: "Is letting worth advertising for?",
+        a: "In Galway, yes. Management fees are recurring where sales income is lumpy, and a landlord is a future vendor. Almost no agency here advertises for landlords deliberately.",
+      },
+      {
+        q: "What do coastal listings need?",
+        a: "Photography, video and honest description, because the buyer is frequently in Dublin or abroad and cannot view casually. Treating a coastal listing like a city one costs months on the market.",
+      },
+      {
+        q: "When should we advertise for rentals?",
+        a: "Before the academic year, not during it. The same applies to reaching landlords — when they are planning the year ahead rather than when they already have a tenant.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "estate-agents",
+    county: "kildare",
+    industryLabel: "estate agents",
+    countyName: "Kildare",
+    title: "Property Marketing Kildare | Leads for Kildare Estate Agents",
+    description:
+      "Valuation requests for Kildare estate agents: new-build schemes, first-time buyers with a scheme deadline, and estates where every house is comparable.",
+    h1: "Property marketing in Kildare, where the estate is the market.",
+    intro: [
+      "Kildare is commuter country and a great deal of its housing stock is estate-built, which changes estate agency in a specific way: in an estate of ninety near-identical houses, the comparable is not an approximation, it is the house next door.",
+      "That makes valuation less arguable and marketing more important, because when the product is genuinely the same the agency is the only variable.",
+    ],
+    sections: [
+    {
+      heading: "Farm the estate, not the county",
+      body: [
+        "An agency with four sold boards in one estate is the obvious choice for the fifth seller there. That compounding does not happen when instructions are taken scattered across the county.",
+        "Deliberately choosing estates and towns to dominate — Naas, Newbridge, Maynooth, Celbridge — beats broad coverage, and it is measurable. Count instructions per estate and the pattern is usually obvious within two quarters.",
+      ],
+    },
+    {
+      heading: "First-time buyers arrive with a deadline",
+      body: [
+        "A large share of Kildare's new-build demand comes from first-time buyers using the available supports, and those supports come with paperwork, timing and conditions.",
+        "An agency whose website explains how that actually works — the sequence, the timing, what has to be in place before what — gets found by people at the beginning of the process rather than the end. Very few agency sites explain any of it.",
+      ],
+    },
+    {
+      heading: "New-build schemes are a different client entirely",
+      body: [
+        "Selling a scheme for a developer is not the same business as selling a second-hand semi. It is a longer relationship, a bigger fee and a completely different pitch, and it is won on evidence of absorption rates rather than on local charm.",
+        "Agencies that want that work need to say so somewhere visible, with evidence. Most say nothing at all and wonder why developers use the same two firms.",
+      ],
+    },
+    {
+      heading: "Commuter vendors are time-poor and online",
+      body: [
+        "The household selling in Naas is out of the house from seven until seven. They research at night, they will not ring during the day, and they expect a response to a form submitted at eleven at night.",
+        "Make the valuation request work on a phone in under a minute and answer it first thing. That is most of the competitive advantage available here.",
+      ],
+    },
+    ],
+    towns: [
+      "Naas",
+      "Newbridge",
+      "Maynooth",
+      "Celbridge",
+      "Leixlip",
+      "Clane",
+      "Sallins",
+      "Kildare town",
+      "Athy",
+      "Kilcock",
+      "Monasterevin",
+      "Rathangan",
+    ],
+    faqs: [
+      {
+        q: "Why farm individual estates?",
+        a: "Because four sold boards in one estate makes you the obvious choice for the fifth seller. Scattered instructions across a county never compound that way.",
+      },
+      {
+        q: "Is new-build scheme work different?",
+        a: "Completely. Longer relationship, bigger fee, won on evidence of absorption rather than local reputation. Most agencies say nothing about wanting it.",
+      },
+      {
+        q: "What do commuter vendors expect?",
+        a: "To research at night and get an answer first thing. A valuation request that works on a phone in under a minute is most of the advantage here.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "estate-agents",
+    county: "mayo",
+    industryLabel: "estate agents",
+    countyName: "Mayo",
+    title: "Property Marketing Mayo | Leads for Mayo Estate Agents",
+    description:
+      "Valuation requests for Mayo estate agents: inherited and emigrant-owned property, probate sales, and vendors who live in Dublin or abroad.",
+    h1: "Property marketing in Mayo, for vendors who live somewhere else.",
+    intro: [
+      "A substantial share of Mayo property transactions involve somebody who does not live in Mayo. Inherited houses, family homes after a bereavement, farms being divided, property owned by people who emigrated decades ago.",
+      "Those vendors cannot call into the office. They are arranging a sale from Dublin, Manchester or Boston, and they will choose an agency on what they can find and what it looks like it would be to deal with remotely.",
+    ],
+    sections: [
+    {
+      heading: "The remote vendor decides on your website",
+      body: [
+        "No neighbour to ask, no local knowledge, no ability to meet three agencies. They search, they read, and they pick.",
+        "That makes the website do the work reputation does locally: clear explanation of how a sale runs, what you handle, what it costs, and evidence of sales in that part of the county. Agencies with a single-page site and a phone number lose these instructions without knowing they were in the running.",
+      ],
+    },
+    {
+      heading: "Probate and family sales need a different tone",
+      body: [
+        "A house being sold after a death is not an ordinary transaction, and marketing that treats it as one reads badly. The vendor is frequently a group of siblings who do not fully agree, working to a legal timetable, at a difficult time.",
+        "Content that explains the process plainly and patiently is genuinely useful and almost nonexistent in Irish agency marketing. It is also exactly what somebody searches for at eleven at night when they have just been made an executor.",
+      ],
+    },
+    {
+      heading: "Three towns that do not share customers",
+      body: [
+        "Castlebar, Ballina and Westport anchor their own areas, and an agency in one has limited pull in the others. Proximity decides the map results and the county is too big to overcome it.",
+        "Dominating your own catchment is achievable and is the realistic goal. County-wide ranking is not.",
+      ],
+    },
+    {
+      heading: "Advertise to where the vendors live",
+      body: [
+        "A Mayo agency can put advertising in front of people in Dublin or in Britain who have a connection to the county. That is unusual and it is available.",
+        "It suits the inherited-property market precisely, and it is the kind of targeting almost no regional Irish agency has tried.",
+      ],
+    },
+    ],
+    towns: [
+      "Castlebar",
+      "Ballina",
+      "Westport",
+      "Claremorris",
+      "Ballinrobe",
+      "Swinford",
+      "Knock",
+      "Belmullet",
+      "Foxford",
+      "Charlestown",
+      "Newport",
+      "Kiltimagh",
+    ],
+    faqs: [
+      {
+        q: "Why does the website matter so much here?",
+        a: "Because a large share of vendors live elsewhere — inherited houses, family homes, emigrant-owned property. They cannot ask a neighbour, so they choose on what they can find.",
+      },
+      {
+        q: "How should probate sales be handled in marketing?",
+        a: "Plainly and patiently. The vendor is often several siblings working to a legal timetable at a hard time, and content explaining the process is genuinely useful and almost nonexistent here.",
+      },
+      {
+        q: "Can we rank across Mayo?",
+        a: "No. Castlebar, Ballina and Westport anchor separate areas and proximity decides the map results. Owning your own catchment is the achievable goal.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "estate-agents",
+    county: "kerry",
+    industryLabel: "estate agents",
+    countyName: "Kerry",
+    title: "Property Marketing Kerry | Leads for Kerry Estate Agents",
+    description:
+      "Valuation requests for Kerry estate agents: a holiday and second-home market with overseas buyers and a listing calendar that runs on the season.",
+    h1: "Property marketing in Kerry, where the buyer is rarely local.",
+    intro: [
+      "A large part of Kerry's property market is not people moving house. It is holiday homes, retirement purchases, lifestyle moves and overseas buyers, and those are bought on aspiration rather than on a commute.",
+      "The practical consequence is that presentation does far more work here than it does in an ordinary market, and the calendar matters more than most agencies allow for.",
+    ],
+    sections: [
+    {
+      heading: "You are selling a place, not a floor plan",
+      body: [
+        "A buyer choosing between Kenmare and west Cork is not comparing square footage. They are imagining a life, and the listing either supports that or it does not.",
+        "Photography in the right light, video that shows the setting and the approach, and written description that says what it is actually like to be there. Agencies that shoot a Kerry coastal house the way they would shoot a suburban semi leave money and months on the table.",
+      ],
+    },
+    {
+      heading: "The season sets the calendar",
+      body: [
+        "People fall in love with Kerry in summer and act on it afterwards. Listings that appear in the right part of the year reach buyers while the feeling is fresh; the same house listed in November works harder for less.",
+        "Planning the year around that is straightforward and very few agencies do it deliberately.",
+      ],
+    },
+    {
+      heading: "Overseas buyers need the process explained",
+      body: [
+        "A buyer in Britain, Germany or the United States does not know how an Irish sale works — what a booking deposit is, how contracts run, what they need in place.",
+        "Explaining it clearly on the website is the cheapest trust-building available, and it is the thing that separates an enquiry from a purchase for somebody who cannot walk into the office.",
+      ],
+    },
+    {
+      heading: "Distances make coverage a real decision",
+      body: [
+        "Tralee to Cahersiveen is a long way and the Ring roads are slow. Listing property you cannot service properly damages the relationship with the vendor and the eventual price.",
+        "Name the areas you genuinely cover, and be straight about it. In a market this dependent on presentation, a listing given proper attention is worth more than three that are not.",
+      ],
+    },
+    ],
+    towns: [
+      "Tralee",
+      "Killarney",
+      "Kenmare",
+      "Dingle",
+      "Listowel",
+      "Killorglin",
+      "Castleisland",
+      "Cahersiveen",
+      "Ballybunion",
+      "Sneem",
+      "Milltown",
+      "Waterville",
+    ],
+    faqs: [
+      {
+        q: "What matters most in Kerry listings?",
+        a: "Presentation. Buyers are frequently buying a lifestyle from a distance, so photography, video and honest description do work that a suburban listing never requires.",
+      },
+      {
+        q: "Does the time of year matter?",
+        a: "Yes. People fall in love with Kerry in summer and act afterwards. The same house listed in November works harder for less, and few agencies plan around it.",
+      },
+      {
+        q: "How do we handle overseas buyers?",
+        a: "Explain how an Irish sale actually works — deposits, contracts, what they need in place. It is the cheapest trust-building available for somebody who cannot walk into your office.",
+      },
+      PRICE_FAQ,
+    ],
+  },
 ];
 
 export const industryCountyFor = (industry: string) =>
