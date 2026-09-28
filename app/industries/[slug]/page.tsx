@@ -52,10 +52,25 @@ export default async function IndustryPage({
   const related = ind.related
     .map((s) => industryBySlug(s))
     .filter((x): x is NonNullable<typeof x> => Boolean(x));
-  // Three was fine when no niche had more than three guides. Roofing now
-  // has twelve and solar ten, so the cap was hiding most of a cluster from
-  // the one page with the authority to pass on.
-  const relatedPosts = posts.filter((p) => p.related.includes(ind.slug)).slice(0, 6);
+  /**
+   * Three was fine when no niche had more than three guides. Roofing now
+   * has twelve and solar ten, so the cap was hiding most of a cluster from
+   * the one page with the authority to pass on.
+   *
+   * File order is not relevance order, though: taking the first six gave
+   * the roofers page four generic trades guides and two about roofing,
+   * because the generic ones were written first. Rank by how specific a
+   * guide is to this industry — where this slug sits in its `related`,
+   * then how few industries it claims — before taking six.
+   */
+  const relatedPosts = posts
+    .filter((p) => p.related.includes(ind.slug))
+    .sort(
+      (a, b) =>
+        a.related.indexOf(ind.slug) - b.related.indexOf(ind.slug) ||
+        a.related.length - b.related.length,
+    )
+    .slice(0, 6);
   const topCounties = counties.filter((c) => c.focus.includes(ind.slug)).slice(0, 8);
 
   const schema = [
