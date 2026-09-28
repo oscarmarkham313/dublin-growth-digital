@@ -4633,6 +4633,520 @@ export const posts: Post[] = [
     ],
     related: ["roofers", "landscapers", "painters-and-decorators"],
   },
+  {
+    slug: "roofing-advertising-google-or-meta",
+    title: "Google or Facebook ads for a roofing company?",
+    description:
+      "The honest answer for an Irish roofer: Google for the leak today, Meta for the re-roof next spring, and why starting with both usually fails.",
+    date: "2026-09-28",
+    minutes: 7,
+    intro:
+      "Almost every roofer who rings us has tried one of the two and concluded that advertising does not work. Usually they tried the wrong one for the work they wanted. Google and Meta do genuinely different jobs for a roofing business, and the difference is not a matter of preference — it is a matter of whether the customer already knows they have a problem.",
+    sections: [
+      {
+        h: "Google catches the problem that already exists",
+        p: [
+          "Somebody with water coming through a bedroom ceiling opens their phone and types 'roof repair' and their town. They are not browsing. They will ring two or three numbers in the next ten minutes and book whoever answers and can come.",
+          "That is what Google Ads buys: a person at the exact moment of need. It is expensive per click — in Dublin, roofing clicks run well above the national average — and it is worth it, because the intent is already there and you are only paying to be in front of somebody who has decided to spend money today.",
+          "The limitation is volume. There are only so many people searching for a roofer in your county on any given Tuesday, and in a quiet week there may be very few. Google cannot create demand. It can only capture what already exists.",
+        ],
+      },
+      {
+        h: "Meta creates the job that was not urgent yet",
+        p: [
+          "A re-roof is rarely an emergency. Most of them are jobs a homeowner has known about for two or three years, has been quietly dreading the cost of, and has never quite got around to.",
+          "That person is not searching. They will never appear in a Google campaign. But they will stop on a photograph of a house like theirs with a new roof on it, especially if the caption says what it cost and how long it took.",
+          "Meta reaches them at a fraction of Google's cost per click, because you are buying attention rather than intent. The trade-off is that the enquiries are softer, slower and need a real follow-up process. A roofer who treats a Meta lead like a Google lead — one call, no answer, bin it — will conclude Meta does not work.",
+        ],
+      },
+      {
+        h: "Which one first",
+        p: [
+          "If your problem is that the phone is quiet this month, start with Google. It produces work fastest and the enquiries need the least handling.",
+          "If your problem is that you are busy with small repairs and want bigger jobs, start with Meta. Re-roofs, flat-roof replacements and full-house work are almost always built rather than caught.",
+          "What does not work is starting both at once on a small budget. Split three hundred euro a month across two platforms and neither has enough data to learn, both look like failures, and the roofer concludes advertising is a scam. One channel, properly funded, beats two half-funded ones every time.",
+        ],
+      },
+      {
+        h: "What each needs to actually work",
+        p: [
+          "Google needs a phone that gets answered, a negative keyword list built before launch, and location settings tight enough that you are not paying for clicks from counties you do not serve. Most inherited roofing accounts fail on at least two of those.",
+          "Meta needs real photographs. Not stock, not a render, not a logo on a gradient — photographs of roofs you have actually done, ideally with the house visible, ideally before and after. It also needs a follow-up sequence, because a good proportion of those enquiries convert on the third contact rather than the first.",
+        ],
+        list: [
+          "Google: answered phone, negatives, tight location, a landing page that matches the search",
+          "Meta: your own photographs, a qualifying form, and a follow-up that runs past one call",
+          "Both: call tracking, or you will never know which one is producing the work",
+        ],
+      },
+      {
+        h: "The honest summary",
+        p: [
+          "Google is the better first channel for most roofers. Meta is the better second channel for almost all of them, and for anyone chasing re-roofs rather than repairs it eventually becomes the bigger one.",
+          "If you want to know which your county actually supports, we will look at what roofing ads are already running there, what the searches cost, and what your map results look like, and tell you which one to start with.",
+        ],
+      },
+    ],
+    related: ["roofers", "gutter-cleaning", "builders-and-extensions"],
+  },
+  {
+    slug: "roofing-google-ads-wasted-clicks",
+    title: "The roofing searches you are paying for and should not be",
+    description:
+      "Roofing job ads, DIY searches, wholesalers and course enquiries all cost you money on a default Google Ads setup. Here is the list to block first.",
+    date: "2026-09-28",
+    minutes: 6,
+    intro:
+      "Roofing is one of the worst trades in Ireland for wasted Google Ads spend, and the reason is simple: the word 'roofing' appears in a very large number of searches made by people who will never hire a roofer. On a default campaign setup you pay for all of them. On most accounts we look at, somewhere between a quarter and a half of the spend is going to searches that could not possibly become a job.",
+    sections: [
+      {
+        h: "Job seekers are the biggest single leak",
+        p: [
+          "'Roofing jobs', 'roofer wanted', 'roofing apprenticeship', 'roofing labourer' — these are people looking for employment, and there are a great many of them. Broad and phrase match will serve your ad to all of them unless you have told Google not to.",
+          "This is usually the largest single category of waste in a roofing account, and it is the easiest to eliminate. Blocking the employment words takes five minutes and frequently cuts a fifth off the bill with no loss of enquiries.",
+        ],
+        list: [
+          "jobs, job, vacancy, vacancies, hiring, wanted, apprentice, apprenticeship",
+          "salary, wage, wages, pay, career, careers, recruitment, cv",
+        ],
+      },
+      {
+        h: "DIY and price research",
+        p: [
+          "'How to fix a roof leak', 'roof felt B&Q', 'how to replace a slate' — someone is going up the ladder themselves. 'Roofing materials', 'roof tiles price', 'roofing supplies near me' — someone is buying materials, not labour.",
+          "Some of these are arguable. A person researching how to fix a leak sometimes gives up and rings a roofer. But they click at a high rate and convert at a very low one, and on a limited budget they are displacing somebody who is ready to buy.",
+        ],
+        list: [
+          "how to, diy, yourself, tutorial, video, youtube",
+          "b&q, woodie's, screwfix, wickes, supplies, wholesale, materials, sheets, felt roll",
+        ],
+      },
+      {
+        h: "Courses, training and qualifications",
+        p: [
+          "'Roofing course', 'roofing certificate', 'roof safety training', 'solas roofing' — education searches, and they are more common than most roofers expect.",
+          "In Limerick and Cork especially, broad university and college traffic drifts into trade campaigns and quietly eats budget.",
+        ],
+        list: [
+          "course, courses, training, qualification, certificate, diploma, college, solas, city and guilds",
+        ],
+      },
+      {
+        h: "Wrong locations and wrong countries",
+        p: [
+          "Google's default location setting is 'presence or interest', which means your Dublin roofing ad can be shown to somebody in Manchester reading about Dublin. Set it to presence only — people in or regularly in your locations — and a whole category of nonsense disappears.",
+          "Add the obvious geographic negatives too: UK cities, US states and the counties you genuinely do not serve. A roofer in Galway paying for Belfast clicks is not rare.",
+        ],
+      },
+      {
+        h: "The free and cheap crowd",
+        p: [
+          "'Free roof inspection' and 'roof grant' searches can be fine if you offer those things and say so. If you do not, they are expensive disappointments on both sides.",
+          "'Cheap roofer', 'cheapest roof repair' — you can take a view on these. Our experience is that the jobs are small, the customers are difficult and the margin is not there.",
+        ],
+        list: [
+          "free, grant, cheap, cheapest, budget, second hand, used",
+        ],
+      },
+      {
+        h: "How to find your own",
+        p: [
+          "The lists above are a starting point, not an answer. The real list comes from your own search terms report, which shows the actual phrases people typed before clicking your ad. It is under Insights in the Google Ads interface and most roofers have never opened it.",
+          "Read it once a week for the first month and once a month after that. Every wasted term you block is money moved to the searches that do become jobs, which on a roofing budget is the difference between the channel working and the channel not.",
+          "If you would rather somebody else did it, send us the account name and we will read the search terms report and tell you what it is spending on. That part is free and takes us about an hour.",
+        ],
+      },
+    ],
+    related: ["roofers", "powerwashing", "windows-and-doors"],
+  },
+  {
+    slug: "starting-a-roofing-business-ireland-marketing",
+    title: "Starting a roofing business in Ireland: getting the work in",
+    description:
+      "The trade side of a new roofing business is the part you already know. This is the other half: how the first jobs actually arrive in year one.",
+    date: "2026-09-28",
+    minutes: 8,
+    intro:
+      "If you are starting out on your own after years on somebody else's crew, the roofing is the part you are least worried about. The part that catches people is the quiet weeks — the stretch where you have the van, the insurance and the skill, and no phone calls. This is what actually generates the first jobs, in the order that works.",
+    sections: [
+      {
+        h: "Before anything else: the Google Business Profile",
+        p: [
+          "A verified Google Business Profile is free, takes about a week to get verified by post, and is the single largest source of enquiries for most small roofing firms in Ireland. It is what puts you in the map results when somebody searches for a roofer in your town.",
+          "Do it on day one, because verification takes time and because the profile needs to accumulate reviews and photographs before it performs. A profile created the week you need work is a profile that will not help you for months.",
+        ],
+      },
+      {
+        h: "The first ten reviews matter more than the next fifty",
+        p: [
+          "Going from no reviews to ten changes everything about how you appear. Going from forty to fifty changes almost nothing. In your first year the reviews are the highest-value asset you can build, and they are free.",
+          "Ask every single customer, on the day, in person, while they are standing there looking at the finished work and feeling good about it. Not by text a week later. The conversion rate on asking face to face at the moment of handover is several times higher than any other method.",
+          "Get the link on your phone so you can hand them the phone with the page already open. Most people will not go looking.",
+        ],
+      },
+      {
+        h: "A website that answers three questions",
+        p: [
+          "You do not need a large website. You need one that answers what you do, where you do it, and what it looks like when you have done it.",
+          "Where you do it is the one new roofers skip and it is the one that decides whether you appear in searches. List the actual towns. Not 'the Leinster area' — Naas, Newbridge, Kilcullen, Sallins, by name.",
+          "What it looks like means photographs of your own work. Nothing else on a roofing website does as much, and nothing else is as easy to gather while you are already up there.",
+        ],
+      },
+      {
+        h: "Photograph everything from the first job",
+        p: [
+          "Before, during and after, on every job, from the very first one. It costs nothing and thirty seconds, and in eighteen months it is the asset your competitors cannot buy.",
+          "New roofers almost universally regret not doing this. Six months in you have twenty jobs done and four usable photographs, all of them taken after the scaffold came down when the light was wrong.",
+        ],
+      },
+      {
+        h: "Where the first jobs actually come from",
+        p: [
+          "Honestly, in roughly this order: people who already know you, the Google Business Profile, van signage, and then paid advertising once there is cash flow to fund it.",
+          "The people who already know you part is not a small thing. Every builder, plumber, electrician and estate agent you have worked alongside is a potential source of referrals, and they refer to whoever they remember. Telling fifty of them that you have gone out on your own is a morning's work with a better return than any first-year ad campaign.",
+        ],
+        list: [
+          "Tell every trade contact you have started, individually, not in a group message",
+          "Verify the Google Business Profile and add photographs weekly",
+          "Get the van signed with the trade, the number and the county",
+          "Ask every customer for a review, face to face, on the day",
+          "Start paid advertising when you can fund three months of it, not one",
+        ],
+      },
+      {
+        h: "When to start advertising",
+        p: [
+          "Not immediately. Advertising into a business with no reviews, no photographs and no website converts badly, and you will spend money learning that the hard way.",
+          "Get the profile verified, gather the first eight or ten reviews, build up a photograph library from the first months of work, and then advertise. The same budget will produce noticeably more at that point, because the person who clicks now finds something that reassures them.",
+          "Fund it for three months minimum when you do start. One month of advertising tells you nothing — the platforms need the data and you need enough enquiries to judge the pattern.",
+        ],
+      },
+      {
+        h: "The mistake that costs the most",
+        p: [
+          "Buying leads from a national portal to get going. It feels like a shortcut and it teaches you nothing, because the customer never learns your name. Three years in you have the same problem, except now you are dependent on a supplier who can raise the price whenever they like.",
+          "Everything above builds an asset you own. The lead portal builds theirs.",
+        ],
+      },
+    ],
+    related: ["roofers", "builders-and-extensions", "plumbers-and-heating"],
+  },
+  {
+    slug: "how-to-get-roofing-jobs-without-buying-leads",
+    title: "How to get roofing jobs without buying leads",
+    description:
+      "Six routes to roofing work that do not involve a lead portal, ranked by what they actually produce for an Irish contractor in a normal year.",
+    date: "2026-09-28",
+    minutes: 7,
+    intro:
+      "Buying leads is the fastest way to get roofing work and the worst way to build a roofing business. You are renting access to customers who will never know your name, at a price somebody else controls, in a queue with three other roofers. Here is what works instead, ranked honestly by what it produces rather than by what sounds best.",
+    sections: [
+      {
+        h: "1. The Google map results",
+        p: [
+          "For most Irish roofers this is the largest free source of work there is, and the thing that decides it is the combination of a verified profile, a steady flow of reviews and how close you are to the person searching.",
+          "Proximity you cannot change. The other two you can, and most roofers do neither. A profile with forty reviews and photographs added monthly will beat one with six reviews and none, from a business the same distance away, almost every time.",
+        ],
+      },
+      {
+        h: "2. Reviews, asked for properly",
+        p: [
+          "Reviews do two jobs: they lift you in the map results and they convert the person who finds you. They are the highest-leverage unpaid thing available to a roofing business and almost everyone is bad at getting them.",
+          "The method that works is asking in person on the day of completion, with the review page already open on your phone. The methods that do not work are texting a link a week later and hoping, or putting it on the invoice.",
+          "Volume matters less than recency. Ten reviews in the last six months reads better than sixty that stop two years ago, to a customer and to Google both.",
+        ],
+      },
+      {
+        h: "3. Other trades",
+        p: [
+          "Builders, plumbers, electricians, plasterers and window fitters are all standing in houses that need roof work, and they all get asked 'do you know a good roofer?'.",
+          "The roofer who gets that referral is the one they can remember and reach. That means being actively useful to those trades — turning up when you say, not undercutting them in front of a client, and returning the favour. It is slow, it costs nothing, and for established roofers it is frequently the single biggest source of work.",
+        ],
+      },
+      {
+        h: "4. Repeat and neighbour work",
+        p: [
+          "A roof lasts decades, so repeat business from the same customer is rare. Neighbour work is not. Houses on a street were built at the same time and their roofs fail at the same time.",
+          "A signed van parked on a road for three days is advertising to twenty households with the same problem. Some roofers leave a card in the neighbours' doors while the scaffold is up; the ones who do it consistently report it as one of the better-converting things they do.",
+        ],
+      },
+      {
+        h: "5. Van signage and site presence",
+        p: [
+          "Cheap, permanent, and consistently undervalued. The trade, a phone number large enough to read from a car, and the county. Nothing else.",
+          "The mistake is a small number, a busy design and no indication of where you work. Somebody sitting behind you in traffic has about four seconds.",
+        ],
+      },
+      {
+        h: "6. Your own website, for the searches that are not urgent",
+        p: [
+          "A person with water coming in rings the first number in the map results. A person planning a re-roof for the spring reads first, and what they read decides who gets the quote.",
+          "That is what a website earns you — the planned, larger, better-paying work that does not go to whoever answers fastest. It needs photographs of your own jobs, the towns you cover named explicitly, and straightforward answers about how the process works.",
+        ],
+      },
+      {
+        h: "What this adds up to",
+        p: [
+          "None of these produce work tomorrow, which is exactly why roofers buy leads instead. They compound. A profile with two years of reviews, a photograph library, a set of trades who refer you and a van everybody in the town recognises is a business that does not have quiet months.",
+          "Advertising sits on top of that and works far better because of it. It is not an alternative to any of the above — it is what you add once the foundations are earning.",
+        ],
+      },
+    ],
+    related: ["roofers", "gutter-cleaning", "chimney-sweeps"],
+  },
+  {
+    slug: "why-roofers-lose-quotes",
+    title: "Why roofers lose quotes they should have won",
+    description:
+      "It is rarely price. Irish homeowners choosing a roofer are managing a risk, and most quotes do nothing to reduce it. What to change.",
+    date: "2026-09-28",
+    minutes: 6,
+    intro:
+      "Roofers who lose a lot of quotes almost always believe it is because they are dearer. Occasionally that is true. Far more often the customer could not tell the difference between three quotes, was frightened of making an expensive mistake on something they cannot inspect, and chose on whatever signal they could actually read.",
+    sections: [
+      {
+        h: "The customer cannot judge the work",
+        p: [
+          "A homeowner can look at a kitchen and form an opinion. They cannot get onto a roof, and after the job is done they will never see it again. They are buying something they will never inspect, from somebody they met once, for several thousand euro.",
+          "That is a risk decision, not a price decision. Everything that reduces the fear wins the job, and almost nothing about a typical roofing quote reduces it.",
+        ],
+      },
+      {
+        h: "A price on a page is not a quote",
+        p: [
+          "A number in a text message, or a one-line email with a total, gives the customer nothing to judge except the number. So they judge the number, and the cheapest one wins.",
+          "A quote that breaks the job into what is being removed, what is going back on, what the materials are, how long it takes and what happens if something unexpected is found underneath is a quote the customer can understand. It also makes a cheaper competing quote look thin, because it usually is.",
+        ],
+      },
+      {
+        h: "Photographs of the actual roof",
+        p: [
+          "You were up there. They were not. Three photographs of their own roof, with the problem circled, does more than any amount of explanation, and almost no roofer sends them.",
+          "It proves you looked properly, it shows them something they physically cannot see themselves, and it makes the price make sense. It takes two minutes.",
+        ],
+      },
+      {
+        h: "Speed is judged as competence",
+        p: [
+          "A quote that arrives the same evening reads as organised. One that arrives nine days later reads as a business that might also be nine days late starting the job.",
+          "Customers explicitly tell us this. The most common reason given for choosing a tradesperson, after a recommendation, is that they came back quickly and did what they said they would.",
+        ],
+      },
+      {
+        h: "The follow-up nobody does",
+        p: [
+          "Most roofers send a quote and wait. A large share of quotes are simply forgotten — the customer got busy, the other quote came in, life happened.",
+          "One call three days later asking whether they have any questions recovers a meaningful proportion of them. It is not pushy and it is not clever. It is just that almost nobody does it, so the roofer who does is the one still in mind when the decision gets made.",
+        ],
+      },
+      {
+        h: "What to change this week",
+        p: [
+          "None of this is marketing spend. It is process, and it changes the close rate on the leads you already have, which is usually worth more than doubling the leads.",
+        ],
+        list: [
+          "Send quotes the same day, or the next morning at the latest",
+          "Include photographs of their roof with the problem marked",
+          "Break the price into removal, materials, labour and timeline",
+          "Say in writing what happens if something is found underneath",
+          "Ring once, three days later, to ask if they have questions",
+        ],
+      },
+      {
+        h: "Then count them",
+        p: [
+          "Write down every quote you send and whether you won it. Most roofers cannot tell you their close rate, which means they cannot tell whether a change helped.",
+          "If you are winning one in five, the problem is the quote. If you are winning one in two and still quiet, the problem is the number of enquiries, and that is a different fix entirely.",
+        ],
+      },
+    ],
+    related: ["roofers", "builders-and-extensions", "windows-and-doors"],
+  },
+  {
+    slug: "google-business-profile-for-roofers",
+    title: "The Google Business Profile setup that wins roofing calls",
+    description:
+      "For most Irish roofers the map results produce more enquiries than everything else combined. The settings and habits that decide where you appear.",
+    date: "2026-09-28",
+    minutes: 7,
+    intro:
+      "When somebody in Ireland searches for a roofer, the first thing on the screen is the map pack — three local businesses with stars, distance and a call button. A very large share of roofing enquiries never get past it. Getting that right is free, and most roofing profiles are set up badly or abandoned after the first week.",
+    sections: [
+      {
+        h: "Service area, not a shopfront",
+        p: [
+          "A roofer is a service-area business. You go to the customer; they do not come to you. Set the profile up that way and hide the street address, which Google allows and which stops your home address appearing in search results.",
+          "Then set the service area to the towns and counties you genuinely cover. This does not make you rank in all of them — proximity still decides that — but it does tell Google what you do and where, and it stops you appearing for places you cannot reach.",
+        ],
+      },
+      {
+        h: "Categories decide which searches you appear in",
+        p: [
+          "The primary category is the single most influential setting on the profile. For most roofing businesses it should be 'Roofing contractor'. Not 'Contractor', not 'Construction company', not 'Home improvement'.",
+          "Add secondary categories for the things you actually do — gutter service, chimney service, roof repair — but only for work you genuinely carry out. The primary one does the heavy lifting and a vague primary category is the most common reason a roofer is invisible in the map results.",
+        ],
+      },
+      {
+        h: "Photographs, weekly, from the phone",
+        p: [
+          "Profiles with a steady flow of recent photographs perform better than profiles with a big batch uploaded once. Google reads activity as a signal that the business is alive.",
+          "Upload from the phone on site, where the location data supports the listing. Before and after pairs, the van, the crew, finished ridges and valleys. Ten minutes a week.",
+          "It also converts. A customer choosing between three map results looks at the photographs, and a profile with forty real roofs beats one with a logo and nothing else.",
+        ],
+      },
+      {
+        h: "Reviews, and replying to them",
+        p: [
+          "Volume, recency and rating all count, and so does replying. Reply to every review, including the bad ones, briefly and without arguing.",
+          "The reply is read by the next customer far more than by the reviewer. A calm, specific response to a complaint reassures people more than a wall of five stars with no replies at all.",
+          "Ask on the day, in person, with the page open on your phone. Every other method is a fraction as effective.",
+        ],
+      },
+      {
+        h: "Use the parts nobody uses",
+        p: [
+          "Most roofing profiles never touch these, which is exactly why they are worth doing.",
+        ],
+        list: [
+          "Services: list each one separately with a description — roof repair, re-roofing, flat roofs, gutters, chimney work",
+          "Posts: a short update with a photograph every couple of weeks",
+          "Q&A: you can ask and answer your own questions, and should — cover call-out charges and areas covered",
+          "Hours: accurate, including whether you take emergency calls, because 'open now' filters the results",
+          "Messaging: turn it off unless you will genuinely answer it quickly",
+        ],
+      },
+      {
+        h: "What you cannot change",
+        p: [
+          "Proximity. If the searcher is twenty kilometres away and a competitor is two, the competitor wins that search, and no amount of optimisation changes it.",
+          "This is worth accepting early. The goal is to dominate your own catchment, not to rank across a county. Roofers who chase county-wide map rankings waste years on something Google's design does not allow.",
+          "If you need work outside your catchment, that is what paid advertising is for — it is not bound by proximity in the same way.",
+        ],
+      },
+    ],
+    related: ["roofers", "gutter-cleaning", "powerwashing"],
+  },
+  {
+    slug: "roof-photographs-that-win-jobs",
+    title: "What to photograph on a roof, and why it wins the next job",
+    description:
+      "Roofing is invisible work sold to people who will never see it. Photographs are the whole argument, and most roofers take the wrong ones.",
+    date: "2026-09-28",
+    minutes: 6,
+    intro:
+      "Every roofer has a phone full of photographs and almost none that are usable. The problem is not the camera — it is what gets photographed and when. Roofing is the trade where images do the most work, because the customer cannot see the product before or after they buy it, and a small change in habit produces an asset worth more than any advertising budget.",
+    sections: [
+      {
+        h: "Before is worth more than after",
+        p: [
+          "An after photograph shows a roof. Most people cannot tell a good one from a bad one and it does not move them.",
+          "A before photograph shows slipped slates, a rotted valley, a chimney with no flashing left on it — and then the after photograph means something. The pair together tells a story a single image cannot, and it is the pair that gets shared, stopped on and remembered.",
+          "So the discipline is: photograph it the moment you get up there, before you touch anything. That is the shot everyone forgets and it is the one doing most of the work.",
+        ],
+      },
+      {
+        h: "Get the house in",
+        p: [
+          "A close-up of a repaired flashing is a technical photograph. It proves competence to another roofer and says nothing to a homeowner.",
+          "A photograph with the house visible lets somebody recognise their own home in it. A 1970s semi in a Dublin estate, a bungalow in Mayo, a terrace in Cork city — the customer sees their house type and thinks that roofer does houses like mine.",
+          "Shoot from across the road, in landscape, with enough of the building to be recognisable.",
+        ],
+      },
+      {
+        h: "Same angle, both times",
+        p: [
+          "A before from the scaffold and an after from the garden do not compare. The pair only works if the second shot is taken from roughly where the first one was.",
+          "Easiest method: look at the before photograph on your phone before you take the after, and stand in the same place. It takes fifteen seconds and it is the difference between a usable pair and two unrelated pictures.",
+        ],
+      },
+      {
+        h: "The shots that are consistently useful",
+        p: [
+          "A job produces four or five images worth keeping, not forty. These are the ones that get used.",
+        ],
+        list: [
+          "The full house, before, from across the road",
+          "The actual problem, close, so the damage is legible",
+          "One shot mid-job with the crew or scaffold — proof it is real",
+          "The full house, after, from the same spot as the first",
+          "One detail of the finished work: ridge, valley, flashing",
+        ],
+      },
+      {
+        h: "Light and timing",
+        p: [
+          "Avoid midday in summer — harsh overhead light flattens a roof and blows out slate. Early morning and late afternoon give the surface texture.",
+          "Overcast is genuinely good for roofing photographs. The detail holds and nothing is in deep shadow.",
+          "Never shoot into the sun with the house dark against the sky, which is the single most common ruined roofing photograph.",
+        ],
+      },
+      {
+        h: "Where they go",
+        p: [
+          "Google Business Profile weekly, straight from the phone. The website, grouped by job rather than dumped in a grid. Meta ads, where before-and-after pairs consistently outperform everything else a roofing business can run.",
+          "And into quotes. Sending a customer photographs of their own roof with the problem marked is the single most persuasive thing in a roofing sales process, and it costs nothing but the two minutes you already spent up there.",
+        ],
+      },
+    ],
+    related: ["roofers", "powerwashing", "painters-and-decorators"],
+  },
+  {
+    slug: "roofing-enquiry-response-time",
+    title: "The roofing enquiry you lose in eleven minutes",
+    description:
+      "A leaking roof is an emergency purchase. What the response window actually is for Irish roofing enquiries, and what to do about the ones you miss.",
+    date: "2026-09-28",
+    minutes: 6,
+    intro:
+      "Somebody with water coming through a ceiling does not shortlist. They ring the first number, and if it does not answer they ring the second, and the job goes to whoever picks up. For urgent roofing work the decision is frequently made inside a quarter of an hour, which means the gap between a good month and a quiet one is often nothing to do with marketing at all.",
+    sections: [
+      {
+        h: "Two kinds of enquiry, two different clocks",
+        p: [
+          "An emergency repair is decided in minutes. A planned re-roof is decided over weeks. The same roofing business receives both and usually treats them identically, which is wrong in both directions.",
+          "The urgent one needs answering now and needs somebody on site today or tomorrow. The planned one needs a proper quote, photographs and a follow-up call — speed matters less than thoroughness there, though a same-day acknowledgement still reads as competence.",
+          "The first question on any enquiry form should therefore be how urgent it is, because it changes everything about what happens next.",
+        ],
+      },
+      {
+        h: "The missed call is the real leak",
+        p: [
+          "You are up a ladder. You cannot answer. That is not a failure of discipline, it is the nature of the trade, and no amount of good intention fixes it.",
+          "What fixes it is a system. An answering service that takes a name, a number and the problem. A missed-call text that fires automatically saying you are on a roof and will ring back within the hour. Someone in the office, if there is one.",
+          "Roofers who put any of those in place usually find they were losing several jobs a month without ever knowing, because a missed call leaves no trace.",
+        ],
+      },
+      {
+        h: "An automatic text buys you the hour",
+        p: [
+          "A message that arrives thirty seconds after an unanswered call — 'Thanks for ringing, I'm on a roof, I'll call you back within the hour. If it's an emergency reply URGENT.' — changes a hang-up into a hold.",
+          "The caller knows they have been heard, which is usually enough to stop them working down the list. It costs very little to set up and it is the highest-return thing most roofing businesses can do to their phone handling.",
+        ],
+      },
+      {
+        h: "Out of hours is when roofs leak",
+        p: [
+          "Roof emergencies cluster in the evening and at the weekend, during and after weather. Those are precisely the hours most roofing businesses do not answer.",
+          "You do not have to work those hours. You do have to decide, explicitly, what happens when the phone rings at nine on a Sunday, and then say so clearly on the website and the Google profile. 'Emergency call-outs answered until 9pm, seven days' wins work. So does an honest 'we return calls from 7am' — what loses work is silence.",
+        ],
+      },
+      {
+        h: "If you advertise, this is not optional",
+        p: [
+          "Paying for a click and then not answering the call is the most expensive mistake in trades advertising. You bought the enquiry and gave it to a competitor.",
+          "Before increasing any roofing ad budget, we look at call handling first, because there is usually more work available in the calls already coming in than in the ones the extra money would buy.",
+        ],
+      },
+      {
+        h: "Measure it",
+        p: [
+          "Call tracking will tell you how many calls came in, how many were answered, how long they rang and what happened at the weekend. Most roofers are surprised by the answered-call percentage, and nearly always in the wrong direction.",
+          "It is a small monthly cost and it converts an invisible problem into a number you can fix. Until it is measured, the missed calls simply do not exist as far as the business is concerned.",
+        ],
+      },
+    ],
+    related: ["roofers", "plumbers-and-heating", "drainage"],
+  },
 ];
 
 export const postBySlug = (slug: string) => posts.find((p) => p.slug === slug);

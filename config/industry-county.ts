@@ -465,6 +465,444 @@ export const industryCounty: IndustryCounty[] = [
       PRICE_FAQ,
     ],
   },
+  {
+    industry: "roofers",
+    county: "donegal",
+    industryLabel: "roofers",
+    countyName: "Donegal",
+    title: "Roofing Leads Donegal | Marketing for Donegal Roofers",
+    description:
+      "Lead generation for Donegal roofing contractors: the worst Atlantic weather in Ireland, distances that eat a morning, and Derry firms in your results.",
+    h1: "Roofing leads in Donegal, where the weather does the selling.",
+    intro: [
+      "Donegal takes weather that most Irish roofers never see. Atlantic systems arrive here first and hardest, and a single winter storm can produce more call-outs in three days than a quiet month produces in four weeks.",
+      "It is also enormous and slow to drive. Letterkenny to Glencolmcille is most of a day there and back, and a roofer who has not decided in advance how far they will travel will spend the season losing money on the far jobs.",
+    ],
+    sections: [
+    {
+      heading: "Be ranked before the system arrives, not after",
+      body: [
+        "Storm demand does not build. It appears on a Tuesday, gets spent within a week, and goes to whoever is already visible in the map results when the wind drops.",
+        "A roofer who starts advertising the morning after a storm is bidding against every other roofer in the county at the worst possible price, and is invisible in the results that actually generate the calls. The work to be there has to happen in September, not January.",
+      ],
+    },
+    {
+      heading: "Exposure damage is its own category",
+      body: [
+        "Wind-lifted slates, torn flashing, ridge damage and rain driven horizontally into places it should not reach. That is a different set of searches from the leak-under-a-valley problem an inland roofer deals with.",
+        "Pages and ads written around storm and exposure damage will out-perform generic roof repair content here, because they match what people in this county actually type after a bad night.",
+      ],
+    },
+    {
+      heading: "Target driving time, and say what it is",
+      body: [
+        "A radius around Letterkenny includes places nobody will drive to for a repair, and the roads west and into the peninsulas are slower than any map suggests.",
+        "Name the towns you will genuinely reach, on the site and in the targeting. It wins the enquiries inside your range and saves you the calls from outside it, which in a county this size is a meaningful amount of wasted time.",
+      ],
+    },
+    {
+      heading: "Derry firms appear in your results",
+      body: [
+        "Search results in the north of the county include Northern Ireland businesses with their own review profiles, and sterling pricing moves that competition back and forth.",
+        "Competing on price there is usually a losing position. A verified Donegal address, Donegal reviews and photographs of Donegal roofs are the things a Derry firm cannot produce.",
+      ],
+    },
+    ],
+    towns: [
+      "Letterkenny",
+      "Buncrana",
+      "Ballybofey",
+      "Donegal town",
+      "Bundoran",
+      "Carndonagh",
+      "Dungloe",
+      "Killybegs",
+      "Moville",
+      "Ballyshannon",
+      "Lifford",
+      "Gweedore",
+    ],
+    faqs: [
+      {
+        q: "When should a Donegal roofer advertise?",
+        a: "Before the storm season, not after it. Demand appears in days and goes to whoever already ranks when the wind drops — starting afterwards means bidding against everyone at the worst price.",
+      },
+      {
+        q: "How far should we cover?",
+        a: "As far as you will genuinely drive, named explicitly. The roads west and into the peninsulas are slower than the map suggests and the far jobs lose money.",
+      },
+      {
+        q: "Do Derry roofers compete with us?",
+        a: "In the north of the county, yes, and sterling moves that competition. A Donegal address, Donegal reviews and photographs of Donegal roofs are what they cannot copy.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "roofers",
+    county: "mayo",
+    industryLabel: "roofers",
+    countyName: "Mayo",
+    title: "Roofing Leads Mayo | Marketing for Mayo Roofers",
+    description:
+      "Lead generation for Mayo roofing contractors: Atlantic exposure, three towns that do not overlap, and coverage so poor a heavy website simply fails.",
+    h1: "Roofing leads in Mayo, measured in driving time.",
+    intro: [
+      "Mayo is large, thinly populated and served by three towns that do not share customers. Castlebar, Ballina and Westport each anchor their own area, and a roofer in one is close to invisible in the others.",
+      "The western side takes Atlantic weather that produces genuine exposure damage, and the distances out to Belmullet and the coast are long enough that a job has to be worth the day it costs.",
+    ],
+    sections: [
+    {
+      heading: "Three towns, three sets of results",
+      body: [
+        "Google's map results are decided largely by how far the searcher is from your address, and Mayo is big enough that this settles almost everything. You will rank in your own town and barely register in the others.",
+        "That is not fixable by optimisation. What is fixable is being unmistakably the best option within your own catchment, which is a fight almost nobody in this county is having.",
+      ],
+    },
+    {
+      heading: "Page weight is not a technical detail here",
+      body: [
+        "Mobile coverage across much of west Mayo is genuinely poor, and a heavy website does not load slowly for those visitors — it does not load.",
+        "You never see those people in your enquiry figures, which is exactly why it goes unfixed for years. For a roofer whose customers are standing in a yard looking at a damaged roof on one bar of signal, this matters more than the design does.",
+      ],
+    },
+    {
+      heading: "Exposure work arrives in bursts",
+      body: [
+        "The coast and the west take weather that inland Mayo does not, and roofs there fail in ways that inland roofs do not. That demand is seasonal, concentrated and goes to whoever is visible at the time.",
+        "Being set up before autumn rather than reacting in January is the whole difference between capturing that and watching it go elsewhere.",
+      ],
+    },
+    {
+      heading: "The returning-household market is real",
+      body: [
+        "Mayo has an unusually strong connection with people who left and come back — for summers, for retirement, or to do up a family property that has been empty for years.",
+        "Those roofs need work and the owners are frequently arranging it from Dublin or Britain. They search without any local knowledge, which means content and reviews decide it rather than proximity, and almost no Mayo roofer writes for them.",
+      ],
+    },
+    ],
+    towns: [
+      "Castlebar",
+      "Ballina",
+      "Westport",
+      "Claremorris",
+      "Ballinrobe",
+      "Swinford",
+      "Belmullet",
+      "Charlestown",
+      "Knock",
+      "Foxford",
+      "Kiltimagh",
+      "Newport",
+    ],
+    faqs: [
+      {
+        q: "Can we rank across Mayo?",
+        a: "No. Proximity decides the map results and the county is far too large. Ranking well in your own town's catchment is the realistic and worthwhile goal.",
+      },
+      {
+        q: "Does website speed really matter for a roofer?",
+        a: "In west Mayo it decides whether the site loads at all. Customers are frequently on one bar of signal looking at a damaged roof, and a heavy site fails silently.",
+      },
+      {
+        q: "Who are the returning households?",
+        a: "People with Mayo connections living elsewhere who inherit or renovate family property. They search without local knowledge, so content and reviews decide it rather than proximity.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "roofers",
+    county: "kerry",
+    industryLabel: "roofers",
+    countyName: "Kerry",
+    title: "Roofing Leads Kerry | Marketing for Kerry Roofers",
+    description:
+      "Lead generation for Kerry roofing contractors: Atlantic exposure, second homes nobody checks for ten months, and roads that make a radius meaningless.",
+    h1: "Roofing leads in Kerry, including the houses nobody is in.",
+    intro: [
+      "Kerry has a large stock of holiday homes and second properties that are empty for most of the year, and roof problems in them are discovered late — usually in spring, by an owner arriving from Dublin or abroad to find a stain on a ceiling.",
+      "That is a distinct and well-paying seam of work, and it is arranged remotely by somebody with no local knowledge and no tradesperson to ring.",
+    ],
+    sections: [
+    {
+      heading: "The absent-owner market",
+      body: [
+        "An owner who lives elsewhere cannot ask a neighbour who to use. They search, they read, and they choose on what they find — which means reviews and a website that answers questions do the work proximity normally does.",
+        "They also need more from you: photographs of the problem, a clear quote without a face-to-face meeting, and someone who will let them know when it is done. A roofer who is set up to work that way has very little competition for it.",
+      ],
+    },
+    {
+      heading: "Two coasts, one county, slow roads",
+      body: [
+        "Tralee to Cahersiveen is not a journey anybody makes for an ordinary repair, and the Ring roads are slow in August and slower in February.",
+        "Target named towns within a realistic drive rather than a radius. In Kerry a circle on a map includes a great many people who will never become customers and quite a few who could not reach you if they wanted to.",
+      ],
+    },
+    {
+      heading: "Exposure and salt",
+      body: [
+        "Coastal Kerry roofs fail differently — wind damage, salt corrosion on fixings and flashing, driven rain. Inland Kerry around Killarney and Castleisland is a milder, more ordinary market.",
+        "Writing about the coastal problems specifically wins the coastal work, and it signals to an absent owner that you actually know the conditions their house sits in.",
+      ],
+    },
+    {
+      heading: "Spring is when the discoveries happen",
+      body: [
+        "The damage occurs in winter and is found in March and April when people arrive. That is when the enquiries cluster, which means being visible by February rather than reacting in May.",
+        "It is the opposite calendar to most trades and almost no Kerry roofer plans around it.",
+      ],
+    },
+    ],
+    towns: [
+      "Tralee",
+      "Killarney",
+      "Listowel",
+      "Dingle",
+      "Kenmare",
+      "Castleisland",
+      "Killorglin",
+      "Cahersiveen",
+      "Ballybunion",
+      "Milltown",
+      "Sneem",
+      "Tarbert",
+    ],
+    faqs: [
+      {
+        q: "What is the absent-owner market?",
+        a: "Holiday and second homes empty most of the year, where damage is found late by an owner arriving from elsewhere. They arrange it remotely, which means reviews and a clear website decide it rather than proximity.",
+      },
+      {
+        q: "When do Kerry roofing enquiries cluster?",
+        a: "Spring, when people arrive and find winter damage. That means being visible by February rather than reacting in May, which is the opposite of most trades.",
+      },
+      {
+        q: "Does coastal work differ?",
+        a: "Substantially — wind damage, salt corrosion on fixings and flashing, driven rain. Writing about those specifically signals you know the conditions the house is in.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "roofers",
+    county: "wicklow",
+    industryLabel: "roofers",
+    countyName: "Wicklow",
+    title: "Roofing Leads Wicklow | Marketing for Wicklow Roofers",
+    description:
+      "Lead generation for Wicklow roofing contractors: a county split by mountains, Dublin prices in the north and almost no competition in the south.",
+    h1: "Roofing leads in Wicklow, on whichever side of the mountains you are.",
+    intro: [
+      "Wicklow is two roofing markets with a mountain range in between. Bray and Greystones sit inside the Dublin advertising economy, with Dublin click prices and Dublin competitors. Rathdrum, Tinahely and Arklow are rural, cheap and barely contested.",
+      "The mountains are not scenery here, they are a commercial fact. A Bray roofer will not rank in Arklow no matter how good the website is, because Google measures distance and does not care how long the drive takes.",
+    ],
+    sections: [
+    {
+      heading: "Paid advertising is how you cross the mountains",
+      body: [
+        "Map results are decided by proximity, so organic search will hold you to the side of the county you are on. Google Ads is not bound the same way.",
+        "This is the clearest case in Ireland for running paid alongside SEO rather than instead of it: optimise for where you are, advertise into where you are not. Any agency promising a Bray roofer organic coverage of south Wicklow is promising something the geography forbids.",
+      ],
+    },
+    {
+      heading: "North and south are different budgets",
+      body: [
+        "Clicks in Bray and Greystones cost close to south Dublin rates, because the same competitors bid on them. Clicks in Baltinglass or Tinahely cost a fraction of that.",
+        "Running one county campaign averages the two and means overpaying in the north while under-reaching in the south. Split, they are both affordable.",
+      ],
+    },
+    {
+      heading: "Old housing in the north, exposure in the south",
+      body: [
+        "North Wicklow has period and Victorian housing with slate, lead valleys and chimney work — skilled, planned, well-paid jobs where the customer researches first.",
+        "The south and the uplands are more exposed and more agricultural, with more storm damage and more outbuildings. Different work, different searches, different pages.",
+      ],
+    },
+    {
+      heading: "High-value property rewards evidence",
+      body: [
+        "The coastal strip from Bray to Greystones holds some of the most valuable housing outside south Dublin, and those owners buy on evidence rather than price.",
+        "Photographs of sympathetic work on similar period houses will beat a cheaper quote here more reliably than almost anywhere in the country.",
+      ],
+    },
+    ],
+    towns: [
+      "Bray",
+      "Greystones",
+      "Wicklow town",
+      "Arklow",
+      "Blessington",
+      "Rathdrum",
+      "Enniskerry",
+      "Delgany",
+      "Kilcoole",
+      "Tinahely",
+      "Baltinglass",
+      "Newtownmountkennedy",
+    ],
+    faqs: [
+      {
+        q: "Can a Bray roofer win work in Arklow?",
+        a: "Organically, rarely — proximity decides the map results and the mountains do not count as distance. Paid advertising is the honest route, and any agency promising otherwise is promising what geography forbids.",
+      },
+      {
+        q: "Is north Wicklow expensive to advertise in?",
+        a: "Close to south Dublin rates, because the same competitors bid there. The jobs are worth more too, but the budget has to reflect it.",
+      },
+      {
+        q: "Where is the better value?",
+        a: "South and west Wicklow, if you genuinely travel there. Cheap clicks, very little competition, and more storm and outbuilding work.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "roofers",
+    county: "wexford",
+    industryLabel: "roofers",
+    countyName: "Wexford",
+    title: "Roofing Leads Wexford | Marketing for Wexford Roofers",
+    description:
+      "Lead generation for Wexford roofing contractors: a coast whose population triples in summer, and a commuter end that prices like Wicklow.",
+    h1: "Roofing leads in Wexford, for a county with two populations.",
+    intro: [
+      "The Wexford coast from Courtown down to Rosslare fills in summer and empties in winter, and a great deal of its housing stock is holiday property occupied for a few months a year.",
+      "That produces a distinctive pattern: damage happens in winter to empty houses and is discovered in spring by owners arriving from Dublin. Meanwhile Gorey, at the north end, behaves like a commuter town and prices like one.",
+    ],
+    sections: [
+    {
+      heading: "Winter damage, spring discovery",
+      body: [
+        "A holiday house takes a storm in January with nobody in it. The slipped slates and the water coming in are found at Easter, by an owner who lives somewhere else and has no idea who to ring.",
+        "They search. They have no local knowledge, no neighbour to ask, and they are choosing entirely on what they find. For a roofer set up to quote from photographs and keep somebody informed remotely, that is very good work with very little competition.",
+      ],
+    },
+    {
+      heading: "Gorey is a different market from New Ross",
+      body: [
+        "Gorey's commuter households bring Wicklow-adjacent click prices and Dublin expectations about response time. New Ross and the south of the county are rural, cheaper and slower-moving.",
+        "One county campaign averages them and serves neither. Split, the north pays for itself on job value and the south pays for itself on cost.",
+      ],
+    },
+    {
+      heading: "Salt and exposure on the coast",
+      body: [
+        "Coastal Wexford roofs corrode at fixings and flashings in a way inland roofs do not, and wind damage along that stretch is a genuine seasonal category rather than an occasional event.",
+        "Content written about those specific failures wins that work and signals competence to an owner who is trying to judge you from two hundred kilometres away.",
+      ],
+    },
+    {
+      heading: "Advertise before the season, to where they live",
+      body: [
+        "Google Ads can target where somebody is searching from. A Wexford roofer can be visible to Dublin households in March, before they travel down and find the damage.",
+        "That is cheaper than competing locally in June and almost nobody in this county does it.",
+      ],
+    },
+    ],
+    towns: [
+      "Wexford town",
+      "Gorey",
+      "Enniscorthy",
+      "New Ross",
+      "Rosslare",
+      "Courtown",
+      "Bunclody",
+      "Ferns",
+      "Castlebridge",
+      "Kilmuckridge",
+      "Taghmon",
+      "Duncannon",
+    ],
+    faqs: [
+      {
+        q: "Why does spring matter in Wexford?",
+        a: "Winter damage to empty holiday houses is discovered at Easter by owners arriving from Dublin. Being visible in February and March catches that; reacting in June does not.",
+      },
+      {
+        q: "Should Gorey and New Ross share a campaign?",
+        a: "No. Gorey prices like a commuter town with Dublin expectations; the south of the county is rural and slower. Averaging them serves neither.",
+      },
+      {
+        q: "Can we advertise to owners before they travel?",
+        a: "Yes, and almost nobody does. Google Ads can target where somebody is searching from, so you can reach Dublin households in March before they come down and find the damage.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "roofers",
+    county: "limerick",
+    industryLabel: "roofers",
+    countyName: "Limerick",
+    title: "Roofing Leads Limerick | Marketing for Limerick Roofers",
+    description:
+      "Lead generation for Limerick roofing contractors: an under-contested city, a Clare catchment most roofers ignore, and cheap clicks that hide waste.",
+    h1: "Roofing leads in Limerick, and the Clare work you are missing.",
+    intro: [
+      "Limerick is one of the least contested city markets in Ireland for roofing. Relatively few contractors compete seriously online, competitor websites are frequently poor, and the standard you need to beat is genuinely low.",
+      "The bigger opportunity is over the county line. A great many Limerick roofers work across south and east Clare without ever mentioning it anywhere a customer or Google could see.",
+    ],
+    sections: [
+    {
+      heading: "Name Clare, explicitly",
+      body: [
+        "Limerick city's commercial catchment runs well into Clare — Sixmilebridge, Shannon, Newmarket-on-Fergus, Cratloe — and most local roofing websites name none of those places.",
+        "A site that does will appear for searches a site that does not cannot. It is a ten-minute change and it is consistently the cheapest improvement available to a Limerick trades business.",
+      ],
+    },
+    {
+      heading: "Cheap clicks make waste invisible",
+      body: [
+        "Limerick is inexpensive by city standards, which sounds purely good and is not. At low click prices a badly targeted campaign can run for a year without anybody noticing it is not working.",
+        "Negative keywords, tight location settings and call tracking matter as much here as in Dublin. They just feel less urgent, which is why they get skipped.",
+      ],
+    },
+    {
+      heading: "City housing and county housing fail differently",
+      body: [
+        "Limerick city and the older suburbs carry period housing with slate and chimney work — planned, skilled, researched by the customer before they ring. Out through Newcastle West and Abbeyfeale it is more agricultural, more exposed and more storm-driven.",
+        "Two different sets of searches and two different messages, and most roofers here run one campaign at both.",
+      ],
+    },
+    {
+      heading: "Avoid the obvious broad terms",
+      body: [
+        "Broad Limerick searches pull in a great deal of course, jobs and university traffic that has nothing to do with buying a roof.",
+        "Building the negative keyword list properly before launch is worth more than any bid adjustment, and on inherited Limerick accounts it is almost always the biggest single saving available.",
+      ],
+    },
+    ],
+    towns: [
+      "Limerick city",
+      "Castletroy",
+      "Dooradoyle",
+      "Newcastle West",
+      "Adare",
+      "Castleconnell",
+      "Abbeyfeale",
+      "Kilmallock",
+      "Patrickswell",
+      "Rathkeale",
+      "Croom",
+      "Sixmilebridge",
+    ],
+    faqs: [
+      {
+        q: "Should a Limerick roofer target Clare?",
+        a: "If you work there — and most do — name those towns explicitly on the site and in the targeting. It is a ten-minute change and the cheapest improvement available.",
+      },
+      {
+        q: "Is Limerick competitive for roofing?",
+        a: "Among the least contested city markets in Ireland. Few contractors compete seriously online and competitor foundations are usually weak.",
+      },
+      {
+        q: "What is the risk of cheap clicks?",
+        a: "They hide waste. At low prices a badly targeted campaign runs for a year without anyone noticing, so negatives and location settings matter as much as they do in Dublin.",
+      },
+      PRICE_FAQ,
+    ],
+  },
 ];
 
 export const industryCountyFor = (industry: string) =>

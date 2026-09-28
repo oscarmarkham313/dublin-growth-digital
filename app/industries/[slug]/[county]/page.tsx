@@ -4,8 +4,11 @@ import { notFound } from "next/navigation";
 import {
   industryCounty,
   industryCountyBy,
+  industryCountyFor,
 } from "@/config/industry-county";
 import { industryBySlug } from "@/config/industries";
+import { industrySeoBySlug } from "@/config/industry-seo";
+import { posts } from "@/config/posts";
 import { site } from "@/config/copy";
 import Reveal from "@/components/Reveal";
 import MagneticButton from "@/components/MagneticButton";
@@ -55,6 +58,16 @@ export default async function IndustryCountyPage({
   const p = industryCountyBy(slug, county);
   if (!p) notFound();
   const ind = industryBySlug(slug);
+
+  /**
+   * These pages used to carry exactly one contextual inbound link each,
+   * from the parent industry page. Linking the same trade across its
+   * counties, and out to the guides written for that trade, turns a set
+   * of isolated pages into a cluster that can actually pass authority.
+   */
+  const siblings = industryCountyFor(slug).filter((x) => x.county !== county);
+  const guides = posts.filter((g) => g.related.includes(slug)).slice(0, 5);
+  const seoPage = industrySeoBySlug(slug);
 
   const base = `${site.domain}/industries/${p.industry}/${p.county}/`;
 
@@ -242,6 +255,14 @@ export default async function IndustryCountyPage({
             >
               Everything we do in {p.countyName}
             </Link>
+            {seoPage && (
+              <Link
+                href={`/industries/${p.industry}/seo/`}
+                className="text-sm font-semibold text-text-2 underline decoration-hairline-dk underline-offset-4 transition-colors hover:text-ink"
+              >
+                SEO for {p.industryLabel}
+              </Link>
+            )}
             <Link
               href="/results/"
               className="text-sm font-semibold text-text-2 underline decoration-hairline-dk underline-offset-4 transition-colors hover:text-ink"
@@ -249,6 +270,43 @@ export default async function IndustryCountyPage({
               Our actual case studies
             </Link>
           </div>
+
+          {siblings.length > 0 && (
+            <div className="mt-12">
+              <span className="eyebrow">
+                The same trade in other counties
+              </span>
+              <div className="mt-6 flex flex-wrap gap-x-6 gap-y-3">
+                {siblings.map((s) => (
+                  <Link
+                    key={s.county}
+                    href={`/industries/${s.industry}/${s.county}/`}
+                    className="text-sm font-semibold text-text-2 underline decoration-hairline-dk underline-offset-4 transition-colors hover:text-ink"
+                  >
+                    {s.countyName}
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {guides.length > 0 && (
+            <div className="mt-12">
+              <span className="eyebrow">Worth reading</span>
+              <ul className="mt-4 max-w-2xl border-t border-hairline">
+                {guides.map((g) => (
+                  <li key={g.slug} className="border-b border-hairline">
+                    <Link
+                      href={`/blog/${g.slug}/`}
+                      className="block py-4 text-[15px] font-semibold transition-colors hover:text-accent"
+                    >
+                      {g.title}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
         </div>
       </section>
     </main>

@@ -3,6 +3,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { industrySeo, industrySeoBySlug } from "@/config/industry-seo";
 import { industryBySlug } from "@/config/industries";
+import { industryCountyFor } from "@/config/industry-county";
+import { posts } from "@/config/posts";
 import { site } from "@/config/copy";
 import Reveal from "@/components/Reveal";
 import MagneticButton from "@/components/MagneticButton";
@@ -45,6 +47,12 @@ export default async function IndustrySeoPage({
   const p = industrySeoBySlug(slug);
   if (!p) notFound();
   const ind = industryBySlug(slug);
+
+  /** Same isolation as the industry × county pages: one inbound link
+   *  each, from the parent. Link out to the county pages for this trade
+   *  and the guides written for it. */
+  const counties = industryCountyFor(slug);
+  const guides = posts.filter((g) => g.related.includes(slug)).slice(0, 5);
 
   const base = `${site.domain}/industries/${p.slug}/seo/`;
 
@@ -244,6 +252,41 @@ export default async function IndustrySeoPage({
               SEO by county
             </Link>
           </div>
+
+          {counties.length > 0 && (
+            <div className="mt-12">
+              <span className="eyebrow">{p.label} by county</span>
+              <div className="mt-6 flex flex-wrap gap-x-6 gap-y-3">
+                {counties.map((c) => (
+                  <Link
+                    key={c.county}
+                    href={`/industries/${c.industry}/${c.county}/`}
+                    className="text-sm font-semibold text-text-2 underline decoration-hairline-dk underline-offset-4 transition-colors hover:text-ink"
+                  >
+                    {c.countyName}
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {guides.length > 0 && (
+            <div className="mt-12">
+              <span className="eyebrow">Worth reading</span>
+              <ul className="mt-4 max-w-2xl border-t border-hairline">
+                {guides.map((g) => (
+                  <li key={g.slug} className="border-b border-hairline">
+                    <Link
+                      href={`/blog/${g.slug}/`}
+                      className="block py-4 text-[15px] font-semibold transition-colors hover:text-accent"
+                    >
+                      {g.title}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
         </div>
       </section>
     </main>

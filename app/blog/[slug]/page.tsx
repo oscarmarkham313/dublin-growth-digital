@@ -56,7 +56,25 @@ export default async function PostPage({
   const related = post.related
     .map((s) => industryBySlug(s))
     .filter((x): x is NonNullable<typeof x> => Boolean(x));
-  const more = posts.filter((p) => p.slug !== post.slug).slice(0, 3);
+  /**
+   * "More from the blog" used to be posts.slice(0, 3), which pointed
+   * every one of the guides at the same three articles — roughly 300
+   * internal links landing on three pages while the rest got none.
+   *
+   * Prefer guides that share an industry with this one, so a roofing
+   * guide leads to the other roofing guides. Rotating by the post's own
+   * index stops a topic cluster from all nominating the same sibling.
+   */
+  const rotate = <T,>(a: T[], n: number) =>
+    a.length ? [...a.slice(n % a.length), ...a.slice(0, n % a.length)] : a;
+  const idx = posts.findIndex((p) => p.slug === post.slug);
+  const pool = posts.filter((p) => p.slug !== post.slug);
+  const siblings = pool.filter((p) =>
+    p.related.some((r) => post.related.includes(r)),
+  );
+  const more = [...rotate(siblings, idx), ...rotate(pool, idx)]
+    .filter((p, i, a) => a.findIndex((x) => x.slug === p.slug) === i)
+    .slice(0, 3);
 
   const schema = [
     {
