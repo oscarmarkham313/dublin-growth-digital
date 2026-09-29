@@ -6029,6 +6029,417 @@ export const posts: Post[] = [
     ],
     related: ["estate-agents", "mortgage-brokers", "solicitors"],
   },
+  {
+    slug: "boiler-replacement-is-the-job",
+    title: "The callout is not the job. The replacement is.",
+    description:
+      "Irish plumbers give away the most valuable thing on a repair visit: the knowledge that a boiler is nearly finished. How to come back for it.",
+    date: "2026-09-29",
+    minutes: 6,
+    intro:
+      "A plumber stands in front of a fifteen-year-old boiler several times a week, fixes the immediate fault, takes payment for an hour, and leaves. Somewhere in the next two years that boiler is replaced, usually by whoever happened to be visible when it finally died. The information needed to win that job was in the room, and nobody wrote it down.",
+    sections: [
+      {
+        h: "You already know which ones are going",
+        p: [
+          "Age, condition, how often you have been to it, what the parts situation looks like. On most repair visits you can form a decent view of how long a system has left.",
+          "That is a sales pipeline nobody else has. A competitor advertising for boiler replacements is paying to find people you have already met.",
+        ],
+      },
+      {
+        h: "Write it on the job, not afterwards",
+        p: [
+          "Address, system type, rough age, condition, and when you would expect it to need replacing. Thirty seconds on the phone before you drive off.",
+          "Afterwards never happens. Every plumber who has tried to reconstruct this from memory in October has discovered it does not work.",
+        ],
+      },
+      {
+        h: "Ring in September, not in January",
+        p: [
+          "A boiler replacement decided in a warm September is a planned job at a sensible price with time to order parts. The same boiler failing in January is an emergency, a stressed customer and whoever can come tomorrow.",
+          "A call in early autumn — 'I was with you in March, that boiler was on its last legs, worth thinking about before the cold' — is useful rather than pushy, and it lands before your competitors start advertising.",
+        ],
+      },
+      {
+        h: "Quote the replacement while you are there",
+        p: [
+          "Even roughly. A customer who has a number in their head has already started the decision, and they will compare every later quote to yours.",
+          "Being first with a figure is worth more than being cheapest with one, because it sets what normal looks like.",
+        ],
+      },
+      {
+        h: "What this is worth",
+        p: [
+          "A replacement is worth many times a callout, and the customer already trusts you because you fixed something for them.",
+          "It costs no advertising spend at all. It costs a note on the job and one phone call in September, which is why the plumbers who do it consistently look busier than their marketing explains.",
+        ],
+      },
+    ],
+    related: ["plumbers-and-heating", "heat-pumps", "electricians"],
+  },
+  {
+    slug: "marketing-heat-pumps-versus-boilers",
+    title: "Marketing heat pumps is nothing like marketing boilers",
+    description:
+      "A boiler job is a purchase. A heat pump is a renovation decision with a long sales cycle and a customer who reads for months first.",
+    date: "2026-09-29",
+    minutes: 7,
+    intro:
+      "Plumbers moving into heat pump work usually carry their boiler marketing across and wonder why it produces nothing. The two are barely the same business. A boiler is a distress purchase decided in days by somebody whose heating has failed. A heat pump is a considered, expensive renovation decision made over months by somebody whose heating works fine.",
+    sections: [
+      {
+        h: "Nobody's heat pump emergency exists",
+        p: [
+          "There is no equivalent of the boiler that died on Sunday. Nothing forces the decision, which means nothing produces an urgent enquiry.",
+          "So the search behaviour is different: research terms rather than emergency ones, read before they ring, compare for weeks. A campaign built on 'call now' has nothing to work with.",
+        ],
+      },
+      {
+        h: "The house is the job, not the unit",
+        p: [
+          "A heat pump in a poorly insulated house with undersized emitters disappoints, and the customer blames the installer. The honest version of this sale involves talking about fabric, radiators and controls before talking about the pump.",
+          "That is a harder conversation and a better filter. An installer whose website explains why some houses need work first is immediately more credible than one quoting a unit price, and gets far fewer difficult jobs.",
+        ],
+      },
+      {
+        h: "Grants shape the timing, not the decision",
+        p: [
+          "Support schemes bring people into the market and set the paperwork, but they do not make somebody replace a working heating system.",
+          "What does is a renovation already happening, an extension, a house purchase, or an oil bill that has finally become intolerable. Those are the moments worth being visible for, and they are predictable in a way an emergency is not.",
+        ],
+      },
+      {
+        h: "Expect a long follow-up and plan for it",
+        p: [
+          "Months, not days. An enquiry that goes quiet in March is frequently a job in September, and installers who write off anything older than a fortnight are discarding most of what they paid for.",
+          "A simple list — who enquired, what stage, when to contact again — is worth more than an increase in ad budget.",
+        ],
+      },
+      {
+        h: "Show completed retrofits, in Irish houses",
+        p: [
+          "Photographs of the outdoor unit on a recognisable Irish house, the cylinder, the finished install. Ideally with a sentence about what the house needed first.",
+          "Generic manufacturer imagery is what every competitor uses and it persuades nobody. Your own jobs are the only asset here a competitor cannot buy.",
+        ],
+      },
+    ],
+    related: ["plumbers-and-heating", "heat-pumps", "insulation"],
+  },
+  {
+    slug: "cold-snap-decides-a-plumbers-year",
+    title: "A cold snap decides more of your year than you think",
+    description:
+      "Burst pipes and failed boilers arrive in a handful of days. What Irish plumbers should have in place before it starts, because afterwards is too late.",
+    date: "2026-09-29",
+    minutes: 6,
+    intro:
+      "Irish winters are mild and then, for a few days, they are not. Those days produce burst pipes, frozen condensates and boilers that finally give up, all at once, and they hand a large amount of work to whoever is visible and answering. The plumbers who capture it did the work in October.",
+    sections: [
+      {
+        h: "The demand does not build, it appears",
+        p: [
+          "There is no ramp. The temperature drops, and within a day the phone behaviour changes completely.",
+          "Anyone starting to advertise at that point is bidding against every other plumber in the county at the worst possible price, and is not in the map results that produce most of the calls. The positioning has to already exist.",
+        ],
+      },
+      {
+        h: "Decide what happens to calls you cannot take",
+        p: [
+          "In a cold snap you will miss calls. That is unavoidable. What is avoidable is those calls leaving no trace.",
+          "An automatic text on a missed call — that you are on a job, and when you will ring back — converts a hang-up into a hold. It costs very little and it is the highest-return thing most plumbing businesses can do to their phone handling.",
+          "An answering service for those weeks specifically is worth costing out. A handful of recovered jobs pays for the season.",
+        ],
+      },
+      {
+        h: "Triage instead of first-come",
+        p: [
+          "Not every emergency is equal. A burst pipe flooding a house is different from no heat in a spare room, and a customer told honestly that you can be there Thursday will often wait rather than ring elsewhere.",
+          "Taking everything in the order it arrives means the big jobs go to whoever had a free slot. A first question about what is actually happening lets you put the day in the right order.",
+        ],
+      },
+      {
+        h: "Prevention is a product you could sell",
+        p: [
+          "Lagging, frost protection, knowing where the stopcock is, drain-downs for empty property. All of it is cheap, all of it is useful, and almost nobody markets it.",
+          "It is also excellent autumn content, which is the season when you want to be accumulating visibility rather than spending on it.",
+        ],
+      },
+      {
+        h: "The follow-up is in January",
+        p: [
+          "Every emergency in a cold snap is a customer who has just been reminded their system is old. That is the single best moment in the year to talk about a replacement.",
+          "Most plumbers finish the week exhausted and never go back to the list. It is the most valuable list they will generate all year.",
+        ],
+      },
+    ],
+    related: ["plumbers-and-heating", "drainage", "insulation"],
+  },
+  {
+    slug: "gas-or-oil-decides-your-marketing",
+    title: "Gas or oil should decide how you advertise",
+    description:
+      "Large parts of Ireland have no mains gas at all. A national plumbing message advertises a service half your audience cannot buy.",
+    date: "2026-09-29",
+    minutes: 6,
+    intro:
+      "The natural gas network covers the cities and the towns along the pipeline, and not much else. Donegal, Mayo, Kerry and large stretches of the west and midlands have no mains gas whatsoever. That single fact should shape a plumbing business's advertising more than anything else about it, and in most campaigns it is not reflected at all.",
+    sections: [
+      {
+        h: "Half the country cannot buy a gas boiler service",
+        p: [
+          "If your campaign runs on gas boiler messaging into a county with no network, you are paying to advertise something nobody there can purchase.",
+          "It is obvious when stated and extremely common in practice, because the templates and the examples are all written for Dublin.",
+        ],
+      },
+      {
+        h: "Say which fuel you work on, early",
+        p: [
+          "It is the first thing a homeowner is checking, and most plumbing sites make them hunt for it or guess.",
+          "Gas, oil, LPG, solid fuel, heat pumps — say it plainly, near the top. The registrations matter too: a customer looking for gas work wants to see you are registered for it, and one looking for oil work wants the equivalent.",
+        ],
+      },
+      {
+        h: "Counties that straddle both need two campaigns",
+        p: [
+          "Cork city is on gas and most of County Cork is not. Galway city is on gas and the county is not. Running one message across the whole county means it is wrong for whichever half happens to be reading.",
+          "Splitting them is an afternoon's work and it is consistently the largest available improvement on those accounts.",
+        ],
+      },
+      {
+        h: "The search terms are genuinely different",
+        p: [
+          "'Boiler service' means something different in Douglas and in Dungloe, and the modifiers people add — oil, gas, range, stove, back boiler — are the cheapest available signal of what they actually have.",
+          "Build the campaigns around those modifiers rather than around the generic term, and the quality of the enquiry changes immediately.",
+        ],
+        list: [
+          "Gas areas: gas boiler service, boiler replacement, RGII, gas safety",
+          "Non-gas areas: oil boiler service, oil burner, tank, range, solid fuel",
+          "Everywhere: heat pump service, cylinder, controls, power flush",
+        ],
+      },
+      {
+        h: "Non-gas counties are where retrofit is moving fastest",
+        p: [
+          "Without a gas option, households exposed to oil prices have a stronger reason to look at heat pumps, and the grant-supported money follows.",
+          "A plumber in a non-gas county who positions for retrofit rather than only for repair is positioned where the market is going, with far less competition than in the cities.",
+        ],
+      },
+    ],
+    related: ["plumbers-and-heating", "heat-pumps", "stoves-and-fireplaces"],
+  },
+  {
+    slug: "service-plans-plumbers-ignore",
+    title: "Service plans: the recurring income plumbers skip",
+    description:
+      "Callout income stops when the phone stops. An annual service plan is predictable, sells the replacement for you, and almost nobody offers one.",
+    date: "2026-09-29",
+    minutes: 6,
+    intro:
+      "Plumbing is feast and famine by default. A cold week is chaos and a mild March is quiet, and nothing about a callout business smooths that out. An annual service arrangement does, and it is the most obvious unexploited idea in the Irish trade.",
+    sections: [
+      {
+        h: "What it actually buys you",
+        p: [
+          "Predictable income, work scheduled into the months that would otherwise be quiet, and a list of systems you know intimately.",
+          "That last one is the real prize. A plumber who services the same boilers every year knows exactly which are near the end, which makes the replacement conversation natural rather than cold.",
+        ],
+      },
+      {
+        h: "Keep it simple enough to explain in a sentence",
+        p: [
+          "An annual service, priority in an emergency, and a discount on parts or callouts. That is enough. Plans fail when they become complicated tiers nobody can compare.",
+          "Priority is the part customers actually value. Somebody who has been without heat in January will pay for the promise of being near the front of the queue next time.",
+        ],
+      },
+      {
+        h: "Sell it at the end of a job, not in an advert",
+        p: [
+          "The moment somebody's heating has just been fixed is the moment they are most aware of what it is worth. That is when the plan makes sense to them.",
+          "Advertising a service plan cold to strangers is hard work. Offering it to a satisfied customer standing in a warm house is not.",
+        ],
+      },
+      {
+        h: "It changes what a customer is worth",
+        p: [
+          "If a customer is a one-off callout, there is a hard limit on what you can spend to acquire one. If they are several years of servicing plus an eventual replacement, that limit moves a long way.",
+          "That is what lets a plumbing business outbid its competitors for the same click and still make money.",
+        ],
+      },
+      {
+        h: "Landlords and agents will take it first",
+        p: [
+          "Rental property needs servicing on a schedule anyway and the paperwork matters to the landlord. A plan is an easier sell there than to a homeowner, and one letting agent can be many properties.",
+          "It is also the segment least likely to leave over price, because the hassle of changing plumber across a portfolio is worse than the saving.",
+        ],
+      },
+    ],
+    related: ["plumbers-and-heating", "electricians", "drainage"],
+  },
+  {
+    slug: "bathroom-work-and-leak-work",
+    title: "Bathroom jobs and leaks are two different businesses",
+    description:
+      "One customer is panicking at nine at night, the other has been planning since January. Most Irish plumbing websites speak to neither properly.",
+    date: "2026-09-29",
+    minutes: 6,
+    intro:
+      "Most plumbers do both emergency repair and planned bathroom or renovation work, and most plumbing websites try to address both on one page. The result is a page that reassures nobody, because the two customers have nothing in common except the trade.",
+    sections: [
+      {
+        h: "Two customers, two clocks",
+        p: [
+          "The leak customer decides in minutes, on the phone, from the map results. They want to know you can come and roughly what it costs.",
+          "The bathroom customer has been thinking about it for months, will get three quotes, wants to see finished work, and will not decide for weeks. They want evidence and detail.",
+          "A single page that hedges between urgency and reassurance does the job of neither.",
+        ],
+      },
+      {
+        h: "Give the planned work its own page and its own photographs",
+        p: [
+          "Finished bathrooms, in real Irish houses, ideally with some sense of what was there before. This is a visual purchase and the images do most of the selling.",
+          "It also needs the practical answers people actually want: how long the room is out of use, who does the tiling, whether you handle the electrics, what happens if something is found behind the wall.",
+        ],
+      },
+      {
+        h: "The emergency page needs almost the opposite",
+        p: [
+          "Phone number large and tappable, hours stated honestly, areas covered, and what a callout costs. Nothing else matters and anything else gets in the way.",
+          "The most common failure is burying the number under a paragraph about the company's history.",
+        ],
+      },
+      {
+        h: "They need different channels too",
+        p: [
+          "Emergency work is a search and map job — people type it at the moment of need. Planned bathroom work builds well on Meta, because a photograph of a finished room reaches somebody who has been meaning to do theirs for two years.",
+          "Running both through one channel is why plumbers conclude that one of them does not work.",
+        ],
+      },
+      {
+        h: "One feeds the other",
+        p: [
+          "The customer whose leak you fixed well is the customer who rings you about the bathroom eighteen months later — if you gave them a reason to remember you.",
+          "That is what makes the emergency work worth doing at a modest margin, and it only pays off if there is something to come back to.",
+        ],
+      },
+    ],
+    related: ["plumbers-and-heating", "bathroom-renovations", "tilers"],
+  },
+  {
+    slug: "google-ads-for-plumbers-ireland",
+    title: "Where a plumber's Google Ads budget actually goes",
+    description:
+      "DIY fixes, parts searches, job seekers and the wrong fuel all cost Irish plumbers money on a default setup. What to block and what to bid on.",
+    date: "2026-09-29",
+    minutes: 7,
+    intro:
+      "Plumbing has genuinely high-intent searches and genuinely expensive clicks, which is a combination that punishes a sloppy campaign hard. On most plumbing accounts we review, a large share of spend is going to searches that could not become a job, and the emergency terms that could are running at hours nobody can attend.",
+    sections: [
+      {
+        h: "DIY is the biggest single category",
+        p: [
+          "'How to bleed a radiator', 'how to fix a dripping tap', 'why is my boiler losing pressure' — enormous volume, and these people are explicitly trying not to hire anyone.",
+          "Some of them give up and ring a plumber. Not enough to justify the click cost on a normal budget, and they crowd out people who have already decided to pay somebody.",
+        ],
+        list: [
+          "how to, diy, yourself, fix my own, tutorial, video, youtube",
+          "what does it mean, why is my, troubleshooting, reset, error code",
+        ],
+      },
+      {
+        h: "Parts and merchant searches",
+        p: [
+          "'Boiler parts', 'radiator valves', 'copper pipe price', 'immersion element screwfix' — somebody is buying materials, not labour.",
+          "There is also a steady stream of appliance searches that drift in — washing machines and dishwashers especially — which are a different trade entirely unless you do them.",
+        ],
+        list: [
+          "parts, spares, valve, element, screwfix, heatmerchants, wholesale, price per",
+          "washing machine, dishwasher, appliance, fridge",
+        ],
+      },
+      {
+        h: "Jobs, courses and registration",
+        p: [
+          "Plumbing is a trade people are actively trying to enter. 'Plumbing jobs', 'plumbing apprenticeship', 'RGII registration', 'plumbing course'.",
+          "Straightforward to block and frequently a meaningful share of a neglected account.",
+        ],
+        list: [
+          "jobs, vacancy, apprentice, apprenticeship, hiring, wage, salary, day rate",
+          "course, training, qualification, city and guilds, registration, how to become",
+        ],
+      },
+      {
+        h: "The wrong fuel and the wrong county",
+        p: [
+          "If you do not do oil, block oil. If you only work gas areas, do not pay for clicks from counties with no network.",
+          "Set locations to presence rather than presence-or-interest, and add the counties you genuinely will not travel to. This is the most common source of silent waste in trade accounts.",
+        ],
+      },
+      {
+        h: "Run emergency terms only when you can attend",
+        p: [
+          "Emergency clicks are the dearest in the trade. Buying them at hours when you cannot get there until Thursday is paying top rate to lose the job to whoever could come.",
+          "Use ad scheduling honestly. If you genuinely take night calls, bid then and say so — it is much less contested. If you do not, stop paying for it.",
+        ],
+      },
+      {
+        h: "What is worth real money",
+        p: [
+          "Terms with a place and an intention: 'emergency plumber [town]', 'boiler replacement [town]', 'oil boiler service [county]', 'bathroom fitter [town]', 'power flush [town]'.",
+          "Then read the search terms report weekly for the first month. Your own report is the real list; everything above is only a starting point.",
+        ],
+      },
+    ],
+    related: ["plumbers-and-heating", "drainage", "electricians"],
+  },
+  {
+    slug: "landlord-and-agent-plumbing-work",
+    title: "Letting agents are worth more than any advert",
+    description:
+      "One agent can be sixty properties on a schedule. Irish plumbers almost never pursue this deliberately, and it is the steadiest work in the trade.",
+    date: "2026-09-29",
+    minutes: 6,
+    intro:
+      "Most plumbers get their landlord work by accident. Somebody rings, it goes well, and a trickle follows. Nobody sets out to win letting agents, which is strange, because a single agent managing sixty properties is a more valuable relationship than any advertising campaign a small plumbing business will ever run.",
+    sections: [
+      {
+        h: "Why it is better work than it looks",
+        p: [
+          "Scheduled servicing rather than emergencies. Repeat volume from one relationship. Invoices to a business rather than chasing householders. And it continues through the quiet months.",
+          "It is also durable. Changing plumber across a managed portfolio is a hassle an agent will avoid, so a relationship that works tends to last years.",
+        ],
+      },
+      {
+        h: "What an agent actually needs",
+        p: [
+          "Answering the phone, turning up when you said, and paperwork that arrives without being chased. That is most of it.",
+          "The tenant is the agent's problem and you are the person who makes it go away. A plumber who communicates clearly about timing removes more stress than one who is slightly cheaper, and agents will say so openly.",
+        ],
+      },
+      {
+        h: "The paperwork is the differentiator",
+        p: [
+          "Certificates, service records, dated reports, clear invoices. Agents are managing compliance for somebody else's property and the documentation is not optional for them.",
+          "Being reliably good at that is genuinely rare in the trade and it is the thing that gets you recommended internally to the other property managers in the office.",
+        ],
+      },
+      {
+        h: "How to actually approach them",
+        p: [
+          "Individually. Find the property management person rather than the sales side of the agency — they are different people with different problems.",
+          "A short, specific introduction beats a brochure: what you do, where you cover, that you provide certificates and dated reports, and your hours. Then follow up once. Most plumbers never make the approach at all, so the field is thin.",
+          "The moment they are most receptive is when their existing plumber has just let them down, which you cannot predict — which is the argument for being in front of them more than once.",
+        ],
+      },
+      {
+        h: "Price it as a relationship, not a job",
+        p: [
+          "Volume justifies a rate you would not give a one-off householder, and trying to charge agent work at domestic emergency rates is how these relationships end.",
+          "The maths only works if you count the year rather than the callout, which is the same calculation that makes service plans worth having.",
+        ],
+      },
+    ],
+    related: ["plumbers-and-heating", "estate-agents", "electricians"],
+  },
 ];
 
 export const postBySlug = (slug: string) => posts.find((p) => p.slug === slug);

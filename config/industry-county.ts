@@ -1788,6 +1788,445 @@ export const industryCounty: IndustryCounty[] = [
       PRICE_FAQ,
     ],
   },
+  {
+    industry: "plumbers-and-heating",
+    county: "donegal",
+    industryLabel: "plumbers",
+    countyName: "Donegal",
+    title: "Heating Leads Donegal | Marketing for Donegal Plumbers",
+    description:
+      "Lead generation for Donegal plumbers: no mains gas anywhere in the county, an oil and solid fuel market, and cold snaps that decide the year.",
+    h1: "Heating leads in Donegal, where there is no gas to service.",
+    intro: [
+      "Donegal has no natural gas network. Not a limited one — none. Every heating system in the county runs on oil, LPG, solid fuel, electricity or a heat pump, and a plumber marketing gas boiler services here is advertising a service nobody can buy.",
+      "That sounds obvious and yet national plumbing campaigns run gas messaging into this county constantly, because the templates were written for Dublin.",
+    ],
+    sections: [
+    {
+      heading: "Oil, not gas, and the registration follows",
+      body: [
+        "Oil boiler servicing, replacement and repair is the bread and butter here, alongside solid fuel and an increasing amount of heat pump retrofit work.",
+        "Say so plainly. A homeowner in Letterkenny searching for a boiler service wants to know you work on their kind of boiler, and the sites that lead with gas credentials read as though they are from somewhere else.",
+      ],
+    },
+    {
+      heading: "The cold snap is the whole year",
+      body: [
+        "Burst pipes, frozen condensate, failed boilers on the coldest night — Donegal gets weather that produces genuine emergency volume, and it arrives in a few concentrated days.",
+        "The businesses that capture it are visible before it starts, not the ones that begin advertising the morning the phone goes mad. By then the work has gone to whoever was already in the map results.",
+      ],
+    },
+    {
+      heading: "Distance decides what is profitable",
+      body: [
+        "Letterkenny to the peninsulas or to Glencolmcille is a long way, and a callout that takes three hours of driving for an hour of work loses money however urgent it felt.",
+        "Name the areas you genuinely cover. In a county this size and this slow to drive, the enquiries you turn away are worth more than the ones you take at a loss.",
+      ],
+    },
+    {
+      heading: "Retrofit is the growth market",
+      body: [
+        "Heat pump and insulation retrofit is changing this county faster than most, precisely because there is no gas alternative and oil is exposed to price swings.",
+        "A plumber positioned for retrofit rather than only for repair is positioned for where the grant-supported money is going. That is a different message, a different page and a much longer sales conversation than a callout.",
+      ],
+    },
+    ],
+    towns: [
+      "Letterkenny",
+      "Buncrana",
+      "Ballybofey",
+      "Donegal town",
+      "Bundoran",
+      "Carndonagh",
+      "Killybegs",
+      "Dungloe",
+      "Moville",
+      "Ballyshannon",
+      "Lifford",
+      "Gweedore",
+    ],
+    faqs: [
+      {
+        q: "Is there mains gas in Donegal?",
+        a: "None at all. Every system runs on oil, LPG, solid fuel, electricity or a heat pump, so gas boiler messaging advertises a service nobody here can buy.",
+      },
+      {
+        q: "When does the emergency work happen?",
+        a: "In a handful of very cold days. It goes to whoever is already visible when it starts, so the work to capture it happens in autumn.",
+      },
+      {
+        q: "Is heat pump work worth positioning for?",
+        a: "In this county especially. There is no gas alternative, oil prices swing, and retrofit is where the grant-supported money is going.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "plumbers-and-heating",
+    county: "cork",
+    industryLabel: "plumbers",
+    countyName: "Cork",
+    title: "Heating Leads Cork | Marketing for Cork Plumbers",
+    description:
+      "Lead generation for Cork plumbers: mains gas in the city, oil across the county, and two different trades run under one campaign.",
+    h1: "Heating leads in Cork, for a county running on two fuels.",
+    intro: [
+      "Cork city and its suburbs are on the gas network. Most of the rest of the county is not, and runs on oil and solid fuel.",
+      "That single fact splits a Cork plumbing business in two, and almost every campaign in the county is written as though it does not.",
+    ],
+    sections: [
+    {
+      heading: "Two fuels, two messages, two sets of searches",
+      body: [
+        "A homeowner in Douglas searching for a boiler service means a gas boiler. A homeowner outside Macroom means an oil one. The work is different, the registration is different and the words they type are different.",
+        "Running one Cork campaign covering both means half your spend reaches people whose system you did not mention. Splitting them is an afternoon's work and it is consistently the biggest available improvement on a Cork plumbing account.",
+      ],
+    },
+    {
+      heading: "West Cork is a distance decision",
+      body: [
+        "An hour and a half each way is a real cost on a callout, and a radius drawn around the city quietly includes a lot of work that will not pay.",
+        "Decide the line and publish it. The enquiries outside it were costing you time you were not charging for.",
+      ],
+    },
+    {
+      heading: "The city has the replacement market",
+      body: [
+        "Cork city's older housing stock carries a large number of gas boilers approaching the end of their lives, which is the same replacement opportunity Dublin has and with considerably less competition chasing it.",
+        "The mechanism is the same: note the age on the callout, ring before the cold, and be the one who already knows their system.",
+      ],
+    },
+    {
+      heading: "Rural work is bigger and slower",
+      body: [
+        "Out through the county the jobs tend to be larger — full system replacements, oil tank work, heat pump retrofit on houses with the space for it — and the customers take longer to decide.",
+        "That rewards content and evidence rather than the speed that wins an urban callout. Different campaign, different page, different expectation of how fast it closes.",
+      ],
+    },
+    ],
+    towns: [
+      "Cork city",
+      "Douglas",
+      "Ballincollig",
+      "Carrigaline",
+      "Midleton",
+      "Mallow",
+      "Bandon",
+      "Fermoy",
+      "Clonakilty",
+      "Youghal",
+      "Macroom",
+      "Kinsale",
+    ],
+    faqs: [
+      {
+        q: "Why split the county?",
+        a: "The city is on mains gas and most of the county is not. Different systems, different registration, different searches. One campaign serves neither properly.",
+      },
+      {
+        q: "Where is the replacement market?",
+        a: "Cork city's older stock has a lot of ageing gas boilers, with far less competition chasing the replacements than in Dublin.",
+      },
+      {
+        q: "How is rural work different?",
+        a: "Bigger, slower jobs — full replacements, oil tank work, retrofit — decided on evidence rather than on who answered first.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "plumbers-and-heating",
+    county: "galway",
+    industryLabel: "plumbers",
+    countyName: "Galway",
+    title: "Heating Leads Galway | Marketing for Galway Plumbers",
+    description:
+      "Lead generation for Galway plumbers: mains gas in the city only, a rental market that never stops, and rural oil work an hour out.",
+    h1: "Heating leads in Galway, city rental and county oil.",
+    intro: [
+      "Galway city is on the gas network. Once you are out past the suburbs you are into oil, solid fuel and heat pumps, and the two halves of the county behave nothing alike.",
+      "The city also has something most Irish counties do not: a rental and student housing sector large enough to be a business on its own, with landlords who need annual servicing, certificates and a plumber who answers.",
+    ],
+    sections: [
+    {
+      heading: "Landlord work is the steady half",
+      body: [
+        "Rental property needs servicing on a schedule, needs certificates, and needs repairs handled quickly because a tenant without heat is a problem with a clock on it.",
+        "That is predictable, repeatable, year-round income, and it is almost never advertised for deliberately. Landlords and letting agents find their plumber by referral and then stay for years, which makes winning one worth far more than a single callout.",
+        "It is also seasonal in a way worth planning around: the run-up to the academic year is when agents are scrambling and most receptive.",
+      ],
+    },
+    {
+      heading: "City gas, county oil",
+      body: [
+        "Same split as Cork, smaller scale. A single message covering both wastes half the budget on people whose system you did not mention.",
+        "Name the fuel. It is the first thing a customer is checking for and most sites make them guess.",
+      ],
+    },
+    {
+      heading: "Distance west is not like distance east",
+      body: [
+        "Connemara is slow driving and the coast adds exposure and salt to everything outdoors. A callout that looks close on a map can be most of a day.",
+        "Target named towns rather than a radius, and say what you will travel to.",
+      ],
+    },
+    {
+      heading: "The city market moves on the academic calendar",
+      body: [
+        "Demand around lettings concentrates hard before term and again at changeover. Being visible to agents and landlords ahead of those windows is worth more than being visible year-round at the same spend.",
+        "Very few plumbers here plan around it, which is precisely why it works.",
+      ],
+    },
+    ],
+    towns: [
+      "Galway city",
+      "Salthill",
+      "Knocknacarra",
+      "Oranmore",
+      "Tuam",
+      "Ballinasloe",
+      "Loughrea",
+      "Athenry",
+      "Gort",
+      "Clifden",
+      "Moycullen",
+      "Headford",
+    ],
+    faqs: [
+      {
+        q: "Is landlord work worth chasing in Galway?",
+        a: "It is the steadiest income available here — scheduled servicing, certificates and fast repairs, year-round, and almost nobody advertises for it deliberately.",
+      },
+      {
+        q: "Does Galway have mains gas?",
+        a: "The city does. Out past the suburbs it is oil, solid fuel and heat pumps, and the two halves need different messages.",
+      },
+      {
+        q: "When should we target letting agents?",
+        a: "Ahead of the academic year and at changeover, when they are scrambling. Few plumbers plan around that calendar.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "plumbers-and-heating",
+    county: "kildare",
+    industryLabel: "plumbers",
+    countyName: "Kildare",
+    title: "Heating Leads Kildare | Marketing for Kildare Plumbers",
+    description:
+      "Lead generation for Kildare plumbers: new estates with heat pumps rather than boilers, gas in the towns, and commuters who ring at night.",
+    h1: "Heating leads in Kildare, where the new houses have no boiler.",
+    intro: [
+      "A large share of Kildare's recent housing was built under regulations that pushed heating away from gas boilers and towards heat pumps. Those houses do not need a boiler service. They need something else entirely, and most plumbers here are still marketing boilers to them.",
+      "The older towns are on gas and behave normally. The estates built in the last few years are a different service market that has barely been addressed.",
+    ],
+    sections: [
+    {
+      heading: "New estates are not boiler customers",
+      body: [
+        "A house with a heat pump does not need an annual gas service and will not search for one. It needs commissioning checks, cylinder and control work, and somebody who understands the system when it underperforms.",
+        "There are very few plumbers in this county positioned as the person who services what is actually in those houses, and a great many houses. Targeting by estate age is an afternoon's work and opens a market with almost no competition.",
+      ],
+    },
+    {
+      heading: "Gas towns still behave normally",
+      body: [
+        "Naas, Newbridge, Maynooth and the older parts of the commuter towns are on the network with ordinary boiler service and replacement demand.",
+        "Two campaigns, split by what the house actually has. Running one across both means the message is wrong for whichever half is reading it.",
+      ],
+    },
+    {
+      heading: "Commuters ring outside working hours",
+      body: [
+        "The household is empty from seven until seven. They discover the problem in the evening and they search at night, which is when most plumbing businesses are not answering.",
+        "Deciding explicitly what happens to a nine o'clock call — an answering service, a missed-call text, a stated callback time — captures work that currently goes to whoever picked up.",
+      ],
+    },
+    {
+      heading: "Bathroom and renovation work runs alongside",
+      body: [
+        "Commuter households with equity and no intention of moving renovate instead. That is planned, well-paid plumbing work with a long lead time and a customer who researches first.",
+        "It is a different message from emergency repair and deserves its own page, because the person planning a bathroom in March is not the person with a leak tonight.",
+      ],
+    },
+    ],
+    towns: [
+      "Naas",
+      "Newbridge",
+      "Maynooth",
+      "Celbridge",
+      "Leixlip",
+      "Clane",
+      "Sallins",
+      "Kildare town",
+      "Athy",
+      "Kilcock",
+      "Monasterevin",
+      "Rathangan",
+    ],
+    faqs: [
+      {
+        q: "Why do new estates matter here?",
+        a: "Much of Kildare's recent housing has heat pumps rather than boilers. Those houses will never search for a boiler service, and almost nobody is positioned to service what they actually have.",
+      },
+      {
+        q: "When do Kildare enquiries arrive?",
+        a: "In the evening. Commuter households are out all day, discover the problem at night and search then — which is when most plumbers are not answering.",
+      },
+      {
+        q: "Is renovation work worth targeting?",
+        a: "Yes, separately. A person planning a bathroom in March is not the person with a leak tonight, and they should not get the same page.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "plumbers-and-heating",
+    county: "mayo",
+    industryLabel: "plumbers",
+    countyName: "Mayo",
+    title: "Heating Leads Mayo | Marketing for Mayo Plumbers",
+    description:
+      "Lead generation for Mayo plumbers: no mains gas, long drives between jobs, and empty holiday houses that burst in January.",
+    h1: "Heating leads in Mayo, counted in driving time.",
+    intro: [
+      "Mayo has no mains gas network. It runs on oil, solid fuel, electricity and a growing amount of heat pump retrofit, spread across a large county with three towns that do not share customers.",
+      "It also has an unusual amount of property that is empty for months — inherited houses, holiday homes and places owned by people who live in Dublin or abroad — and empty houses in a cold snap are a category of work all on their own.",
+    ],
+    sections: [
+    {
+      heading: "Oil and retrofit, not gas",
+      body: [
+        "Lead with the fuel people actually have. Oil servicing, oil boiler replacement, solid fuel and heat pump retrofit.",
+        "Gas messaging here reads as a template from another county, and in a market where trust is most of the decision that is an expensive impression to make.",
+      ],
+    },
+    {
+      heading: "Empty houses are their own market",
+      body: [
+        "A house nobody is in takes a freeze differently. Pipes burst with nobody there to notice, and the damage is found weeks later by an owner arriving from somewhere else.",
+        "Winter drain-downs, checks on empty property and being the person a remote owner can trust with a key is genuinely valuable work, arranged by people who cannot shop around locally. Very few plumbers offer it explicitly.",
+      ],
+    },
+    {
+      heading: "Three towns, three catchments",
+      body: [
+        "Castlebar, Ballina and Westport anchor separate areas. Proximity decides the map results and the county is far too big to overcome that.",
+        "Own your own catchment properly rather than spreading thin across the county. It is the achievable goal and almost nobody is contesting it seriously.",
+      ],
+    },
+    {
+      heading: "A heavy website fails out west",
+      body: [
+        "Mobile coverage across much of west Mayo is poor. A slow site does not load slowly for those customers, it does not load, and you never see them in your enquiry numbers.",
+        "For a trade whose customers are frequently standing in a cold house on one bar of signal, page weight is not a technical nicety.",
+      ],
+    },
+    ],
+    towns: [
+      "Castlebar",
+      "Ballina",
+      "Westport",
+      "Claremorris",
+      "Ballinrobe",
+      "Swinford",
+      "Belmullet",
+      "Knock",
+      "Foxford",
+      "Charlestown",
+      "Newport",
+      "Kiltimagh",
+    ],
+    faqs: [
+      {
+        q: "Is there gas in Mayo?",
+        a: "No mains network. Oil, solid fuel, electricity and heat pump retrofit, so gas messaging reads as a template from another county.",
+      },
+      {
+        q: "What is the empty-house market?",
+        a: "Inherited and holiday property that freezes with nobody there. Winter drain-downs and checks for remote owners are valuable work almost nobody offers explicitly.",
+      },
+      {
+        q: "Can we cover the whole county?",
+        a: "Not in the map results. Castlebar, Ballina and Westport are separate catchments and proximity decides it. Own yours.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "plumbers-and-heating",
+    county: "kerry",
+    industryLabel: "plumbers",
+    countyName: "Kerry",
+    title: "Heating Leads Kerry | Marketing for Kerry Plumbers",
+    description:
+      "Lead generation for Kerry plumbers: hotel and guesthouse plant with a hard seasonal deadline, no mains gas, and a county that empties in winter.",
+    h1: "Heating leads in Kerry, where the plant has to work by Easter.",
+    intro: [
+      "Kerry runs on tourism, and tourism runs on hot water. Hotels, guesthouses, B&Bs and restaurants all need plant that works from Easter through September, and none of them can afford it failing in August.",
+      "That is a commercial plumbing market with a hard annual deadline, and it sits alongside an ordinary domestic trade in a county with no mains gas and a lot of houses nobody is in for eight months.",
+    ],
+    sections: [
+    {
+      heading: "Hospitality plant is a different business",
+      body: [
+        "Commercial hot water, large cylinders, pumped systems and kitchen plant are not a domestic callout with bigger pipes. The stakes are different too — a guesthouse without hot water in July is losing money by the hour.",
+        "Operators know this and will pay for a plumber who understands it, answers in season and has done their kind of building before. Very few plumbers in this county market to them at all, and the ones who do tend to get the work for years.",
+      ],
+    },
+    {
+      heading: "Sell the pre-season service, not the emergency",
+      body: [
+        "The whole commercial calendar points at one moment: everything must be right before the season starts. A February and March campaign offering pre-season servicing reaches operators exactly when that is on their mind.",
+        "It is also far better work than an August emergency — planned, scheduled, priced properly and done when you are not already stretched. Almost nobody advertises into that window.",
+      ],
+    },
+    {
+      heading: "No gas, and a lot of oil",
+      body: [
+        "Kerry has no mains gas network, so it is oil, LPG, solid fuel and heat pumps, domestic and commercial alike.",
+        "Say which you work on. It is the first thing anyone is checking and a site that leads with gas credentials reads as though it belongs to another county.",
+      ],
+    },
+    {
+      heading: "Empty houses and distance",
+      body: [
+        "Holiday property sits unheated for most of the year and is found leaking in spring by an owner arriving from elsewhere. Winter checks and drain-downs for remote owners are real, well-paid work arranged by people who cannot shop around locally.",
+        "The distances are real as well. Tralee to Cahersiveen is not a callout, it is a day, and the Ring roads are slow in both seasons. Name what you cover.",
+      ],
+    },
+    ],
+    towns: [
+      "Tralee",
+      "Killarney",
+      "Kenmare",
+      "Dingle",
+      "Listowel",
+      "Killorglin",
+      "Castleisland",
+      "Cahersiveen",
+      "Ballybunion",
+      "Sneem",
+      "Milltown",
+      "Waterville",
+    ],
+    faqs: [
+      {
+        q: "Is hospitality work worth targeting?",
+        a: "It is the distinctive opportunity here. Commercial hot water and kitchen plant with a hard seasonal deadline, operators who pay for competence, and almost no plumber marketing to them.",
+      },
+      {
+        q: "When should we advertise?",
+        a: "February and March, for pre-season servicing. Planned work priced properly beats an August emergency when you are already stretched.",
+      },
+      {
+        q: "Is there mains gas in Kerry?",
+        a: "No network. Oil, LPG, solid fuel and heat pumps, commercial and domestic alike, so say which you work on.",
+      },
+      PRICE_FAQ,
+    ],
+  },
 ];
 
 export const industryCountyFor = (industry: string) =>

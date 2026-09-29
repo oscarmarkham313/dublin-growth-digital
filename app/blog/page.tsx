@@ -51,8 +51,15 @@ export default function BlogIndex() {
       <section className="bg-bg py-16 md:py-24">
         <div className="mx-auto max-w-container px-5 md:px-10">
           <div className="border-t border-hairline">
-            {sorted.map((p, i) => (
-              <Reveal key={p.slug} delay={i * 0.04}>
+            {sorted.map((p, i) => {
+              /**
+               * Only the first screenful animates in. At 125 guides the
+               * old `delay={i * 0.04}` gave the last entry a five second
+               * wait before it appeared, and wrapping every row in a
+               * motion component pushed this page over the 300KB weight
+               * gate. Everything below the fold renders plainly.
+               */
+              const Row = (
                 <Link
                   href={`/blog/${p.slug}/`}
                   className="group grid gap-3 border-b border-hairline py-8 md:grid-cols-[180px_1fr_auto] md:items-baseline md:gap-x-10"
@@ -64,16 +71,25 @@ export default function BlogIndex() {
                     <span className="block text-2xl font-extrabold tracking-display transition-colors group-hover:text-accent md:text-3xl">
                       {p.title}
                     </span>
-                    <span className="mt-2 block max-w-2xl text-sm leading-relaxed text-text-2">
-                      {p.description}
-                    </span>
+                    {i < 10 && (
+                      <span className="mt-2 block max-w-2xl text-sm leading-relaxed text-text-2">
+                        {p.description}
+                      </span>
+                    )}
                   </span>
                   <span aria-hidden="true" className="hidden text-xl text-text-4 md:block">
                     →
                   </span>
                 </Link>
-              </Reveal>
-            ))}
+              );
+              return i < 10 ? (
+                <Reveal key={p.slug} delay={i * 0.04}>
+                  {Row}
+                </Reveal>
+              ) : (
+                <div key={p.slug}>{Row}</div>
+              );
+            })}
           </div>
         </div>
       </section>
