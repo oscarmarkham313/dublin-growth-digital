@@ -136,9 +136,9 @@ const limerickDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. €2,500 a month covers both channels, a new website, and everything in the first package.",
+      "The monthly fee covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. The second tier covers both channels, a new website, and everything in the first package.",
       "Month to month, cancel any time, no setup fee. Advertising spend is separate and is paid by you directly to Google or Meta from your own account, so you keep control of the budget and you own the ad account when you leave.",
-      "If a website is the only thing you need, that is a one-off €1,500 with no monthly fee at all.",
+      "If a website is the only thing you need, that is a single one-off fee with no monthly fee at all.",
     ],
   },
   faqs: [
@@ -160,7 +160,7 @@ const limerickDigitalMarketing: ServicePage = {
     },
     {
       q: "What size of business do you work with?",
-      a: "Owner-run businesses that answer their own phone, typically between two and twenty people. We are not the right fit for a business that needs a large in-house team coordinated, and we are not cheap enough to make sense for someone testing marketing for the first time with a €200 budget.",
+      a: "Owner-run businesses that answer their own phone, typically between two and twenty people. We are not the right fit for a business that needs a large in-house team coordinated, and we are not cheap enough to make sense for someone testing marketing for the first time on a very small budget.",
     },
     {
       q: "Can I see what you would do before paying anything?",
@@ -257,7 +257,7 @@ const limerickSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. €2,500 adds the second channel and a new website. Month to month, and the ad account stays yours.",
+      "Social media management is included in the monthly fee alongside one advertising channel and full lead follow-up. The second tier adds the other channel and a new website. Month to month, and the ad account stays yours.",
     ],
   },
   faqs: [
@@ -298,9 +298,9 @@ const limerickWeb: ServicePage = {
   countySlug: "limerick",
   service: "Web design",
   serviceSlug: "web-design",
-  title: "Web Design Limerick | Website Design & Development, €1,500",
+  title: "Web Design Limerick | Website Design & Development",
   description:
-    "Web design and development for Limerick businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500.",
+    "Web design and development for Limerick businesses. A custom site, written and built for you, live in ten working days for a single one-off fee.",
   h1: "Web design and development for Limerick businesses.",
   intro: [
     "Limerick businesses lose enquiries to geography more than to design. A site that never names Castletroy, Raheen, Newcastle West or Abbeyfeale leaves a searcher guessing whether they are even in range, and most of them will not ring to find out.",
@@ -310,7 +310,7 @@ const limerickWeb: ServicePage = {
     {
       heading: "What it costs and what is included",
       body: [
-        "A custom site, written and built from scratch, live in ten working days for a one-off €1,500. No monthly fee, no contract, and every file, login and account is in your name from the start.",
+        "A custom site, written and built from scratch, live in ten working days for a single one-off fee. No monthly fee, no contract, and every file, login and account is in your name from the start.",
         "That price covers design, copywriting, the SEO foundations, analytics setup, your Google Business Profile, the first twelve months of hosting and thirty days of unlimited changes after launch. It does not go live until you say it is right — unlimited revision rounds, no cut-off date.",
         "The full breakdown, the ten-day schedule and the guarantees are on the offer page rather than repeated here.",
       ],
@@ -348,7 +348,7 @@ const limerickWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500, paid once. Full breakdown on the offer page.",
+      "A single one-off fee. Ask on a call for the full breakdown.",
     ],
   },
   faqs: [
@@ -490,9 +490,9 @@ const kildareDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. €2,500 a month covers both channels, a new website, and everything in the first package.",
+      "The monthly fee covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. The second tier covers both channels, a new website, and everything in the first package.",
       "Month to month, cancel any time, no setup fee. Advertising spend is separate and paid by you directly to Google or Meta from your own account, so you keep control of the budget and you own the ad account when you leave.",
-      "If a website is the only thing you need, that is a one-off €1,500 with no monthly fee at all.",
+      "If a website is the only thing you need, that is a single one-off fee with no monthly fee at all.",
     ],
   },
   faqs: [
@@ -611,7 +611,7 @@ const kildareSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. €2,500 adds the second channel and a new website. Month to month, and the ad account stays yours.",
+      "Social media management is included in the monthly fee alongside one advertising channel and full lead follow-up. The second tier adds the other channel and a new website. Month to month, and the ad account stays yours.",
     ],
   },
   faqs: [
@@ -652,9 +652,9 @@ const kildareWeb: ServicePage = {
   countySlug: "kildare",
   service: "Web design",
   serviceSlug: "web-design",
-  title: "Web Design Kildare | Website Design & Development, €1,500",
+  title: "Web Design Kildare | Website Design & Development",
   description:
-    "Web design and development for Kildare businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500.",
+    "Web design and development for Kildare businesses. A custom site, written and built for you, live in ten working days for a single one-off fee.",
   h1: "Web design and development for Kildare businesses.",
   intro: [
     "Kildare households do their looking on a phone, late, usually while doing something else. A site built to be admired on a desktop does not survive a platform at Sallins or a kitchen table at half nine, and the enquiry quietly does not happen.",
@@ -664,7 +664,7 @@ const kildareWeb: ServicePage = {
     {
       heading: "What it costs and what is included",
       body: [
-        "A custom site, written and built from scratch, live in ten working days for a one-off €1,500. No monthly fee, no contract, and every file, login and account is in your name from the start.",
+        "A custom site, written and built from scratch, live in ten working days for a single one-off fee. No monthly fee, no contract, and every file, login and account is in your name from the start.",
         "That price covers design, copywriting, the SEO foundations, analytics setup, your Google Business Profile, the first twelve months of hosting and thirty days of unlimited changes after launch. It does not go live until you say it is right — unlimited revision rounds, no cut-off date.",
         "The full breakdown, the ten-day schedule and the guarantees are on the offer page rather than repeated here.",
       ],
@@ -702,7 +702,7 @@ const kildareWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500, paid once. Full breakdown on the offer page.",
+      "A single one-off fee. Ask on a call for the full breakdown.",
     ],
   },
   faqs: [
@@ -844,9 +844,9 @@ const corkDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. €2,500 a month covers both channels, a new website, and everything in the first package.",
+      "The monthly fee covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. The second tier covers both channels, a new website, and everything in the first package.",
       "Month to month, cancel any time, no setup fee. Advertising spend is separate and paid by you directly to Google or Meta from your own account, so you keep control of the budget and own the account when you leave.",
-      "If a website is the only thing you need, that is a one-off €1,500 with no monthly fee at all.",
+      "If a website is the only thing you need, that is a single one-off fee with no monthly fee at all.",
     ],
   },
   faqs: [
@@ -965,7 +965,7 @@ const corkSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. €2,500 adds the second channel and a new website. Month to month, and the ad account stays yours.",
+      "Social media management is included in the monthly fee alongside one advertising channel and full lead follow-up. The second tier adds the other channel and a new website. Month to month, and the ad account stays yours.",
     ],
   },
   faqs: [
@@ -1006,9 +1006,9 @@ const corkWeb: ServicePage = {
   countySlug: "cork",
   service: "Web design",
   serviceSlug: "web-design",
-  title: "Web Design Cork | Website Design & Development, €1,500",
+  title: "Web Design Cork | Website Design & Development",
   description:
-    "Web design and development for Cork businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500.",
+    "Web design and development for Cork businesses. A custom site, written and built for you, live in ten working days for a single one-off fee.",
   h1: "Web design and development for Cork businesses.",
   intro: [
     "Most Cork businesses that come to us do not have a traffic problem. People are already finding them — through search, through the map results, through a recommendation in a town page — and then leaving without getting in touch. The site is slow, awkward on a phone, the number is buried, and it describes the business at length without ever asking anyone to act.",
@@ -1018,7 +1018,7 @@ const corkWeb: ServicePage = {
     {
       heading: "What it costs and what is included",
       body: [
-        "A custom site, written and built from scratch, live in ten working days for a one-off €1,500. No monthly fee, no contract, and every file, login and account is in your name from the start.",
+        "A custom site, written and built from scratch, live in ten working days for a single one-off fee. No monthly fee, no contract, and every file, login and account is in your name from the start.",
         "That price covers design, copywriting, the SEO foundations, analytics setup, your Google Business Profile, the first twelve months of hosting and thirty days of unlimited changes after launch. It does not go live until you say it is right — unlimited revision rounds, no cut-off date.",
         "The full breakdown, the ten-day schedule and the guarantees are on the offer page rather than repeated here.",
       ],
@@ -1056,14 +1056,14 @@ const corkWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500, paid once. That covers the design, the writing, the build, the launch, the SEO foundations, the analytics setup, the Google Business Profile work, the first twelve months of hosting and thirty days of unlimited changes after launch.",
+      "One payment. That covers the design, the writing, the build, the launch, the SEO foundations, the analytics setup, the Google Business Profile work, the first twelve months of hosting and thirty days of unlimited changes after launch.",
       "No monthly fee and no contract. Every file, login and account is created in your name from the start, so you can take the site elsewhere whenever you want.",
       "If you also want advertising run afterwards, that is a separate decision made after the site is live, and nobody has to buy it.",
     ],
   },
   faqs: [
     {
-      q: "Is €1,500 really the whole price for a Cork business?",
+      q: "Is that really the whole price for a Cork business?",
       a: "Yes — the price is the same wherever you are in Ireland. It covers everything listed above including the first twelve months of hosting and thirty days of free changes after launch. No setup fee and no invoice at the end for work that turned out to be out of scope.",
     },
     {
@@ -1080,7 +1080,7 @@ const corkWeb: ServicePage = {
     },
     {
       q: "I already have a website. Is it worth replacing?",
-      a: "If it brings you steady enquiries, keep it. If it is more than three or four years old, looks wrong on a phone, or you cannot remember the last enquiry through it, it is quietly costing you more than €1,500 a year in work you never hear about.",
+      a: "If it brings you steady enquiries, keep it. If it is more than three or four years old, looks wrong on a phone, or you cannot remember the last enquiry through it, it is quietly costing you more in work you never hear about than a new one would cost to build.",
     },
     {
       q: "What happens if I want changes in a year?",
@@ -1199,9 +1199,9 @@ const dublinDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. €2,500 a month covers both channels, a new website, and everything in the first package.",
+      "The monthly fee covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. The second tier covers both channels, a new website, and everything in the first package.",
       "Month to month, cancel any time, no setup fee. Advertising spend is separate and paid by you directly to Google or Meta from your own account, so you keep control of the budget and own the account when you leave.",
-      "If a website is the only thing you need, that is a one-off €1,500 with no monthly fee at all.",
+      "If a website is the only thing you need, that is a single one-off fee with no monthly fee at all.",
     ],
   },
   faqs: [
@@ -1320,7 +1320,7 @@ const dublinSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. €2,500 adds the second channel and a new website. Month to month, and the ad account stays yours.",
+      "Social media management is included in the monthly fee alongside one advertising channel and full lead follow-up. The second tier adds the other channel and a new website. Month to month, and the ad account stays yours.",
     ],
   },
   faqs: [
@@ -1361,9 +1361,9 @@ const dublinWeb: ServicePage = {
   countySlug: "dublin",
   service: "Web design",
   serviceSlug: "web-design",
-  title: "Web Design Dublin | Website Design & Development, €1,500",
+  title: "Web Design Dublin | Website Design & Development",
   description:
-    "Web design and development for Dublin businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500.",
+    "Web design and development for Dublin businesses. A custom site, written and built for you, live in ten working days for a single one-off fee.",
   h1: "Web design and development for Dublin businesses.",
   intro: [
     "In Dublin you have already paid a premium for every visitor before they arrive, which makes a site that loses them expensive in a way it simply is not elsewhere. The same bounce costs multiples of what it costs in Waterford.",
@@ -1373,7 +1373,7 @@ const dublinWeb: ServicePage = {
     {
       heading: "What it costs and what is included",
       body: [
-        "A custom site, written and built from scratch, live in ten working days for a one-off €1,500. No monthly fee, no contract, and every file, login and account is in your name from the start.",
+        "A custom site, written and built from scratch, live in ten working days for a single one-off fee. No monthly fee, no contract, and every file, login and account is in your name from the start.",
         "That price covers design, copywriting, the SEO foundations, analytics setup, your Google Business Profile, the first twelve months of hosting and thirty days of unlimited changes after launch. It does not go live until you say it is right — unlimited revision rounds, no cut-off date.",
         "The full breakdown, the ten-day schedule and the guarantees are on the offer page rather than repeated here.",
       ],
@@ -1411,12 +1411,12 @@ const dublinWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500, paid once. Full breakdown on the offer page.",
+      "A single one-off fee. Ask on a call for the full breakdown.",
     ],
   },
   faqs: [
     {
-      q: "Is €1,500 cheap for Dublin?",
+      q: "Is that cheap for Dublin?",
       a: "Well below what most Dublin studios quote for the same scope, and the reason is process rather than corner-cutting — fixed scope, ten-day build, no open-ended discovery phase.",
     },
     {
@@ -1541,9 +1541,9 @@ const galwayDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. €2,500 a month covers both channels, a new website, and everything in the first package.",
+      "The monthly fee covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. The second tier covers both channels, a new website, and everything in the first package.",
       "Month to month, cancel any time, no setup fee. Advertising spend is separate and paid by you directly to Google or Meta from your own account, so you keep control of the budget and own the account when you leave.",
-      "If a website is the only thing you need, that is a one-off €1,500 with no monthly fee at all.",
+      "If a website is the only thing you need, that is a single one-off fee with no monthly fee at all.",
     ],
   },
   faqs: [
@@ -1662,9 +1662,9 @@ const galwaySocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. €2,500 a month covers both channels, a new website, and everything in the first package.",
+      "The monthly fee covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. The second tier covers both channels, a new website, and everything in the first package.",
       "Month to month, cancel any time, no setup fee. Advertising spend is separate and paid by you directly to Google or Meta from your own account, so you keep control of the budget and own the account when you leave.",
-      "If a website is the only thing you need, that is a one-off €1,500 with no monthly fee at all.",
+      "If a website is the only thing you need, that is a single one-off fee with no monthly fee at all.",
     ],
   },
   faqs: [
@@ -1705,9 +1705,9 @@ const galwayWeb: ServicePage = {
   countySlug: "galway",
   service: "Web design",
   serviceSlug: "web-design",
-  title: "Web Design Galway | Website Design & Development, €1,500",
+  title: "Web Design Galway | Website Design & Development",
   description:
-    "Web design and development for Galway businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500. You own every file.",
+    "Web design and development for Galway businesses. A custom site, written and built for you, live in ten working days for a single one-off fee. You own every file.",
   h1: "Web design and development for Galway businesses.",
   intro: [
     "Connectivity decides more Galway websites than design does. A good deal of this county, particularly west of the city, still has patchy mobile coverage, and a heavy site does not load slowly there — it does not load, and the enquiry never registers as lost.",
@@ -1717,7 +1717,7 @@ const galwayWeb: ServicePage = {
     {
       heading: "What it costs and what is included",
       body: [
-        "A custom site, written and built from scratch, live in ten working days for a one-off €1,500. No monthly fee, no contract, and every file, login and account is in your name from the start.",
+        "A custom site, written and built from scratch, live in ten working days for a single one-off fee. No monthly fee, no contract, and every file, login and account is in your name from the start.",
         "That price covers design, copywriting, the SEO foundations, analytics setup, your Google Business Profile, the first twelve months of hosting and thirty days of unlimited changes after launch. It does not go live until you say it is right — unlimited revision rounds, no cut-off date.",
         "The full breakdown, the ten-day schedule and the guarantees are on the offer page rather than repeated here.",
       ],
@@ -1755,7 +1755,7 @@ const galwayWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500, paid once. Full breakdown on the offer page.",
+      "A single one-off fee. Ask on a call for the full breakdown.",
     ],
   },
   faqs: [
@@ -1886,9 +1886,9 @@ const meathDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. €2,500 a month covers both channels, a new website, and everything in the first package.",
+      "The monthly fee covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. The second tier covers both channels, a new website, and everything in the first package.",
       "Month to month, cancel any time, no setup fee. Advertising spend is separate and paid by you directly to Google or Meta from your own account, so you keep control of the budget and own the account when you leave.",
-      "If a website is the only thing you need, that is a one-off €1,500 with no monthly fee at all.",
+      "If a website is the only thing you need, that is a single one-off fee with no monthly fee at all.",
     ],
   },
   faqs: [
@@ -2007,7 +2007,7 @@ const meathSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. €2,500 adds the second channel and a new website. Month to month, and the ad account stays yours.",
+      "Social media management is included in the monthly fee alongside one advertising channel and full lead follow-up. The second tier adds the other channel and a new website. Month to month, and the ad account stays yours.",
     ],
   },
   faqs: [
@@ -2048,9 +2048,9 @@ const meathWeb: ServicePage = {
   countySlug: "meath",
   service: "Web design",
   serviceSlug: "web-design",
-  title: "Web Design Meath | Website Design & Development, €1,500",
+  title: "Web Design Meath | Website Design & Development",
   description:
-    "Web design and development for Meath businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500. You own every file.",
+    "Web design and development for Meath businesses. A custom site, written and built for you, live in ten working days for a single one-off fee. You own every file.",
   h1: "Web design and development for Meath businesses.",
   intro: [
     "Meath households research late, on a phone, usually with something else going on. A site that needs patience will not be given any, and the number has to be tappable on every page rather than sitting quietly in a footer.",
@@ -2060,7 +2060,7 @@ const meathWeb: ServicePage = {
     {
       heading: "What it costs and what is included",
       body: [
-        "A custom site, written and built from scratch, live in ten working days for a one-off €1,500. No monthly fee, no contract, and every file, login and account is in your name from the start.",
+        "A custom site, written and built from scratch, live in ten working days for a single one-off fee. No monthly fee, no contract, and every file, login and account is in your name from the start.",
         "That price covers design, copywriting, the SEO foundations, analytics setup, your Google Business Profile, the first twelve months of hosting and thirty days of unlimited changes after launch. It does not go live until you say it is right — unlimited revision rounds, no cut-off date.",
         "The full breakdown, the ten-day schedule and the guarantees are on the offer page rather than repeated here.",
       ],
@@ -2098,7 +2098,7 @@ const meathWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500, paid once. Full breakdown on the offer page.",
+      "A single one-off fee. Ask on a call for the full breakdown.",
     ],
   },
   faqs: [
@@ -2227,9 +2227,9 @@ const wicklowDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. €2,500 a month covers both channels, a new website, and everything in the first package.",
+      "The monthly fee covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. The second tier covers both channels, a new website, and everything in the first package.",
       "Month to month, cancel any time, no setup fee. Advertising spend is separate and paid by you directly to Google or Meta from your own account, so you keep control of the budget and own the account when you leave.",
-      "If a website is the only thing you need, that is a one-off €1,500 with no monthly fee at all.",
+      "If a website is the only thing you need, that is a single one-off fee with no monthly fee at all.",
     ],
   },
   faqs: [
@@ -2347,7 +2347,7 @@ const wicklowSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. €2,500 adds the second channel and a new website. Month to month, and the ad account stays yours.",
+      "Social media management is included in the monthly fee alongside one advertising channel and full lead follow-up. The second tier adds the other channel and a new website. Month to month, and the ad account stays yours.",
     ],
   },
   faqs: [
@@ -2388,9 +2388,9 @@ const wicklowWeb: ServicePage = {
   countySlug: "wicklow",
   service: "Web design",
   serviceSlug: "web-design",
-  title: "Web Design Wicklow | Website Design & Development, €1,500",
+  title: "Web Design Wicklow | Website Design & Development",
   description:
-    "Web design and development for Wicklow businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500. You own every file.",
+    "Web design and development for Wicklow businesses. A custom site, written and built for you, live in ten working days for a single one-off fee. You own every file.",
   h1: "Web design and development for Wicklow businesses.",
   intro: [
     "Most Wicklow sites try to speak to the whole county and convince nobody. A page pitched at Greystones reads wrong in Tinahely, and one pitched at Tinahely looks underpowered in Greystones.",
@@ -2400,7 +2400,7 @@ const wicklowWeb: ServicePage = {
     {
       heading: "What it costs and what is included",
       body: [
-        "A custom site, written and built from scratch, live in ten working days for a one-off €1,500. No monthly fee, no contract, and every file, login and account is in your name from the start.",
+        "A custom site, written and built from scratch, live in ten working days for a single one-off fee. No monthly fee, no contract, and every file, login and account is in your name from the start.",
         "That price covers design, copywriting, the SEO foundations, analytics setup, your Google Business Profile, the first twelve months of hosting and thirty days of unlimited changes after launch. It does not go live until you say it is right — unlimited revision rounds, no cut-off date.",
         "The full breakdown, the ten-day schedule and the guarantees are on the offer page rather than repeated here.",
       ],
@@ -2438,7 +2438,7 @@ const wicklowWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500, paid once. Full breakdown on the offer page.",
+      "A single one-off fee. Ask on a call for the full breakdown.",
     ],
   },
   faqs: [
@@ -2567,9 +2567,9 @@ const waterfordDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. €2,500 a month covers both channels, a new website, and everything in the first package.",
+      "The monthly fee covers one advertising channel — Meta or Google — managed properly, all of your social media run, and every lead followed up. The second tier covers both channels, a new website, and everything in the first package.",
       "Month to month, cancel any time, no setup fee. Advertising spend is separate and paid by you directly to Google or Meta from your own account, so you keep control of the budget and own the account when you leave.",
-      "If a website is the only thing you need, that is a one-off €1,500 with no monthly fee at all.",
+      "If a website is the only thing you need, that is a single one-off fee with no monthly fee at all.",
     ],
   },
   faqs: [
@@ -2687,7 +2687,7 @@ const waterfordSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "Social media management is included in the €1,500 a month package alongside one advertising channel and full lead follow-up. €2,500 adds the second channel and a new website. Month to month, and the ad account stays yours.",
+      "Social media management is included in the monthly fee alongside one advertising channel and full lead follow-up. The second tier adds the other channel and a new website. Month to month, and the ad account stays yours.",
     ],
   },
   faqs: [
@@ -2728,9 +2728,9 @@ const waterfordWeb: ServicePage = {
   countySlug: "waterford",
   service: "Web design",
   serviceSlug: "web-design",
-  title: "Web Design Waterford | Website Design & Development, €1,500",
+  title: "Web Design Waterford | Website Design & Development",
   description:
-    "Web design and development for Waterford businesses. A custom site, written and built for you, live in ten working days for a one-off €1,500. You own every file.",
+    "Web design and development for Waterford businesses. A custom site, written and built for you, live in ten working days for a single one-off fee. You own every file.",
   h1: "Web design and development for Waterford businesses.",
   intro: [
     "A website is worth more in Waterford than in Dublin for a simple reason: fewer of your competitors have a decent one. Several have a dormant Facebook page and nothing else, which makes the basics a genuine advantage rather than the minimum entry requirement.",
@@ -2740,7 +2740,7 @@ const waterfordWeb: ServicePage = {
     {
       heading: "What it costs and what is included",
       body: [
-        "A custom site, written and built from scratch, live in ten working days for a one-off €1,500. No monthly fee, no contract, and every file, login and account is in your name from the start.",
+        "A custom site, written and built from scratch, live in ten working days for a single one-off fee. No monthly fee, no contract, and every file, login and account is in your name from the start.",
         "That price covers design, copywriting, the SEO foundations, analytics setup, your Google Business Profile, the first twelve months of hosting and thirty days of unlimited changes after launch. It does not go live until you say it is right — unlimited revision rounds, no cut-off date.",
         "The full breakdown, the ten-day schedule and the guarantees are on the offer page rather than repeated here.",
       ],
@@ -2778,7 +2778,7 @@ const waterfordWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500, paid once. Full breakdown on the offer page.",
+      "A single one-off fee. Ask on a call for the full breakdown.",
     ],
   },
   faqs: [
@@ -2891,7 +2891,7 @@ const tipperaryDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -3004,7 +3004,7 @@ const tipperarySocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -3117,7 +3117,7 @@ const kilkennyDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -3230,7 +3230,7 @@ const kilkennySocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -3343,7 +3343,7 @@ const wexfordDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -3456,7 +3456,7 @@ const wexfordSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -3569,7 +3569,7 @@ const louthDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -3682,7 +3682,7 @@ const louthSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -3795,7 +3795,7 @@ const clareDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -3908,7 +3908,7 @@ const clareSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -4021,7 +4021,7 @@ const mayoDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -4134,7 +4134,7 @@ const mayoSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -4247,7 +4247,7 @@ const carlowDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -4360,7 +4360,7 @@ const carlowSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -4402,7 +4402,7 @@ const carlowWeb: ServicePage = {
   serviceSlug: "web-design",
   title: "Web Design Carlow | Websites Built to Convert Enquiries",
   description:
-    "Web design for Carlow businesses. Fast, mobile-first sites that turn visits into enquiries, built in about two weeks. €1,500 once off.",
+    "Web design for Carlow businesses. Fast, mobile-first sites that turn visits into enquiries, built in about two weeks.",
   h1: "Websites for Carlow businesses, built to be rung.",
   intro: [
     "Most Carlow business websites were built once, several years ago, by somebody who has since moved on. They load slowly, they do not say which areas the business covers, and on a phone the number is somewhere near the bottom.",
@@ -4466,7 +4466,7 @@ const carlowWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -4476,7 +4476,7 @@ const carlowWeb: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "€1,500 once off. Hosting and the domain stay in your name and you can move the site whenever you like.",
+      a: "A single one-off fee. Hosting and the domain stay in your name and you can move the site whenever you like.",
     },
     {
       q: "Do I need a blog?",
@@ -4579,7 +4579,7 @@ const cavanDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -4692,7 +4692,7 @@ const cavanSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -4734,7 +4734,7 @@ const cavanWeb: ServicePage = {
   serviceSlug: "web-design",
   title: "Web Design Cavan | Websites Built to Convert Enquiries",
   description:
-    "Web design for Cavan businesses. Fast, mobile-first sites that turn visits into enquiries, built in about two weeks. €1,500 once off.",
+    "Web design for Cavan businesses. Fast, mobile-first sites that turn visits into enquiries, built in about two weeks.",
   h1: "Websites for Cavan businesses, built to load anywhere.",
   intro: [
     "Mobile coverage across large parts of Cavan is patchy, and most business websites here are built as though everyone is on fibre. A heavy site does not load slowly for those visitors — it frequently does not load at all.",
@@ -4798,7 +4798,7 @@ const cavanWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -4808,7 +4808,7 @@ const cavanWeb: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "€1,500 once off, with the domain and hosting in your name.",
+      a: "A single one-off fee, with the domain and hosting in your name.",
     },
     {
       q: "Does page speed really matter here?",
@@ -4911,7 +4911,7 @@ const donegalDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -5024,7 +5024,7 @@ const donegalSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -5066,7 +5066,7 @@ const donegalWeb: ServicePage = {
   serviceSlug: "web-design",
   title: "Web Design Donegal | Websites Built to Convert Enquiries",
   description:
-    "Web design for Donegal businesses. Fast, mobile-first sites that load on poor coverage and turn visits into enquiries. €1,500 once off.",
+    "Web design for Donegal businesses. Fast, mobile-first sites that load on poor coverage and turn visits into enquiries.",
   h1: "Websites for Donegal businesses, built for bad signal.",
   intro: [
     "Large parts of Donegal have genuinely poor mobile coverage, and most business sites here are built as though every visitor is on fibre in a city. For a meaningful share of your traffic, a heavy site does not load at all.",
@@ -5130,7 +5130,7 @@ const donegalWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -5140,7 +5140,7 @@ const donegalWeb: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "€1,500 once off, with domain and hosting in your name.",
+      a: "A single one-off fee, with domain and hosting in your name.",
     },
     {
       q: "Does page speed really matter here?",
@@ -5243,7 +5243,7 @@ const kerryDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -5356,7 +5356,7 @@ const kerrySocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -5398,7 +5398,7 @@ const kerryWeb: ServicePage = {
   serviceSlug: "web-design",
   title: "Web Design Kerry | Websites Built to Convert Enquiries",
   description:
-    "Web design for Kerry businesses. Fast, mobile-first sites that turn visits into bookings and enquiries, built in about two weeks. €1,500 once off.",
+    "Web design for Kerry businesses. Fast, mobile-first sites that turn visits into bookings and enquiries, built in about two weeks.",
   h1: "Websites for Kerry businesses, built for a short season.",
   intro: [
     "A seasonal business gets a limited number of chances to convert, concentrated into a few months. A website that loses one visitor in three costs a Kerry tourism business far more than it would cost a Dublin plumber trading evenly all year.",
@@ -5462,7 +5462,7 @@ const kerryWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -5472,7 +5472,7 @@ const kerryWeb: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "€1,500 once off, with domain and hosting in your name.",
+      a: "A single one-off fee, with domain and hosting in your name.",
     },
     {
       q: "Should the site handle bookings?",
@@ -5575,7 +5575,7 @@ const laoisDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -5688,7 +5688,7 @@ const laoisSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -5730,7 +5730,7 @@ const laoisWeb: ServicePage = {
   serviceSlug: "web-design",
   title: "Web Design Laois | Websites Built to Convert Enquiries",
   description:
-    "Web design for Laois businesses. Fast, mobile-first sites that turn visits into enquiries, built in about two weeks. €1,500 once off.",
+    "Web design for Laois businesses. Fast, mobile-first sites that turn visits into enquiries, built in about two weeks.",
   h1: "Websites for Laois businesses, built for people who do not know you.",
   intro: [
     "In a county where a large share of households arrived recently, your website is doing a job it would not have to do elsewhere: introducing you to somebody with no idea who you are and no neighbour's opinion to go on yet.",
@@ -5794,7 +5794,7 @@ const laoisWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -5804,7 +5804,7 @@ const laoisWeb: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "€1,500 once off, with domain and hosting in your name.",
+      a: "A single one-off fee, with domain and hosting in your name.",
     },
     {
       q: "Why does this matter more in Laois?",
@@ -5907,7 +5907,7 @@ const leitrimDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -6020,7 +6020,7 @@ const leitrimSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -6062,7 +6062,7 @@ const leitrimWeb: ServicePage = {
   serviceSlug: "web-design",
   title: "Web Design Leitrim | Websites Built to Convert Enquiries",
   description:
-    "Web design for Leitrim businesses. Fast, mobile-first sites that turn visits into enquiries, built in about two weeks. €1,500 once off.",
+    "Web design for Leitrim businesses. Fast, mobile-first sites that turn visits into enquiries, built in about two weeks.",
   h1: "Websites for Leitrim businesses, built to be found from outside.",
   intro: [
     "A Leitrim business has two kinds of visitor: locals checking you are real, and people from outside the county — newcomers, returning families, holiday-home owners — who have no idea who anyone here is.",
@@ -6126,7 +6126,7 @@ const leitrimWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -6136,7 +6136,7 @@ const leitrimWeb: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "€1,500 once off, with domain and hosting in your name.",
+      a: "A single one-off fee, with domain and hosting in your name.",
     },
     {
       q: "Should the site mention other counties?",
@@ -6239,7 +6239,7 @@ const longfordDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -6352,7 +6352,7 @@ const longfordSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -6394,7 +6394,7 @@ const longfordWeb: ServicePage = {
   serviceSlug: "web-design",
   title: "Web Design Longford | Websites Built to Convert Enquiries",
   description:
-    "Web design for Longford businesses. Fast, mobile-first sites that turn visits into enquiries, built in about two weeks. €1,500 once off.",
+    "Web design for Longford businesses. Fast, mobile-first sites that turn visits into enquiries, built in about two weeks.",
   h1: "Websites for Longford businesses, built to be rung.",
   intro: [
     "The bar for a business website in Longford is low, which is exactly why clearing it is worth so much. Most local sites are several years old, slow on a phone, and vague about what the business actually does and where.",
@@ -6458,7 +6458,7 @@ const longfordWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -6468,7 +6468,7 @@ const longfordWeb: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "€1,500 once off, with domain and hosting in your name.",
+      a: "A single one-off fee, with domain and hosting in your name.",
     },
     {
       q: "Do I need a blog?",
@@ -6571,7 +6571,7 @@ const monaghanDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -6684,7 +6684,7 @@ const monaghanSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -6726,7 +6726,7 @@ const monaghanWeb: ServicePage = {
   serviceSlug: "web-design",
   title: "Web Design Monaghan | Websites Built to Convert Enquiries",
   description:
-    "Web design for Monaghan businesses and manufacturers. Fast, credible sites that turn visits into enquiries, built in about two weeks. €1,500 once off.",
+    "Web design for Monaghan businesses and manufacturers. Fast, credible sites that turn visits into enquiries, built in about two weeks.",
   h1: "Websites for Monaghan businesses, including the ones selling to other businesses.",
   intro: [
     "For a Monaghan manufacturer or supplier, the website is frequently the only thing a potential customer sees before deciding whether to make contact. It is doing the job a showroom does elsewhere, and most of them are not built for it.",
@@ -6790,7 +6790,7 @@ const monaghanWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -6800,7 +6800,7 @@ const monaghanWeb: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "€1,500 once off, with domain and hosting in your name.",
+      a: "A single one-off fee, with domain and hosting in your name.",
     },
     {
       q: "Does a manufacturer need a good website?",
@@ -6903,7 +6903,7 @@ const offalyDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -7016,7 +7016,7 @@ const offalySocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -7058,7 +7058,7 @@ const offalyWeb: ServicePage = {
   serviceSlug: "web-design",
   title: "Web Design Offaly | Websites Built to Convert Enquiries",
   description:
-    "Web design for Offaly businesses. Fast, mobile-first sites that turn visits into enquiries, built in about two weeks. €1,500 once off.",
+    "Web design for Offaly businesses. Fast, mobile-first sites that turn visits into enquiries, built in about two weeks.",
   h1: "Websites for Offaly businesses, built for people who research first.",
   intro: [
     "A large share of Offaly households now work from home at least part of the week, and people who work from home research differently. They read more, they compare more, and they check three businesses before ringing any.",
@@ -7122,7 +7122,7 @@ const offalyWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -7132,7 +7132,7 @@ const offalyWeb: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "€1,500 once off, with domain and hosting in your name.",
+      a: "A single one-off fee, with domain and hosting in your name.",
     },
     {
       q: "Should we publish prices?",
@@ -7235,7 +7235,7 @@ const roscommonDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -7348,7 +7348,7 @@ const roscommonSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -7390,7 +7390,7 @@ const roscommonWeb: ServicePage = {
   serviceSlug: "web-design",
   title: "Web Design Roscommon | Websites Built to Convert Enquiries",
   description:
-    "Web design for Roscommon businesses. Fast, mobile-first sites that load on rural coverage and turn visits into enquiries. €1,500 once off.",
+    "Web design for Roscommon businesses. Fast, mobile-first sites that load on rural coverage and turn visits into enquiries.",
   h1: "Websites for Roscommon businesses, built to name the right towns.",
   intro: [
     "The most expensive omission on a Roscommon business website is the list of places it serves. A firm whose site mentions only Roscommon is invisible to the Athlone, Ballinasloe and Carrick-on-Shannon customers who make up much of its actual market.",
@@ -7454,7 +7454,7 @@ const roscommonWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -7464,7 +7464,7 @@ const roscommonWeb: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "€1,500 once off, with domain and hosting in your name.",
+      a: "A single one-off fee, with domain and hosting in your name.",
     },
     {
       q: "Should the site mention other counties?",
@@ -7567,7 +7567,7 @@ const sligoDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -7680,7 +7680,7 @@ const sligoSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -7722,7 +7722,7 @@ const sligoWeb: ServicePage = {
   serviceSlug: "web-design",
   title: "Web Design Sligo | Websites Built to Convert Enquiries",
   description:
-    "Web design for Sligo businesses. Fast, mobile-first sites that convert visitors travelling in from across the northwest. €1,500 once off.",
+    "Web design for Sligo businesses. Fast, mobile-first sites that convert visitors travelling in from across the northwest.",
   h1: "Websites for Sligo businesses, built for people driving in.",
   intro: [
     "A Sligo business website has a job most do not: convincing somebody in Ballina or Manorhamilton that the journey is worth making. That is a harder sell than convincing a neighbour, and it needs more from the site.",
@@ -7786,7 +7786,7 @@ const sligoWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -7796,7 +7796,7 @@ const sligoWeb: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "€1,500 once off, with domain and hosting in your name.",
+      a: "A single one-off fee, with domain and hosting in your name.",
     },
     {
       q: "Should we mention other counties?",
@@ -7899,7 +7899,7 @@ const westmeathDigitalMarketing: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -8012,7 +8012,7 @@ const westmeathSocial: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -8054,7 +8054,7 @@ const westmeathWeb: ServicePage = {
   serviceSlug: "web-design",
   title: "Web Design Westmeath | Websites Built to Convert Enquiries",
   description:
-    "Web design for Westmeath businesses in Athlone, Mullingar and across the county. Fast, mobile-first sites that turn visits into enquiries. €1,500 once off.",
+    "Web design for Westmeath businesses in Athlone, Mullingar and across the county. Fast, mobile-first sites that turn visits into enquiries.",
   h1: "Websites for Westmeath businesses, built for whichever town you are in.",
   intro: [
     "An Athlone business and a Mullingar business need different websites, and almost nobody builds them that way. Athlone's visitors are frequently travelling in from another county and need convincing. Mullingar's are commuters comparing three businesses at nine in the evening.",
@@ -8118,7 +8118,7 @@ const westmeathWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -8128,7 +8128,7 @@ const westmeathWeb: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "€1,500 once off, with domain and hosting in your name.",
+      a: "A single one-off fee, with domain and hosting in your name.",
     },
     {
       q: "Should an Athlone site mention other counties?",
@@ -8231,7 +8231,7 @@ const kildareSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -8257,7 +8257,7 @@ const kildareSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -8344,7 +8344,7 @@ const wicklowSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -8370,7 +8370,7 @@ const wicklowSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "Included in the €1,500 a month. No separate SEO fee.",
+      a: "Included in the monthly fee. No separate SEO fee.",
     },
   ],
   related: [
@@ -8457,7 +8457,7 @@ const limerickSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -8483,7 +8483,7 @@ const limerickSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "Included in the €1,500 a month.",
+      a: "Included in the monthly fee.",
     },
   ],
   related: [
@@ -8570,7 +8570,7 @@ const corkSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -8596,7 +8596,7 @@ const corkSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "Included in the €1,500 a month.",
+      a: "Included in the monthly fee.",
     },
   ],
   related: [
@@ -8683,7 +8683,7 @@ const dublinSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -8709,7 +8709,7 @@ const dublinSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "Included in the €1,500 a month.",
+      a: "Included in the monthly fee.",
     },
   ],
   related: [
@@ -8796,7 +8796,7 @@ const kildareGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -8818,7 +8818,7 @@ const kildareGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the account?",
@@ -8909,7 +8909,7 @@ const corkGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -8931,7 +8931,7 @@ const corkGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of spend?",
-      a: "No. €1,500 a month regardless of spend, paid directly to Google from your own account.",
+      a: "No. A flat monthly fee regardless of spend, and the ad spend is paid directly to Google from your own account.",
     },
     {
       q: "Who owns the account?",
@@ -9022,7 +9022,7 @@ const dublinGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -9044,7 +9044,7 @@ const dublinGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of spend?",
-      a: "No. €1,500 a month regardless of spend.",
+      a: "No. A flat monthly fee regardless of spend.",
     },
     {
       q: "Who owns the account?",
@@ -9135,7 +9135,7 @@ const meathGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -9157,7 +9157,7 @@ const meathGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of spend?",
-      a: "No. €1,500 a month regardless of spend.",
+      a: "No. A flat monthly fee regardless of spend.",
     },
     {
       q: "Who owns the account?",
@@ -9248,7 +9248,7 @@ const louthGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month for one advertising channel fully managed, all social run and every lead followed up. €2,500 adds the second channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account.",
+      "One advertising channel fully managed, all social run and every lead followed up, for a flat monthly fee. A second tier adds the other channel and a new website. Month to month, no setup fee, and ad spend is paid by you directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
     ],
   },
   faqs: [
@@ -9270,7 +9270,7 @@ const louthGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of spend?",
-      a: "No. €1,500 a month regardless of spend.",
+      a: "No. A flat monthly fee regardless of spend.",
     },
     {
       q: "Who owns the account?",
@@ -9361,7 +9361,7 @@ const galwaySeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -9387,7 +9387,7 @@ const galwaySeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -9474,7 +9474,7 @@ const meathSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -9500,7 +9500,7 @@ const meathSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -9587,7 +9587,7 @@ const louthSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -9613,7 +9613,7 @@ const louthSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -9700,7 +9700,7 @@ const waterfordSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -9726,7 +9726,7 @@ const waterfordSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -9813,7 +9813,7 @@ const tipperarySeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -9839,7 +9839,7 @@ const tipperarySeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -9926,7 +9926,7 @@ const kilkennySeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -9952,7 +9952,7 @@ const kilkennySeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -10039,7 +10039,7 @@ const wexfordSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -10065,7 +10065,7 @@ const wexfordSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -10152,7 +10152,7 @@ const kerrySeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -10178,7 +10178,7 @@ const kerrySeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -10265,7 +10265,7 @@ const clareSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -10291,7 +10291,7 @@ const clareSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -10378,7 +10378,7 @@ const mayoSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -10404,7 +10404,7 @@ const mayoSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -10491,7 +10491,7 @@ const sligoSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -10517,7 +10517,7 @@ const sligoSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -10604,7 +10604,7 @@ const cavanSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -10630,7 +10630,7 @@ const cavanSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -10706,7 +10706,7 @@ const galwayGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -10728,7 +10728,7 @@ const galwayGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -10805,7 +10805,7 @@ const wicklowGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -10827,7 +10827,7 @@ const wicklowGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -10908,7 +10908,7 @@ const limerickGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -10930,7 +10930,7 @@ const limerickGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -10993,7 +10993,7 @@ const waterfordGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -11015,7 +11015,7 @@ const waterfordGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -11099,7 +11099,7 @@ const tipperaryGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -11121,7 +11121,7 @@ const tipperaryGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -11191,7 +11191,7 @@ const kilkennyGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -11213,7 +11213,7 @@ const kilkennyGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -11283,7 +11283,7 @@ const wexfordGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -11305,7 +11305,7 @@ const wexfordGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -11382,7 +11382,7 @@ const kerryGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -11404,7 +11404,7 @@ const kerryGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -11488,7 +11488,7 @@ const clareGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -11510,7 +11510,7 @@ const clareGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -11580,7 +11580,7 @@ const mayoGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -11602,7 +11602,7 @@ const mayoGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -11672,7 +11672,7 @@ const sligoGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -11694,7 +11694,7 @@ const sligoGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -11781,7 +11781,7 @@ const cavanGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -11803,7 +11803,7 @@ const cavanGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -11894,7 +11894,7 @@ const carlowSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -11920,7 +11920,7 @@ const carlowSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -12007,7 +12007,7 @@ const donegalSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -12033,7 +12033,7 @@ const donegalSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -12120,7 +12120,7 @@ const laoisSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -12146,7 +12146,7 @@ const laoisSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -12229,7 +12229,7 @@ const leitrimSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -12255,7 +12255,7 @@ const leitrimSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -12342,7 +12342,7 @@ const longfordSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -12368,7 +12368,7 @@ const longfordSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -12452,7 +12452,7 @@ const monaghanSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -12478,7 +12478,7 @@ const monaghanSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -12565,7 +12565,7 @@ const offalySeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -12591,7 +12591,7 @@ const offalySeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -12678,7 +12678,7 @@ const roscommonSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -12704,7 +12704,7 @@ const roscommonSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -12791,7 +12791,7 @@ const westmeathSeo: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "SEO is included in the €1,500 a month. There is no separate SEO fee, no setup fee and no contract beyond the month you are in.",
+      "SEO is included in the monthly fee. There is no separate SEO charge, no setup fee and no contract beyond the month you are in.",
     ],
   },
   faqs: [
@@ -12817,7 +12817,7 @@ const westmeathSeo: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "SEO is included in the €1,500 a month. There is no separate SEO fee.",
+      a: "SEO is included in the monthly fee. There is no separate SEO charge.",
     },
   ],
   related: [
@@ -12883,7 +12883,7 @@ const carlowGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -12905,7 +12905,7 @@ const carlowGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -12989,7 +12989,7 @@ const donegalGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -13011,7 +13011,7 @@ const donegalGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -13081,7 +13081,7 @@ const laoisGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -13103,7 +13103,7 @@ const laoisGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -13187,7 +13187,7 @@ const leitrimGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -13209,7 +13209,7 @@ const leitrimGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -13279,7 +13279,7 @@ const longfordGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -13301,7 +13301,7 @@ const longfordGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -13371,7 +13371,7 @@ const monaghanGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -13393,7 +13393,7 @@ const monaghanGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -13476,7 +13476,7 @@ const offalyGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -13498,7 +13498,7 @@ const offalyGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -13568,7 +13568,7 @@ const roscommonGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -13590,7 +13590,7 @@ const roscommonGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -13674,7 +13674,7 @@ const westmeathGoogleAds: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 a month covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
+      "The monthly fee covers management regardless of what you spend. There is no percentage of ad spend, no setup fee and no contract beyond the month you are in. Ad spend goes directly to Google from your own account, which stays yours.",
     ],
   },
   faqs: [
@@ -13696,7 +13696,7 @@ const westmeathGoogleAds: ServicePage = {
     },
     {
       q: "Do you charge a percentage of ad spend?",
-      a: "No. €1,500 a month covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
+      a: "No. The monthly fee covers management regardless of what you spend, and the ad spend goes directly to Google from your own account.",
     },
     {
       q: "Who owns the Google Ads account?",
@@ -13780,7 +13780,7 @@ const tipperaryWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 once off, built in about two weeks. The domain and hosting stay in your name, the site is yours outright, and you can move it elsewhere whenever you like.",
+      "A single one-off fee, built in about two weeks. The domain and hosting stay in your name, the site is yours outright, and you can move it elsewhere whenever you like.",
     ],
   },
   faqs: [
@@ -13802,7 +13802,7 @@ const tipperaryWeb: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "€1,500 once off, with the domain and hosting in your name. You own the site outright and can move it whenever you like.",
+      a: "A single one-off fee, with the domain and hosting in your name. You own the site outright and can move it whenever you like.",
     },
   ],
   related: [
@@ -13882,7 +13882,7 @@ const kilkennyWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 once off, built in about two weeks. The domain and hosting stay in your name, the site is yours outright, and you can move it elsewhere whenever you like.",
+      "A single one-off fee, built in about two weeks. The domain and hosting stay in your name, the site is yours outright, and you can move it elsewhere whenever you like.",
     ],
   },
   faqs: [
@@ -13904,7 +13904,7 @@ const kilkennyWeb: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "€1,500 once off, with the domain and hosting in your name. You own the site outright and can move it whenever you like.",
+      a: "A single one-off fee, with the domain and hosting in your name. You own the site outright and can move it whenever you like.",
     },
   ],
   related: [
@@ -13991,7 +13991,7 @@ const wexfordWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 once off, built in about two weeks. The domain and hosting stay in your name, the site is yours outright, and you can move it elsewhere whenever you like.",
+      "A single one-off fee, built in about two weeks. The domain and hosting stay in your name, the site is yours outright, and you can move it elsewhere whenever you like.",
     ],
   },
   faqs: [
@@ -14013,7 +14013,7 @@ const wexfordWeb: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "€1,500 once off, with the domain and hosting in your name. You own the site outright and can move it whenever you like.",
+      a: "A single one-off fee, with the domain and hosting in your name. You own the site outright and can move it whenever you like.",
     },
   ],
   related: [
@@ -14100,7 +14100,7 @@ const louthWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 once off, built in about two weeks. The domain and hosting stay in your name, the site is yours outright, and you can move it elsewhere whenever you like.",
+      "A single one-off fee, built in about two weeks. The domain and hosting stay in your name, the site is yours outright, and you can move it elsewhere whenever you like.",
     ],
   },
   faqs: [
@@ -14122,7 +14122,7 @@ const louthWeb: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "€1,500 once off, with the domain and hosting in your name. You own the site outright and can move it whenever you like.",
+      a: "A single one-off fee, with the domain and hosting in your name. You own the site outright and can move it whenever you like.",
     },
   ],
   related: [
@@ -14209,7 +14209,7 @@ const clareWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 once off, built in about two weeks. The domain and hosting stay in your name, the site is yours outright, and you can move it elsewhere whenever you like.",
+      "A single one-off fee, built in about two weeks. The domain and hosting stay in your name, the site is yours outright, and you can move it elsewhere whenever you like.",
     ],
   },
   faqs: [
@@ -14231,7 +14231,7 @@ const clareWeb: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "€1,500 once off, with the domain and hosting in your name. You own the site outright and can move it whenever you like.",
+      a: "A single one-off fee, with the domain and hosting in your name. You own the site outright and can move it whenever you like.",
     },
   ],
   related: [
@@ -14318,7 +14318,7 @@ const mayoWeb: ServicePage = {
   pricing: {
     heading: "What it costs",
     body: [
-      "€1,500 once off, built in about two weeks. The domain and hosting stay in your name, the site is yours outright, and you can move it elsewhere whenever you like.",
+      "A single one-off fee, built in about two weeks. The domain and hosting stay in your name, the site is yours outright, and you can move it elsewhere whenever you like.",
     ],
   },
   faqs: [
@@ -14340,7 +14340,7 @@ const mayoWeb: ServicePage = {
     },
     {
       q: "What does it cost?",
-      a: "€1,500 once off, with the domain and hosting in your name. You own the site outright and can move it whenever you like.",
+      a: "A single one-off fee, with the domain and hosting in your name. You own the site outright and can move it whenever you like.",
     },
   ],
   related: [

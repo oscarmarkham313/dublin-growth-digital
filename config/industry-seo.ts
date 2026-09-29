@@ -39,7 +39,7 @@ const COMMON_FAQS = [
   },
   {
     q: "What does it cost?",
-    a: "SEO is included in the €1,500 a month alongside everything else. There is no separate SEO fee and no setup fee.",
+    a: "SEO is included in the monthly fee alongside everything else. There is no separate SEO charge and no setup fee.",
   },
 ];
 

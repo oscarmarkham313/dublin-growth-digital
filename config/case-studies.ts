@@ -21,7 +21,6 @@ export const caseStudies: CaseStudy[] = [
     sector: "Property",
     niche: "estate-agencies",
     stats: [
-      { value: "€2.1M", label: "Enquiry value generated" },
       { value: "240+", label: "Qualified enquiries" },
     ],
     note: "Google Ads and landing pages built around valuation requests and vendor leads.",
@@ -54,7 +53,6 @@ export const caseStudies: CaseStudy[] = [
     niche: "service-businesses",
     stats: [
       { value: "+580", label: "New members in 90 days" },
-      { value: "€12", label: "Cost per lead" },
     ],
     note: "Meta campaigns with offer-led creative, landing pages and tracking end to end.",
   },
@@ -84,7 +82,6 @@ export const caseStudies: CaseStudy[] = [
     niche: "service-businesses",
     stats: [
       { value: "+670%", label: "Course enrolments" },
-      { value: "€48k", label: "Revenue in first term" },
     ],
     note: "Google Ads on course-intent searches with enrolment-focused landing pages.",
   },
@@ -94,7 +91,6 @@ export const caseStudies: CaseStudy[] = [
     niche: "other",
     stats: [
       { value: "18x", label: "Return on ad spend" },
-      { value: "€180k", label: "Revenue in 6 months" },
     ],
     note: "Full-funnel Meta ads: prospecting, retargeting and creative testing.",
   },

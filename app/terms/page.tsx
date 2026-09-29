@@ -28,12 +28,12 @@ const sections: { heading: string; body: (string | string[])[] }[] = [
   {
     heading: "2. Payment",
     body: [
-      "The total fee for the Package is €1,500 + VAT, paid in two instalments:",
+      "The total fee for the Package is the amount agreed with you in writing before work begins, plus VAT, paid in two instalments:",
       [
-        "€750 deposit — due at checkout, before work begins",
-        "€750 balance — due at the end of the 30-day campaign period, subject to your satisfaction (see Section 3)",
+        "A deposit — due before work begins",
+        "The balance — due at the end of the 30-day campaign period, subject to your satisfaction (see Section 3)",
       ],
-      "Following the initial 30-day period, ongoing management is available at €400 + VAT per month, billed monthly with no minimum term. Either party may cancel the ongoing arrangement with 7 days' notice.",
+      "Following the initial 30-day period, ongoing management is available at the monthly rate agreed with you in writing, plus VAT, billed monthly with no minimum term. Either party may cancel the ongoing arrangement with 7 days' notice.",
       "All payments are processed securely. Invoices are issued on receipt of payment.",
     ],
   },
@@ -42,7 +42,7 @@ const sections: { heading: string; body: (string | string[])[] }[] = [
     body: [
       "We are confident in the results our campaigns deliver. Our guarantee works as follows:",
       [
-        "After 30 days, if you are satisfied with the results of the campaign, the €750 balance becomes due and payable.",
+        "After 30 days, if you are satisfied with the results of the campaign, the balance becomes due and payable.",
         "If you are not satisfied with the results, we will continue working on your campaign for a further 30 days at no additional charge before the balance is due.",
         "If after the extended period you remain unsatisfied, we will discuss resolution in good faith — which may include a partial refund of the deposit at our discretion.",
       ],
@@ -74,7 +74,7 @@ const sections: { heading: string; body: (string | string[])[] }[] = [
   {
     heading: "6. Cancellation & Refunds",
     body: [
-      "The €750 deposit is non-refundable once work has commenced (i.e. once we have begun strategy or campaign setup). If you cancel before any work has begun, a full refund will be issued.",
+      "The deposit is non-refundable once work has commenced (i.e. once we have begun strategy or campaign setup). If you cancel before any work has begun, a full refund will be issued.",
       "Ongoing monthly management may be cancelled at any time with 7 days' written notice to dublingrowthdigital@gmail.com. You will not be billed for any period beyond the notice period.",
     ],
   },

@@ -33,15 +33,15 @@ export function GET() {
 > A lead generation and digital marketing agency for Irish businesses: Meta ads, Google Ads, SEO, social media and web design. Based in Dublin, working in every county in Ireland. Results are reported in enquiries and booked work rather than impressions.
 
 Founded by Oscar Markham. Contact: ${site.email}, ${site.phoneDisplay}.
-Pricing: €1,500 per month for one advertising channel fully managed plus all social media and lead follow-up; €2,500 per month for both channels plus a new website. Websites alone are a one-off €1,500. Month to month, no setup fee, and advertising spend is paid by the client directly to the platforms.
+Pricing is quoted per client and is not published. Engagements are month to month with no setup fee, and advertising spend is paid by the client directly to the platforms.
 
 ## What the site is for
 
-Irish business owners deciding whether to hire a marketing agency, and what it should cost. Most pages answer a specific question for a specific trade or profession rather than describing services in general.
+Irish business owners deciding whether to hire a marketing agency. Most pages answer a specific question for a specific trade or profession rather than describing services in general.
 
 ## Services
 
-${line("Web design", `${B}/services/#web-design`, "Custom sites written and built to turn visits into enquiries, one-off €1,500, live in ten working days")}
+${line("Web design", `${B}/services/#web-design`, "Custom sites written and built to turn visits into enquiries, a single one-off fee, live in ten working days")}
 ${line("Google Ads", `${B}/services/#google-ads`, "Search campaigns for businesses whose customers look for them at the moment of need")}
 ${line("Meta ads", `${B}/services/#meta-ads`, "Facebook and Instagram campaigns for visual and discretionary purchases")}
 ${line("SEO", `${B}/services/#seo`, "Local and service-plus-place search, plus Google Business Profile work")}
@@ -116,7 +116,7 @@ ${posts
 
 - Dublin Growth Digital is based in Dublin and works remotely with clients in every Irish county. It does not have offices outside Dublin and does not claim to.
 - It cannot appear in Google map results for towns where a client has no verified address, and says so on the relevant pages.
-- Prices quoted on the site are current and inclusive: €1,500/month, €2,500/month, or €1,500 once for a website.
+- Prices are not published on the site. They are quoted per client on a call, and are inclusive of everything except advertising spend.
 - Advertising spend is always paid by the client directly to Google or Meta, never through the agency.
 - Clients own their websites, domains, ad accounts and analytics from day one.
 `;

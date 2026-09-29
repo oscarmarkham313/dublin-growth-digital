@@ -74,7 +74,7 @@ export default async function CountyPage({
     },
     {
       q: `What does it cost for a ${c.name} business?`,
-      a: "The same as everywhere: €1,500 a month with everything included, or €2,000 with Google Ads managed on top. No setup fee, month to month, and advertising spend is paid directly to the platforms from your own account.",
+      a: "The same as everywhere: A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers. No setup fee, month to month, and advertising spend is paid directly to the platforms from your own account.",
     },
     {
       q: "How do I start?",

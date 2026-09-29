@@ -92,7 +92,6 @@ const organisation = {
   image: `${site.domain}/opengraph-image.png`,
   telephone: site.phone,
   email: site.email,
-  priceRange: "€1,500 - €2,500 per month",
   founder: { "@type": "Person", name: "Oscar Markham" },
   address: {
     "@type": "PostalAddress",

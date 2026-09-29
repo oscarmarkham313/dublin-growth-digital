@@ -25,26 +25,26 @@ export interface Post {
 export const posts: Post[] = [
   {
     slug: "solar-lead-cost-ireland",
-    title: "What does a solar lead cost in Ireland in 2026?",
+    title: "How to judge what a solar lead is worth",
     description:
-      "Real ranges for Meta and Google solar leads in Ireland, why shared leads look cheap and cost more, and what a lead form should ask before you ring.",
+      "How Meta and Google solar leads differ in Ireland, why shared leads look cheap and cost more, and what a lead form should ask before you ring.",
     date: "2026-09-07",
     minutes: 6,
     intro:
-      "Every solar installer we speak to asks the same question first: what should a lead cost? The honest answer is that the number on its own tells you almost nothing. A €6 lead that never answers the phone is more expensive than a €40 lead who has already told you their roof type, their budget and when they want the install. Here is how the real numbers break down in Ireland this year.",
+      "Every solar installer we speak to asks the same question first: what should a lead cost? The honest answer is that the number on its own tells you almost nothing. A cheap lead that never answers the phone is more expensive than one several times dearer who has already told you their roof type, their budget and when they want the install. Here is how to think about it.",
     sections: [
       {
         h: "The ranges we see",
         p: [
-          "On Meta (Facebook and Instagram), a well-run lead-form campaign for a domestic solar installer in Ireland produces leads at somewhere between €8 and €25 each, depending on the county, the season and how tightly the form qualifies. Campaigns that ask nothing beyond a name and a phone number sit at the cheap end and waste the installer's time; campaigns that ask about the property, the roof and the timing sit at the dear end and fill survey diaries.",
-          "On Google Ads, the searches with real intent ('solar panels Cork', 'solar PV installer near me', 'SEAI solar grant') cost more per click, and a lead typically lands between €35 and €90. The conversion rate to a survey is much higher, because the person typed the words.",
-          "The number that matters is not the cost per lead. It is the cost per survey booked, and after that the cost per install. A €20 Meta lead that becomes a survey one time in three costs €60 per survey. A €70 Google lead that becomes a survey two times in three costs €105 per survey, but arrives ready to buy. Both are worth running. Only the report tells you which one is winning this month.",
+          "On Meta (Facebook and Instagram), a well-run lead-form campaign for a domestic solar installer in Ireland produces leads across a wide range, depending on the county, the season and how tightly the form qualifies. Campaigns that ask nothing beyond a name and a phone number sit at the cheap end and waste the installer's time; campaigns that ask about the property, the roof and the timing sit at the dear end and fill survey diaries.",
+          "On Google Ads, the searches with real intent ('solar panels Cork', 'solar PV installer near me', 'SEAI solar grant') cost several times more per lead. The conversion rate to a survey is much higher, because the person typed the words.",
+          "The number that matters is not the cost per lead. It is the cost per survey booked, and after that the cost per install. A cheap Meta lead that becomes a survey one time in three can end up costing much the same per survey as a Google lead three times dearer that converts two times in three — and the Google one arrives ready to buy. Both are worth running. Only the report tells you which is winning this month.",
         ],
       },
       {
         h: "Why shared leads look cheap and cost more",
         p: [
-          "Several national websites sell solar leads to installers, usually to three or four firms at once, at €25 to €60 per lead. The homeowner has filled in one form and is now being rung by four companies within the hour. The installer who wins that job is the fastest caller with the lowest quote, which is not a business anyone wants to be in.",
+          "Several national websites sell solar leads to installers, usually to three or four firms at once. The homeowner has filled in one form and is now being rung by four companies within the hour. The installer who wins that job is the fastest caller with the lowest quote, which is not a business anyone wants to be in.",
           "A lead generated in your own name, from your own ads, lands with you alone. The homeowner asked for you. That is the whole difference, and it is why installers who move from shared leads to their own campaigns usually see the close rate double even when the cost per lead goes up.",
         ],
       },
@@ -63,7 +63,7 @@ export const posts: Post[] = [
       {
         h: "What the results look like when it is done properly",
         p: [
-          "One of our home-improvement clients spent €57.78 on a Meta lead campaign and received 21 leads at €2.75 each, every one of them through a form that qualified the job first. A Cork EV charger installer received 54 residential enquiries in three weeks from a campaign built around his own installs. Those are not typical numbers, and we do not promise them, but they show what happens when the creative is honest, the targeting is local and the form does the qualifying.",
+          "One of our home-improvement clients received 21 qualified leads in a single month from a small Meta budget, every one of them through a form that qualified the job first. A Cork EV charger installer received 54 residential enquiries in three weeks from a campaign built around his own installs. Those are not typical results, and we do not promise them, but they show what happens when the creative is honest, the targeting is local and the form does the qualifying.",
           "If you want to know what your own numbers would look like, start with a free growth audit. We will look at your Google map results, your reviews, your website and the ads already running in your county, and tell you where the enquiries are going right now.",
         ],
       },
@@ -97,14 +97,14 @@ export const posts: Post[] = [
       {
         h: "What it costs and what to measure",
         p: [
-          "Our vendor campaigns run at €1,500 a month with everything included, and advertising spend is paid directly to Meta from the agency's own account, usually €15 to €40 a day depending on the patch. There is no setup fee and no contract.",
+          "Our vendor campaigns run at a flat monthly fee with everything included, and advertising spend is paid directly to Meta from the agency's own account, scaled to the size of the patch. There is no setup fee and no contract.",
           "Measure three things and ignore the rest: vendor enquiries, valuation appointments booked and instructions won. Impressions and reach are how platforms report; enquiries and appointments are how agencies get paid. We send those three numbers every Friday on one page.",
         ],
       },
       {
         h: "Results, unnamed on purpose",
         p: [
-          "A Dublin estate agency received 42 vendor enquiries in one month from a Meta campaign aimed at homeowners six months before they searched; twelve of them went to market. A Cork property agency generated €2.1M in vendor instructions in one quarter. A Limerick agency booked 31 vendor appraisals in four weeks, fourteen of which went on to list. We name the agencies on a call, never in an ad or on a page.",
+          "A Dublin estate agency received 42 vendor enquiries in one month from a Meta campaign aimed at homeowners six months before they searched; twelve of them went to market. A Limerick agency booked 31 vendor appraisals in four weeks, fourteen of which went on to list. We name the agencies on a call, never in an ad or on a page.",
           "If you run an established agency and your valuation diary is quieter than your rating deserves, start with a free vendor audit: your Google box, socials and website checked against your three closest rivals, four pages, fact-checked, sent as a PDF.",
         ],
       },
@@ -138,7 +138,7 @@ export const posts: Post[] = [
       {
         h: "What a roofing lead costs",
         p: [
-          "On Google, a roofing click in Ireland costs between €2 and €8 depending on the town and the season, and a call or form lead typically lands between €20 and €60. On Meta, planned-work leads through a qualifying form usually sit between €5 and €20. One of our home-improvement clients received 21 leads at €2.75 each on €57.78 of spend, which is the cheap end of what a tight local campaign can do.",
+          "On Google, roofing clicks in Ireland vary with the town and the season, and a call or form lead costs a multiple of a Meta one. On Meta, planned-work leads through a qualifying form sit lower. One of our home-improvement clients received 21 leads in a month on a very small budget, which is the cheap end of what a tight local campaign can do.",
           "The number that pays your wages is cost per booked job, and it only shows up if you track calls and forms properly. We install call tracking on every roofing campaign for exactly that reason.",
         ],
       },
@@ -173,7 +173,7 @@ export const posts: Post[] = [
         h: "How to judge an agency in a month",
         p: [
           "Ask three questions. Can they tell you, today, what your cost per enquiry was last week? Can they show you the enquiries themselves, with the answers to the qualifying questions? And when something is not working, do you hear it from them first? An agency that fails any of the three is reporting to look busy.",
-          "The trap on the client side is judging by the wrong number. A cost per lead of €4 sounds better than €18 until you notice the €4 leads never answer the phone. Insist on cost per booked job as the number you both watch, and be patient for the first month while the campaign learns who responds.",
+          "The trap on the client side is judging by the wrong number. A very low cost per lead sounds better than one four times higher until you notice the cheap leads never answer the phone. Insist on cost per booked job as the number you both watch, and be patient for the first month while the campaign learns who responds.",
         ],
       },
       {
@@ -241,19 +241,19 @@ export const posts: Post[] = [
   },
   {
     slug: "roofing-lead-cost-ireland",
-    title: "What should a roofing lead cost in Ireland?",
+    title: "How to judge what a roofing lead is worth",
     description:
       "Real ranges for Meta and Google roofing leads in Ireland, why storm weeks change the maths, and why cost per lead is the wrong number to judge on.",
     date: "2026-09-22",
     minutes: 6,
     intro:
-      "Every roofer who rings us asks what a lead should cost, and it is the wrong first question. A €9 lead who wanted a quote for a shed roof is worse than a €60 lead who needs a full re-roof and has already been told roughly what that costs. Here is what the numbers actually look like in Ireland, and what to measure instead.",
+      "Every roofer who rings us asks what a lead should cost, and it is the wrong first question. A cheap lead who wanted a quote for a shed roof is worse than one many times dearer who needs a full re-roof and has already been told roughly what that costs. Here is how the numbers actually behave in Ireland, and what to measure instead.",
     sections: [
     {
       h: "The ranges we actually see",
       p: [
-        "On Meta, a well-run roofing campaign in Ireland produces leads somewhere between €8 and €30. The cheap end is a form asking for a name and number, which fills your phone with people who will not answer it. The dear end asks what the roof is, what the problem is and when they need it, and produces a list worth ringing.",
-        "On Google Ads, roofing searches are competitive and clicks are not cheap. A lead usually lands between €40 and €120. The conversion rate is far higher because somebody typed the words — they have a problem now, and they are looking for someone to fix it.",
+        "On Meta, a well-run roofing campaign in Ireland produces leads across a wide range. The cheap end is a form asking for a name and number, which fills your phone with people who will not answer it. The dear end asks what the roof is, what the problem is and when they need it, and produces a list worth ringing.",
+        "On Google Ads, roofing searches are competitive and clicks are not cheap — a lead costs several times what a Meta one does. The conversion rate is far higher because somebody typed the words — they have a problem now, and they are looking for someone to fix it.",
         "Neither number means anything on its own. What matters is cost per quote given, and after that cost per job won.",
       ],
     },
@@ -286,7 +286,7 @@ export const posts: Post[] = [
     {
       h: "The honest summary",
       p: [
-        "If somebody quotes you a cost per lead without asking what a job is worth to you, they are selling volume rather than work. A roofer turning over €4,000 on an average re-roof can afford a lead price that would bankrupt a business selling €200 repairs.",
+        "If somebody quotes you a cost per lead without asking what a job is worth to you, they are selling volume rather than work. A roofer whose average job is a full re-roof can afford a lead price that would bankrupt a business selling small repairs.",
         "Work out what a job is worth, what proportion of quotes you win, and what you can therefore afford to pay for a quote. Everything else follows from that.",
       ],
     },
@@ -469,28 +469,28 @@ export const posts: Post[] = [
       h: "Start from the value of a customer, not turnover",
       p: [
         "Work out two numbers. What is the average job worth in gross profit, not revenue? And how many jobs does a typical customer give you over a few years?",
-        "A plumber whose average job is €250 at 50% margin, and who keeps a customer for four jobs, has a customer worth around €500 in profit. A kitchen company with one €20,000 job at 30% has a customer worth €6,000 and will never see them again. Those two businesses should not be spending remotely similar amounts to acquire one.",
+        "A plumber on a modest average job at half margin, who keeps a customer for four jobs, ends up with a customer worth a few hundred in profit. A kitchen company doing one large job at a thinner margin has a customer worth more than ten times that and will never see them again. Those two businesses should not be spending remotely similar amounts to acquire one.",
       ],
     },
     {
       h: "Decide what you will pay for a customer",
       p: [
-        "A reasonable starting point for a small business is paying no more than 15 to 20 percent of a customer's profit value to acquire them. Our plumber can pay up to about €100 for a new customer. The kitchen company can pay well over €1,000 and still be comfortably ahead.",
+        "A reasonable starting point for a small business is paying no more than 15 to 20 percent of a customer's profit value to acquire them. On that rule the plumber above can pay a modest amount for a new customer, and the kitchen company can pay more than ten times as much and still be comfortably ahead.",
         "This single number tells you far more than any percentage-of-turnover rule, and it stops the most common mistake in small business advertising: judging a campaign on cost per lead without ever working out what a lead is allowed to cost.",
       ],
     },
     {
       h: "Then work backwards through the funnel",
       p: [
-        "If you close one in four quotes, and one in three enquiries becomes a quote, then twelve enquiries make one customer. If a customer can cost €100, an enquiry can cost about €8.",
+        "If you close one in four quotes, and one in three enquiries becomes a quote, then twelve enquiries make one customer — so an enquiry can cost a twelfth of what you can afford to pay for a customer.",
         "That is your target cost per enquiry, and now you can judge any campaign in a fortnight rather than arguing about it for six months.",
       ],
     },
     {
       h: "How much to start with",
       p: [
-        "Enough to get roughly thirty enquiries a month, because below that the platforms cannot learn and you cannot tell signal from noise. For most Irish trades that is somewhere between €300 and €800 a month in ad spend.",
-        "Below about €200 a month, advertising rarely works well enough to judge. It is usually better to spend nothing and fix your Google Business Profile and website first — both of which are free and both of which make every euro you eventually spend go further.",
+        "Enough to get roughly thirty enquiries a month, because below that the platforms cannot learn and you cannot tell signal from noise. Work backwards from your own cost per enquiry to find what that means for you.",
+        "On a very small budget, advertising rarely works well enough to judge. It is usually better to spend nothing and fix your Google Business Profile and website first — both of which are free and both of which make everything you eventually spend go further.",
       ],
     },
     {
@@ -793,7 +793,7 @@ export const posts: Post[] = [
       h: "The arithmetic nobody does",
       p: [
         "If a lead is sold to four installers, your realistic share of the resulting work is a quarter before anything else is considered — and in practice it is worse, because the job usually goes to whoever rang first or quoted lowest.",
-        "A lead at €40 sold four ways is effectively costing you €160 or more per genuine opportunity, and you are competing on speed and price rather than on being the right installer.",
+        "A lead sold four ways is effectively costing you four times its price per genuine opportunity, and you are competing on speed and price rather than on being the right installer.",
       ],
     },
     {
@@ -2281,7 +2281,7 @@ export const posts: Post[] = [
     slug: "should-you-buy-shared-leads",
     title: "Should you buy shared leads?",
     description:
-      "What lead platforms actually sell, why a €15 lead sold to four contractors costs more than a €60 exclusive one, and when buying them does make sense.",
+      "What lead platforms actually sell, why a cheap lead sold to four contractors costs more than a dearer exclusive one, and when buying them does make sense.",
     date: "2026-09-23",
     minutes: 6,
     intro:
@@ -2291,7 +2291,7 @@ export const posts: Post[] = [
         h: "What you are actually buying",
         p: [
           "Most lead platforms sell the same enquiry to three, four or five businesses. You are not buying a customer, you are buying a place in a race, and the customer has been told to expect several calls.",
-          "That changes the economics completely. If a lead costs €15 and is sold to four contractors, one of you converts it, so the true cost per job is at least €60 before you have driven anywhere.",
+          "That changes the economics completely. If a lead is sold to four contractors and one of you converts it, the true cost per job is at least four times the headline price before you have driven anywhere.",
         ],
       },
       {
@@ -2451,14 +2451,14 @@ export const posts: Post[] = [
       {
         h: "Work backwards from a job",
         p: [
-          "Take your average job value and your gross margin. If a job is worth €3,000 and your margin is 40%, the job contributes €1,200. If you are willing to spend a quarter of that to win it, you can afford €300 to acquire a customer.",
-          "Then work out how many enquiries it takes you to win one job. If it is four, you can afford €75 a lead. That number, not a percentage of turnover, is your actual budget constraint.",
+          "Take your average job value and your gross margin. Multiply them to get what a job actually contributes. If you are willing to spend a quarter of that contribution to win it, that quarter is what you can afford to acquire a customer.",
+          "Then work out how many enquiries it takes you to win one job. If it is four, you can afford a quarter of that figure per lead. That number, not a percentage of turnover, is your actual budget constraint.",
         ],
       },
       {
         h: "Then decide how many jobs you want",
         p: [
-          "If you want six more jobs a month and you can afford €300 per job, your budget is €1,800 plus management. That is a real number derived from your own economics rather than an industry rule of thumb.",
+          "Multiply what you can afford per job by the number of extra jobs you want each month, then add management. That is a real number derived from your own economics rather than an industry rule of thumb.",
           "If that figure is more than you can spend, the answer is usually not to spend less. It is to improve the conversion rate so each job costs less to win.",
         ],
         list: [
@@ -2472,8 +2472,8 @@ export const posts: Post[] = [
       {
         h: "The floor nobody mentions",
         p: [
-          "Below about €500 a month in ad spend, most campaigns cannot gather enough data to improve. The platforms need a certain volume of conversions before their optimisation does anything useful.",
-          "Spending €200 a month across two channels is generally worse than spending nothing, because it costs money and teaches you nothing.",
+          "Below a certain monthly ad spend, most campaigns cannot gather enough data to improve. The platforms need a volume of conversions before their optimisation does anything useful, and a budget that produces only a handful of leads a month never gets there.",
+          "Splitting a small budget across two channels is generally worse than spending nothing, because it costs money and teaches you nothing.",
         ],
       },
       {
@@ -2966,8 +2966,8 @@ export const posts: Post[] = [
       {
         h: "The middle path that works",
         p: [
-          "Publish a range with the conditions attached. 'Most full bathroom installations we do come in between €7,000 and €12,000 depending on the suite and whether the layout changes.'",
-          "That tells somebody with €3,000 to look elsewhere, tells somebody with €10,000 that they are in the right place, and commits you to nothing.",
+          "Publish a range with the conditions attached — the lowest and highest a full bathroom installation realistically comes to, and what moves it between the two.",
+          "That tells somebody whose budget is well below the range to look elsewhere, tells somebody inside it that they are in the right place, and commits you to nothing.",
         ],
         list: [
           "A from-price for the simplest version of the job",
@@ -3141,7 +3141,7 @@ export const posts: Post[] = [
         h: "The thing you can do that most cannot",
         p: [
           "Answer questions directly on your site, in text, in the words a customer would use. Assistants extract answers; they cannot extract from a PDF brochure, an image of a price list or a page written entirely in marketing language.",
-          "A page that says 'a standard boiler service in Kildare costs €90 and takes about an hour' is quotable. A page that says 'we pride ourselves on exceptional service' is not.",
+          "A page that says what a standard boiler service in Kildare costs and how long it takes is quotable. A page that says 'we pride ourselves on exceptional service' is not.",
         ],
       },
       {
@@ -3195,7 +3195,7 @@ export const posts: Post[] = [
       {
         h: "Value, not just count",
         p: [
-          "If you can attach a value to conversions — even a rough average — the platforms can optimise toward revenue rather than volume. A business where some jobs are worth €200 and others €8,000 is badly served by counting both as one conversion.",
+          "If you can attach a value to conversions — even a rough average — the platforms can optimise toward revenue rather than volume. A business where some jobs are worth a fraction of others is badly served by counting both as one conversion.",
           "An estimated value is far better than none. It does not need to be exact to be useful.",
         ],
       },
@@ -3260,7 +3260,7 @@ export const posts: Post[] = [
       {
         h: "Be careful with monthly website deals",
         p: [
-          "A website for €99 a month with no upfront cost can be reasonable or can be a lease you never stop paying, where you own nothing and leaving means starting again.",
+          "A website on a small monthly fee with no upfront cost can be reasonable, or can be a lease you never stop paying, where you own nothing and leaving means starting again.",
           "Read what happens at the end. If there is no point at which the site becomes yours, you are renting, and you should price it as rent over five years rather than as a website.",
         ],
       },
@@ -3334,7 +3334,7 @@ export const posts: Post[] = [
     slug: "the-real-cost-of-a-cheap-website",
     title: "The real cost of a cheap website",
     description:
-      "What a €400 website actually leaves out, how to tell whether yours is costing you enquiries, and when cheap is genuinely the right answer.",
+      "What a bargain website actually leaves out, how to tell whether yours is costing you enquiries, and when cheap is genuinely the right answer.",
     date: "2026-09-23",
     minutes: 6,
     intro:
@@ -3365,8 +3365,8 @@ export const posts: Post[] = [
       {
         h: "The arithmetic",
         p: [
-          "If your average job is worth €2,000 and a better site converts two more visitors a month, that is €48,000 a year. Against a €1,500 build cost, the question answers itself.",
-          "If your average job is worth €60 and you get most work by referral, the same spend makes very little sense. The answer genuinely depends on your numbers, not on a principle.",
+          "If a better site converts two more visitors a month, that is twenty-four extra jobs a year. Against a one-off build cost, the question answers itself.",
+          "If your average job is small and you get most work by referral, the same spend makes very little sense. The answer genuinely depends on your numbers, not on a principle.",
         ],
       },
       {
@@ -3561,7 +3561,7 @@ export const posts: Post[] = [
     date: "2026-09-23",
     minutes: 5,
     intro:
-      "Every business says most of its work comes from word of mouth, and almost none of them do anything deliberate about it. The schemes that get tried — refer a friend for €50 off — usually fail, and it is worth understanding why before building another one.",
+      "Every business says most of its work comes from word of mouth, and almost none of them do anything deliberate about it. The schemes that get tried — refer a friend for money off — usually fail, and it is worth understanding why before building another one.",
     sections: [
       {
         h: "Why voucher schemes fail",
@@ -3732,11 +3732,11 @@ export const posts: Post[] = [
       {
         h: "When you should do it yourself",
         p: [
-          "If your budget is under roughly €500 a month in ad spend, management fees will consume most of the value and you would be better learning the basics yourself.",
+          "If your ad budget is small, management fees will consume most of the value and you would be better learning the basics yourself.",
           "If you enjoy it, have the time, and your market is small enough to be covered by one campaign, there is no mystery here that you cannot learn in a few months.",
         ],
         list: [
-          "Ad budget under about €500 a month",
+          "A small monthly ad budget",
           "You have genuine time and some interest",
           "One service, one small area",
           "Your main problem is that the website is bad — fix that first",

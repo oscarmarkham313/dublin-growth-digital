@@ -229,9 +229,9 @@ export default async function TownPage({
               What it costs
             </h2>
             <p className="mt-7 max-w-3xl text-[15px] leading-relaxed text-text-2 md:text-base">
-              €1,500 a month for one advertising channel fully managed, all
-              social run and every lead followed up. €2,500 adds the second
-              channel and a new website. Month to month, no setup fee, and ad
+              One advertising channel fully managed, all social run and every
+              lead followed up, for a flat monthly fee. A second tier adds
+              the other channel and a new website. Month to month, no setup fee, and ad
               spend is paid by you directly to the platforms from your own
               account.
             </p>

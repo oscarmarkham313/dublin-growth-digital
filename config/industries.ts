@@ -82,7 +82,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "42", label: "vendor enquiries in one month for a Dublin agency, 12 went to market" },
-      { value: "€2.1M", label: "in vendor instructions in one quarter for a Cork property agency" },
+      { value: "240+", label: "qualified enquiries for a Dublin property agency" },
     ],
     faqs: [
       {
@@ -95,7 +95,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month for Meta advertising fully managed, social media fully run, creative, tracking and the weekly report. €2,000 a month adds Google Ads. No setup fee, month to month, and ad spend is paid directly to the platforms.",
+        a: "A flat monthly fee for Meta advertising fully managed, social media fully run, creative, tracking and the weekly report. A second tier adds Google Ads. No setup fee, month to month, and ad spend is paid directly to the platforms. Ask on a call and we will give you the numbers.",
       },
       {
         q: "Do you work with agencies outside Dublin?",
@@ -178,13 +178,13 @@ export const industries: Industry[] = [
       "Have you applied for the SEAI grant?",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "54", label: "residential EV charger enquiries in three weeks for a Cork installer" },
     ],
     faqs: [
       {
         q: "What does a solar lead cost in Ireland?",
-        a: "It depends on the county and the season. Well-qualified Meta leads for installers typically land between €8 and €25 each; Google search leads cost more per lead but convert at a higher rate. We report both every week so you see the real number.",
+        a: "It depends on the county and the season. Well-qualified Meta leads for installers are a fraction of the cost of Google search leads, but the search leads convert at a much higher rate. We report both every week so you see the real numbers rather than an average.",
       },
       {
         q: "Do you sell shared leads?",
@@ -196,7 +196,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. No setup fee, month to month. Ad spend is paid directly to Meta and Google and stays in your control.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. No setup fee, month to month. Ask on a call and we will give you the numbers. Ad spend is paid directly to Meta and Google and stays in your control.",
       },
       {
         q: "How soon can we start?",
@@ -261,7 +261,7 @@ export const industries: Industry[] = [
       "What town is the property in?",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "#1", label: "Google ranking for emergency call-outs for a Dublin trades business" },
     ],
     faqs: [
@@ -275,7 +275,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. No setup fee, month to month, ad spend paid directly to the platforms.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers. No setup fee, month to month, ad spend paid directly to the platforms.",
       },
       {
         q: "Do you work outside the cities?",
@@ -399,7 +399,7 @@ export const industries: Industry[] = [
       "When would you like the work done?",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     faqs: [
@@ -413,7 +413,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. No setup fee, month to month.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. No setup fee, month to month. Ask on a call and we will give you the numbers.",
       },
       {
         q: "How do you keep out the small jobs?",
@@ -482,7 +482,7 @@ export const industries: Industry[] = [
       "When are you hoping to have it done?",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     faqs: [
@@ -496,7 +496,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. No setup fee, month to month.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. No setup fee, month to month. Ask on a call and we will give you the numbers.",
       },
       {
         q: "Do you cover the whole country?",
@@ -565,8 +565,8 @@ export const industries: Industry[] = [
       "What town is the property in?",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
-      { value: "€12", label: "cost per lead for a Leinster service business on Meta" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
+      { value: "+580", label: "new members in 90 days for a Leinster fitness studio" },
     ],
     faqs: [
       {
@@ -579,7 +579,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. No setup fee, month to month.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. No setup fee, month to month. Ask on a call and we will give you the numbers.",
       },
       {
         q: "Will the leads be ours only?",
@@ -662,7 +662,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. No setup fee, month to month.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. No setup fee, month to month. Ask on a call and we will give you the numbers.",
       },
       {
         q: "Can you handle heat pump campaigns?",
@@ -731,7 +731,7 @@ export const industries: Industry[] = [
       "When would you like to start?",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     faqs: [
@@ -745,7 +745,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. No setup fee, month to month.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. No setup fee, month to month. Ask on a call and we will give you the numbers.",
       },
       {
         q: "We only want big projects. Can you do that?",
@@ -779,7 +779,7 @@ export const industries: Industry[] = [
     label: "Electricians",
     title: "Electrician Leads Ireland | Marketing for Electrical Contractors",
     description:
-      "Lead generation for Irish electricians: rewires, fuse boards, EV chargers and emergency callouts. Campaigns reported in booked jobs, not clicks. From €1,500 a month.",
+      "Lead generation for Irish electricians: rewires, fuse boards, EV chargers and emergency callouts. Campaigns reported in booked jobs, not clicks.",
     h1: "Electrician leads, booked rather than counted.",
     intro: [
       "An electrician's diary has two halves and they need entirely different marketing. Emergency work — a dead socket ring, a tripping board, no power upstairs — is won on Google within about fifteen minutes of the search, by whoever answers. Planned work — a rewire, a board upgrade, an EV charger, a new build second fix — is decided over days and won on reviews, photographs and whether the quote arrived when it was promised.",
@@ -836,7 +836,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. No setup fee, month to month.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. No setup fee, month to month. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["solar-installers", "heat-pumps", "plumbers-and-heating"],
@@ -881,7 +881,7 @@ export const industries: Industry[] = [
       "Would you like a showroom or home visit?",
     ],
     proof: [
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     faqs: [
@@ -903,7 +903,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. Month to month, no setup fee.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Month to month, no setup fee. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["bathroom-renovations", "tilers", "flooring"],
@@ -970,7 +970,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. Month to month, no setup fee.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Month to month, no setup fee. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["garage-conversions", "sunrooms-and-conservatories", "garden-rooms"],
@@ -1015,7 +1015,7 @@ export const industries: Industry[] = [
       "When would you want it built?",
     ],
     proof: [
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     faqs: [
@@ -1037,7 +1037,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. Month to month.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers. Month to month.",
       },
     ],
     related: ["architects", "engineers-and-surveyors", "groundworks"],
@@ -1104,7 +1104,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["glazing", "asbestos-removal", "roofers"],
@@ -1150,7 +1150,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     faqs: [
       {
@@ -1171,7 +1171,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["plumbers-and-heating", "stoves-and-fireplaces", "ev-charger-installers"],
@@ -1181,7 +1181,7 @@ export const industries: Industry[] = [
     label: "Drainage",
     title: "Drainage Leads Ireland | Marketing for Drain & Septic Specialists",
     description:
-      "Lead generation for Irish drainage contractors: blockages, CCTV surveys, septic tanks and emergency callouts. Reported in booked jobs. From €1,500 a month.",
+      "Lead generation for Irish drainage contractors: blockages, CCTV surveys, septic tanks and emergency callouts. Reported in booked jobs.",
     h1: "Drainage leads, at the moment the phone should ring.",
     intro: [
       "Drainage is the purest emergency trade in the country. Nobody researches a blocked drain. They search, they ring the first two numbers, and they book whoever answers and can come today. The entire competitive question is whether you appear at that moment and whether somebody picks up.",
@@ -1238,7 +1238,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["septic-tank-services", "water-treatment", "pest-control"],
@@ -1305,7 +1305,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["insulation", "windows-and-doors", "glazing"],
@@ -1350,7 +1350,7 @@ export const industries: Industry[] = [
       "When would you want it done?",
     ],
     proof: [
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     faqs: [
@@ -1372,7 +1372,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["blinds-and-curtains", "interior-designers", "shopfitting"],
@@ -1417,7 +1417,7 @@ export const industries: Industry[] = [
       "When do you need it done?",
     ],
     proof: [
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
       { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     faqs: [
@@ -1439,7 +1439,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["flooring", "painters-and-decorators", "blinds-and-curtains"],
@@ -1449,7 +1449,7 @@ export const industries: Industry[] = [
     label: "Flooring",
     title: "Flooring Leads Ireland | Marketing for Flooring Companies",
     description:
-      "Lead generation for Irish flooring companies and fitters: timber, laminate, LVT and carpet. Campaigns reported in booked measures. From €1,500 a month.",
+      "Lead generation for Irish flooring companies and fitters: timber, laminate, LVT and carpet. Campaigns reported in booked measures.",
     h1: "Flooring leads measured in booked measures.",
     intro: [
       "Flooring is a supply-and-fit business, which means the enquiry is worthless until somebody knows how many square metres are involved. A hall, stairs and landing and a full ground floor arrive through the same form and are worth completely different amounts, and the measuring visit is where your margin quietly goes.",
@@ -1485,7 +1485,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     faqs: [
       {
@@ -1506,7 +1506,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["painters-and-decorators", "blinds-and-curtains", "interior-designers"],
@@ -1516,7 +1516,7 @@ export const industries: Industry[] = [
     label: "Fencing & gates",
     title: "Fencing Leads Ireland | Marketing for Fencing & Gate Installers",
     description:
-      "Lead generation for Irish fencing and gate installers: garden fencing, automated gates and post-storm repairs. Reported in booked jobs. From €1,500 a month.",
+      "Lead generation for Irish fencing and gate installers: garden fencing, automated gates and post-storm repairs. Reported in booked jobs.",
     h1: "Fencing and gate leads, including the week after a storm.",
     intro: [
       "Fencing has two demand patterns and one of them is worth planning for. The steady one is spring and early summer, when gardens get attention and new estates want boundaries finished. The other arrives without warning: a named storm goes through and an entire county needs fence panels replaced in the same fortnight.",
@@ -1573,7 +1573,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["tree-surgery", "artificial-grass", "pools-and-hot-tubs"],
@@ -1618,7 +1618,7 @@ export const industries: Industry[] = [
       "Which clinic location suits you?",
     ],
     proof: [
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     faqs: [
@@ -1686,7 +1686,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "21", label: "leads in the first month of a live trades campaign" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     faqs: [
       {
@@ -1707,7 +1707,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. Month to month, no setup fee.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Month to month, no setup fee. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["barbers", "dog-grooming", "med-spas"],
@@ -1774,7 +1774,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top. No setup fee, month to month, and ad spend is paid directly to the platforms from your own account.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers. No setup fee, month to month, and ad spend is paid directly to the platforms from your own account.",
       },
     ],
     related: ["estate-agents", "solicitors", "accountants"],
@@ -1784,7 +1784,7 @@ export const industries: Industry[] = [
     label: "Insulation",
     title: "Insulation Leads Ireland | Marketing for Insulation Contractors",
     description:
-      "Lead generation for Irish insulation contractors: attic, cavity wall, external wall and SEAI grant work. Reported in booked surveys. From €1,500 a month.",
+      "Lead generation for Irish insulation contractors: attic, cavity wall, external wall and SEAI grant work. Reported in booked surveys.",
     h1: "Insulation leads from homes that qualify for the grant.",
     intro: [
       "Insulation in Ireland is a grant business before it is a building business. Most homeowners start from the SEAI grant rather than from the insulation, and the firms that win the work are the ones that answer the grant question first and the technical question second.",
@@ -1841,7 +1841,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     sections: [
@@ -1867,7 +1867,7 @@ export const industries: Industry[] = [
     label: "Plastering",
     title: "Plastering Leads Ireland | Marketing for Plasterers",
     description:
-      "Lead generation for Irish plasterers and skimming contractors: direct homeowner work rather than subcontract rates. Reported in booked jobs. From €1,500 a month.",
+      "Lead generation for Irish plasterers and skimming contractors: direct homeowner work rather than subcontract rates. Reported in booked jobs.",
     h1: "Plastering leads direct from homeowners, not through a builder.",
     intro: [
       "Most plasterers work through builders and take a subcontract rate for it. The work is steady, the margin is thin, and it vanishes the moment the main contractor finds someone cheaper or the site finishes.",
@@ -1902,7 +1902,7 @@ export const industries: Industry[] = [
       "When do you need it done?",
     ],
     proof: [
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
       { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     faqs: [
@@ -1924,7 +1924,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     sections: [
@@ -1950,7 +1950,7 @@ export const industries: Industry[] = [
     label: "Stoves & fireplaces",
     title: "Stove & Fireplace Leads Ireland | Marketing for Installers",
     description:
-      "Lead generation for Irish stove and fireplace showrooms and installers. Campaigns timed to the heating season and reported in booked surveys. From €1,500 a month.",
+      "Lead generation for Irish stove and fireplace showrooms and installers. Campaigns timed to the heating season and reported in booked surveys.",
     h1: "Stove and fireplace leads, timed to the season that sells them.",
     intro: [
       "Stoves sell on a curve so predictable you can plan a year around it. Enquiries rise with the first genuine cold week, peak through October and November, and fall off a cliff in spring. A firm advertising evenly across the year spends half its budget in months when almost nobody is buying.",
@@ -2007,7 +2007,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     sections: [
@@ -2033,7 +2033,7 @@ export const industries: Industry[] = [
     label: "Sunrooms & conservatories",
     title: "Sunroom & Conservatory Leads Ireland | Marketing for Installers",
     description:
-      "Lead generation for Irish sunroom, conservatory and garden room extension installers. Photograph-led campaigns reported in booked home visits. From €1,500 a month.",
+      "Lead generation for Irish sunroom, conservatory and garden room extension installers. Photograph-led campaigns reported in booked home visits.",
     h1: "Sunroom and conservatory leads from people ready to spend.",
     intro: [
       "A sunroom is sold on a photograph and bought after months of thinking. Somebody sees a finished room attached to a house like theirs, pictures their own back wall, and starts costing it up. That makes this an unusually good fit for paid social and a poor one for text-only search advertising.",
@@ -2068,7 +2068,7 @@ export const industries: Industry[] = [
       "When would you want it built?",
     ],
     proof: [
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     faqs: [
@@ -2090,7 +2090,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     sections: [
@@ -2116,7 +2116,7 @@ export const industries: Industry[] = [
     label: "Security & alarms",
     title: "Alarm & CCTV Leads Ireland | Marketing for Security Installers",
     description:
-      "Lead generation for Irish alarm, CCTV and access control installers, domestic and commercial. Reported in booked surveys. From €1,500 a month.",
+      "Lead generation for Irish alarm, CCTV and access control installers, domestic and commercial. Reported in booked surveys.",
     h1: "Alarm and CCTV leads, domestic and commercial.",
     intro: [
       "Security is bought after something happens. A break-in on the road, a spate in the estate, a story in the local paper — and for about a fortnight afterwards an entire area is in the market at once. The rest of the time demand is steady and low.",
@@ -2173,7 +2173,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     sections: [
@@ -2199,7 +2199,7 @@ export const industries: Industry[] = [
     label: "Tree surgery",
     title: "Tree Surgery Leads Ireland | Marketing for Arborists",
     description:
-      "Lead generation for Irish tree surgeons and arborists: felling, pruning, storm damage and stump removal. Reported in booked jobs. From €1,500 a month.",
+      "Lead generation for Irish tree surgeons and arborists: felling, pruning, storm damage and stump removal. Reported in booked jobs.",
     h1: "Tree surgery leads, including the week after a storm.",
     intro: [
       "Tree work has two demand patterns and one of them is worth building for. The steady one runs through autumn and winter, when leaves are down and people can see what needs doing. The other arrives without warning: a storm goes through and an entire county needs the same urgent work in the same three days, from people who are not comparing quotes.",
@@ -2235,7 +2235,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "21", label: "leads in the first month of a live trades campaign" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     faqs: [
       {
@@ -2256,7 +2256,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     sections: [
@@ -2317,13 +2317,13 @@ export const industries: Industry[] = [
       "Which days suit you best?",
     ],
     proof: [
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     faqs: [
       {
         q: "What can a dental practice afford per enquiry?",
-        a: "It depends entirely on the treatment. A check-up enquiry that costs €40 is poor value. An implant enquiry at €150 that converts one time in four is excellent. Splitting the campaigns is what lets you see the difference.",
+        a: "It depends entirely on the treatment. A cheap check-up enquiry is poor value. A much dearer implant enquiry that converts one time in four is excellent. Splitting the campaigns is what lets you see the difference.",
       },
       {
         q: "Are there rules about what we can advertise?",
@@ -2339,7 +2339,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     sections: [
@@ -2411,7 +2411,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "21", label: "leads in the first month of a live trades campaign" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     faqs: [
       {
@@ -2432,7 +2432,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     sections: [
@@ -2515,7 +2515,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     sections: [
@@ -2577,7 +2577,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     faqs: [
       {
@@ -2598,7 +2598,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     sections: [
@@ -2624,7 +2624,7 @@ export const industries: Industry[] = [
     label: "Accountants",
     title: "Accountant Marketing Ireland | Client Leads for Practices",
     description:
-      "Marketing for Irish accountancy practices: company accounts, tax returns, bookkeeping and advisory. Campaigns timed to the filing calendar. From €1,500 a month.",
+      "Marketing for Irish accountancy practices: company accounts, tax returns, bookkeeping and advisory. Campaigns timed to the filing calendar.",
     h1: "Accountancy marketing timed to the filing calendar.",
     intro: [
       "Accountancy has the most predictable demand curve of any professional service in Ireland. The self-assessment deadline in the autumn produces a concentrated spike of people looking for help, and a large share of practices do nothing to capture it beyond hoping their existing clients file on time.",
@@ -2681,7 +2681,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     sections: [
@@ -2707,7 +2707,7 @@ export const industries: Industry[] = [
     label: "Garages & mechanics",
     title: "Garage Leads Ireland | Marketing for Mechanics & Car Servicing",
     description:
-      "Lead generation for Irish garages and mechanics: servicing, NCT preparation, repairs and tyres. Reported in booked jobs. From €1,500 a month.",
+      "Lead generation for Irish garages and mechanics: servicing, NCT preparation, repairs and tyres. Reported in booked jobs.",
     h1: "Garage leads built around the NCT and the service calendar.",
     intro: [
       "A garage has the most reliable recurring demand of any local trade, and most never advertise against it. Every car in the country needs an NCT, and every NCT failure creates a repair job with a deadline attached. That is a predictable, searchable, high-intent stream of work that almost nobody competes for.",
@@ -2743,7 +2743,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "#1", label: "on Google for emergency callouts, Dublin trade" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     faqs: [
       {
@@ -2764,7 +2764,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     sections: [
@@ -2790,7 +2790,7 @@ export const industries: Industry[] = [
     label: "Gyms & fitness",
     title: "Gym Marketing Ireland | Member Leads for Gyms & Studios",
     description:
-      "Marketing for Irish gyms, studios and personal trainers. Campaigns built around trials and retention rather than January discounting. From €1,500 a month.",
+      "Marketing for Irish gyms, studios and personal trainers. Campaigns built around trials and retention rather than January discounting.",
     h1: "Gym marketing built around what happens after January.",
     intro: [
       "Every gym in Ireland gets a January. The ones that grow are the ones that still have those members in April, and that is a retention problem rather than a marketing one — but it is shaped by how the member was acquired in the first place. A member won on a heavy discount behaves like a discount member and leaves when it ends.",
@@ -2825,7 +2825,7 @@ export const industries: Industry[] = [
       "When would you want to start?",
     ],
     proof: [
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
       { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     faqs: [
@@ -2847,7 +2847,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     sections: [
@@ -2909,7 +2909,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -2946,7 +2946,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["financial-advisors", "insurance-brokers", "estate-agents"],
@@ -3029,7 +3029,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["engineers-and-surveyors", "interior-designers", "builders-and-extensions"],
@@ -3039,7 +3039,7 @@ export const industries: Industry[] = [
     label: "Pest control",
     title: "Pest Control Leads Ireland | Marketing for Pest Controllers",
     description:
-      "Lead generation for Irish pest control companies: domestic callouts and commercial contracts. Seasonal, urgent, and reported in booked jobs. From €1,500 a month.",
+      "Lead generation for Irish pest control companies: domestic callouts and commercial contracts. Seasonal, urgent, and reported in booked jobs.",
     h1: "Pest control leads, domestic and commercial.",
     intro: [
       "Pest control has two businesses and they could not be less alike. Domestic work is urgent, emotional and frequently embarrassing — somebody wants the problem gone today and does not want the neighbours to know. Commercial work is contractual, compliance-driven and worth many times more over a year.",
@@ -3112,7 +3112,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["cleaning-companies", "drainage", "septic-tank-services"],
@@ -3122,7 +3122,7 @@ export const industries: Industry[] = [
     label: "Locksmiths",
     title: "Locksmith Leads Ireland | Marketing for Locksmiths",
     description:
-      "Lead generation for Irish locksmiths: emergency lockouts, lock changes and security upgrades. Built for the fifteen minutes that decide the job. From €1,500 a month.",
+      "Lead generation for Irish locksmiths: emergency lockouts, lock changes and security upgrades. Built for the fifteen minutes that decide the job.",
     h1: "Locksmith leads, at the moment the phone should ring.",
     intro: [
       "Nobody researches a locksmith. They are standing outside a door, they search, they ring the first number that looks local, and the job is gone within about fifteen minutes. There is no consideration phase and no second chance.",
@@ -3158,7 +3158,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "#1", label: "on Google for emergency callouts, Dublin trade" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -3195,7 +3195,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["appliance-repair", "it-support", "health-and-safety-consultants"],
@@ -3240,7 +3240,7 @@ export const industries: Industry[] = [
       "When would you like it done?",
     ],
     proof: [
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
       { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
@@ -3278,7 +3278,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["damp-proofing", "insulation", "windows-and-doors"],
@@ -3323,7 +3323,7 @@ export const industries: Industry[] = [
       "When would you want it fitted?",
     ],
     proof: [
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -3361,7 +3361,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["stonemasons", "builders-and-extensions", "attic-conversions"],
@@ -3444,7 +3444,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["roofers", "gutter-cleaning", "chimney-sweeps"],
@@ -3454,7 +3454,7 @@ export const industries: Industry[] = [
     label: "Skip hire & waste",
     title: "Skip Hire Leads Ireland | Marketing for Waste & Skip Companies",
     description:
-      "Lead generation for Irish skip hire and waste collection companies, domestic and trade. Same-day, price-led and reported in booked deliveries. From €1,500 a month.",
+      "Lead generation for Irish skip hire and waste collection companies, domestic and trade. Same-day, price-led and reported in booked deliveries.",
     h1: "Skip hire leads, for a decision made in four minutes.",
     intro: [
       "Skip hire is bought faster than almost anything else in this list. Somebody is clearing a house or mid-renovation, they need a skip today or tomorrow, and they will ring two numbers. Price and availability decide it, in that order.",
@@ -3490,7 +3490,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "#1", label: "on Google for emergency callouts, Dublin trade" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -3527,7 +3527,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["locksmiths", "appliance-repair", "it-support"],
@@ -3573,7 +3573,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -3610,7 +3610,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["health-and-safety-consultants", "recruitment-agencies", "security-and-alarms"],
@@ -3620,7 +3620,7 @@ export const industries: Industry[] = [
     label: "Agricultural contractors",
     title: "Agricultural Contractor Leads Ireland | Ag Marketing",
     description:
-      "Lead generation for Irish agricultural contractors: silage, slurry, reseeding, hedge cutting and tillage. Built around the weeks that matter. From €1,500 a month.",
+      "Lead generation for Irish agricultural contractors: silage, slurry, reseeding, hedge cutting and tillage. Built around the weeks that matter.",
     h1: "Agricultural contractor marketing built around a very short year.",
     intro: [
       "Agricultural contracting is decided in a handful of weeks. Silage, slurry spreading and tillage all happen inside narrow weather-dependent windows, and a farmer who has not chosen a contractor by then is ringing whoever answers.",
@@ -3693,7 +3693,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["farm-buildings", "equine-services", "veterinary"],
@@ -3703,7 +3703,7 @@ export const industries: Industry[] = [
     label: "Home care",
     title: "Home Care Marketing Ireland | Enquiries for Care Providers",
     description:
-      "Marketing for Irish home care and elder care providers. Written for the family member making the decision, reported in booked assessments. From €1,500 a month.",
+      "Marketing for Irish home care and elder care providers. Written for the family member making the decision, reported in booked assessments.",
     h1: "Home care marketing written for the person actually deciding.",
     intro: [
       "The person who needs home care is almost never the person searching for it. It is an adult son or daughter, usually after a fall, a hospital discharge or a slow realisation that a parent is not coping — and usually feeling guilty about it.",
@@ -3776,7 +3776,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["stairlifts-and-mobility", "removals-companies", "self-storage"],
@@ -3786,7 +3786,7 @@ export const industries: Industry[] = [
     label: "Opticians",
     title: "Optician Marketing Ireland | Patient Leads for Practices",
     description:
-      "Marketing for Irish opticians and optometry practices. Built around the recall cycle and the tests people do not know they are entitled to. From €1,500 a month.",
+      "Marketing for Irish opticians and optometry practices. Built around the recall cycle and the tests people do not know they are entitled to.",
     h1: "Optician marketing built around recall, not offers.",
     intro: [
       "An optical practice has an unusual advantage: a built-in two-year recall cycle and a patient list that should return without being persuaded. Most of the revenue that gets chased with discounting is already sitting in the database.",
@@ -3821,7 +3821,7 @@ export const industries: Industry[] = [
       "Which days suit you best?",
     ],
     proof: [
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
       { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
@@ -3859,7 +3859,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["audiologists", "counselling-and-therapy", "dentists"],
@@ -3869,7 +3869,7 @@ export const industries: Industry[] = [
     label: "Restaurants & cafés",
     title: "Restaurant Marketing Ireland | Fill Midweek Covers",
     description:
-      "Marketing for Irish restaurants and cafés: midweek covers, direct bookings and the commission you stop paying. Reported in bookings. From €1,500 a month.",
+      "Marketing for Irish restaurants and cafés: midweek covers, direct bookings and the commission you stop paying. Reported in bookings.",
     h1: "Restaurant marketing aimed at the nights that do not sell themselves.",
     intro: [
       "A restaurant does not need more Saturdays. Saturdays fill. What decides whether the year works is Tuesday, Wednesday and the first three weeks of January, and a table empty on a Tuesday is revenue that cannot be recovered on Saturday.",
@@ -3904,7 +3904,7 @@ export const industries: Industry[] = [
       "Have you dined with us before?",
     ],
     proof: [
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
       { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
@@ -3942,7 +3942,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["hotels-and-guesthouses", "wedding-venues", "catering-companies"],
@@ -3952,7 +3952,7 @@ export const industries: Industry[] = [
     label: "Hotels & guesthouses",
     title: "Hotel Marketing Ireland | Direct Bookings for Hotels & B&Bs",
     description:
-      "Marketing for Irish hotels, guesthouses and B&Bs. Built around direct bookings and the shoulder season rather than filling July. From €1,500 a month.",
+      "Marketing for Irish hotels, guesthouses and B&Bs. Built around direct bookings and the shoulder season rather than filling July.",
     h1: "Hotel marketing built around direct bookings and the quiet months.",
     intro: [
       "An Irish hotel has two problems and neither is July. July sells itself. The problems are the shoulder months, and the share of bookings arriving through online travel agents at a commission of fifteen to twenty percent.",
@@ -3988,7 +3988,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -4025,7 +4025,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["wedding-venues", "catering-companies", "marquee-hire"],
@@ -4035,7 +4035,7 @@ export const industries: Industry[] = [
     label: "Wedding venues",
     title: "Wedding Venue Marketing Ireland | Enquiries & Showrounds",
     description:
-      "Marketing for Irish wedding venues. One enquiry is worth tens of thousands, the decision takes a year, and the showround is where it is won. From €1,500 a month.",
+      "Marketing for Irish wedding venues. One enquiry is worth tens of thousands, the decision takes a year, and the showround is where it is won.",
     h1: "Wedding venue marketing measured in showrounds, not enquiries.",
     intro: [
       "A wedding is among the largest single purchases most couples ever make, and the venue takes the biggest share of it. One booking is worth what a restaurant earns in a fortnight, which changes entirely what a venue can afford to spend attracting one.",
@@ -4108,7 +4108,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["catering-companies", "marquee-hire", "wedding-planners"],
@@ -4118,7 +4118,7 @@ export const industries: Industry[] = [
     label: "Barbers",
     title: "Barber Shop Marketing Ireland | Fill the Chair",
     description:
-      "Marketing for Irish barber shops: booking apps, walk-ins and the quiet hours. Low ticket, high frequency, tiny radius. From €1,500 a month.",
+      "Marketing for Irish barber shops: booking apps, walk-ins and the quiet hours. Low ticket, high frequency, tiny radius.",
     h1: "Barber marketing for a business measured in chair-hours.",
     intro: [
       "A barber shop sells time in a chair and nothing else. An hour that passes empty cannot be sold later, and a customer who comes every four weeks instead of every six is worth fifty percent more without a single new customer being found.",
@@ -4153,7 +4153,7 @@ export const industries: Industry[] = [
       "What type of cut are you after?",
     ],
     proof: [
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
       { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
@@ -4191,7 +4191,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["dog-grooming", "med-spas", "skin-clinics"],
@@ -4201,7 +4201,7 @@ export const industries: Industry[] = [
     label: "Driving schools",
     title: "Driving School Marketing Ireland | Pupil Leads for Instructors",
     description:
-      "Marketing for Irish driving schools and ADIs: EDT blocks, pretest lessons and the test waiting list. Reported in booked lessons. From €1,500 a month.",
+      "Marketing for Irish driving schools and ADIs: EDT blocks, pretest lessons and the test waiting list. Reported in booked lessons.",
     h1: "Driving school marketing built around the test waiting list.",
     intro: [
       "Demand for driving lessons in Ireland is shaped by something outside any instructor's control: the test waiting list. When waits are long, learners book pretest lessons in a rush and demand spikes; when they shorten, the pattern changes entirely.",
@@ -4237,7 +4237,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "21", label: "leads in the first month of a live trades campaign" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -4274,7 +4274,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["swimming-schools", "music-schools", "personal-trainers"],
@@ -4284,7 +4284,7 @@ export const industries: Industry[] = [
     label: "Creches & childcare",
     title: "Creche Marketing Ireland | Enrolments for Childcare Providers",
     description:
-      "Marketing for Irish creches and childcare providers. Honest about when the constraint is staffing rather than demand. From €1,500 a month.",
+      "Marketing for Irish creches and childcare providers. Honest about when the constraint is staffing rather than demand.",
     h1: "Childcare marketing, and when not to do it.",
     intro: [
       "A great many Irish creches do not have a demand problem. They have waiting lists, and the thing stopping them growing is staff and ratios rather than enquiries. Advertising into that produces frustrated parents and damages a reputation that runs almost entirely on word of mouth.",
@@ -4357,7 +4357,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["grinds-and-tutoring", "driving-schools", "swimming-schools"],
@@ -4367,7 +4367,7 @@ export const industries: Industry[] = [
     label: "Funeral directors",
     title: "Funeral Director Marketing Ireland | Local Presence",
     description:
-      "Marketing for Irish funeral directors, handled with the restraint the work requires. Built around pre-planning and local presence, not urgency. From €1,500 a month.",
+      "Marketing for Irish funeral directors, handled with the restraint the work requires. Built around pre-planning and local presence, not urgency.",
     h1: "Funeral director marketing, handled the way the work deserves.",
     intro: [
       "Most marketing advice is useless here and some of it is offensive. You cannot run urgency campaigns, you should not target the recently bereaved, and any agency proposing either does not understand the work or does not care.",
@@ -4440,7 +4440,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["monumental-sculptors", "celebrants", "solicitors"],
@@ -4450,7 +4450,7 @@ export const industries: Industry[] = [
     label: "Financial advisors",
     title: "Financial Advisor Marketing Ireland | Client Leads for Advisors",
     description:
-      "Marketing for Irish financial advisors and pension specialists. Central Bank aware, built around the life events that actually trigger advice. From €1,500 a month.",
+      "Marketing for Irish financial advisors and pension specialists. Central Bank aware, built around the life events that actually trigger advice.",
     h1: "Financial advisor marketing built around the moments people act.",
     intro: [
       "Nobody wakes up wanting financial advice. They act on an event: a job change with a pension to move, a redundancy, turning fifty and doing the arithmetic, an inheritance, or a business reaching the point where extraction becomes a real question.",
@@ -4486,7 +4486,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -4523,7 +4523,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["insurance-brokers", "estate-agents", "solicitors"],
@@ -4533,7 +4533,7 @@ export const industries: Industry[] = [
     label: "Engineers & surveyors",
     title: "Engineer & Surveyor Leads Ireland | Surveys, Snag Lists & Certs",
     description:
-      "Lead generation for Irish engineers and surveyors: pre-purchase surveys, snag lists, certificates of compliance and boundary work. From €1,500 a month.",
+      "Lead generation for Irish engineers and surveyors: pre-purchase surveys, snag lists, certificates of compliance and boundary work.",
     h1: "Engineer and surveyor leads tied to the property market.",
     intro: [
       "Most of this work is triggered by a transaction. Somebody is buying, selling, building or refinancing, and a survey, a snag list or a certificate is the thing standing between them and the next step.",
@@ -4606,7 +4606,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["groundworks", "steel-fabrication", "scaffolding"],
@@ -4616,7 +4616,7 @@ export const industries: Industry[] = [
     label: "Shopfitting",
     title: "Shopfitting Leads Ireland | Marketing for Commercial Fit-Out",
     description:
-      "Lead generation for Irish shopfitting and commercial fit-out contractors. Project-based, relationship-led, and reported in site visits. From €1,500 a month.",
+      "Lead generation for Irish shopfitting and commercial fit-out contractors. Project-based, relationship-led, and reported in site visits.",
     h1: "Shopfitting leads from businesses about to open a door.",
     intro: [
       "Shopfitting is a project business with long gaps and large numbers. One fit-out can be worth a quarter of a year's turnover, and the enquiries arrive from people who have just signed a lease and suddenly have a deadline they cannot move.",
@@ -4689,7 +4689,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["kitchens", "bathroom-renovations", "tilers"],
@@ -4699,7 +4699,7 @@ export const industries: Industry[] = [
     label: "Signage & print",
     title: "Signage & Print Leads Ireland | Marketing for Sign Makers",
     description:
-      "Lead generation for Irish signage, vehicle livery and print businesses. Repeat B2B work with fast turnarounds. From €1,500 a month.",
+      "Lead generation for Irish signage, vehicle livery and print businesses. Repeat B2B work with fast turnarounds.",
     h1: "Signage and print leads that come back.",
     intro: [
       "Signage has an advantage almost no other business has: every job is an advertisement that stays up for years. A well-made shopfront or a liveried van is seen by thousands of people, and a proportion of them will need signage eventually.",
@@ -4734,7 +4734,7 @@ export const industries: Industry[] = [
       "When do you need it by?",
     ],
     proof: [
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
       { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
@@ -4772,7 +4772,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["couriers-and-delivery", "equipment-hire", "skip-hire"],
@@ -4782,7 +4782,7 @@ export const industries: Industry[] = [
     label: "Equipment hire",
     title: "Plant & Equipment Hire Leads Ireland | Hire Marketing",
     description:
-      "Lead generation for Irish plant and equipment hire businesses. Utilisation is everything, and trade accounts are worth more than any one-off. From €1,500 a month.",
+      "Lead generation for Irish plant and equipment hire businesses. Utilisation is everything, and trade accounts are worth more than any one-off.",
     h1: "Equipment hire leads that build utilisation, not just bookings.",
     intro: [
       "A hire business lives or dies on utilisation. A machine sitting in the yard costs exactly what it cost yesterday and earns nothing, and the difference between a good year and a bad one is a handful of percentage points of fleet uptime.",
@@ -4818,7 +4818,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "#1", label: "on Google for emergency callouts, Dublin trade" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -4855,7 +4855,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["skip-hire", "locksmiths", "appliance-repair"],
@@ -4865,7 +4865,7 @@ export const industries: Industry[] = [
     label: "Scaffolding",
     title: "Scaffolding Leads Ireland | Marketing for Scaffolding Contractors",
     description:
-      "Lead generation for Irish scaffolding contractors, domestic and commercial. Hire duration is the revenue, not the erect. From €1,500 a month.",
+      "Lead generation for Irish scaffolding contractors, domestic and commercial. Hire duration is the revenue, not the erect.",
     h1: "Scaffolding leads where the hire period is the product.",
     intro: [
       "Scaffolding is priced as an erect and a dismantle, and earns its money in the weeks between. A job that stays up for six weeks instead of two is the same labour for three times the revenue, which means the jobs worth winning are the long ones.",
@@ -4938,7 +4938,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["plastering", "carpentry-and-joinery", "stonemasons"],
@@ -4948,7 +4948,7 @@ export const industries: Industry[] = [
     label: "Glazing & glass",
     title: "Glazier Leads Ireland | Emergency Boarding & Glass Replacement",
     description:
-      "Lead generation for Irish glaziers: emergency boarding, glass replacement and misted units. Two businesses, one trade. From €1,500 a month.",
+      "Lead generation for Irish glaziers: emergency boarding, glass replacement and misted units. Two businesses, one trade.",
     h1: "Glazing leads, from the break-in at midnight to the misted unit.",
     intro: [
       "Glazing splits cleanly in two. Emergency work — a break-in, a smashed shopfront, a door panel through — is urgent, unpriced and won by whoever answers the phone at eleven at night. Planned work — misted units, upgrades, new glass — is compared, quoted and decided over days.",
@@ -4984,7 +4984,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "#1", label: "on Google for emergency callouts, Dublin trade" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -5021,7 +5021,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["asbestos-removal", "roofers", "gutter-cleaning"],
@@ -5031,7 +5031,7 @@ export const industries: Industry[] = [
     label: "Garage conversions",
     title: "Garage Conversion Leads Ireland | Marketing for Specialists",
     description:
-      "Lead generation for Irish garage conversion specialists. The cheapest way to add a room, and the objection is always parking. From €1,500 a month.",
+      "Lead generation for Irish garage conversion specialists. The cheapest way to add a room, and the objection is always parking.",
     h1: "Garage conversion leads from families who need one more room.",
     intro: [
       "A garage conversion is the cheapest square metre a homeowner can add. The structure exists, the roof exists, and the work is largely internal — which makes it substantially cheaper than an extension for a family who has simply run out of space.",
@@ -5104,7 +5104,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["sunrooms-and-conservatories", "garden-rooms", "architects"],
@@ -5114,7 +5114,7 @@ export const industries: Industry[] = [
     label: "Artificial grass",
     title: "Artificial Grass Leads Ireland | Marketing for Installers",
     description:
-      "Lead generation for Irish artificial grass installers. Visual, seasonal, and sold against three specific objections. From €1,500 a month.",
+      "Lead generation for Irish artificial grass installers. Visual, seasonal, and sold against three specific objections.",
     h1: "Artificial grass leads, and the three objections that decide them.",
     intro: [
       "Artificial grass sells on a photograph and stalls on three doubts: that it will look fake, that it will be unpleasant in hot weather, and whether it works with dogs. Every enquiry has at least one of them, and most advertising in this trade ignores all three.",
@@ -5149,7 +5149,7 @@ export const industries: Industry[] = [
       "When would you like it installed?",
     ],
     proof: [
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
       { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
@@ -5187,7 +5187,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["pools-and-hot-tubs", "landscapers", "driveways-and-paving"],
@@ -5197,7 +5197,7 @@ export const industries: Industry[] = [
     label: "Pools & hot tubs",
     title: "Pool & Hot Tub Leads Ireland | Installation & Servicing",
     description:
-      "Lead generation for Irish pool and hot tub companies. The install is the headline, the servicing is the business. From €1,500 a month.",
+      "Lead generation for Irish pool and hot tub companies. The install is the headline, the servicing is the business.",
     h1: "Pool and hot tub leads, and the servicing that follows them.",
     intro: [
       "An installation is a large, occasional, heavily considered purchase. Servicing, chemicals, covers and repairs are small, frequent and go on for a decade. Most companies in this trade advertise the first and treat the second as an afterthought, which is the wrong way round for a stable business.",
@@ -5233,7 +5233,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -5270,7 +5270,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["landscapers", "driveways-and-paving", "fencing-and-gates"],
@@ -5280,7 +5280,7 @@ export const industries: Industry[] = [
     label: "Chimney sweeps",
     title: "Chimney Sweep Leads Ireland | Marketing for Sweeps",
     description:
-      "Lead generation for Irish chimney sweeps. Insurance certificates, a hard autumn season, and the stove installers who feed the work. From €1,500 a month.",
+      "Lead generation for Irish chimney sweeps. Insurance certificates, a hard autumn season, and the stove installers who feed the work.",
     h1: "Chimney sweep leads, concentrated into about ten weeks.",
     intro: [
       "Chimney sweeping in Ireland happens in a narrow window. From late August the phone starts, it peaks through October and November, and by January it is largely over until the following autumn. A year's work is booked in roughly ten weeks.",
@@ -5316,7 +5316,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "21", label: "leads in the first month of a live trades campaign" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -5353,7 +5353,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["powerwashing", "damp-proofing", "insulation"],
@@ -5363,7 +5363,7 @@ export const industries: Industry[] = [
     label: "Gutter cleaning",
     title: "Gutter Cleaning Leads Ireland | Marketing for Gutter Services",
     description:
-      "Lead generation for Irish gutter cleaning and repair businesses. Annual, weather-driven, and the repairs are where the money is. From €1,500 a month.",
+      "Lead generation for Irish gutter cleaning and repair businesses. Annual, weather-driven, and the repairs are where the money is.",
     h1: "Gutter cleaning leads, and the repairs that come with them.",
     intro: [
       "Gutter work is triggered by two things: leaves coming down in autumn, and water visibly overflowing during heavy rain. Neither is something people plan for, which makes this an intensely reactive trade.",
@@ -5398,7 +5398,7 @@ export const industries: Industry[] = [
       "When was it last done?",
     ],
     proof: [
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
       { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
@@ -5436,7 +5436,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["chimney-sweeps", "powerwashing", "damp-proofing"],
@@ -5446,7 +5446,7 @@ export const industries: Industry[] = [
     label: "Mobile mechanics",
     title: "Mobile Mechanic Leads Ireland | Marketing for Mobile Servicing",
     description:
-      "Lead generation for Irish mobile mechanics. Convenience is the product, and there is no map pack to win. From €1,500 a month.",
+      "Lead generation for Irish mobile mechanics. Convenience is the product, and there is no map pack to win.",
     h1: "Mobile mechanic leads, where convenience is the whole pitch.",
     intro: [
       "A mobile mechanic is not competing with garages on price. They are competing on the hour a customer does not have to take off work, the lift they do not have to arrange, and the car they do not have to leave anywhere.",
@@ -5481,7 +5481,7 @@ export const industries: Industry[] = [
       "Is it drivable?",
     ],
     proof: [
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
       { value: "#1", label: "on Google for emergency callouts, Dublin trade" },
     ],
     sections: [
@@ -5519,7 +5519,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["tyre-fitting", "windscreen-repair", "car-valeting"],
@@ -5529,7 +5529,7 @@ export const industries: Industry[] = [
     label: "Recruitment agencies",
     title: "Recruitment Agency Marketing Ireland | Client & Candidate Leads",
     description:
-      "Marketing for Irish recruitment agencies. A two-sided market where the scarce side changes, and the fee per placement is large. From €1,500 a month.",
+      "Marketing for Irish recruitment agencies. A two-sided market where the scarce side changes, and the fee per placement is large.",
     h1: "Recruitment marketing for whichever side is currently scarce.",
     intro: [
       "Recruitment is two markets that have to balance. Some months the difficulty is finding clients with roles; other months roles are plentiful and candidates are the constraint. An agency running one fixed campaign is always half wrong.",
@@ -5565,7 +5565,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -5602,7 +5602,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["security-and-alarms", "fire-safety", "signage-and-print"],
@@ -5648,7 +5648,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "21", label: "leads in the first month of a live trades campaign" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -5685,7 +5685,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["veterinary", "agricultural-contractors", "farm-buildings"],
@@ -5695,7 +5695,7 @@ export const industries: Industry[] = [
     label: "Farm buildings",
     title: "Farm Building Leads Ireland | Marketing for Agri Construction",
     description:
-      "Lead generation for Irish agricultural building contractors: sheds, slatted units, slurry storage and TAMS-funded work. From €1,500 a month.",
+      "Lead generation for Irish agricultural building contractors: sheds, slatted units, slurry storage and TAMS-funded work.",
     h1: "Farm building leads timed to the grant and the weather.",
     intro: [
       "Agricultural building in Ireland is shaped by two calendars. Grant schemes decide what farmers can afford and when they apply, and the weather decides when anything can actually be built. Both are outside your control and both are predictable.",
@@ -5768,7 +5768,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["equine-services", "veterinary", "agricultural-contractors"],
@@ -5778,7 +5778,7 @@ export const industries: Industry[] = [
     label: "Self storage",
     title: "Self Storage Marketing Ireland | Enquiries & Occupancy",
     description:
-      "Marketing for Irish self storage facilities. Occupancy is the only number, and life events are the trigger. From €1,500 a month.",
+      "Marketing for Irish self storage facilities. Occupancy is the only number, and life events are the trigger.",
     h1: "Self storage marketing built around occupancy, not enquiries.",
     intro: [
       "A storage facility has one number that matters: occupancy. An empty unit costs the same as a full one and earns nothing, and a customer who stays fourteen months instead of four is worth three times as much with no additional marketing.",
@@ -5813,7 +5813,7 @@ export const industries: Industry[] = [
       "When would you need to move in?",
     ],
     proof: [
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -5851,7 +5851,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, or €2,000 with Google Ads managed on top.",
+        a: "A flat monthly fee with everything included, or a second tier with Google Ads managed on top. Ask on a call and we will give you the numbers.",
       },
     ],
     related: ["home-care", "stairlifts-and-mobility", "removals-companies"],
@@ -5898,7 +5898,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "54", label: "residential EV charger enquiries in three weeks for a Cork installer" },
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
     ],
     sections: [
       {
@@ -5946,7 +5946,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included. No setup fee, month to month, and ad spend is paid directly to the platforms.",
+        a: "A flat monthly fee with everything included. No setup fee, month to month, and ad spend is paid directly to the platforms. Ask on a call and we will give you the number.",
       },
     ],
     related: ["electricians", "solar-installers", "heat-pumps"],
@@ -5992,8 +5992,8 @@ export const industries: Industry[] = [
       "County and Eircode",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -6055,7 +6055,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, no setup fee, month to month.",
+        a: "A flat monthly fee with everything included, no setup fee, month to month.",
       },
     ],
     related: ["water-treatment", "pest-control", "cleaning-companies"],
@@ -6065,7 +6065,7 @@ export const industries: Industry[] = [
     label: "Grinds and tutoring",
     title: "Grinds & Tutoring Leads Ireland | Marketing for Tutors",
     description:
-      "Lead generation for Irish grinds schools and tutoring services. Campaigns timed to the Leaving Cert year and aimed at parents, not students. From €1,500 a month.",
+      "Lead generation for Irish grinds schools and tutoring services. Campaigns timed to the Leaving Cert year and aimed at parents, not students.",
     h1: "Grinds enquiries, timed to the school year.",
     intro: [
       "Tutoring has three buying moments in a year and almost nothing in between. September, when the year starts and resolutions are fresh. January, when the Christmas exam results land. And February into March, when the mocks come back and panic sets in.",
@@ -6101,7 +6101,7 @@ export const industries: Industry[] = [
       "County or area",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -6163,7 +6163,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["driving-schools", "swimming-schools", "music-schools"],
@@ -6173,7 +6173,7 @@ export const industries: Industry[] = [
     label: "Cleaning companies",
     title: "Cleaning Company Leads Ireland | Domestic & Commercial",
     description:
-      "Lead generation for Irish cleaning companies. Campaigns for recurring domestic contracts and commercial accounts, reported in contracts won. From €1,500 a month.",
+      "Lead generation for Irish cleaning companies. Campaigns for recurring domestic contracts and commercial accounts, reported in contracts won.",
     h1: "Cleaning leads worth keeping, not one-off jobs.",
     intro: [
       "Cleaning is one of the few trades where a single customer can be worth thousands a year, and one of the few where most advertising chases the customers worth the least. A one-off end-of-tenancy clean pays once. A weekly domestic contract pays fifty times.",
@@ -6209,7 +6209,7 @@ export const industries: Industry[] = [
       "County and area",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -6217,7 +6217,7 @@ export const industries: Industry[] = [
         heading: "Cost per lead is the wrong number here",
         body: [
           "Most cleaning companies judge advertising on cost per enquiry, which is exactly the wrong measure in a business with recurring revenue.",
-          "A €40 lead that becomes a weekly contract for two years is a far better outcome than a €6 lead for a one-off clean, and a campaign optimised for cheap leads will reliably produce the latter. We report both, and we build towards contract value rather than enquiry count.",
+          "A dear lead that becomes a weekly contract for two years is a far better outcome than a cheap one for a single clean, and a campaign optimised for cheap leads will reliably produce the latter. We report both, and we build towards contract value rather than enquiry count.",
         ],
       },
       {
@@ -6272,7 +6272,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["drainage", "septic-tank-services", "water-treatment"],
@@ -6282,7 +6282,7 @@ export const industries: Industry[] = [
     label: "Removals companies",
     title: "Removals Leads Ireland | Marketing for Moving Companies",
     description:
-      "Lead generation for Irish removals and moving companies. Campaigns timed to property closings and the summer peak, reported in booked moves. From €1,500 a month.",
+      "Lead generation for Irish removals and moving companies. Campaigns timed to property closings and the summer peak, reported in booked moves.",
     h1: "Removals leads, timed to the closing date.",
     intro: [
       "A removals company's year is decided by somebody else's calendar. Moves cluster around property closings, school holidays and the end of the month, and the summer carries a disproportionate share of the whole year's work.",
@@ -6318,8 +6318,8 @@ export const industries: Industry[] = [
       "Do you need storage between dates?",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -6367,7 +6367,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["self-storage", "home-care", "stairlifts-and-mobility"],
@@ -6413,7 +6413,7 @@ export const industries: Industry[] = [
       "County and clinic preference",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -6462,7 +6462,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["counselling-and-therapy", "dentists", "physiotherapy"],
@@ -6508,8 +6508,8 @@ export const industries: Industry[] = [
       "County and Eircode",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -6571,7 +6571,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["removals-companies", "self-storage", "home-care"],
@@ -6617,7 +6617,7 @@ export const industries: Industry[] = [
       "County and area",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -6666,7 +6666,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["interior-designers", "shopfitting", "kitchens"],
@@ -6676,7 +6676,7 @@ export const industries: Industry[] = [
     label: "Water treatment",
     title: "Water Treatment Leads Ireland | Well & Filtration Marketing",
     description:
-      "Lead generation for Irish water treatment and filtration companies. Campaigns aimed at private well owners and hard-water households. From €1,500 a month.",
+      "Lead generation for Irish water treatment and filtration companies. Campaigns aimed at private well owners and hard-water households.",
     h1: "Water treatment leads, from households with a problem they can see.",
     intro: [
       "A very large number of Irish households are on a private well, and a great many more are on mains water hard enough to ruin a kettle in a year. Neither group thinks about water treatment until something visible happens: staining, smell, a failed test, or a new appliance destroyed by limescale.",
@@ -6712,8 +6712,8 @@ export const industries: Industry[] = [
       "County and Eircode",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -6775,7 +6775,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["pest-control", "cleaning-companies", "drainage"],
@@ -6785,7 +6785,7 @@ export const industries: Industry[] = [
     label: "Interior designers",
     title: "Interior Design Leads Ireland | Marketing for Designers",
     description:
-      "Lead generation for Irish interior designers. Campaigns that reach homeowners during a renovation, filtered for budget before the consultation. From €1,500 a month.",
+      "Lead generation for Irish interior designers. Campaigns that reach homeowners during a renovation, filtered for budget before the consultation.",
     h1: "Interior design enquiries, filtered for budget before you meet.",
     intro: [
       "Interior design has the worst enquiry-to-client ratio of almost any category we work in, and it is not a marketing problem. It is a filtering problem. Most enquiries come from people who want the outcome and have not understood the cost, and every one of them consumes a consultation.",
@@ -6821,7 +6821,7 @@ export const industries: Industry[] = [
       "County and area",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -6883,7 +6883,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["shopfitting", "kitchens", "bathroom-renovations"],
@@ -6929,7 +6929,7 @@ export const industries: Industry[] = [
       "County and area",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -6978,7 +6978,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["recruitment-agencies", "security-and-alarms", "fire-safety"],
@@ -6988,7 +6988,7 @@ export const industries: Industry[] = [
     label: "Photographers",
     title: "Photography Leads Ireland | Marketing for Photographers",
     description:
-      "Lead generation for Irish wedding, family and commercial photographers. Campaigns timed to engagement season and booked well ahead. From €1,500 a month.",
+      "Lead generation for Irish wedding, family and commercial photographers. Campaigns timed to engagement season and booked well ahead.",
     h1: "Photography bookings, made a year before the date.",
     intro: [
       "Wedding photography is booked further in advance than almost anything else people buy, and the booking rush is concentrated into the weeks after Christmas and New Year when most engagements happen.",
@@ -7024,7 +7024,7 @@ export const industries: Industry[] = [
       "How did you hear about us?",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -7087,7 +7087,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["restaurants-and-cafes", "hotels-and-guesthouses", "wedding-venues"],
@@ -7097,7 +7097,7 @@ export const industries: Industry[] = [
     label: "Windscreen repair",
     title: "Windscreen Repair Leads Ireland | Marketing for Fitters",
     description:
-      "Lead generation for Irish windscreen repair and replacement companies. Campaigns built around insurance cover and same-day mobile fitting. From €1,500 a month.",
+      "Lead generation for Irish windscreen repair and replacement companies. Campaigns built around insurance cover and same-day mobile fitting.",
     h1: "Windscreen leads, from a job the insurer usually pays for.",
     intro: [
       "Almost nobody budgets for a windscreen. It cracks on a Tuesday, it is an NCT failure and a safety problem, and the driver wants it dealt with before the weekend. The decision is made in under an hour.",
@@ -7134,7 +7134,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "#1", label: "Google ranking for emergency call-outs for a Dublin trades business" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -7175,7 +7175,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["car-valeting", "bike-shops", "car-garages"],
@@ -7185,7 +7185,7 @@ export const industries: Industry[] = [
     label: "Tyre fitting",
     title: "Tyre Leads Ireland | Marketing for Tyre Fitters & Garages",
     description:
-      "Lead generation for Irish tyre fitters and mobile tyre services. Campaigns built around NCT deadlines, winter demand and same-day fitting. From €1,500 a month.",
+      "Lead generation for Irish tyre fitters and mobile tyre services. Campaigns built around NCT deadlines, winter demand and same-day fitting.",
     h1: "Tyre leads, timed to the deadline that forces the purchase.",
     intro: [
       "Tyres are bought reluctantly and usually under pressure — an NCT coming up, a failure notice already issued, a blowout, or the first cold snap of the year. Almost nobody replaces tyres early.",
@@ -7221,8 +7221,8 @@ export const industries: Industry[] = [
       "County and area",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -7276,7 +7276,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["windscreen-repair", "car-valeting", "bike-shops"],
@@ -7323,7 +7323,7 @@ export const industries: Industry[] = [
     ],
     proof: [
       { value: "#1", label: "Google ranking for emergency call-outs for a Dublin trades business" },
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
     ],
     sections: [
       {
@@ -7364,7 +7364,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["it-support", "health-and-safety-consultants", "recruitment-agencies"],
@@ -7374,7 +7374,7 @@ export const industries: Industry[] = [
     label: "Car valeting & detailing",
     title: "Car Valeting Leads Ireland | Marketing for Detailers",
     description:
-      "Lead generation for Irish car valeting and detailing businesses. Campaigns for mobile valeting, detailing and pre-sale preparation. From €1,500 a month.",
+      "Lead generation for Irish car valeting and detailing businesses. Campaigns for mobile valeting, detailing and pre-sale preparation.",
     h1: "Valeting leads, from a business that sells on photographs.",
     intro: [
       "Valeting is one of the easiest services in Ireland to advertise and one of the most commonly advertised badly. It produces a dramatic visual result, and most operators post blurry photographs of a clean car in a dark yard.",
@@ -7410,7 +7410,7 @@ export const industries: Industry[] = [
       "County and area",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -7452,7 +7452,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["bike-shops", "car-garages", "mobile-mechanics"],
@@ -7462,7 +7462,7 @@ export const industries: Industry[] = [
     label: "Dog grooming & pet services",
     title: "Dog Grooming Leads Ireland | Marketing for Groomers",
     description:
-      "Lead generation for Irish dog groomers, pet sitters and boarding kennels. Campaigns that fill a recurring appointment book. From €1,500 a month.",
+      "Lead generation for Irish dog groomers, pet sitters and boarding kennels. Campaigns that fill a recurring appointment book.",
     h1: "Grooming enquiries that turn into a standing appointment.",
     intro: [
       "A dog groomer does not want customers, they want a diary that refills itself. A dog needs grooming every six to eight weeks for its whole life, so a single new client is worth several hundred euro a year and several thousand over time.",
@@ -7498,7 +7498,7 @@ export const industries: Industry[] = [
       "County and area",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -7540,7 +7540,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["med-spas", "skin-clinics", "barbers"],
@@ -7550,7 +7550,7 @@ export const industries: Industry[] = [
     label: "Personal trainers",
     title: "Personal Training Leads Ireland | Marketing for Trainers",
     description:
-      "Lead generation for Irish personal trainers and small studios. Campaigns built around the January spike and retention after it. From €1,500 a month.",
+      "Lead generation for Irish personal trainers and small studios. Campaigns built around the January spike and retention after it.",
     h1: "Personal training clients, and a plan for when January ends.",
     intro: [
       "Personal training has the most predictable demand curve of any service we work with. January is enormous, September is solid, and the rest of the year is a slow grind that most trainers never solve.",
@@ -7586,7 +7586,7 @@ export const industries: Industry[] = [
       "County and area",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -7628,7 +7628,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["gyms-and-fitness", "creches", "grinds-and-tutoring"],
@@ -7638,7 +7638,7 @@ export const industries: Industry[] = [
     label: "Couriers & delivery",
     title: "Courier Leads Ireland | Marketing for Delivery Companies",
     description:
-      "Lead generation for Irish courier and same-day delivery companies. Campaigns aimed at business accounts rather than one-off parcels. From €1,500 a month.",
+      "Lead generation for Irish courier and same-day delivery companies. Campaigns aimed at business accounts rather than one-off parcels.",
     h1: "Courier leads worth having, which means accounts not parcels.",
     intro: [
       "A one-off parcel is worth a few euro and a great deal of admin. A business account sending forty items a week is worth thousands a year and almost no acquisition effort after the first month.",
@@ -7674,14 +7674,14 @@ export const industries: Industry[] = [
       "Collection and delivery areas",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
       {
         heading: "Judge this on account value, not cost per lead",
         body: [
-          "A €60 enquiry that becomes a business account sending weekly for two years is a far better outcome than a €4 enquiry for a single parcel.",
+          "A dear enquiry that becomes a business account sending weekly for two years is a far better outcome than a cheap one for a single parcel.",
           "A campaign optimised for cheap leads will reliably deliver the second, because those are far more numerous and far easier to generate. We report cost per lead and account value, and we build toward the latter.",
         ],
       },
@@ -7716,7 +7716,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["equipment-hire", "skip-hire", "locksmiths"],
@@ -7726,7 +7726,7 @@ export const industries: Industry[] = [
     label: "Groundworks & site clearance",
     title: "Groundworks Leads Ireland | Marketing for Contractors",
     description:
-      "Lead generation for Irish groundworks, site clearance and excavation contractors. Campaigns aimed at builders, developers and self-builders. From €1,500 a month.",
+      "Lead generation for Irish groundworks, site clearance and excavation contractors. Campaigns aimed at builders, developers and self-builders.",
     h1: "Groundworks leads, from people who already have planning.",
     intro: [
       "Groundworks is bought at a specific moment: after planning is granted and before the build starts. Reach somebody earlier and there is nothing to quote; reach them later and the contractor is already on site.",
@@ -7762,8 +7762,8 @@ export const industries: Industry[] = [
       "County and Eircode",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -7804,7 +7804,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["steel-fabrication", "scaffolding", "plastering"],
@@ -7814,7 +7814,7 @@ export const industries: Industry[] = [
     label: "Steel fabrication",
     title: "Steel Fabrication Leads Ireland | B2B Marketing",
     description:
-      "Lead generation for Irish steel fabricators and structural steel companies. Campaigns aimed at builders, architects and industrial buyers. From €1,500 a month.",
+      "Lead generation for Irish steel fabricators and structural steel companies. Campaigns aimed at builders, architects and industrial buyers.",
     h1: "Steel fabrication leads, from buyers with a drawing in hand.",
     intro: [
       "Structural steel is not bought casually. Somebody has a drawing, a programme and a budget, and they are looking for a fabricator who can hit a date without drama.",
@@ -7850,7 +7850,7 @@ export const industries: Industry[] = [
       "County and site location",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -7892,7 +7892,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["scaffolding", "plastering", "carpentry-and-joinery"],
@@ -7902,7 +7902,7 @@ export const industries: Industry[] = [
     label: "Stonemasons",
     title: "Stonemason Leads Ireland | Marketing for Stone Masonry",
     description:
-      "Lead generation for Irish stonemasons. Campaigns for stone cladding, walls, restoration and heritage work, reported in surveys booked. From €1,500 a month.",
+      "Lead generation for Irish stonemasons. Campaigns for stone cladding, walls, restoration and heritage work, reported in surveys booked.",
     h1: "Stonemasonry leads, for work people choose with their eyes.",
     intro: [
       "Stone is never the cheap option. Somebody choosing it has already decided to spend more than the alternative would cost, which makes this one of the few trades where the customer is not primarily price-driven.",
@@ -7938,7 +7938,7 @@ export const industries: Industry[] = [
       "County and Eircode",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -7980,7 +7980,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["monumental-sculptors", "plastering", "carpentry-and-joinery"],
@@ -7990,7 +7990,7 @@ export const industries: Industry[] = [
     label: "Monumental sculptors",
     title: "Headstone & Memorial Leads Ireland | Marketing for Sculptors",
     description:
-      "Lead generation for Irish monumental sculptors and memorial companies. Considerate campaigns for families choosing a headstone. From €1,500 a month.",
+      "Lead generation for Irish monumental sculptors and memorial companies. Considerate campaigns for families choosing a headstone.",
     h1: "Memorial enquiries, handled with the care the subject deserves.",
     intro: [
       "A family choosing a headstone is doing it months after a death, usually once the ground has settled, and usually while still grieving. They are not shopping, and advertising that treats them as shoppers does real harm and wins nothing.",
@@ -8026,8 +8026,8 @@ export const industries: Industry[] = [
       "County and area",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -8068,7 +8068,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["celebrants", "solicitors", "funeral-directors"],
@@ -8078,7 +8078,7 @@ export const industries: Industry[] = [
     label: "Fire safety & extinguishers",
     title: "Fire Safety Leads Ireland | Marketing for Servicing Companies",
     description:
-      "Lead generation for Irish fire safety and extinguisher servicing companies. Campaigns built around annual servicing obligations and inspections. From €1,500 a month.",
+      "Lead generation for Irish fire safety and extinguisher servicing companies. Campaigns built around annual servicing obligations and inspections.",
     h1: "Fire safety leads, from a market with a legal deadline in it.",
     intro: [
       "Fire safety equipment has to be serviced, and the obligation does not go away when a business forgets about it. Extinguishers, emergency lighting, alarms and fire doors all carry servicing requirements, and most premises are somewhere between overdue and unaware.",
@@ -8114,7 +8114,7 @@ export const industries: Industry[] = [
       "County and area",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -8156,7 +8156,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["signage-and-print", "couriers-and-delivery", "equipment-hire"],
@@ -8166,7 +8166,7 @@ export const industries: Industry[] = [
     label: "Counselling & therapy",
     title: "Counselling Practice Marketing Ireland | Client Enquiries",
     description:
-      "Ethical lead generation for Irish counsellors and psychotherapists. Discreet campaigns that fill a caseload without pressure tactics. From €1,500 a month.",
+      "Ethical lead generation for Irish counsellors and psychotherapists. Discreet campaigns that fill a caseload without pressure tactics.",
     h1: "Counselling enquiries, without any of the usual pressure tactics.",
     intro: [
       "Somebody looking for a therapist has usually been thinking about it for months and has opened and closed the search several times. They are not going to be persuaded by urgency, and attempting it will simply lose them.",
@@ -8202,8 +8202,8 @@ export const industries: Industry[] = [
       "County and area",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -8244,7 +8244,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["dentists", "physiotherapy", "chiropractors"],
@@ -8254,7 +8254,7 @@ export const industries: Industry[] = [
     label: "Chiropractors",
     title: "Chiropractic Leads Ireland | Marketing for Clinics",
     description:
-      "Lead generation for Irish chiropractic clinics. Campaigns built around pain that has not gone away, reported in new patient appointments. From €1,500 a month.",
+      "Lead generation for Irish chiropractic clinics. Campaigns built around pain that has not gone away, reported in new patient appointments.",
     h1: "Chiropractic enquiries, from people who have already waited too long.",
     intro: [
       "Almost nobody goes to a chiropractor at the first twinge. They wait, they try painkillers, they wait some more, and they make the appointment when the pain starts affecting sleep or work.",
@@ -8290,7 +8290,7 @@ export const industries: Industry[] = [
       "County and clinic preference",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -8332,7 +8332,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["podiatry-and-chiropody", "opticians", "audiologists"],
@@ -8342,7 +8342,7 @@ export const industries: Industry[] = [
     label: "Podiatry & chiropody",
     title: "Podiatry Leads Ireland | Marketing for Foot Clinics",
     description:
-      "Lead generation for Irish podiatrists and chiropodists. Campaigns for routine care, diabetic foot checks and biomechanics. From €1,500 a month.",
+      "Lead generation for Irish podiatrists and chiropodists. Campaigns for routine care, diabetic foot checks and biomechanics.",
     h1: "Podiatry enquiries, mostly from people who cannot reach their own feet.",
     intro: [
       "Podiatry divides into two businesses that barely resemble each other. Routine nail and skin care is high-volume, recurring, and largely an older population who need it every couple of months for the rest of their lives. Biomechanics and orthotics is a considered clinical purchase at several times the price.",
@@ -8378,7 +8378,7 @@ export const industries: Industry[] = [
       "County and area",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -8420,7 +8420,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["opticians", "audiologists", "counselling-and-therapy"],
@@ -8430,7 +8430,7 @@ export const industries: Industry[] = [
     label: "Swimming schools",
     title: "Swimming Lesson Leads Ireland | Marketing for Swim Schools",
     description:
-      "Lead generation for Irish swimming schools. Term-based campaigns aimed at parents, built around waiting lists and safety. From €1,500 a month.",
+      "Lead generation for Irish swimming schools. Term-based campaigns aimed at parents, built around waiting lists and safety.",
     h1: "Swimming lesson enquiries, timed to the term.",
     intro: [
       "Swimming lessons sell on a term calendar and on one underlying motivation that parents rarely state directly: they do not want their child to drown. Everything else — badges, technique, confidence — sits on top of that.",
@@ -8466,7 +8466,7 @@ export const industries: Industry[] = [
       "County and area",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -8508,7 +8508,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["music-schools", "personal-trainers", "gyms-and-fitness"],
@@ -8518,7 +8518,7 @@ export const industries: Industry[] = [
     label: "Music schools & tutors",
     title: "Music Lesson Leads Ireland | Marketing for Music Teachers",
     description:
-      "Lead generation for Irish music schools and private teachers. Term-based campaigns aimed at parents and adult learners. From €1,500 a month.",
+      "Lead generation for Irish music schools and private teachers. Term-based campaigns aimed at parents and adult learners.",
     h1: "Music lesson enquiries, and students who stay past Christmas.",
     intro: [
       "Music teaching has an enrolment problem and a retention problem, and they are not the same problem. September fills easily. February is when half the students quietly stop coming.",
@@ -8554,7 +8554,7 @@ export const industries: Industry[] = [
       "County and area",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -8596,7 +8596,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["personal-trainers", "gyms-and-fitness", "creches"],
@@ -8606,7 +8606,7 @@ export const industries: Industry[] = [
     label: "Wedding planners",
     title: "Wedding Planner Leads Ireland | Marketing for Planners",
     description:
-      "Lead generation for Irish wedding planners and on-the-day coordinators. Budget-qualified enquiries, timed to engagement season. From €1,500 a month.",
+      "Lead generation for Irish wedding planners and on-the-day coordinators. Budget-qualified enquiries, timed to engagement season.",
     h1: "Wedding planning enquiries, filtered for budget before the call.",
     intro: [
       "Wedding planning has a brutal enquiry-to-booking ratio, and it is a filtering problem rather than a marketing one. Most enquiries come from couples who want the outcome and have not costed it, and each one consumes a long emotional conversation.",
@@ -8642,7 +8642,7 @@ export const industries: Industry[] = [
       "County or venue",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -8684,7 +8684,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["celebrants", "photographers", "restaurants-and-cafes"],
@@ -8694,7 +8694,7 @@ export const industries: Industry[] = [
     label: "Celebrants",
     title: "Celebrant Leads Ireland | Marketing for Wedding Celebrants",
     description:
-      "Lead generation for Irish wedding and funeral celebrants. Campaigns built around legal solemnisation and booking a year ahead. From €1,500 a month.",
+      "Lead generation for Irish wedding and funeral celebrants. Campaigns built around legal solemnisation and booking a year ahead.",
     h1: "Celebrant bookings, from couples who do not know the rules yet.",
     intro: [
       "Most couples planning a non-religious wedding in Ireland do not initially understand the difference between a legally solemnising celebrant and one who performs a ceremony that is not itself the legal marriage.",
@@ -8730,8 +8730,8 @@ export const industries: Industry[] = [
       "County or venue",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -8772,7 +8772,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["wedding-planners", "funeral-directors", "wedding-venues"],
@@ -8782,7 +8782,7 @@ export const industries: Industry[] = [
     label: "Catering companies",
     title: "Catering Leads Ireland | Marketing for Caterers",
     description:
-      "Lead generation for Irish catering companies. Campaigns for weddings, corporate and private events, reported in quotes and bookings. From €1,500 a month.",
+      "Lead generation for Irish catering companies. Campaigns for weddings, corporate and private events, reported in quotes and bookings.",
     h1: "Catering enquiries, split by the three jobs you actually do.",
     intro: [
       "Catering looks like one business and is usually three. Weddings are booked a year ahead at high value. Corporate is repeat, scheduled and invoiced. Private events are short-notice and unpredictable.",
@@ -8818,7 +8818,7 @@ export const industries: Industry[] = [
       "County and area",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -8860,7 +8860,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["marquee-hire", "wedding-planners", "celebrants"],
@@ -8870,7 +8870,7 @@ export const industries: Industry[] = [
     label: "Marquee & event hire",
     title: "Marquee Hire Leads Ireland | Marketing for Event Hire",
     description:
-      "Lead generation for Irish marquee and event hire companies. Campaigns timed to a short season, reported in booked dates. From €1,500 a month.",
+      "Lead generation for Irish marquee and event hire companies. Campaigns timed to a short season, reported in booked dates.",
     h1: "Marquee bookings, for a business with about twenty weekends.",
     intro: [
       "A marquee hire company earns most of its year in roughly twenty weekends, and the weather can take several of them. That concentration means every booked date matters far more than a lead count suggests.",
@@ -8906,8 +8906,8 @@ export const industries: Industry[] = [
       "County and Eircode",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
-      { value: "€2.75", label: "cost per lead on a live trades campaign" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
+      { value: "21", label: "leads in the first month of a live trades campaign" },
     ],
     sections: [
       {
@@ -8948,7 +8948,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["wedding-planners", "celebrants", "photographers"],
@@ -8958,7 +8958,7 @@ export const industries: Industry[] = [
     label: "Bike shops & repair",
     title: "Bike Shop Leads Ireland | Marketing for Cycle Retailers",
     description:
-      "Lead generation for Irish bike shops and repair workshops. Campaigns built around the Cycle to Work scheme and the spring surge. From €1,500 a month.",
+      "Lead generation for Irish bike shops and repair workshops. Campaigns built around the Cycle to Work scheme and the spring surge.",
     h1: "Bike shop enquiries, and the scheme most customers do not understand.",
     intro: [
       "The Cycle to Work scheme is the single biggest driver of bike sales in Ireland and it is also the most confusing thing about buying a bike. Employees do not know their limit, what is included, or how their employer processes it.",
@@ -8994,7 +8994,7 @@ export const industries: Industry[] = [
       "County and area",
     ],
     proof: [
-      { value: "21", label: "leads at €2.75 each on €57.78 of spend for a home-improvement client" },
+      { value: "21", label: "leads in one month for a home-improvement client" },
       { value: "+290%", label: "qualified leads per month for a Dublin trades business" },
     ],
     sections: [
@@ -9036,7 +9036,7 @@ export const industries: Industry[] = [
       },
       {
         q: "What does it cost?",
-        a: "€1,500 a month with everything included, month to month.",
+        a: "A flat monthly fee with everything included, month to month. Ask on a call and we will give you the number.",
       },
     ],
     related: ["car-garages", "mobile-mechanics", "tyre-fitting"],

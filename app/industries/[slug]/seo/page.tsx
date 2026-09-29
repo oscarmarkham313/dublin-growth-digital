@@ -208,7 +208,7 @@ export default async function IndustrySeoPage({
               What it costs
             </h2>
             <p className="mt-7 max-w-3xl text-[15px] leading-relaxed text-text-2 md:text-base">
-              SEO is included in the €1,500 a month alongside the advertising,
+              SEO is included in the monthly fee alongside the advertising,
               the social and the lead follow-up. There is no separate SEO fee,
               no setup fee and no contract beyond the month you are in.
             </p>

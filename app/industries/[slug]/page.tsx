@@ -275,12 +275,12 @@ export default async function IndustryPage({
           <Reveal>
             <span className="eyebrow">The price, before the call</span>
             <h2 className="mt-4 text-3xl font-extrabold tracking-display md:text-5xl">
-              €1,500 a month. Everything included.
+              Everything included.
             </h2>
             <p className="mt-6 text-[15px] leading-relaxed text-text-2">
               Meta advertising fully managed, lead forms that qualify, social
               media fully run, all creative every month and the Friday report.
-              Google Ads managed on top: €2,000 a month. No setup fee, no
+              Google Ads managed on top as a second tier. No setup fee, no
               contract, month to month. Advertising spend is paid directly to the
               platforms and stays in your control.
             </p>

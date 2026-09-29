@@ -40,7 +40,7 @@ export interface IndustryCounty {
 
 const PRICE_FAQ = {
   q: "What does it cost?",
-  a: "€1,500 a month with everything included, or €2,500 with the second channel and a new website. Month to month, no setup fee, and ad spend goes directly to the platforms from your own account.",
+  a: "A flat monthly fee with everything included, or a second tier with the other channel and a new website. Month to month, no setup fee, and ad spend goes directly to the platforms from your own account. Ask on a call and we will give you the numbers.",
 };
 
 export const industryCounty: IndustryCounty[] = [
