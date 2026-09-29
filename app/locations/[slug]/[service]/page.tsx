@@ -6,6 +6,8 @@ import {
   servicePageBy,
   servicePagesForCounty,
 } from "@/config/county-services";
+import { industrySeo } from "@/config/industry-seo";
+import { counties } from "@/config/counties";
 import { site } from "@/config/copy";
 import Reveal from "@/components/Reveal";
 import MagneticButton from "@/components/MagneticButton";
@@ -55,6 +57,36 @@ export default async function CountyServicePage({
   const siblings = servicePagesForCounty(p.countySlug).filter(
     (s) => s.serviceSlug !== p.serviceSlug,
   );
+
+  /**
+   * The 36 SEO x industry pages averaged 1.8 inbound contextual links,
+   * and 32 of them had exactly one -- from their parent industry page.
+   * They target real queries ("landscaping seo ireland" already earns
+   * impressions) and nothing was pointing at them.
+   *
+   * The county SEO pages are the right source: topically identical, and
+   * there are 26 of them. Each one leads with the trades that county
+   * actually focuses on, then fills from the rest rotating by county so
+   * every one of the 36 picks up links rather than the same handful.
+   */
+  const countyIdx = counties.findIndex((c) => c.slug === p.countySlug);
+  const focus = counties[countyIdx]?.focus ?? [];
+  const seoFirst = focus
+    .map((f) => industrySeo.find((i) => i.slug === f))
+    .filter((x): x is NonNullable<typeof x> => Boolean(x));
+  const rest = industrySeo.filter((i) => !seoFirst.some((f) => f.slug === i.slug));
+  const take = Math.max(7 - seoFirst.length, 4);
+  // Stride by `take` rather than by 1: a sliding window of width 7 over
+  // 26 counties leaves the tail of the list under-covered, which left
+  // four trades on a single inbound link.
+  const start = (Math.max(countyIdx, 0) * take) % Math.max(rest.length, 1);
+  const tradeSeo =
+    p.serviceSlug === "seo"
+      ? [
+          ...seoFirst,
+          ...[...rest.slice(start), ...rest.slice(0, start)].slice(0, take),
+        ]
+      : [];
 
   const schema = [
     {
@@ -305,6 +337,25 @@ export default async function CountyServicePage({
               </a>
             </div>
           </Reveal>
+
+          {tradeSeo.length > 0 && (
+            <Reveal>
+              <div className="mt-16 border-t border-hairline pt-8">
+                <span className="eyebrow">SEO by trade</span>
+                <div className="mt-5 flex flex-wrap gap-x-8 gap-y-3">
+                  {tradeSeo.map((i) => (
+                    <Link
+                      key={i.slug}
+                      href={`/industries/${i.slug}/seo/`}
+                      className="text-sm font-semibold underline decoration-hairline-dk underline-offset-4 transition-colors hover:text-accent"
+                    >
+                      SEO for {i.label}
+                    </Link>
+                  ))}
+                </div>
+              </div>
+            </Reveal>
+          )}
 
           <Reveal>
             <div className="mt-16 border-t border-hairline pt-8">
