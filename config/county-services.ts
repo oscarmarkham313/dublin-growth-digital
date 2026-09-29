@@ -380,7 +380,6 @@ const limerickWeb: ServicePage = {
   related: [
     { label: "Digital marketing in Limerick", href: "/locations/limerick/digital-marketing/" },
     { label: "Social media marketing in Limerick", href: "/locations/limerick/social-media-marketing/" },
-    { label: "The full €1,500 website offer", href: "/offer/" },
   ],
 };
 
@@ -735,7 +734,6 @@ const kildareWeb: ServicePage = {
   related: [
     { label: "Digital marketing in Kildare", href: "/locations/kildare/digital-marketing/" },
     { label: "Social media marketing in Kildare", href: "/locations/kildare/social-media-marketing/" },
-    { label: "The full €1,500 website offer", href: "/offer/" },
   ],
 };
 
@@ -1092,7 +1090,6 @@ const corkWeb: ServicePage = {
   related: [
     { label: "Digital marketing in Cork", href: "/locations/cork/digital-marketing/" },
     { label: "Social media marketing in Cork", href: "/locations/cork/social-media-marketing/" },
-    { label: "The full €1,500 website offer", href: "/offer/" },
   ],
 };
 
@@ -1446,7 +1443,6 @@ const dublinWeb: ServicePage = {
   related: [
     { label: "Digital marketing in Dublin", href: "/locations/dublin/digital-marketing/" },
     { label: "Social media marketing in Dublin", href: "/locations/dublin/social-media-marketing/" },
-    { label: "The full €1,500 website offer", href: "/offer/" },
   ],
 };
 
@@ -1791,7 +1787,6 @@ const galwayWeb: ServicePage = {
   related: [
     { label: "Digital marketing in Galway", href: "/locations/galway/digital-marketing/" },
     { label: "Social media marketing in Galway", href: "/locations/galway/social-media-marketing/" },
-    { label: "The full €1,500 website offer", href: "/offer/" },
   ],
 };
 
@@ -2135,7 +2130,6 @@ const meathWeb: ServicePage = {
   related: [
     { label: "Digital marketing in Meath", href: "/locations/meath/digital-marketing/" },
     { label: "Social media marketing in Meath", href: "/locations/meath/social-media-marketing/" },
-    { label: "The full €1,500 website offer", href: "/offer/" },
   ],
 };
 
@@ -2476,7 +2470,6 @@ const wicklowWeb: ServicePage = {
   related: [
     { label: "Digital marketing in Wicklow", href: "/locations/wicklow/digital-marketing/" },
     { label: "Social media marketing in Wicklow", href: "/locations/wicklow/social-media-marketing/" },
-    { label: "The full €1,500 website offer", href: "/offer/" },
   ],
 };
 
@@ -2817,7 +2810,6 @@ const waterfordWeb: ServicePage = {
   related: [
     { label: "Digital marketing in Waterford", href: "/locations/waterford/digital-marketing/" },
     { label: "Social media marketing in Waterford", href: "/locations/waterford/social-media-marketing/" },
-    { label: "The full €1,500 website offer", href: "/offer/" },
   ],
 };
 

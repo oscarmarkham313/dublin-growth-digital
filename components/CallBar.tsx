@@ -12,9 +12,8 @@
  * Lives in the layout rather than inside a page on purpose: app/template.tsx
  * wraps every route in a transformed motion.div, and a transformed ancestor
  * becomes the containing block for position:fixed, so a bar rendered inside
- * the page scrolls away instead of pinning. Same reason as OfferStickyCta.
+ * the page scrolls away instead of pinning.
  *
- * Hidden on /offer, which has its own price bar and its own header phone.
  */
 import { usePathname } from "next/navigation";
 import { site } from "@/config/copy";
@@ -22,7 +21,6 @@ import { site } from "@/config/copy";
 export default function CallBar() {
   const pathname = usePathname();
 
-  if (pathname.startsWith("/offer")) return null;
 
   return (
     <div className="fixed inset-x-0 bottom-0 z-40 border-t border-hairline-md bg-bg/95 backdrop-blur md:hidden">

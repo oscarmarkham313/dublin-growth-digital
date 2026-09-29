@@ -79,7 +79,7 @@ export default function LeadModal() {
     // actually want them to do. Legal routes: interrupting someone reading
     // about how we handle their data, with a form asking for their data,
     // is not a good look.
-    const noModalOn = ["/thank-you", "/offer", "/privacy", "/terms"];
+    const noModalOn = ["/thank-you", "/privacy", "/terms"];
     if (noModalOn.some((r) => pathname.startsWith(r))) return;
 
     // owner/test override: ?leadmodal=1 opens immediately AND clears any

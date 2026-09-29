@@ -5,11 +5,8 @@ import { site } from "@/config/copy";
 import { counties } from "@/config/counties";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
-import SlimFooter from "@/components/SlimFooter";
-import ChromeSwitch from "@/components/ChromeSwitch";
 import Analytics from "@/components/Analytics";
 import LeadModal from "@/components/LeadModal";
-import OfferStickyCta from "@/components/OfferStickyCta";
 import CallBar from "@/components/CallBar";
 import ConsentBanner from "@/components/ConsentBanner";
 
@@ -171,11 +168,8 @@ export default function RootLayout({
         />
         <Nav />
         {children}
-        <ChromeSwitch slimOn={["/offer"]} slim={<SlimFooter />}>
-          <Footer />
-        </ChromeSwitch>
+        <Footer />
         <LeadModal />
-        <OfferStickyCta />
         <CallBar />
         <Analytics />
         <ConsentBanner />
