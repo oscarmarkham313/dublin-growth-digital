@@ -2227,6 +2227,444 @@ export const industryCounty: IndustryCounty[] = [
       PRICE_FAQ,
     ],
   },
+  {
+    industry: "landscapers",
+    county: "dublin",
+    industryLabel: "landscapers",
+    countyName: "Dublin",
+    title: "Landscaping Leads Dublin | Marketing for Dublin Landscapers",
+    description:
+      "Lead generation for Dublin landscapers: small high-value gardens, access that decides the price, and the dearest clicks in the trade.",
+    h1: "Landscaping leads in Dublin, where access decides the job.",
+    intro: [
+      "Dublin gardens are small, valuable and awkward to reach. A great many of them have no side entrance, which means every bag of gravel and every slab goes through the house, and that single fact changes the price more than the design does.",
+      "It also means a quote given without seeing the property is frequently wrong, and the landscapers who do well here are the ones who deal with that honestly and early rather than discovering it on day one.",
+    ],
+    sections: [
+    {
+      heading: "Say what access means before the visit",
+      body: [
+        "Most Dublin homeowners have no idea that carrying materials through a hallway is what makes their patio dearer than their neighbour's. They compare two quotes and assume the higher one is greedy.",
+        "A page that explains it plainly does two jobs: it prepares the customer for a realistic number, and it makes you the person who knew what they were talking about. Competitors quoting blind look cheaper right up until they revise.",
+      ],
+    },
+    {
+      heading: "Small does not mean cheap",
+      body: [
+        "A courtyard in Ranelagh can carry more design work per square metre than half an acre in the country. The budget follows the house value, not the garden size.",
+        "That argues for leading with quality of finish rather than scale. Photographs of small, beautifully resolved spaces sell better here than a sweeping lawn, which is the opposite of what most landscaping portfolios lead with.",
+      ],
+    },
+    {
+      heading: "Hard landscaping is most of the money",
+      body: [
+        "Paving, steps, walls, decking, lighting and drainage are the bulk of Dublin spend. Planting matters but it is rarely what the budget goes on.",
+        "Campaigns built around 'garden design' attract browsers. Campaigns built around the specific hard-landscaping job somebody has decided to do attract buyers, and the search terms are completely different.",
+      ],
+    },
+    {
+      heading: "The dearest clicks in the trade",
+      body: [
+        "Dublin landscaping clicks cost more than anywhere else in Ireland, so a loose campaign burns money fast. Location settings tight to the postcodes you actually serve, and a form that asks about access and property type before anybody drives anywhere.",
+        "A wasted site visit in Dublin traffic is half a day. Five questions on a form save more than any bid adjustment.",
+      ],
+    },
+    ],
+    towns: [
+      "Rathmines",
+      "Ranelagh",
+      "Terenure",
+      "Clontarf",
+      "Blackrock",
+      "Dún Laoghaire",
+      "Castleknock",
+      "Malahide",
+      "Swords",
+      "Lucan",
+      "Rathfarnham",
+      "Howth",
+    ],
+    faqs: [
+      {
+        q: "Why does access matter so much in Dublin?",
+        a: "A great many gardens have no side entrance, so materials go through the house. It changes the price more than the design does, and customers rarely understand that until it is explained.",
+      },
+      {
+        q: "Are small gardens worth it?",
+        a: "Often more per square metre than large ones. The budget follows the house value rather than the garden size, so lead with quality of finish rather than scale.",
+      },
+      {
+        q: "What should the campaign target?",
+        a: "The specific hard-landscaping job somebody has decided to do — paving, steps, walls, lighting. Generic 'garden design' terms attract browsers.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "landscapers",
+    county: "wicklow",
+    industryLabel: "landscapers",
+    countyName: "Wicklow",
+    title: "Landscaping Leads Wicklow | Marketing for Wicklow Landscapers",
+    description:
+      "Lead generation for Wicklow landscapers: a county with a gardening reputation, acid upland soil, and clients who research before they ring.",
+    h1: "Landscaping leads in Wicklow, where people know their gardens.",
+    intro: [
+      "Wicklow has a gardening reputation that nowhere else in Ireland has, and it changes the customer. People here are more likely to know what they want, to have visited gardens, and to judge a landscaper on planting knowledge rather than on price alone.",
+      "The county also splits sharply: the coastal strip from Bray to Greystones holds some of the most valuable housing outside south Dublin, while the uplands and the west are rural, exposed and acidic underfoot.",
+    ],
+    sections: [
+    {
+      heading: "A more informed client is an opportunity, not a problem",
+      body: [
+        "Customers who have looked at real gardens ask better questions and are harder to bluff, which suits a landscaper who actually knows the plants and punishes one who does not.",
+        "Write for that. Content that discusses what does well on acid upland soil, what will not survive the exposure, and why a particular scheme suits a particular aspect will out-perform generic 'transform your garden' copy by a wide margin here.",
+      ],
+    },
+    {
+      heading: "Soil and shelter are genuine differentiators",
+      body: [
+        "Much of upland Wicklow is acidic and free-draining, which suits some planting and defeats other. Coastal sites deal with wind and salt. A scheme designed for one will look tired in the other within two seasons.",
+        "Saying so in the quote demonstrates competence and heads off the conversation nobody wants three years later. It is also the kind of specific, local detail search engines reward and competitors do not bother writing.",
+      ],
+    },
+    {
+      heading: "The north coast buys differently from the west",
+      body: [
+        "Bray, Greystones and Delgany carry high budgets, high expectations and Dublin-level click prices. Baltinglass, Tinahely and the west are cheaper to reach and slower to decide.",
+        "Two campaigns. The north justifies design-led work at design-led prices; the west is more practical, more agricultural, and better suited to a straightforward message about getting a job done well.",
+      ],
+    },
+    {
+      heading: "Photographs of Wicklow gardens, not stock",
+      body: [
+        "In a county where people actually look at gardens, stock imagery is noticed and discounted immediately.",
+        "Your own finished work, on recognisable local house types, in Irish light. It is the single asset a competitor with a bigger budget cannot buy, and in this county it carries more weight than anywhere else.",
+      ],
+    },
+    ],
+    towns: [
+      "Bray",
+      "Greystones",
+      "Delgany",
+      "Wicklow town",
+      "Arklow",
+      "Blessington",
+      "Enniskerry",
+      "Rathdrum",
+      "Kilcoole",
+      "Newtownmountkennedy",
+      "Tinahely",
+      "Baltinglass",
+    ],
+    faqs: [
+      {
+        q: "Are Wicklow clients different?",
+        a: "Generally better informed. They are more likely to have visited gardens and to judge you on planting knowledge, which suits a landscaper who knows the plants.",
+      },
+      {
+        q: "Does soil actually matter to marketing?",
+        a: "Here, yes. Writing about what suits acid upland ground or a salt-exposed coastal site demonstrates competence, and almost no competitor bothers.",
+      },
+      {
+        q: "Should north and west Wicklow share a campaign?",
+        a: "No. The coastal strip carries Dublin budgets and Dublin click prices; the west is rural, cheaper and slower. One message serves neither.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "landscapers",
+    county: "galway",
+    industryLabel: "landscapers",
+    countyName: "Galway",
+    title: "Landscaping Leads Galway | Marketing for Galway Landscapers",
+    description:
+      "Lead generation for Galway landscapers: ground that does not drain, a short working window, and drainage jobs nobody markets.",
+    h1: "Landscaping leads in Galway, where drainage is the job.",
+    intro: [
+      "A great deal of landscaping work in Galway is really drainage work wearing a different name. Lawns that sit wet from October to April, patios that green over, gardens that cannot be walked on for half the year.",
+      "Homeowners search for a lawn or a patio because that is the problem they can see. The landscaper who diagnoses the water is the one who does the job properly and the one who gets recommended afterwards.",
+    ],
+    sections: [
+    {
+      heading: "Sell the diagnosis, not just the finish",
+      body: [
+        "Anyone can lay a lawn. Laying one that still drains in February on heavy western ground is a different job, and it is worth more.",
+        "Content explaining why lawns fail here — compaction, subsoil, no fall, builders' rubble under six inches of topsoil — finds people at the point of frustration and positions you as the one who knows why. That is a much stronger position than competing on the price of turf.",
+      ],
+    },
+    {
+      heading: "The working window is shorter than the year",
+      body: [
+        "Wet ground closes the season earlier and opens it later than in the east. Trying to run the same twelve-month campaign as a Dublin landscaper wastes budget in the months you cannot work.",
+        "Concentrate spend ahead of the window rather than through it, and use the quiet months to build the photograph library and the reviews rather than to buy clicks you cannot service.",
+      ],
+    },
+    {
+      heading: "City and county want different things",
+      body: [
+        "Galway city gardens are small, often rented or student-adjacent, and the work is tidy-ups, maintenance and small hard landscaping. Out through east Galway and Connemara the properties are large, rural and exposed.",
+        "The rural jobs are bigger, slower and more dependent on photographs because the customer is buying something they cannot picture. Those should not share a campaign with a city tidy-up.",
+      ],
+    },
+    {
+      heading: "Distance has to be a stated decision",
+      body: [
+        "Connemara is slow driving and a day on site can cost two hours of road. Name the areas you cover rather than drawing a radius, and let the far enquiries go.",
+        "In a trade with plant and materials on a trailer, the drive is not a rounding error.",
+      ],
+    },
+    ],
+    towns: [
+      "Galway city",
+      "Salthill",
+      "Oranmore",
+      "Knocknacarra",
+      "Tuam",
+      "Ballinasloe",
+      "Loughrea",
+      "Athenry",
+      "Gort",
+      "Clifden",
+      "Moycullen",
+      "Headford",
+    ],
+    faqs: [
+      {
+        q: "What is the real job in Galway?",
+        a: "Frequently drainage. Lawns and patios fail because the water has nowhere to go, and the landscaper who diagnoses that does the job properly and gets recommended.",
+      },
+      {
+        q: "When should we advertise?",
+        a: "Ahead of the working window rather than through it. Wet ground closes the season earlier and opens it later than in the east, so a flat twelve-month spend wastes money.",
+      },
+      {
+        q: "Is Connemara worth covering?",
+        a: "Only if you price the drive. A day on site can cost two hours of road, which is not a rounding error when you are towing plant.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "landscapers",
+    county: "cork",
+    industryLabel: "landscapers",
+    countyName: "Cork",
+    title: "Landscaping Leads Cork | Marketing for Cork Landscapers",
+    description:
+      "Lead generation for Cork landscapers: a mild climate that grows what fails elsewhere, city courtyards, and exposed west Cork coast.",
+    h1: "Landscaping leads in Cork, in the mildest corner of the country.",
+    intro: [
+      "Cork's climate is mild enough that planting which struggles in the midlands or the north will thrive here, and the county has a long tradition of gardens that show it off.",
+      "That is a genuine selling point and almost nobody uses it. Most Cork landscaping marketing is indistinguishable from Dublin's, which throws away the one thing this county can claim.",
+    ],
+    sections: [
+    {
+      heading: "Lead with what actually grows here",
+      body: [
+        "A homeowner deciding between three landscapers cannot judge construction quality from a quote. They can understand that you know what will do well in their particular spot.",
+        "Content about planting that suits the mild south — and, just as usefully, what will not survive the salt on an exposed coastal site — is specific, local and checkable. That is the ground competitors cannot copy with a bigger budget.",
+      ],
+    },
+    {
+      heading: "Three markets in one county",
+      body: [
+        "Cork city and the suburbs are small gardens, access problems and hard landscaping. The harbour towns are commuter properties with newer, larger gardens and a full-design opportunity. West Cork is exposed, scattered, and heavily second-home.",
+        "They want different work at different budgets on different timelines. Running them as one Cork campaign averages the message and wins in none.",
+      ],
+    },
+    {
+      heading: "West Cork buyers are frequently elsewhere",
+      body: [
+        "A lot of west Cork property is owned by people living in Dublin or abroad, who arrange work remotely and judge on what they can see online.",
+        "That rewards a strong photograph library, clear written proposals and someone who will send updates. It is better-paid work than it looks, and very few landscapers are set up to handle a client they never meet.",
+      ],
+    },
+    {
+      heading: "Distance still decides profit",
+      body: [
+        "The city to west Cork is most of a morning each way. A radius on a map quietly includes work that cannot pay once the trailer is hitched.",
+        "Name the towns. In this county that is worth more than any bid adjustment.",
+      ],
+    },
+    ],
+    towns: [
+      "Cork city",
+      "Douglas",
+      "Ballincollig",
+      "Carrigaline",
+      "Midleton",
+      "Mallow",
+      "Bandon",
+      "Kinsale",
+      "Clonakilty",
+      "Skibbereen",
+      "Youghal",
+      "Fermoy",
+    ],
+    faqs: [
+      {
+        q: "What can Cork claim that others cannot?",
+        a: "A mild climate that grows planting which struggles elsewhere. It is specific, local and checkable, and almost no Cork landscaper uses it in their marketing.",
+      },
+      {
+        q: "Is west Cork worth the drive?",
+        a: "It can be, because a lot of the property is second homes arranged remotely by owners who pay properly. But price the drive and name the towns you will actually reach.",
+      },
+      {
+        q: "How should the county be split?",
+        a: "City, harbour towns and west Cork are three different markets with different budgets and timelines. One campaign across all three wins in none of them.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "landscapers",
+    county: "kerry",
+    industryLabel: "landscapers",
+    countyName: "Kerry",
+    title: "Landscaping Leads Kerry | Marketing for Kerry Landscapers",
+    description:
+      "Lead generation for Kerry landscapers: hotel and guesthouse grounds with a hard seasonal deadline, plus holiday homes nobody maintains.",
+    h1: "Landscaping leads in Kerry, where the season is the deadline.",
+    intro: [
+      "Kerry runs on tourism, and tourism is judged from the car park. Hotels, guesthouses, restaurants and self-catering properties all need their grounds to look right from Easter through September, and none of them can afford them looking neglected in July.",
+      "That is a commercial maintenance market with a hard annual deadline, and it sits alongside a domestic trade in a county with a great deal of property that is empty most of the year.",
+    ],
+    sections: [
+    {
+      heading: "Commercial grounds are steady where domestic is lumpy",
+      body: [
+        "A hotel's grounds need cutting, edging, bedding and tidying on a schedule, every year, whether or not domestic customers are spending. That is recurring income with a contract behind it.",
+        "It is also barely contested. Almost every landscaper in this county markets to homeowners, and the operators who need this find someone by asking around rather than by searching — which means whoever turns up with a proper proposal tends to win.",
+      ],
+    },
+    {
+      heading: "Sell in February, not in June",
+      body: [
+        "The whole commercial calendar points at one date: it has to look right before the season starts. A February and March approach reaches operators exactly when that is on their mind and their budget is being set.",
+        "By June they have either solved it or are living with it, and you are competing on emergency rates for work nobody enjoys.",
+      ],
+    },
+    {
+      heading: "Holiday homes need someone they can trust remotely",
+      body: [
+        "Property that sits empty for months gets overgrown, and the owner finds out when they arrive or when a letting agent complains.",
+        "A scheduled maintenance arrangement for absent owners is well-paid, predictable work arranged by people who cannot shop around locally. It needs photographs after each visit and someone who communicates, which is exactly what most landscapers do not offer.",
+      ],
+    },
+    {
+      heading: "Exposure and salt shape what survives",
+      body: [
+        "Coastal Kerry punishes planting that would be fine inland, and a scheme that fails in two seasons costs you the reference.",
+        "Being straight about what will and will not work on an exposed site is both better practice and better marketing, particularly with a client who is buying from a distance.",
+      ],
+    },
+    ],
+    towns: [
+      "Tralee",
+      "Killarney",
+      "Kenmare",
+      "Dingle",
+      "Listowel",
+      "Killorglin",
+      "Castleisland",
+      "Cahersiveen",
+      "Ballybunion",
+      "Sneem",
+      "Milltown",
+      "Waterville",
+    ],
+    faqs: [
+      {
+        q: "Is commercial grounds work worth chasing?",
+        a: "It is the distinctive opportunity here. Hotels and guesthouses need scheduled work with a hard seasonal deadline, it recurs every year, and almost nobody markets to them.",
+      },
+      {
+        q: "When should we approach operators?",
+        a: "February and March, when budgets are set and the season is on their mind. By June they have either solved it or are living with it.",
+      },
+      {
+        q: "What about holiday homes?",
+        a: "Scheduled maintenance for absent owners is predictable, well-paid work. It needs photographs after each visit and real communication, which is what most landscapers do not offer.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "landscapers",
+    county: "donegal",
+    industryLabel: "landscapers",
+    countyName: "Donegal",
+    title: "Landscaping Leads Donegal | Marketing for Donegal Landscapers",
+    description:
+      "Lead generation for Donegal landscapers: wind and salt that kill the wrong planting, a short season, and long drives between jobs.",
+    h1: "Landscaping leads in Donegal, where shelter comes first.",
+    intro: [
+      "Donegal takes weather off the Atlantic that most Irish landscapers never design for. Wind and salt kill planting that would be unremarkable inland, and a scheme that ignores it looks tired inside two seasons.",
+      "That makes shelter the first decision rather than an afterthought, and it makes local knowledge worth far more here than a design qualification from somewhere milder.",
+    ],
+    sections: [
+    {
+      heading: "Shelter is the design, not a detail",
+      body: [
+        "Hedging, windbreaks, fencing and the placement of everything else around them is what determines whether a Donegal garden works. Get it wrong and the planting fails publicly.",
+        "Writing about that specifically — what survives exposure, what needs protection, what the salt does to soft growth — reaches people who have already watched something die and are looking for someone who will not repeat it.",
+      ],
+    },
+    {
+      heading: "A short season means concentrated demand",
+      body: [
+        "The working window here is shorter than in the south, and the spending window shorter still. Demand arrives in a rush in spring and drops away.",
+        "Spend ahead of it rather than through it. Advertising in the months you cannot work is money spent teaching people about a service they will have forgotten about by the time you are free.",
+      ],
+    },
+    {
+      heading: "Drive time decides what is profitable",
+      body: [
+        "Letterkenny to the peninsulas or the southwest of the county is a long haul with a trailer, and the roads are slower than any map suggests.",
+        "Name what you cover. In a county this size the enquiries you turn away protect the margin on the ones you take.",
+      ],
+    },
+    {
+      heading: "Derry firms appear in your results",
+      body: [
+        "In the north of the county, search results include Northern Ireland businesses with their own reviews and sterling pricing.",
+        "Competing on price there is a losing position. A Donegal address, Donegal reviews and photographs of gardens that have survived a Donegal winter are things they cannot produce.",
+      ],
+    },
+    ],
+    towns: [
+      "Letterkenny",
+      "Buncrana",
+      "Ballybofey",
+      "Donegal town",
+      "Bundoran",
+      "Carndonagh",
+      "Killybegs",
+      "Dungloe",
+      "Moville",
+      "Ballyshannon",
+      "Lifford",
+      "Gweedore",
+    ],
+    faqs: [
+      {
+        q: "What decides a Donegal garden?",
+        a: "Shelter. Wind and salt kill planting that would be unremarkable inland, so hedging and windbreaks are the first decision rather than an afterthought.",
+      },
+      {
+        q: "When is the demand?",
+        a: "Concentrated in spring and short. Spend ahead of the window rather than through it — advertising in months you cannot work is money wasted.",
+      },
+      {
+        q: "Do Derry firms compete with us?",
+        a: "In the north of the county, yes, and sterling moves that competition. Local reviews and photographs of gardens that have survived a Donegal winter are what they cannot copy.",
+      },
+      PRICE_FAQ,
+    ],
+  },
 ];
 
 export const industryCountyFor = (industry: string) =>

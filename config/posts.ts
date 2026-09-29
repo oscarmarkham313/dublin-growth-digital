@@ -6440,6 +6440,415 @@ export const posts: Post[] = [
     ],
     related: ["plumbers-and-heating", "estate-agents", "electricians"],
   },
+  {
+    slug: "landscaping-means-five-different-things",
+    title: "Landscaping means five different things to five people",
+    description:
+      "Maintenance, tidy-ups, paving, planting and full design are different businesses. Irish landscapers lose work by advertising all five as one.",
+    date: "2026-09-29",
+    minutes: 6,
+    intro:
+      "When somebody types 'landscaper' into Google in Ireland, they could want a lawn cut, a patio laid, a hedge taken down, a border planted or an entire garden designed and rebuilt. Those are five different jobs at five different prices on five different timelines, and most landscaping websites present them as one undifferentiated service. The customer cannot tell whether you are for them, so they ring the next one.",
+    sections: [
+      {
+        h: "The five, and why they do not mix",
+        p: [
+          "Each has a different buyer, a different decision speed and a different margin. Treating them as one offer means your message is slightly wrong for everybody.",
+        ],
+        list: [
+          "Maintenance — recurring, scheduled, low drama, predictable income",
+          "One-off tidy-ups — urgent, often before a sale or a visit, price-led",
+          "Hard landscaping — paving, walls, decking, where most of the money is",
+          "Planting and borders — knowledge-led, smaller budgets, high satisfaction",
+          "Full design and build — long decision, big budget, decided on portfolio",
+        ],
+      },
+      {
+        h: "The searches are genuinely different",
+        p: [
+          "Somebody wanting a hedge cut does not search the way somebody planning a garden rebuild does. One wants a price and a date; the other wants to look at pictures for a fortnight.",
+          "Running one campaign across both means paying the same for both clicks and sending them to the same page, which converts the cheap job well and the expensive one badly.",
+        ],
+      },
+      {
+        h: "Give the big-ticket work its own page",
+        p: [
+          "Design and build is decided on evidence. It needs its own page with finished projects, an explanation of how the process runs, and some sense of what happens between the first visit and the last.",
+          "Burying it under a services list with grass cutting is how landscapers end up doing a lot of maintenance and wondering why the design enquiries never come.",
+        ],
+      },
+      {
+        h: "You are allowed to not do some of them",
+        p: [
+          "The most profitable decision many landscapers make is to stop offering the work they do not want. Every job you take that you are not suited to costs you a slot and frequently a review.",
+          "Saying clearly what you do, and what you do not, filters the enquiries before the phone rings. It feels like turning away work and is in practice the fastest way to improve the mix.",
+        ],
+      },
+      {
+        h: "What to do this week",
+        p: [
+          "Look at your own site and ask which of the five a stranger would think you do. If the answer is 'all of them, equally', that is the problem.",
+          "Pick the one you want more of, give it the most prominent page, and write it for the person who has already decided they want that specific thing.",
+        ],
+      },
+    ],
+    related: ["landscapers", "driveways-and-paving", "fencing-and-gates"],
+  },
+  {
+    slug: "photographing-a-garden-properly",
+    title: "What to photograph in a garden, and when",
+    description:
+      "Landscaping is sold on pictures and most of the ones taken are unusable. The shots that win the next job, and the light that ruins them.",
+    date: "2026-09-29",
+    minutes: 6,
+    intro:
+      "A garden is the most photogenic thing any trade produces and landscapers are consistently bad at photographing it. The phone is full of pictures taken on the last afternoon, in flat grey light, from wherever the van was parked. Those images will not sell the next job, and in this trade the images are almost the whole sale.",
+    sections: [
+      {
+        h: "Before is worth as much as after",
+        p: [
+          "An after photograph of a good garden is pleasant. The same photograph beside the tired lawn and broken slabs that were there in March is persuasive, because it shows what you changed rather than what exists.",
+          "So the discipline is to shoot it on the first visit, before anything moves, from two or three positions you can return to. Nobody regrets having the before shot; everybody regrets not having it.",
+        ],
+      },
+      {
+        h: "Same position, same height, both times",
+        p: [
+          "A before from the back door and an after from the end of the garden do not compare, and the pair stops working.",
+          "Look at the before photograph on your phone before taking the after, and stand where you stood. Fifteen seconds, and it is the difference between a usable pair and two unrelated pictures.",
+        ],
+      },
+      {
+        h: "Wait for the planting to settle",
+        p: [
+          "The day the job finishes is the worst day to photograph it. Soil is bare, edges are raw, and everything looks newly installed rather than established.",
+          "Go back in six or eight weeks when it has knitted together. That is the photograph that sells, and it costs one short visit. Ask the customer when you finish — most are delighted to be asked.",
+        ],
+      },
+      {
+        h: "Light decides more than the camera",
+        p: [
+          "Harsh midday sun flattens planting and blows out paving. Early morning and late afternoon give depth and texture.",
+          "Overcast is genuinely good for foliage and terrible for skies, so frame it tighter. Avoid shooting into the sun with the garden dark in front of it, which is the most common ruined garden photograph.",
+        ],
+      },
+      {
+        h: "Shoot the details as well as the whole",
+        p: [
+          "A wide shot shows the layout. Close work — a cut edge, a step detail, jointing, a planted corner — shows the standard, and that is what a customer who is comparing quotes is actually looking for.",
+          "Four or five images per job is plenty. It is the consistency of getting them every time that builds the asset.",
+        ],
+      },
+      {
+        h: "Where they earn their keep",
+        p: [
+          "The Google Business Profile, weekly. The website, grouped by project rather than dumped in a gallery. Meta ads, where before-and-after pairs outperform everything else in this trade.",
+          "And in quotes. Sending a prospective customer two comparable finished gardens before the visit does more than any amount of reassurance.",
+        ],
+      },
+    ],
+    related: ["landscapers", "photographers", "driveways-and-paving"],
+  },
+  {
+    slug: "charging-for-a-garden-design",
+    title: "Getting paid for the drawing",
+    description:
+      "Irish landscapers routinely give away the design and hope to win the build. What that costs, and how to charge for it without losing the job.",
+    date: "2026-09-29",
+    minutes: 6,
+    intro:
+      "A landscaper spends an evening on a layout, a plant list and a rough costing, hands it over free, and hears nothing. Three months later the garden gets built by somebody cheaper, from that drawing. It happens constantly and it is entirely avoidable.",
+    sections: [
+      {
+        h: "Free design is not free to you",
+        p: [
+          "It is hours of skilled work, and giving it away teaches the customer that the thinking is worthless and only the labour has value. That is exactly backwards for a business that wants design-and-build work.",
+          "It also attracts the wrong enquiries. People who would never pay for a design are disproportionately likely to shop the drawing around.",
+        ],
+      },
+      {
+        h: "Charge for it, and make it worth having",
+        p: [
+          "A paid design that is properly presented — a scale layout, planting, materials, a phased plan if the budget needs staging — is a product in its own right. The customer has something valuable whether or not you build it.",
+          "Most will want you to build it, because you designed it and they now trust you. But the ones who do not have at least paid for your time.",
+        ],
+      },
+      {
+        h: "Credit it against the build",
+        p: [
+          "The line that removes almost all resistance: the design fee comes off the build if you go ahead with us.",
+          "It is fair, it is easy to say, and it turns the fee from a barrier into a deposit. Landscapers who adopt this almost never go back.",
+        ],
+      },
+      {
+        h: "Filter before you get there",
+        p: [
+          "A consultation fee for the first visit — credited the same way — removes the people who are collecting free ideas from four landscapers.",
+          "You will get fewer first visits and a much higher proportion will become work. Measure jobs won per visit rather than visits booked and the change is obvious.",
+        ],
+      },
+      {
+        h: "Say it on the website",
+        p: [
+          "The design process, that it is a paid piece of work, and that it is credited against the build. Plainly, on the design page.",
+          "It sets the expectation before anyone rings, which means the conversation on the phone is about the garden rather than about whether you charge.",
+        ],
+      },
+    ],
+    related: ["landscapers", "architects", "interior-designers"],
+  },
+  {
+    slug: "maintenance-contracts-for-landscapers",
+    title: "The maintenance work that carries you through winter",
+    description:
+      "Build income stops when the weather turns. Scheduled maintenance does not, and it is the most under-sold service in Irish landscaping.",
+    date: "2026-09-29",
+    minutes: 6,
+    intro:
+      "Landscaping is brutally seasonal. Spring and summer are frantic, and then the ground turns and the phone goes quiet for months. Scheduled maintenance is the obvious answer, and most Irish landscapers treat it as filler rather than as the thing that makes the business survivable.",
+    sections: [
+      {
+        h: "What it actually buys you",
+        p: [
+          "Income that arrives whether or not anybody is commissioning a new garden, work that can be planned rather than reacted to, and a reason to be in front of past customers all year.",
+          "That last one matters more than it sounds. The gardens you maintain are the gardens you get asked to extend, replant and rebuild.",
+        ],
+      },
+      {
+        h: "Sell it at handover, not cold",
+        p: [
+          "The moment a new garden is finished is the moment the customer most wants it to stay looking like that, and most fears it will not.",
+          "Offering a maintenance arrangement there converts far better than approaching a stranger months later. It also protects your own work, which is a legitimate thing to say out loud: a garden left unmaintained stops being a portfolio piece.",
+        ],
+      },
+      {
+        h: "Keep the offer simple",
+        p: [
+          "A set number of visits a year, what happens on each, and who supplies what. That is enough.",
+          "Complicated tiers make the customer compare rather than decide. One clear arrangement with an obvious scope wins more often than three options.",
+        ],
+      },
+      {
+        h: "Commercial contracts are the bigger prize",
+        p: [
+          "Business parks, hotels, apartment blocks, schools and nursing homes all need grounds kept, on a schedule, with an invoice rather than a chat at the gate.",
+          "It is less glamorous than a design build and far steadier. It is also barely contested, because almost every landscaper markets to homeowners and waits for commercial work to arrive by accident.",
+        ],
+      },
+      {
+        h: "It changes what you can afford to spend",
+        p: [
+          "A one-off build customer has a hard ceiling on acquisition cost. A maintenance customer who stays several years, and who eventually commissions more work, is worth a multiple of that.",
+          "That is what lets you outbid a competitor for the same enquiry and still make money on it.",
+        ],
+      },
+    ],
+    related: ["landscapers", "cleaning-companies", "tree-surgery"],
+  },
+  {
+    slug: "why-landscaping-quotes-get-shopped",
+    title: "Why your landscaping quote gets shopped around",
+    description:
+      "Three quotes for the same garden look identical to someone who cannot read them. What to put in yours so the comparison stops being about price.",
+    date: "2026-09-29",
+    minutes: 6,
+    intro:
+      "A homeowner with three landscaping quotes is holding three totals for what looks like the same job. They cannot assess the base you propose under the paving, the drainage you have allowed for or the size of the plants. So they compare the only thing they can read, which is the number at the bottom.",
+    sections: [
+      {
+        h: "Itemise what is underneath",
+        p: [
+          "Excavation depth, sub-base, membrane, drainage, edging, jointing. The customer will not understand all of it and that is fine — what they register is that you have specified things the other quote did not mention.",
+          "It also makes a cheaper quote look thin, because it usually is. The corner most commonly cut in Irish landscaping is the part nobody can see afterwards.",
+        ],
+      },
+      {
+        h: "Say what the plants actually are",
+        p: [
+          "'Mixed shrub planting' could be anything. Named species, sizes and quantities tell the customer what they are getting and let them see why one quote is dearer.",
+          "Pot size is the detail that most often separates two quotes, and almost nobody explains it.",
+        ],
+      },
+      {
+        h: "Show them two gardens you have finished",
+        p: [
+          "Comparable in style and scale, ideally nearby. It answers the question underneath every landscaping decision: will it actually look like I am imagining.",
+          "Photographs do more here than any paragraph of reassurance, and most landscapers send a price with no images at all.",
+        ],
+      },
+      {
+        h: "Be specific about disruption",
+        p: [
+          "How long the garden is unusable, where the skip goes, what happens to the lawn the machinery crosses, whether they can use the back door.",
+          "People worry about this far more than they mention it, and addressing it unprompted is disproportionately reassuring.",
+        ],
+      },
+      {
+        h: "Then follow up once",
+        p: [
+          "Most landscapers send the quote and wait. One call a few days later, asking whether anything needs explaining, recovers a real share of the jobs that would otherwise drift.",
+          "Not a discount call — a clarifying one. The customer is usually confused rather than unconvinced.",
+        ],
+      },
+    ],
+    related: ["landscapers", "driveways-and-paving", "builders-and-extensions"],
+  },
+  {
+    slug: "new-build-gardens-are-the-best-customer",
+    title: "The blank new-build garden is your best customer",
+    description:
+      "A new estate is a street of identical empty gardens, all owned by people who want the same thing and talk to each other. Irish landscapers under-work it.",
+    date: "2026-09-29",
+    minutes: 6,
+    intro:
+      "Somebody moves into a new house and the garden is a rectangle of builder's rubble with a thin skin of topsoil over it. They know it needs doing, they have no idea what it costs, and they are looking at the same problem as everyone else on the road. It is the most concentrated, most repeatable opportunity in Irish landscaping and it is mostly worked by accident.",
+    sections: [
+      {
+        h: "The problem is identical up and down the street",
+        p: [
+          "Same soil, same size, same aspect within a few degrees, same builder's leftovers underneath. Once you have solved it for one house you can quote the next in minutes and build it faster.",
+          "That is a margin advantage no design-led one-off job gives you, and it compounds the more of them you do.",
+        ],
+      },
+      {
+        h: "Neighbours are the whole marketing plan",
+        p: [
+          "A finished garden on a new estate is visible to forty households with the same rectangle of mud. Nothing else in this trade advertises that efficiently.",
+          "Work while people can see you, keep the site tidy, and make it easy for someone to ask what it cost. A card through the doors on the road while you are there converts unusually well because they have just watched you do it.",
+        ],
+      },
+      {
+        h: "Be honest about the ground",
+        p: [
+          "Most new-build gardens are compacted subsoil with a shallow layer of topsoil dropped on top. A lawn laid straight onto that will sit wet and fail.",
+          "Explaining that is both the right thing and a strong sales position: it is the reason your quote is higher than the one that just prices turf, and the customer can verify it with a spade.",
+        ],
+      },
+      {
+        h: "Phase it if the budget is stretched",
+        p: [
+          "People who have just bought a house are frequently out of money. A scheme delivered in two or three phases keeps the job alive instead of losing it to 'maybe next year'.",
+          "It also books you work in a quieter month, which is worth something on its own.",
+        ],
+      },
+      {
+        h: "Target by estate, not by county",
+        p: [
+          "Advertising platforms will let you reach a small, specific area. A new estate is exactly that, and the people in it share a problem you have already solved.",
+          "It is far cheaper than county-level targeting and the message can be completely specific, which is the combination that actually converts.",
+        ],
+      },
+    ],
+    related: ["landscapers", "fencing-and-gates", "artificial-grass"],
+  },
+  {
+    slug: "google-ads-for-landscapers-ireland",
+    title: "Where a landscaper's Google Ads budget disappears",
+    description:
+      "Garden centre searches, DIY, job seekers and council work all cost Irish landscapers money on a default setup. What to block and what to bid on.",
+    date: "2026-09-29",
+    minutes: 6,
+    intro:
+      "Landscaping has an unusually wide keyword surface and most of it is not a customer. Garden centres, plant searches, DIY projects, council parks, jobs and courses all carry the same words a landscaper bids on, and on a default campaign you pay for every one of them at the same price.",
+    sections: [
+      {
+        h: "Retail and plant searches are the biggest leak",
+        p: [
+          "'Garden centre near me', 'plants for sale', 'turf delivery', 'topsoil bags'. Somebody is buying materials or plants, not hiring anyone.",
+          "This is usually the largest category of waste in a landscaping account and the easiest to remove.",
+        ],
+        list: [
+          "garden centre, nursery, plants for sale, seeds, bulbs, compost",
+          "topsoil, turf delivery, bark, gravel bags, sleepers, b&q, woodie's",
+        ],
+      },
+      {
+        h: "DIY and inspiration",
+        p: [
+          "'Garden ideas', 'how to lay a patio', 'small garden design ideas'. Enormous volume, very high click rate, almost no intent to hire.",
+          "'Ideas' is the single most useful negative keyword in this trade. People browsing ideas are months away at best and frequently doing it themselves.",
+        ],
+        list: [
+          "ideas, inspiration, diy, how to, tutorial, pinterest, images, photos",
+          "cheap, budget, free, yourself",
+        ],
+      },
+      {
+        h: "Jobs, courses and qualifications",
+        p: [
+          "'Landscaping jobs', 'gardener wanted', 'horticulture course', 'landscape architecture degree'. Steady volume, no value.",
+          "The architecture and horticulture study terms are the ones most often missed because they look professionally relevant.",
+        ],
+        list: [
+          "jobs, vacancy, hiring, wanted, apprentice, wage, salary",
+          "course, degree, horticulture, landscape architecture, college, qualification",
+        ],
+      },
+      {
+        h: "Council, commercial and the wrong scale",
+        p: [
+          "'Park maintenance tender', 'council grass cutting', 'golf course greenkeeper'. Unless you genuinely do that work, block it.",
+          "Equally, if you do only domestic work, block the commercial terms — and if you want commercial work, give it a separate campaign rather than letting it drift into the domestic one.",
+        ],
+      },
+      {
+        h: "What is actually worth paying for",
+        p: [
+          "Terms with a job and a place in them. 'Garden design [town]', 'patio laid [town]', 'landscaping company near me', 'garden makeover [county]', 'hedge cutting [town]'.",
+          "Set locations to presence rather than presence-or-interest, and keep the radius to where you will genuinely tow a trailer. Then read the search terms report weekly for the first month — in this trade it is always more revealing than people expect.",
+        ],
+      },
+    ],
+    related: ["landscapers", "driveways-and-paving", "tree-surgery"],
+  },
+  {
+    slug: "landscaping-reviews-and-referrals",
+    title: "The garden nobody sees is a review you did not get",
+    description:
+      "Landscaping work is hidden behind houses. What to do about it, and why asking on the last day beats asking by text a week later.",
+    date: "2026-09-29",
+    minutes: 6,
+    intro:
+      "Roofers get a sign in the front garden. Shopfitters get a shopfront. A landscaper builds something beautiful behind a house where nobody except the owner and their immediate neighbours will ever see it. That invisibility is the central marketing problem of the trade, and reviews and referrals are the only real answer to it.",
+    sections: [
+      {
+        h: "Ask on the last day, standing in the garden",
+        p: [
+          "The customer will never be happier about the work than the moment they first see it finished. That is when to ask, in person, with the review page already open on your phone.",
+          "A text a week later, when the novelty has worn off and life has resumed, converts at a fraction of the rate. Almost every landscaper does it the second way.",
+        ],
+      },
+      {
+        h: "Ask for something specific",
+        p: [
+          "'Would you mind mentioning the drainage work?' produces a far more useful review than 'would you mind leaving a review'.",
+          "Specific reviews rank better, convert better, and answer the doubt the next customer actually has.",
+        ],
+      },
+      {
+        h: "Photographs in the review are worth double",
+        p: [
+          "Google lets reviewers attach images, and a customer's own photograph of their finished garden is more persuasive than anything on your website because it obviously was not staged.",
+          "Most people will not think of it. Ask.",
+        ],
+      },
+      {
+        h: "The neighbours are the referral",
+        p: [
+          "The people who can actually see the work are the ones either side and behind. They have watched the whole build and they have the same garden.",
+          "A card through the door while the job is running, or simply being friendly to the people looking over the fence, is the cheapest lead source in this trade and it costs nothing but manners.",
+        ],
+      },
+      {
+        h: "Keep a route back to old customers",
+        p: [
+          "Gardens change. Planting matures, families grow, patios get extended. The customer you built for four years ago is a genuine prospect and most landscapers never contact them again.",
+          "A note once a year, ideally with a photograph of how their garden has matured, is welcome rather than intrusive and produces more work than most paid campaigns.",
+        ],
+      },
+    ],
+    related: ["landscapers", "tree-surgery", "powerwashing"],
+  },
 ];
 
 export const postBySlug = (slug: string) => posts.find((p) => p.slug === slug);
