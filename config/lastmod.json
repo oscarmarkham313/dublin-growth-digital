@@ -148,6 +148,12 @@
     "windscreen-repair": "2026-09-29"
   },
   "industryCounty": {
+    "dentists/cork": "2026-09-30",
+    "dentists/donegal": "2026-09-30",
+    "dentists/dublin": "2026-09-30",
+    "dentists/galway": "2026-09-30",
+    "dentists/kildare": "2026-09-30",
+    "dentists/mayo": "2026-09-30",
     "estate-agents/cork": "2026-09-28",
     "estate-agents/dublin": "2026-09-28",
     "estate-agents/galway": "2026-09-28",
@@ -155,7 +161,7 @@
     "estate-agents/kildare": "2026-09-28",
     "estate-agents/mayo": "2026-09-28",
     "landscapers/cork": "2026-09-29",
-    "landscapers/donegal": "2026-09-29",
+    "landscapers/donegal": "2026-09-30",
     "landscapers/dublin": "2026-09-29",
     "landscapers/galway": "2026-09-29",
     "landscapers/kerry": "2026-09-29",
