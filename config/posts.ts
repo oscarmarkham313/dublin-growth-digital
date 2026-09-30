@@ -7252,6 +7252,401 @@ export const posts: Post[] = [
     ],
     related: ["dentists", "opticians", "physiotherapy"],
   },
+  {
+    slug: "conveyancing-is-a-referral-business",
+    title: "Conveyancing is won before the client ever searches",
+    description:
+      "Estate agents, brokers and builders decide most Irish conveyancing instructions. What makes a firm the one they recommend.",
+    date: "2026-09-30",
+    minutes: 6,
+    intro:
+      "Most people buying a house in Ireland do not research solicitors. They ask the estate agent, or the mortgage broker, or whoever sold them the house, and they go with the name they are given. That makes conveyancing a referral business with a search component rather than the other way round, and firms that market it purely through advertising are working the smaller half.",
+    sections: [
+      {
+        h: "Referrers recommend whoever makes their job easier",
+        p: [
+          "An agent's nightmare is a chain that stalls because a solicitor will not return a call. A broker's nightmare is a drawdown missed because paperwork sat on a desk.",
+          "The firm that never causes either problem gets recommended repeatedly, and it has nothing to do with legal ability. It is responsiveness, and it is the one thing referrers will tell you about openly if you ask.",
+        ],
+      },
+      {
+        h: "Ask for the referrals directly",
+        p: [
+          "Firms assume this happens by osmosis. It does not. Agents and brokers have a short list and it is usually whoever last made an impression.",
+          "A conversation with the agents and brokers in your town, saying plainly that you want conveyancing work and this is how you handle it, is a morning's work with a better return than any campaign. Almost nobody does it.",
+        ],
+      },
+      {
+        h: "Then be findable for the ones who are not referred",
+        p: [
+          "A meaningful minority do search: people who have moved to the area, people who did not like the recommendation, people buying without an agent involved, and increasingly people who simply want to check.",
+          "For them the website is the whole decision, and what it needs to do is explain the process to somebody who has never done it.",
+        ],
+      },
+      {
+        h: "Write the process out in plain English",
+        p: [
+          "Contracts, searches, requisitions, closing. A first-time buyer knows none of those words and will not ask.",
+          "A page that sets out the stages, roughly how long each takes and what the client has to supply is useful, ranks well because it matches what people type, and quietly filters out the clients who would otherwise need most handling.",
+        ],
+      },
+      {
+        h: "New-build purchases deserve their own page",
+        p: [
+          "Buying from a developer runs differently, with its own timelines, contract issues and buyer supports.",
+          "Where there is a lot of new building, a firm with a page written specifically for it will out-rank one with a single generic conveyancing page every time.",
+        ],
+      },
+    ],
+    related: ["solicitors", "estate-agents", "mortgage-brokers"],
+  },
+  {
+    slug: "probate-marketing-with-restraint",
+    title: "Marketing probate work without sounding ghoulish",
+    description:
+      "Bereaved clients search at eleven at night for someone patient. The tone that wins this work is the opposite of most legal marketing.",
+    date: "2026-09-30",
+    minutes: 6,
+    intro:
+      "Somebody who has just been appointed executor is dealing with paperwork at the worst point in their life, usually with siblings who do not entirely agree, and usually with no idea what any of it involves. They are searching for reassurance and a process, not for a firm that describes itself as dynamic. Probate is the practice area where tone does the most work and where most legal marketing gets it most wrong.",
+    sections: [
+      {
+        h: "Answer the questions people actually type",
+        p: [
+          "How long does probate take. What does an executor have to do. What happens if there is no will. Do all the beneficiaries have to agree. What if the house has to be sold.",
+          "These are searched constantly and answered badly, usually by pages written for other solicitors. A firm that answers them plainly reaches people at precisely the moment they decide to get help.",
+        ],
+      },
+      {
+        h: "Calm is the entire tone",
+        p: [
+          "No urgency, no superlatives, no stock photograph of a gavel. Short sentences, practical information, and an acknowledgement that this is a difficult time without dwelling on it.",
+          "The client is judging whether you will be patient with them. Everything on the page either supports that impression or undermines it.",
+        ],
+      },
+      {
+        h: "Set out what happens, in order",
+        p: [
+          "The stages, roughly how long each one takes, what you need from the executor and when, and what will require decisions from the family.",
+          "Uncertainty is the main source of stress here. A firm that removes it is doing something genuinely valuable, and it is the clearest possible demonstration that you handle this work regularly.",
+        ],
+      },
+      {
+        h: "Remember who is actually reading",
+        p: [
+          "Frequently a son or daughter living somewhere else, dealing with an estate at a distance, coordinating siblings by phone.",
+          "Saying that you are used to working with executors who are not local, and that updates come without having to be chased, speaks directly to the thing they are worried about.",
+        ],
+      },
+      {
+        h: "Wills are the same audience, earlier",
+        p: [
+          "Nearly everyone who goes through probate resolves to sort their own affairs out. That is the moment to be present with something on making a will.",
+          "It is also a far easier conversation to market than probate, and it comes from the same content rather than needing its own campaign.",
+        ],
+      },
+    ],
+    related: ["solicitors", "funeral-directors", "financial-advisors"],
+  },
+  {
+    slug: "family-law-marketing-ireland",
+    title: "Family law: most searched, least well marketed",
+    description:
+      "Separation and custody are searched constantly and handled clumsily online. What discretion, tone and practicality look like on the page.",
+    date: "2026-09-30",
+    minutes: 6,
+    intro:
+      "Family law generates an enormous amount of search in Ireland and almost no good content. The people searching are frightened, frequently searching privately, and looking for someone who will be straightforward with them. Most firms address them with a paragraph of generic reassurance and a phone number, which is why the field is as open as it is.",
+    sections: [
+      {
+        h: "Discretion is a feature worth stating",
+        p: [
+          "People search this on a phone, often in a house where they would rather not be seen doing it, and they worry about who will know they made contact.",
+          "Saying explicitly that a first conversation is confidential and commits them to nothing removes a genuine barrier. It is a small line and it matters more than anything else on the page.",
+        ],
+      },
+      {
+        h: "Answer the practical questions plainly",
+        p: [
+          "What the steps actually are, how long things take, what happens about the house, what the position is on children, whether mediation comes first.",
+          "People are not looking for legal analysis. They are trying to understand what is about to happen to their life, and a firm that explains it in order and in plain words is immediately the one they trust.",
+        ],
+      },
+      {
+        h: "Never use the marketing register",
+        p: [
+          "No urgency, no 'fight for you', no aggressive imagery. It attracts the worst instructions and repels the ones you want.",
+          "Calm competence reads as strength here. The client is already in conflict; they are looking for someone steady, not someone angry on their behalf.",
+        ],
+      },
+      {
+        h: "Be careful with testimonials and any identifying detail",
+        p: [
+          "This is an area where confidentiality is not a preference, and case examples can identify people far more easily than firms assume.",
+          "Speak in general terms about how matters are handled rather than about specific clients. It is the safer choice and it does not weaken the page.",
+        ],
+      },
+      {
+        h: "Availability is disproportionately persuasive",
+        p: [
+          "These enquiries arrive in the evening and at weekends, because that is when the situation comes to a head.",
+          "A firm that says when it responds, and then does, converts far more of them than one that leaves people wondering until Tuesday.",
+        ],
+      },
+    ],
+    related: ["solicitors", "counselling-and-therapy", "financial-advisors"],
+  },
+  {
+    slug: "why-clients-choose-a-solicitor",
+    title: "What actually makes someone choose one firm over another",
+    description:
+      "Clients cannot judge legal ability, so they judge everything else. The signals Irish clients use, in the order they use them.",
+    date: "2026-09-30",
+    minutes: 6,
+    intro:
+      "A prospective client has no way of assessing whether one solicitor is better at the law than another. They are not qualified to, and the outcome will not be known for months. So they decide on the things they can assess, and firms that understand what those are win more instructions than firms that assume it is about expertise.",
+    sections: [
+      {
+        h: "Whether anyone got back to them",
+        p: [
+          "This is first, and it is not close. Clients report choosing a firm because it was the one that replied, and leaving firms because it stopped replying.",
+          "It is also the easiest thing in the profession to fix and the most consistently ignored. An enquiry that arrives on Friday evening and is answered Monday morning will frequently already have instructed somebody else.",
+        ],
+      },
+      {
+        h: "Whether they could understand the answer",
+        p: [
+          "A client who leaves a first call more confused than they arrived will keep looking. One who leaves understanding what happens next will usually stop.",
+          "That same quality on the website — plain language, the process set out in order — does the same job before anybody speaks.",
+        ],
+      },
+      {
+        h: "Whether the firm looks like it does this specific thing",
+        p: [
+          "A page addressing their exact problem beats a list of practice areas, because it answers the only question they have: is this firm for me.",
+          "This is why a full-service firm should still present each area separately and substantially. It changes nothing about the firm and everything about how it is found.",
+        ],
+      },
+      {
+        h: "What other people said",
+        p: [
+          "Reviews matter in law for the same reason they matter in dentistry: the client cannot judge the work, so they borrow somebody else's judgement.",
+          "Reviews about responsiveness and clarity are worth far more than reviews about outcomes, and they are the ones clients can honestly give.",
+        ],
+      },
+      {
+        h: "How much it will cost, roughly",
+        p: [
+          "Not a fixed figure — most legal work cannot be quoted blind. But an explanation of how fees are structured, what drives them up or down, and when the client will be told, removes an anxiety that stops people ringing at all.",
+          "Firms consistently overestimate how much clients expect certainty here and underestimate how much they want the mechanism explained.",
+        ],
+      },
+    ],
+    related: ["solicitors", "accountants", "financial-advisors"],
+  },
+  {
+    slug: "the-unreturned-call-costs-the-instruction",
+    title: "The unreturned call is the profession's reputation",
+    description:
+      "Ask anyone about solicitors and you hear the same complaint. Fixing it is free, and it wins more work than any campaign a firm can run.",
+    date: "2026-09-30",
+    minutes: 5,
+    intro:
+      "There is one criticism of solicitors that comes up more than every other criticism combined, and it is not about fees or competence. It is that nobody rings back. It is so widespread that it has become what people expect, which means a firm that simply does not do it stands out immediately.",
+    sections: [
+      {
+        h: "The expectation is already low, so the bar is low",
+        p: [
+          "Clients arrive braced for poor communication. A firm that answers within a day and says what is happening exceeds expectations without doing anything remarkable.",
+          "That is an unusually cheap advantage. Most competitive advantages require investment; this one requires a decision.",
+        ],
+      },
+      {
+        h: "Decide what happens to an enquiry, explicitly",
+        p: [
+          "Who sees it, how quickly, and what the holding response is if the relevant solicitor cannot reply immediately.",
+          "An acknowledgement within the hour saying when somebody will come back is enough to hold almost anyone. Silence is what loses them, not the delay itself.",
+        ],
+      },
+      {
+        h: "Update clients before they chase",
+        p: [
+          "Most complaints are not about slow progress. They are about not knowing whether there has been progress.",
+          "A short note at agreed points — even one saying nothing has moved and here is why — prevents the frustration that produces both the chasing calls and the bad reviews.",
+        ],
+      },
+      {
+        h: "It is where the referrals come from",
+        p: [
+          "Estate agents, brokers and accountants all recommend the firm that does not create problems for them. Responsiveness is the whole of that.",
+          "The firms with the steadiest referral flow are almost never the most brilliant lawyers in town. They are the ones who answer.",
+        ],
+      },
+      {
+        h: "Measure it",
+        p: [
+          "Time from enquiry to first response, and the proportion answered the same day. Most firms have never looked.",
+          "Once it is a number somebody sees each week, it improves without any further intervention, and the instruction rate moves with it.",
+        ],
+      },
+    ],
+    related: ["solicitors", "accountants", "estate-agents"],
+  },
+  {
+    slug: "google-ads-for-solicitors-ireland",
+    title: "Where a law firm's Google Ads budget disappears",
+    description:
+      "Legal clicks are the dearest in Ireland, and most of the traffic is students, job seekers and people wanting free advice. What to block.",
+    date: "2026-09-30",
+    minutes: 7,
+    intro:
+      "Legal search terms are among the most expensive in any Irish account, and the keyword surface is unusually polluted: the same words are used by people looking for a solicitor, people looking for free advice, people studying law and people looking for a job in it. A default campaign pays the same for all of them.",
+    sections: [
+      {
+        h: "Free advice and self-help",
+        p: [
+          "'Free legal advice', 'can I sue', 'what are my rights', 'citizens information', 'flac'. Very high volume, very high click rate, and these people are explicitly trying not to pay a solicitor.",
+          "Some proportion will eventually instruct somebody. Not enough to justify the click price, and they will consume a modest budget in days.",
+        ],
+        list: [
+          "free, free advice, citizens information, flac, legal aid, diy, template",
+          "can i, am i entitled, what are my rights, how do i, myself",
+        ],
+      },
+      {
+        h: "Study, jobs and the profession itself",
+        p: [
+          "'Law jobs', 'solicitor salary', 'FE1', 'Blackhall', 'law degree points', 'trainee solicitor'. Steady volume, zero value, and easy to miss because it looks professionally relevant.",
+          "The training and exam terms are the ones most often left running.",
+        ],
+        list: [
+          "jobs, vacancy, trainee, apprenticeship, salary, wage, career",
+          "fe1, blackhall, law society exam, degree, points, cao, course, college",
+        ],
+      },
+      {
+        h: "Forms, templates and documents",
+        p: [
+          "People looking for a template will not instruct a firm. 'Will template', 'tenancy agreement template', 'section 20 form', 'affidavit example'.",
+          "Worth blocking unless a document service is something you genuinely offer.",
+        ],
+        list: [
+          "template, form, sample, example, pdf, download, wording",
+        ],
+      },
+      {
+        h: "The restricted category",
+        p: [
+          "Irish law limits how firms may advertise services relating to personal injuries. Whatever your view of that, it means those terms should be handled with advice rather than added to a campaign by default.",
+          "The practical consequence is that a firm's paid search should be built on conveyancing, probate, wills, family, employment and commercial work — which is where the volume is anyway.",
+        ],
+      },
+      {
+        h: "What is worth paying for",
+        p: [
+          "A specific matter plus a place. 'Conveyancing solicitor [town]', 'probate solicitor [county]', 'employment solicitor [city]', 'family law solicitor [town]', 'make a will [town]'.",
+          "Set locations to presence rather than presence-or-interest. Then read the search terms report weekly for the first month — in this sector it is always worse than people expect, because of how much free-advice traffic finds its way in.",
+        ],
+      },
+    ],
+    related: ["solicitors", "accountants", "insurance-brokers"],
+  },
+  {
+    slug: "employment-law-work-is-under-marketed",
+    title: "Employment law is the area nobody is competing for",
+    description:
+      "Workplace disputes are searched constantly by both sides, and almost no Irish firm markets to either. A quiet, unrestricted opportunity.",
+    date: "2026-09-30",
+    minutes: 6,
+    intro:
+      "Employment matters generate steady search from two entirely separate audiences: employees who think something has gone wrong, and employers trying to avoid it going wrong. Both are looking for practical information, both are frequently anxious, and almost no Irish firm writes anything useful for either. It is one of the most open areas in legal marketing and it carries none of the advertising restrictions that complicate other work.",
+    sections: [
+      {
+        h: "Two audiences, and you usually pick one",
+        p: [
+          "Acting for employees and acting for employers are different businesses with different economics, and a firm trying to look like both convinces neither.",
+          "Employee work is higher volume, lower value per matter and emotionally charged. Employer work is lower volume, retainer-friendly and relationship-led. Decide, and write accordingly.",
+        ],
+      },
+      {
+        h: "Employers search before there is a problem",
+        p: [
+          "Contracts, handbooks, probation, disciplinary procedure, redundancy process, whether they can dismiss someone. This is preventative and it is where the retainer relationships start.",
+          "Content that walks an owner through doing something correctly is the cheapest route into a long-term commercial client, and it is almost entirely uncontested.",
+        ],
+      },
+      {
+        h: "Employees search when it has already happened",
+        p: [
+          "Unfair dismissal, unpaid wages, discrimination, constructive dismissal, what the Workplace Relations Commission process involves and how long it takes.",
+          "They want to know whether they have something and what happens next. Answering that plainly — including being honest about when somebody probably does not have a case — builds more trust than any amount of assertion.",
+        ],
+      },
+      {
+        h: "Explain the process, not just the law",
+        p: [
+          "Where a complaint is made, what the stages are, how long it takes, whether they have to attend, whether they need representation.",
+          "Procedure is what people are actually searching for and what firms are least likely to write about, which is exactly why it ranks.",
+        ],
+      },
+      {
+        h: "Timing is a real constraint here",
+        p: [
+          "Employment claims run to strict time limits, and a firm that makes that plain is doing something genuinely useful rather than manufacturing urgency.",
+          "It is also the one area where urgency in the copy is honest, because it reflects a real deadline rather than a marketing device.",
+        ],
+      },
+    ],
+    related: ["solicitors", "accountants", "health-and-safety-consultants"],
+  },
+  {
+    slug: "wills-and-estate-planning-marketing",
+    title: "Reaching people about a will before they need one",
+    description:
+      "Nobody searches for a will until something prompts them. The prompts are predictable, and almost no Irish firm markets around them.",
+    date: "2026-09-30",
+    minutes: 5,
+    intro:
+      "Making a will is the classic deferred decision. Everyone intends to, almost nobody does it spontaneously, and the ones who finally act have nearly always been prompted by something. Those prompts are predictable, which makes this one of the few legal services that can genuinely be marketed rather than merely waited for.",
+    sections: [
+      {
+        h: "The prompts are the campaign",
+        p: [
+          "A death in the family, a new baby, buying a house, a diagnosis, a milestone birthday, emigrating, or going through somebody else's estate and resolving never to leave that behind.",
+          "Content written for each of those moments reaches people at the point they are actually receptive, rather than shouting at everyone else.",
+        ],
+      },
+      {
+        h: "Probate work feeds it directly",
+        p: [
+          "Almost everybody who administers an estate resolves to sort their own affairs out. They have just seen exactly what happens when it is not done.",
+          "A firm handling probate is sitting beside the most motivated will clients it will ever meet, and most never mention it. A gentle note once matters have concluded is appropriate and effective.",
+        ],
+      },
+      {
+        h: "Answer the questions that stop people",
+        p: [
+          "Whether they need a solicitor at all, what happens if there is no will, whether a will made abroad counts, what happens to a house in joint names, how to appoint a guardian.",
+          "These get searched heavily and answered badly. Plain answers rank, and they demonstrate the patience somebody wants from the person handling this.",
+        ],
+      },
+      {
+        h: "Keep the tone light, not morbid",
+        p: [
+          "This is an administrative task with an emotional shadow. Treating it as ordinary and manageable — something that takes one appointment and then is done — removes most of the reluctance.",
+          "Heavy imagery and talk of legacy makes people close the tab.",
+        ],
+      },
+      {
+        h: "It is the start of a longer relationship",
+        p: [
+          "A will client becomes a conveyancing client, a probate client and frequently an introduction to the rest of their family.",
+          "That changes what the first instruction is worth, and it is the argument for treating a small piece of work as something to be sought rather than fitted in.",
+        ],
+      },
+    ],
+    related: ["solicitors", "financial-advisors", "funeral-directors"],
+  },
 ];
 
 export const postBySlug = (slug: string) => posts.find((p) => p.slug === slug);

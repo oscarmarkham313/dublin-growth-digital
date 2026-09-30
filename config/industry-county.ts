@@ -3104,6 +3104,449 @@ export const industryCounty: IndustryCounty[] = [
       PRICE_FAQ,
     ],
   },
+  {
+    industry: "solicitors",
+    county: "dublin",
+    industryLabel: "solicitors",
+    countyName: "Dublin",
+    title: "Solicitor Marketing Dublin | Enquiries for Dublin Law Firms",
+    description:
+      "Marketing for Dublin solicitors: the most contested legal market in Ireland, where a general practice competes with firms that do one thing.",
+    h1: "Solicitor marketing in Dublin, where general practice struggles.",
+    intro: [
+      "Dublin has the deepest concentration of legal firms in the country, and the ones winning online are rarely the general practices. They are the firms that are visibly the specialist in one area, because that is how people search.",
+      "Somebody does not look for a solicitor. They look for help with a separation, a house purchase, an estate, or a dispute with an employer, and the firm that appears to do that specific thing wins the enquiry.",
+    ],
+    sections: [
+    {
+      heading: "Specialisation beats breadth in search",
+      body: [
+        "A page listing eleven practice areas ranks for none of them properly and convinces nobody that you are the right choice for any single one.",
+        "A firm that does all eleven can still present them as eleven separate, substantial pages, each written for the person with that specific problem. That is the difference between a brochure and something that actually gets found.",
+        "This is the most common structural weakness in Dublin legal websites, and it is entirely fixable without changing what the firm does.",
+      ],
+    },
+    {
+      heading: "Commercial work is a relationship, not a search",
+      body: [
+        "Corporate and commercial instructions come from accountants, brokers, other firms and existing clients. They rarely come from an advertisement.",
+        "What the website does there is confirm a decision somebody has already been nudged towards. It needs to look like the firm the referrer said it was — which means substance, named people and real credentials rather than a stock photograph of a handshake.",
+      ],
+    },
+    {
+      heading: "The restricted area is not the whole business",
+      body: [
+        "Irish law limits how firms may advertise services relating to personal injuries, and that rules out a category many firms would otherwise lead with.",
+        "It does not touch conveyancing, probate, wills, family, employment or commercial work, and those are where the searchable demand actually sits. A Dublin firm that builds its marketing around them is not constrained in any meaningful way.",
+      ],
+    },
+    {
+      heading: "Clicks are expensive, so the follow-through has to work",
+      body: [
+        "Legal search terms in Dublin are among the dearest in any sector. Paying for them and then taking three days to respond is the most expensive habit in the profession.",
+        "Before increasing spend, find out what currently happens to an enquiry that arrives at five on a Friday. In most firms the answer explains the conversion rate.",
+      ],
+    },
+    ],
+    towns: [
+      "Dublin city",
+      "Rathmines",
+      "Ranelagh",
+      "Blackrock",
+      "Dún Laoghaire",
+      "Clontarf",
+      "Swords",
+      "Castleknock",
+      "Tallaght",
+      "Lucan",
+      "Malahide",
+      "Terenure",
+    ],
+    faqs: [
+      {
+        q: "Why do general practices struggle online in Dublin?",
+        a: "Because people search for a specific problem, not for a solicitor. A page listing eleven practice areas ranks for none of them properly.",
+      },
+      {
+        q: "Can a full-service firm still compete?",
+        a: "Yes, by presenting each area as its own substantial page written for the person with that problem. It changes the marketing, not the firm.",
+      },
+      {
+        q: "Does the advertising restriction limit us much?",
+        a: "Only in one category. Conveyancing, probate, wills, family, employment and commercial work are where the searchable demand is, and none of it is affected.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "solicitors",
+    county: "kildare",
+    industryLabel: "solicitors",
+    countyName: "Kildare",
+    title: "Solicitor Marketing Kildare | Enquiries for Kildare Law Firms",
+    description:
+      "Marketing for Kildare solicitors: conveyancing volume from new estates, first-time buyers who have never done this, and referral relationships.",
+    h1: "Solicitor marketing in Kildare, built on the conveyancing pipeline.",
+    intro: [
+      "Kildare has had sustained house building and a steady flow of first-time buyers, which makes conveyancing the engine of a great many practices in the county.",
+      "Those clients are unusual in one important way: most of them have never bought a house before. They do not know what a solicitor does in the process, how long it takes, or what will be asked of them, and the firm that explains it clearly wins a disproportionate share of them.",
+    ],
+    sections: [
+    {
+      heading: "Write for somebody who has never done this",
+      body: [
+        "Contracts, searches, requisitions, closing — a first-time buyer knows none of these words and is frequently too embarrassed to ask.",
+        "A plain-English page setting out the stages, roughly how long each takes and what the client has to supply is genuinely useful and almost nonexistent on Irish legal websites. It also ranks, because it matches what people actually type.",
+        "It doubles as a filter: clients who arrive having read it ask better questions and take less handling.",
+      ],
+    },
+    {
+      heading: "Referrals decide more than search does",
+      body: [
+        "Estate agents, mortgage brokers and builders all get asked to recommend a solicitor, and they recommend whoever makes their own job easier.",
+        "That means being reachable, turning things around, and not being the reason a chain stalls. Those relationships are worth more than any campaign in this county, and they are maintained rather than bought.",
+        "A firm that wants more of them should say so directly to the people in a position to give them, which almost nobody does.",
+      ],
+    },
+    {
+      heading: "New-build purchases are a different process",
+      body: [
+        "Buying off plans from a developer runs differently from a second-hand purchase, with its own timelines, its own contract issues and its own supports for first-time buyers.",
+        "Kildare has a great deal of it, and a firm that addresses it specifically will out-rank one with a single generic conveyancing page every time.",
+      ],
+    },
+    {
+      heading: "Commuters cannot come in during the day",
+      body: [
+        "A large share of the county works in Dublin and leaves before eight. An enquiry sent at ten at night that gets a reply first thing feels like competence; one that waits four days feels like the opposite.",
+        "Response time is the most under-rated marketing asset in this profession, and in a commuter county it decides more instructions than anything on the website.",
+      ],
+    },
+    ],
+    towns: [
+      "Naas",
+      "Newbridge",
+      "Maynooth",
+      "Celbridge",
+      "Leixlip",
+      "Clane",
+      "Sallins",
+      "Kildare town",
+      "Athy",
+      "Kilcock",
+      "Monasterevin",
+      "Rathangan",
+    ],
+    faqs: [
+      {
+        q: "What wins conveyancing work in Kildare?",
+        a: "Explaining the process to people who have never bought a house, and being the firm estate agents and brokers find easy to deal with. Referrals decide more than search does.",
+      },
+      {
+        q: "Is new-build conveyancing different?",
+        a: "Yes, and Kildare has a lot of it. Different timelines, different contract issues and its own first-time-buyer supports, so it deserves its own page.",
+      },
+      {
+        q: "How much does response time matter?",
+        a: "More than anything on the website. A commuter who emails at ten at night and hears back first thing has already decided you are competent.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "solicitors",
+    county: "cork",
+    industryLabel: "solicitors",
+    countyName: "Cork",
+    title: "Solicitor Marketing Cork | Enquiries for Cork Law Firms",
+    description:
+      "Marketing for Cork solicitors: an established legal community where instructions move by referral, and a commercial base worth competing for.",
+    h1: "Solicitor marketing in Cork, where reputation is already allocated.",
+    intro: [
+      "Cork has a long-established legal community with firms that have held the same client relationships for decades. Instructions move by referral and by reputation, and a newer or smaller firm can find the door effectively closed.",
+      "Search is the way around that. Somebody with a problem and no family solicitor does exactly what everybody else does, and that is the opening.",
+    ],
+    sections: [
+    {
+      heading: "Search reaches the clients referral cannot",
+      body: [
+        "People who have moved to Cork, people whose family solicitor has retired, people dealing with something they would rather not discuss with anyone they know — none of them are getting a recommendation.",
+        "That is a substantial and growing share of the market, and it is decided almost entirely by what somebody finds and reads. It is the part of the Cork market that is genuinely winnable.",
+      ],
+    },
+    {
+      heading: "The commercial base is real and under-served",
+      body: [
+        "Cork has a significant manufacturing, pharmaceutical and technology presence, and a supporting economy of suppliers and contractors who need employment advice, commercial contracts and dispute work.",
+        "Most of that is handled by a handful of firms, and most of those firms market themselves barely at all. A firm with genuine commercial capability and a website that demonstrates it is competing in an unusually quiet field.",
+      ],
+    },
+    {
+      heading: "The county is not one catchment",
+      body: [
+        "Cork city and the suburbs behave one way. The harbour towns are commuter and conveyancing-heavy. West Cork is rural, scattered, and full of property with complicated title.",
+        "West Cork also has a large second-home and returning-owner population who arrange matters remotely and choose on what they can find. That is a distinct opportunity and it is not served by a city-focused message.",
+      ],
+    },
+    {
+      heading: "Being findable is most of it",
+      body: [
+        "In a market where the established firms rely on relationships, simply being the firm that appears and answers is a stronger position than it sounds.",
+        "Reviews matter here for the same reason they matter for every Cork business: word of mouth is the local currency and reviews are its online form.",
+      ],
+    },
+    ],
+    towns: [
+      "Cork city",
+      "Douglas",
+      "Ballincollig",
+      "Carrigaline",
+      "Midleton",
+      "Mallow",
+      "Bandon",
+      "Kinsale",
+      "Clonakilty",
+      "Skibbereen",
+      "Youghal",
+      "Fermoy",
+    ],
+    faqs: [
+      {
+        q: "How does a newer Cork firm break in?",
+        a: "Through search. People who have moved here, whose family solicitor retired, or who would rather not ask anyone they know are not getting a referral, and that is a growing share of the market.",
+      },
+      {
+        q: "Is commercial work worth pursuing?",
+        a: "Cork has a substantial commercial base and very few firms market to it seriously. A firm with real capability and a site that shows it is competing in a quiet field.",
+      },
+      {
+        q: "Should west Cork have its own message?",
+        a: "Yes. Complicated title, second homes and owners arranging matters remotely make it a distinct market that a city-focused page does not serve.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "solicitors",
+    county: "galway",
+    industryLabel: "solicitors",
+    countyName: "Galway",
+    title: "Solicitor Marketing Galway | Enquiries for Galway Law Firms",
+    description:
+      "Marketing for Galway solicitors: agricultural land and succession across the county, and a university city with entirely different needs.",
+    h1: "Solicitor marketing in Galway, land in the county and life in the city.",
+    intro: [
+      "Galway is two legal markets. The county is agricultural, with land transfers, succession, rights of way and title questions that go back generations. The city is young, transient and commercial, with employment matters, tenancy disputes and start-up work.",
+      "A single firm may serve both perfectly well. A single message will not, because the two clients have nothing in common.",
+    ],
+    sections: [
+    {
+      heading: "Land and succession is specialist work that people search for",
+      body: [
+        "Transferring a farm between generations, sorting out title that was never properly registered, rights of way, and the tax and Fair Deal considerations that sit alongside them.",
+        "These are complicated, high-value matters and families put them off for years, largely because they do not know where to start. Content that explains the process plainly reaches people at exactly the moment they finally decide to deal with it.",
+        "Very few Irish firms write about it properly, and it is not a category anyone else is competing for on search.",
+      ],
+    },
+    {
+      heading: "The city market is younger and more transactional",
+      body: [
+        "Employment issues, tenancy problems, and advice for people starting something. Lower value per matter, higher volume, and decided fast on whoever looks approachable and answers.",
+        "That needs a different tone from the succession work — shorter, plainer, less formal — and its own pages.",
+      ],
+    },
+    {
+      heading: "Plain language is a genuine differentiator",
+      body: [
+        "Legal websites in Ireland are written for other solicitors. The client reading them is anxious and frequently out of their depth.",
+        "A firm that writes the way it would speak to somebody across a desk will out-convert a more prestigious firm that writes in the third person about its commitment to excellence.",
+      ],
+    },
+    {
+      heading: "Distance shapes the county market",
+      body: [
+        "Connemara and east Galway are long drives, and clients there will choose somebody reachable unless the matter is specialist enough to justify the journey.",
+        "That is the argument for specialising visibly: the further you want clients to travel, the more specific the reason has to be.",
+      ],
+    },
+    ],
+    towns: [
+      "Galway city",
+      "Salthill",
+      "Oranmore",
+      "Tuam",
+      "Ballinasloe",
+      "Loughrea",
+      "Athenry",
+      "Gort",
+      "Clifden",
+      "Moycullen",
+      "Headford",
+      "Portumna",
+    ],
+    faqs: [
+      {
+        q: "What is the specialist opportunity in Galway?",
+        a: "Land and succession. Farm transfers, unregistered title and rights of way are high-value matters families put off for years, and almost nobody writes about them clearly.",
+      },
+      {
+        q: "Does the city need a separate approach?",
+        a: "Yes. Employment, tenancy and start-up work is younger, faster and lower value per matter. It needs a different tone and its own pages.",
+      },
+      {
+        q: "What converts best on a legal website?",
+        a: "Plain language. Most Irish legal sites are written for other solicitors, and the anxious client reading them is not one.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "solicitors",
+    county: "mayo",
+    industryLabel: "solicitors",
+    countyName: "Mayo",
+    title: "Solicitor Marketing Mayo | Enquiries for Mayo Law Firms",
+    description:
+      "Marketing for Mayo solicitors: farm succession, title that was never tidied up, and probate arranged by families living abroad.",
+    h1: "Solicitor marketing in Mayo, for families who are not here.",
+    intro: [
+      "A great deal of Mayo legal work involves somebody who does not live in Mayo. Estates after a bereavement, land being divided between siblings who emigrated, houses inherited by people in Dublin or Britain or further away.",
+      "Those clients cannot call into the office and have no current local knowledge. They search, they read, and they instruct a firm they have never met.",
+    ],
+    sections: [
+    {
+      heading: "The remote client decides on your website",
+      body: [
+        "No family solicitor, no recommendation, no ability to meet three firms. What they can assess is whether the site explains the process, whether it looks like a firm that will keep them informed, and whether anybody replies.",
+        "Setting out plainly how an estate is administered, roughly how long it takes and what the firm will need from them does more to win that instruction than anything else available. Most Irish legal websites say almost nothing about it.",
+      ],
+    },
+    {
+      heading: "Probate work needs a different register",
+      body: [
+        "This client has been bereaved, is frequently one of several siblings who do not entirely agree, and is dealing with a legal process at the worst possible time.",
+        "Marketing that treats it as a transaction reads badly. Content that is calm, patient and practical is both the right tone and by some distance the most effective, and it is what somebody searches for at eleven at night after being appointed executor.",
+      ],
+    },
+    {
+      heading: "Land and title is the other half",
+      body: [
+        "Farm succession, transfers between generations, folios that were never brought up to date, rights of way nobody wrote down. Slow, valuable work that families defer for years.",
+        "A firm that explains where to start on it will hear from people who have been meaning to sort it out for a decade.",
+      ],
+    },
+    {
+      heading: "Three towns, three catchments",
+      body: [
+        "Castlebar, Ballina and Westport each serve their own area, and proximity decides most local searching. Ranking across the county is not realistic; owning your own town is.",
+        "The remote-client work is the exception, because for an executor in Boston proximity means nothing and the website means everything.",
+      ],
+    },
+    ],
+    towns: [
+      "Castlebar",
+      "Ballina",
+      "Westport",
+      "Claremorris",
+      "Ballinrobe",
+      "Swinford",
+      "Knock",
+      "Belmullet",
+      "Foxford",
+      "Charlestown",
+      "Newport",
+      "Kiltimagh",
+    ],
+    faqs: [
+      {
+        q: "Why does the website matter so much in Mayo?",
+        a: "Because a large share of clients live elsewhere — estates, inherited property, land being divided between siblings who emigrated. They instruct a firm they have never met.",
+      },
+      {
+        q: "How should probate be marketed?",
+        a: "Calmly and practically. The client is bereaved, often one of several siblings, dealing with a legal process at the worst time. Transactional marketing reads badly.",
+      },
+      {
+        q: "Can we rank across the county?",
+        a: "Not for local searches — proximity decides those and Mayo is too big. The exception is remote clients, where the website is the whole decision.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "solicitors",
+    county: "donegal",
+    industryLabel: "solicitors",
+    countyName: "Donegal",
+    title: "Solicitor Marketing Donegal | Enquiries for Donegal Law Firms",
+    description:
+      "Marketing for Donegal solicitors: matters that cross the border, land and title questions, and a county that takes a day to drive across.",
+    h1: "Solicitor marketing in Donegal, where the border is a practice area.",
+    intro: [
+      "Donegal sits against a border, and a great deal of ordinary life there crosses it. People live in the county and work in the north, own property on both sides, marry across it and inherit across it.",
+      "That produces legal questions with two jurisdictions in them, and a firm that is visibly comfortable with that has something genuinely distinctive to say.",
+    ],
+    sections: [
+    {
+      heading: "Cross-border matters are a real and searchable specialism",
+      body: [
+        "Property with a title history on the other side, employment under a different regime, family matters where the parties live in two jurisdictions, estates with assets in both.",
+        "People with these problems search for exactly them, and they find almost nothing written clearly by an Irish firm. It is an unusually open field for content that explains what is actually involved.",
+        "It is also work that does not come by referral, because most people's local network does not know who handles it.",
+      ],
+    },
+    {
+      heading: "Distance decides the local catchment",
+      body: [
+        "Letterkenny, Inishowen and the southwest of the county are separate practical catchments. Somebody with a routine matter will choose a firm they can reach.",
+        "For specialist work they will travel, which is the argument for being visibly the specialist in something rather than the generalist nearest to them.",
+      ],
+    },
+    {
+      heading: "Emigration shapes the probate work",
+      body: [
+        "Donegal has sent people abroad for generations, and estates are frequently administered for or by relatives in Britain, North America or Australia.",
+        "Those clients need process explained, updates that arrive without being chased, and a firm comfortable working entirely at a distance. Saying so on the website wins instructions that would otherwise go to whoever a cousin happened to recommend.",
+      ],
+    },
+    {
+      heading: "Land and title work sits underneath everything",
+      body: [
+        "Unregistered folios, rights of way, transfers that were never completed properly, family arrangements agreed at a kitchen table forty years ago.",
+        "It is slow, valuable, deferred work, and the firm that explains where to begin is the one people finally ring.",
+      ],
+    },
+    ],
+    towns: [
+      "Letterkenny",
+      "Buncrana",
+      "Ballybofey",
+      "Donegal town",
+      "Bundoran",
+      "Carndonagh",
+      "Killybegs",
+      "Moville",
+      "Dungloe",
+      "Ballyshannon",
+      "Lifford",
+      "Gweedore",
+    ],
+    faqs: [
+      {
+        q: "Is cross-border work worth marketing?",
+        a: "It is the distinctive opportunity here. People search for exactly those problems and find almost nothing written clearly by an Irish firm, and it does not arrive by referral.",
+      },
+      {
+        q: "Should we advertise across the whole county?",
+        a: "For routine matters, no — people choose a firm they can reach, and Letterkenny, Inishowen and the southwest are separate catchments. For specialist work they will travel.",
+      },
+      {
+        q: "What about clients abroad?",
+        a: "Emigration means many estates are administered from Britain or North America. Those clients need the process explained and updates that arrive without chasing.",
+      },
+      PRICE_FAQ,
+    ],
+  },
 ];
 
 export const industryCountyFor = (industry: string) =>
