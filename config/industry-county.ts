@@ -3547,6 +3547,373 @@ export const industryCounty: IndustryCounty[] = [
       PRICE_FAQ,
     ],
   },
+  {
+    industry: "garage-conversions",
+    county: "dublin",
+    industryLabel: "garage conversion specialists",
+    countyName: "Dublin",
+    title: "Garage Conversion Leads Dublin | Marketing That Gets Surveys",
+    description:
+      "Lead generation for Dublin garage conversion specialists: families who cannot extend and cannot afford to move, in the country's densest housing stock.",
+    h1: "Garage conversion leads in Dublin, where moving is not an option.",
+    intro: [
+      "Dublin is the core market for this work in Ireland and the reason is arithmetic. Families outgrow houses they cannot afford to trade up from, gardens are too small to extend into, and there is an attached garage sitting there holding bicycles.",
+      "That makes the pitch unusually easy, because the customer has usually already done the sums on moving and found them impossible. What they need is to be shown the alternative is real.",
+    ],
+    sections: [
+    {
+      heading: "Sell against moving, not against an extension",
+      body: [
+        "The competitor here is not another builder. It is the idea of trading up, and the idea of doing nothing for another year.",
+        "Content that sets the conversion against the full cost of moving — stamp duty, fees, the difference in house price, the disruption — does more work than anything about the build itself. Most people have never seen it laid out side by side.",
+        "It also brings people in much earlier, at the point where they are still browsing property listings rather than looking for a builder.",
+      ],
+    },
+    {
+      heading: "The 1960s to 1990s semi is the whole market",
+      body: [
+        "Vast areas of Dublin are estates of the same handful of house types with the same attached garage in the same position. Once you have converted one, you have effectively solved every other house on that road.",
+        "That is a genuine efficiency and a marketing advantage: photographs of a house somebody recognises as theirs are far more persuasive than a generic finished room.",
+      ],
+    },
+    {
+      heading: "Parking is the objection nobody addresses",
+      body: [
+        "Losing the garage means losing off-street parking in a city where that matters, and in some areas it matters a great deal.",
+        "Addressing it directly — what happens to the driveway, whether the door opening is bricked up or glazed, what most people actually do — removes the hesitation that stalls these projects. Almost no competitor mentions it.",
+      ],
+    },
+    {
+      heading: "Planning is the first search and the first fear",
+      body: [
+        "People assume it will be complicated and expensive, and that assumption stops a lot of projects before they start.",
+        "Explaining what genuinely determines the answer, honestly and without turning it into a lead-capture trick, is the strongest content position available in this niche.",
+      ],
+    },
+    ],
+    towns: [
+      "Rathfarnham",
+      "Templeogue",
+      "Clontarf",
+      "Raheny",
+      "Swords",
+      "Malahide",
+      "Castleknock",
+      "Lucan",
+      "Tallaght",
+      "Dundrum",
+      "Santry",
+      "Blanchardstown",
+    ],
+    faqs: [
+      {
+        q: "Who is the real competitor?",
+        a: "Moving house, and doing nothing for another year. Setting the conversion against the full cost of trading up does more than anything about the build itself.",
+      },
+      {
+        q: "Why is Dublin the core market?",
+        a: "Families who cannot afford to trade up, gardens too small to extend into, and an attached garage already there. The arithmetic makes the pitch.",
+      },
+      {
+        q: "What objection gets missed?",
+        a: "Parking. Losing off-street parking matters in Dublin, and almost no competitor addresses what happens to the driveway or the door opening.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "garage-conversions",
+    county: "kildare",
+    industryLabel: "garage conversion specialists",
+    countyName: "Kildare",
+    title: "Garage Conversion Leads Kildare | Marketing for Conversions",
+    description:
+      "Lead generation for Kildare garage conversion specialists: commuter estates where the garage never held a car and the home office is the job.",
+    h1: "Garage conversion leads in Kildare, where the office is the job.",
+    intro: [
+      "Kildare is full of estate houses built with an attached garage that has never once had a car in it. It holds a freezer, a lawnmower and the things that came out of the last house.",
+      "It is also full of households where at least one person now works from home some of the week and is doing it at the kitchen table. Those two facts meet in the middle and that is the entire market.",
+    ],
+    sections: [
+    {
+      heading: "Sell the home office, not the conversion",
+      body: [
+        "Somebody searching for a garage conversion is already halfway convinced. Somebody searching for a home office has the problem but has not yet found the solution, and there are far more of them.",
+        "A page built around working from home — sound, heating, the broadband, a door that closes, not being in the kitchen — reaches people earlier and faces almost no competition.",
+      ],
+    },
+    {
+      heading: "The estate is the unit, not the county",
+      body: [
+        "Kildare's housing is concentrated in large estates of repeating house types. Convert one and the next quote on that road takes minutes.",
+        "Advertising platforms will target an area that small, and a message naming the estate and the house type converts at a rate county-level targeting never will.",
+      ],
+    },
+    {
+      heading: "Growing families are the other half",
+      body: [
+        "A third child, a teenager who needs their own room, or a parent moving in. The house does not work any more and trading up in the commuter belt is expensive.",
+        "Downstairs bedrooms and playrooms are a different message from the home office and deserve their own page. The buyer is the same household at a different moment.",
+      ],
+    },
+    {
+      heading: "Commuters research at night and decide slowly",
+      body: [
+        "Nobody is ringing during the working day. The enquiry arrives at ten in the evening after a conversation at the kitchen table, and it has usually been building for months.",
+        "That rewards content, photographs and a follow-up that runs over weeks rather than a campaign built for urgency.",
+      ],
+    },
+    ],
+    towns: [
+      "Naas",
+      "Newbridge",
+      "Maynooth",
+      "Celbridge",
+      "Leixlip",
+      "Clane",
+      "Sallins",
+      "Kildare town",
+      "Kilcock",
+      "Athy",
+      "Monasterevin",
+      "Rathangan",
+    ],
+    faqs: [
+      {
+        q: "What should we actually advertise?",
+        a: "The home office. Somebody searching for a garage conversion is already half convinced; somebody searching for a home office has the problem and has not found the solution yet.",
+      },
+      {
+        q: "How small should the targeting be?",
+        a: "Estate level. Kildare's housing repeats in large estates, so convert one house and the next quote on that road takes minutes.",
+      },
+      {
+        q: "When do enquiries arrive?",
+        a: "At night, after a kitchen-table conversation that has been building for months. It rewards content and patient follow-up, not urgency.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "garage-conversions",
+    county: "cork",
+    industryLabel: "garage conversion specialists",
+    countyName: "Cork",
+    title: "Garage Conversion Leads Cork | Marketing for Cork Conversions",
+    description:
+      "Lead generation for Cork garage conversion specialists: suburban stock with the space to convert, and economics that differ from Dublin's.",
+    h1: "Garage conversion leads in Cork, where the sums work differently.",
+    intro: [
+      "Cork has the second-largest suburban housing stock in the country and plenty of attached garages sitting unused. What it does not have is Dublin's property prices, and that changes the decision.",
+      "Where a Dublin family converts because moving is impossible, a Cork family is genuinely weighing the conversion against extending, against moving, and against leaving it another year. The pitch has to acknowledge that rather than assume it.",
+    ],
+    sections: [
+    {
+      heading: "You are competing with an extension here",
+      body: [
+        "Cork's suburban gardens are more often big enough to build into, which means the conversion is one option rather than the only one.",
+        "Be honest about when each makes sense. A page that says plainly which situations suit a conversion and which suit an extension builds far more trust than one that claims conversion is always better, and it brings you the projects that genuinely fit.",
+        "It also wins you the extension enquiries if you do both, which most firms in this space quietly do.",
+      ],
+    },
+    {
+      heading: "The city and the commuter towns differ",
+      body: [
+        "Cork city suburbs have older, denser stock with smaller plots. Carrigaline, Midleton, Ballincollig and the harbour towns are newer estates with garages that were never used as garages.",
+        "Same trade, different reason for converting, and they respond to different messages. The newer estates are the home-office and growing-family market; the older suburbs are the space-constrained one.",
+      ],
+    },
+    {
+      heading: "Show Cork houses",
+      body: [
+        "A homeowner needs to recognise their own house before they can picture the room. A portfolio of Dublin semis does not do that for somebody in Douglas.",
+        "Photographs of local conversions, with the before shot, are worth more than any amount of copy in a market this visual.",
+      ],
+    },
+    {
+      heading: "West Cork is a different question entirely",
+      body: [
+        "Out the county, properties have outbuildings, sheds and room to build. Garage conversion is not the obvious answer there and marketing it as though it were wastes the budget.",
+        "Concentrate on the city and the commuter belt, where the housing type actually supports the work.",
+      ],
+    },
+    ],
+    towns: [
+      "Cork city",
+      "Douglas",
+      "Ballincollig",
+      "Carrigaline",
+      "Midleton",
+      "Glanmire",
+      "Blarney",
+      "Bishopstown",
+      "Cobh",
+      "Mallow",
+      "Passage West",
+      "Togher",
+    ],
+    faqs: [
+      {
+        q: "How is Cork different from Dublin?",
+        a: "Property is cheaper and gardens are often bigger, so a conversion competes with extending and with moving rather than being the only option.",
+      },
+      {
+        q: "Should we market in west Cork?",
+        a: "Not for this work. Properties there have outbuildings and room to build, so the housing type does not support it and the budget is better spent on the city and commuter belt.",
+      },
+      {
+        q: "What sells best?",
+        a: "Photographs of Cork houses, with the before shot. People need to recognise their own house before they can picture the room.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "garage-conversions",
+    county: "galway",
+    industryLabel: "garage conversion specialists",
+    countyName: "Galway",
+    title: "Garage Conversion Leads Galway | Marketing for Conversions",
+    description:
+      "Lead generation for Galway garage conversion specialists: a rental-squeezed city where conversions create lettable rooms, not just family space.",
+    h1: "Garage conversion leads in Galway, where a room can pay for itself.",
+    intro: [
+      "Galway city has sustained pressure on rental accommodation and a large student and young-professional population competing for it. That gives garage conversion a second motive that barely exists elsewhere: the room can generate income.",
+      "A conversion that creates a lettable bedroom or a self-contained space is a different proposition from one that creates a playroom, and it is bought for different reasons by different people.",
+    ],
+    sections: [
+    {
+      heading: "The income argument changes the customer",
+      body: [
+        "A homeowner converting for family space is spending money. One converting to let a room is making an investment, and that is a completely different conversation with a completely different objection set.",
+        "Content that addresses it honestly — what is involved, what the practical considerations are around a separate entrance and facilities, what it means for the rest of the house — reaches an audience nobody else in this trade is speaking to.",
+      ],
+    },
+    {
+      heading: "Be careful and accurate about what is involved",
+      body: [
+        "Creating habitable, lettable accommodation brings requirements that a playroom does not, and the specifics depend on the property and what is being created.",
+        "The right position is to be knowledgeable and straightforward about that rather than to gloss over it. Customers who find out later feel misled, and in a city this size that travels.",
+      ],
+    },
+    {
+      heading: "The city and the county are separate markets",
+      body: [
+        "Galway city and the immediate suburbs have the housing stock and the motive. East Galway and Connemara have space, outbuildings and no rental pressure.",
+        "Concentrate where the work actually exists rather than spreading a small budget across a large county.",
+      ],
+    },
+    {
+      heading: "Family conversions are still the larger half",
+      body: [
+        "The income angle is the distinctive opportunity, not the whole market. Most Galway conversions are still a family needing another room.",
+        "Two messages, two pages, and let the campaign data show which the county actually rewards.",
+      ],
+    },
+    ],
+    towns: [
+      "Galway city",
+      "Salthill",
+      "Knocknacarra",
+      "Renmore",
+      "Oranmore",
+      "Barna",
+      "Moycullen",
+      "Bearna",
+      "Claregalway",
+      "Athenry",
+      "Tuam",
+      "Loughrea",
+    ],
+    faqs: [
+      {
+        q: "What is different about Galway?",
+        a: "Rental pressure gives a conversion a second motive: the room can generate income. That is a different customer from a family needing a playroom.",
+      },
+      {
+        q: "Should we market the letting angle?",
+        a: "Yes, but accurately. Creating habitable lettable space brings requirements a playroom does not, and glossing over that travels badly in a city this size.",
+      },
+      {
+        q: "Is the whole county worth targeting?",
+        a: "No. The city and immediate suburbs have the housing stock and the motive. Out the county there is space and outbuildings instead.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "garage-conversions",
+    county: "limerick",
+    industryLabel: "garage conversion specialists",
+    countyName: "Limerick",
+    title: "Garage Conversion Leads Limerick | Marketing for Conversions",
+    description:
+      "Lead generation for Limerick garage conversion specialists: an under-contested market where the conversion has to earn its place against moving.",
+    h1: "Garage conversion leads in Limerick, where you argue the value.",
+    intro: [
+      "Limerick has plenty of suburban housing with attached garages and very few firms marketing this work seriously. The field is unusually quiet.",
+      "It is also a market where property is more affordable than the east coast, which means the customer genuinely could move instead. The conversion has to be argued on its merits rather than presented as the only option.",
+    ],
+    sections: [
+    {
+      heading: "The value argument has to be made explicitly",
+      body: [
+        "Where trading up is realistic, a conversion competes with it directly. Saying nothing about that leaves the customer to make the comparison alone, usually badly and usually against you.",
+        "Set it out: what the conversion delivers, what it costs to move by the time everything is counted, and what each does to the house. Customers respect the firm that raises it before they do.",
+      ],
+    },
+    {
+      heading: "Very little competition online",
+      body: [
+        "Limerick is among the quietest markets in Ireland for this trade. Competitor websites are thin, few are running search campaigns, and the standard to beat is low.",
+        "That makes it cheap to become the obvious choice, and it is worth doing properly now rather than when somebody else notices.",
+      ],
+    },
+    {
+      heading: "Lead with the use, not the trade",
+      body: [
+        "Home office, downstairs bedroom, gym, playroom, utility. Those are what people search for, and in a market this quiet you can own several of them rather than fighting for the generic term.",
+        "Each deserves its own page, because the person searching for a gym and the person searching for a downstairs bedroom are solving different problems.",
+      ],
+    },
+    {
+      heading: "Cheap clicks hide waste",
+      body: [
+        "Limerick is inexpensive to advertise in, which sounds purely good and is not. At low prices a badly targeted campaign can run for a year without anyone noticing it produces nothing.",
+        "Negatives, tight locations and call tracking matter as much here as anywhere; they just feel less urgent, which is why they get skipped.",
+      ],
+    },
+    ],
+    towns: [
+      "Limerick city",
+      "Castletroy",
+      "Dooradoyle",
+      "Raheen",
+      "Annacotty",
+      "Corbally",
+      "Mungret",
+      "Adare",
+      "Newcastle West",
+      "Castleconnell",
+      "Patrickswell",
+      "Caherdavin",
+    ],
+    faqs: [
+      {
+        q: "Why does the value argument matter more here?",
+        a: "Because property is more affordable, so moving is a realistic alternative. Raise the comparison before the customer does and you keep control of it.",
+      },
+      {
+        q: "How contested is Limerick?",
+        a: "Among the quietest markets in Ireland for this trade. Competitor sites are thin and few run search campaigns, so the standard to beat is low.",
+      },
+      {
+        q: "What should we target?",
+        a: "The use rather than the trade — home office, downstairs bedroom, gym, playroom. In a market this quiet you can own several of them.",
+      },
+      PRICE_FAQ,
+    ],
+  },
 ];
 
 export const industryCountyFor = (industry: string) =>

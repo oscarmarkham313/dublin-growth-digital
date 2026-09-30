@@ -2534,6 +2534,70 @@ export const industrySeo: IndustrySeo[] = [
       ...COMMON_FAQS,
     ],
   },
+  {
+    slug: "garage-conversions",
+    label: "garage conversion specialists",
+    title: "SEO for Garage Conversions | Get Found by Homeowners",
+    description:
+      "SEO for Irish garage conversion specialists: a long considered purchase, image-led search, and the planning question everybody asks first.",
+    h1: "SEO for garage conversions, where the research comes first.",
+    intro: [
+      "Nobody converts a garage urgently. It is a considered decision that takes months, starts with a family running out of room, and is researched heavily before anybody rings a builder. That makes this one of the few trades where content genuinely outperforms the map pack.",
+      "The searches are questions rather than emergencies, and the business that answers them is in the conversation from the beginning rather than arriving at the quote stage against two others.",
+    ],
+    sections: [
+      {
+        heading: "The planning question comes before anything else",
+        body: [
+          "Almost every homeowner considering this asks the same thing first: do I need planning permission. It is the single most searched aspect of garage conversion in Ireland and it is answered badly nearly everywhere, usually with a hedge and a phone number.",
+          "A page that explains what actually determines the answer, and says plainly that the specifics depend on the property, will out-rank and out-convert competitors who treat it as a lead-capture trick. It also filters out the people whose project was never viable.",
+        ],
+        list: [
+          {
+            title: "Answer it properly, then offer to check",
+            body: "The useful page explains the factors and then offers to look at their specific case. The useless one says 'contact us to find out'.",
+          },
+          {
+            title: "Cover the related questions too",
+            body: "Ceiling height, damp and floor levels, insulation, where the boiler goes, whether the door opening gets bricked up or glazed.",
+          },
+          {
+            title: "Say what it does to the house",
+            body: "Whether it adds value, whether losing the garage costs value, what it means for parking. People ask all three.",
+          },
+        ],
+      },
+      {
+        heading: "This is an image-led decision",
+        body: [
+          "A homeowner cannot picture their own garage as a room. Photographs of completed conversions -- ideally the before as well -- do more than any paragraph, because they answer the question the person is actually stuck on.",
+          "That makes image search and a properly captioned gallery worth real attention here, more than in most trades. It is also why generic stock interiors are actively counterproductive: they show a room that was never a garage.",
+        ],
+      },
+      {
+        heading: "Name the use, not just the conversion",
+        body: [
+          "People do not search for a garage conversion in the abstract. They search for a home office, a downstairs bedroom, a playroom, a gym, a granny flat or a utility room, because that is the problem they are solving.",
+          "Pages built around the use bring in people earlier in the decision and face far less competition than the generic term. It is the clearest ranking opportunity in this niche and almost nobody has taken it.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        q: "Does content really matter for this trade?",
+        a: "More than for most. It is a considered purchase researched over months, and the business that answers the early questions is in the conversation before anyone else is.",
+      },
+      {
+        q: "What is the most valuable page to write?",
+        a: "The planning one. It is the first thing everybody asks, it is answered badly almost everywhere, and doing it honestly filters out the projects that were never viable.",
+      },
+      {
+        q: "Why write about home offices rather than conversions?",
+        a: "Because that is what people search for. They are solving a problem, not buying a category, and those terms are far less contested.",
+      },
+      ...COMMON_FAQS,
+    ],
+  },
 ];
 
 export const industrySeoBySlug = (slug: string) =>

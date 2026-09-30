@@ -7647,6 +7647,408 @@ export const posts: Post[] = [
     ],
     related: ["solicitors", "financial-advisors", "funeral-directors"],
   },
+  {
+    slug: "sell-the-room-not-the-conversion",
+    title: "Nobody wants a garage conversion",
+    description:
+      "They want a home office, a downstairs bedroom or a playroom. Marketing the trade instead of the outcome is why this niche is so quiet.",
+    date: "2026-09-30",
+    minutes: 6,
+    intro:
+      "A homeowner does not wake up wanting a garage converted. They wake up with a problem: there is nowhere to work, the children are sharing a room, a parent is moving in, or the house has simply stopped fitting. The conversion is the answer to that problem, and marketing that leads with the answer instead of the problem reaches people far too late.",
+    sections: [
+      {
+        h: "The search terms are the giveaway",
+        p: [
+          "'Garage conversion' is searched by people who have already worked out what they want. 'Home office ideas', 'where to put a downstairs bedroom', 'running out of space' — those are searched by people who have not, and there are many more of them.",
+          "Owning the second group means being in the conversation months before a competitor who only appears when somebody searches the trade name.",
+        ],
+      },
+      {
+        h: "Build a page per use",
+        p: [
+          "Home office, downstairs bedroom, playroom, gym, utility and boot room, granny flat, music or hobby room. Each is a different person with a different worry.",
+          "The person wanting an office cares about noise, heating and a door that shuts. The person creating a downstairs bedroom is frequently thinking about an ageing parent and cares about access and a bathroom. Those are not the same page and should not pretend to be.",
+        ],
+        list: [
+          "Home office — sound, heat, light, broadband, a door that closes",
+          "Downstairs bedroom — access, proximity to a bathroom, privacy",
+          "Playroom — durability, storage, being able to see the kids",
+          "Gym — floor, ceiling height, ventilation, power",
+          "Granny flat — independence, access, what is actually involved",
+        ],
+      },
+      {
+        h: "The photographs have to match the use",
+        p: [
+          "A gallery of generic finished rooms proves nothing. A finished home office, clearly in a converted garage, with the before shot beside it, answers the exact question in the reader's head.",
+          "Caption them with the use, not just the address. It helps the reader and it helps the page appear for the search.",
+        ],
+      },
+      {
+        h: "It changes the ads as well",
+        p: [
+          "An advertisement showing a garage door is showing the problem. One showing a finished room somebody wants is showing the outcome, and outcome creative consistently outperforms in this trade.",
+          "Before-and-after pairs do both at once, which is why they work so well here.",
+        ],
+      },
+      {
+        h: "Why the field is open",
+        p: [
+          "Almost every firm in this niche in Ireland markets the trade rather than the outcome, which leaves the higher-volume, earlier-stage searches unclaimed.",
+          "It is the clearest ranking opportunity available in this category and it needs writing rather than budget.",
+        ],
+      },
+    ],
+    related: ["garage-conversions", "attic-conversions", "builders-and-extensions"],
+  },
+  {
+    slug: "the-planning-question-everyone-asks",
+    title: "Answer the planning question properly",
+    description:
+      "It is the first thing every homeowner searches and it is answered badly almost everywhere. Doing it honestly is the strongest content position in this trade.",
+    date: "2026-09-30",
+    minutes: 6,
+    intro:
+      "Before anybody rings a builder about a garage conversion they search one thing: whether they need planning permission. It is the single most-searched aspect of this work in Ireland, and nearly every specialist website handles it with a vague sentence and a contact form. That is a wasted opportunity and it is also why so many of these projects stall before they start.",
+    sections: [
+      {
+        h: "Explain what determines the answer",
+        p: [
+          "Not a yes or a no — it depends on the property, what is being created and what has already been done to the house. But the factors that decide it can be set out plainly, and almost nobody does.",
+          "A reader who finishes that page understanding why it depends is far better disposed to you than one who finishes it being told to get in touch.",
+        ],
+      },
+      {
+        h: "Do not use it as bait",
+        p: [
+          "'Contact us to find out if you need planning' is transparently a lead-capture trick and readers recognise it. It also attracts people who then discover their project is not straightforward, which wastes everyone's time.",
+          "Answer the general question, then offer to look at their specific case. The enquiries you get will be better qualified and considerably warmer.",
+        ],
+      },
+      {
+        h: "Cover the questions that come immediately after",
+        p: [
+          "Once planning is settled, people ask about ceiling height, floor levels, damp, insulation, where the boiler and the meters go, and what happens to the garage door opening.",
+          "Each is searched, each is answered badly elsewhere, and each is an opportunity to demonstrate that you do this constantly rather than occasionally.",
+        ],
+      },
+      {
+        h: "Be straight about when it will not work",
+        p: [
+          "Some garages are not suitable, and saying so publicly costs you nothing and earns a great deal. It signals that your advice is not simply whatever produces a sale.",
+          "It also saves the survey visits that were never going to become jobs, which in this trade is a meaningful amount of time.",
+        ],
+      },
+      {
+        h: "Keep it current",
+        p: [
+          "Anything to do with planning changes, and a page that has clearly not been looked at in four years undermines the expertise it is meant to demonstrate.",
+          "Date it, review it, and say when it was last checked. That alone puts you ahead of most of the category.",
+        ],
+      },
+    ],
+    related: ["garage-conversions", "attic-conversions", "architects"],
+  },
+  {
+    slug: "converting-versus-moving",
+    title: "The comparison your customer is making alone",
+    description:
+      "Every garage conversion competes with trading up and with doing nothing. Making that comparison for them is the most persuasive thing on the page.",
+    date: "2026-09-30",
+    minutes: 6,
+    intro:
+      "A family that has outgrown its house has three options: move, extend, or use the space they already have. Almost every specialist markets as though the customer has already ruled out the first two, when in fact they are sitting at the kitchen table going round in circles about it. The firm that helps them think it through is the firm they ring.",
+    sections: [
+      {
+        h: "Moving costs more than people remember",
+        p: [
+          "Stamp duty, legal fees, agent fees, surveys, moving costs, and the gap between what their house is worth and what the next one costs. Most people have only ever counted the last of those.",
+          "Setting the full picture out plainly — without numbers you cannot stand over, just the list of what actually has to be paid — reframes the decision immediately.",
+        ],
+      },
+      {
+        h: "Be honest about when moving is right",
+        p: [
+          "Sometimes it is. A family that needs two more bedrooms is not solving it with a garage, and saying so makes everything else you say more credible.",
+          "You will lose a small number of enquiries that were never going to close and gain the trust of everybody else reading.",
+        ],
+      },
+      {
+        h: "Extension versus conversion is the other half",
+        p: [
+          "Where there is garden to build into, the extension is a genuine competitor and frequently the better answer. Where there is not, the conversion is the only option and the customer may not have realised it.",
+          "A page that explains which situations suit which is useful, ranks, and positions you as an adviser rather than a salesperson — particularly if you do both.",
+        ],
+      },
+      {
+        h: "Doing nothing is the real default",
+        p: [
+          "The most common outcome of these deliberations is another year of living with it. That is who you are actually competing with.",
+          "What moves people off it is not urgency — it is the sense that the project is simpler and more manageable than they feared. Explaining how long it takes and how disruptive it actually is does more than any offer.",
+        ],
+      },
+      {
+        h: "Where the content belongs",
+        p: [
+          "This is early-stage thinking, so it belongs in guides and on Meta rather than in a search campaign aimed at people already looking for a builder.",
+          "It also brings in people you will close in six months rather than six days, which is why the follow-up has to run longer than most firms in this trade bother with.",
+        ],
+      },
+    ],
+    related: ["garage-conversions", "attic-conversions", "builders-and-extensions"],
+  },
+  {
+    slug: "before-and-after-is-the-whole-sale",
+    title: "Before-and-after photographs are the entire pitch",
+    description:
+      "A homeowner cannot picture their garage as a room. One pair of images does more than a page of copy, and most firms never take the before shot.",
+    date: "2026-09-30",
+    minutes: 5,
+    intro:
+      "Garage conversion is the single most visual trade in Irish construction and the one where photography is handled worst. The customer is being asked to imagine something they have never seen: a cold, grey, cluttered space becoming a room they would sit in. Nothing except a photograph of exactly that transformation makes it real.",
+    sections: [
+      {
+        h: "The before shot is the one that matters",
+        p: [
+          "Anyone can photograph a finished room. What persuades is the pair — the same view, cluttered and grey, then finished and warm.",
+          "That means photographing on the first visit, before anything moves, from a position you can return to. It takes thirty seconds and almost nobody does it, which is why so many portfolios are a gallery of rooms that could be anywhere.",
+        ],
+      },
+      {
+        h: "Same angle, same height",
+        p: [
+          "Stand where you stood. Look at the before image on your phone before taking the after.",
+          "A before from the doorway and an after from the corner do not compare, and the pair stops doing its job.",
+        ],
+      },
+      {
+        h: "Include the outside",
+        p: [
+          "What happened to the garage door opening is the thing neighbours notice and the thing customers quietly worry about. A photograph of the finished frontage answers it.",
+          "It also shows the work does not leave the house looking like a garage with a window punched in it, which is the fear.",
+        ],
+      },
+      {
+        h: "Photograph the use, furnished",
+        p: [
+          "An empty finished room is a box. The same room with a desk, a bed or a sofa in it is the thing the customer wants.",
+          "Go back when it is in use if the client will allow it. Those are the images that get saved and shared.",
+        ],
+      },
+      {
+        h: "Where they earn their keep",
+        p: [
+          "Meta advertising, where before-and-after pairs outperform everything else in this trade. The website, grouped by use rather than dumped in a gallery. And the Google Business Profile, steadily.",
+          "Caption each with the use and the town. It helps the reader and it helps the page get found.",
+        ],
+      },
+    ],
+    related: ["garage-conversions", "attic-conversions", "photographers"],
+  },
+  {
+    slug: "the-objections-nobody-addresses",
+    title: "The three worries that stall a conversion",
+    description:
+      "Parking, resale value and whether it will feel like a garage. Irish specialists answer none of them, and they are why projects stall.",
+    date: "2026-09-30",
+    minutes: 6,
+    intro:
+      "Most garage conversion enquiries that go quiet do not go quiet over price. They go quiet because something unresolved is nagging at the customer and nobody has addressed it. There are three of them, they come up constantly, and almost no specialist website mentions any of them.",
+    sections: [
+      {
+        h: "Where will the car go",
+        p: [
+          "Losing off-street parking is a real cost in a city and a real annoyance anywhere. A customer who has not resolved it in their head will not commit.",
+          "Address it directly: what happens to the driveway, whether the door opening is bricked up or glazed, and what most people in that situation actually do. Naming the problem yourself is reassuring; leaving them to discover it is not.",
+        ],
+      },
+      {
+        h: "Will it hurt the resale value",
+        p: [
+          "People worry that a buyer will want the garage back. It is a reasonable concern and the honest answer depends on the area and the house.",
+          "Being straightforward about that — including mentioning that some conversions are done so they can be reversed — earns more trust than an unqualified claim that it always adds value.",
+        ],
+      },
+      {
+        h: "Will it feel like a converted garage",
+        p: [
+          "This is the deepest worry and the least spoken. People have seen bad conversions: cold, slightly lower than the rest of the house, with a window where the door was, and obviously an afterthought.",
+          "The answer is photographic rather than verbal. Show finished rooms that look like rooms. Then explain briefly what makes the difference — floor levels, insulation, how the opening is treated — so they understand it is a choice rather than luck.",
+        ],
+      },
+      {
+        h: "Put them on the page, in their own words",
+        p: [
+          "An FAQ that uses the customer's phrasing rather than the trade's will get found and will do the reassuring before anybody rings.",
+          "It also shortens the survey visit considerably, because the conversation starts past the doubts instead of at them.",
+        ],
+      },
+      {
+        h: "Raise them on the visit too",
+        p: [
+          "A specialist who brings up parking before the customer does looks like someone who has done this a hundred times.",
+          "Every objection you name first is one that stops being a reason to delay.",
+        ],
+      },
+    ],
+    related: ["garage-conversions", "attic-conversions", "windows-and-doors"],
+  },
+  {
+    slug: "google-ads-for-garage-conversions",
+    title: "Where garage conversion ad budget actually goes",
+    description:
+      "Car repairs, storage, doors and DIY all sit on the same keywords. What to block, and the use-led terms worth paying for instead.",
+    date: "2026-09-30",
+    minutes: 6,
+    intro:
+      "The word garage does an enormous amount of work in Irish search and almost none of it relates to conversions. Car repairs, MOT and NCT, storage units, garage doors, sheds and self-build queries all sit on the same terms, which makes this one of the easiest categories in which to spend a budget on nothing at all.",
+    sections: [
+      {
+        h: "The motor trade is the biggest collision",
+        p: [
+          "'Garage near me' overwhelmingly means somebody whose car needs fixing. If you are bidding on broad or phrase matches containing 'garage', you are buying that traffic.",
+          "This alone can consume a small budget in days and it is the first thing to block.",
+        ],
+        list: [
+          "car, mechanic, service, nct, tyres, repair, motor, parts, exhaust",
+          "bodyshop, clutch, brakes, battery, servicing near me",
+        ],
+      },
+      {
+        h: "Doors, storage and buildings",
+        p: [
+          "'Garage doors', 'garage storage', 'prefab garage', 'build a garage', 'garage shelving'. All commercial, none of them a conversion.",
+          "'Build a garage' is the notable one — it looks adjacent and is the exact opposite of what you sell.",
+        ],
+        list: [
+          "door, doors, roller, sectional, remote, opener",
+          "storage, shelving, units, kit, prefab, build a, erect, concrete",
+        ],
+      },
+      {
+        h: "DIY and planning research",
+        p: [
+          "'Convert garage yourself', 'garage conversion diy', 'planning permission garage conversion' — the last one is arguable.",
+          "People researching planning are early but genuinely in the market, and if you have a proper planning page they are worth having. If you do not, they will bounce and you should block them.",
+        ],
+        list: [
+          "diy, yourself, how to, cost calculator, regulations pdf, drawings",
+        ],
+      },
+      {
+        h: "Bid on the use instead of the trade",
+        p: [
+          "The generic conversion terms are contested and expensive. The use-led ones are cheaper, more specific and closer to the actual problem.",
+          "'Home office conversion [town]', 'downstairs bedroom [town]', 'convert garage to room [county]', 'granny flat conversion [town]'.",
+        ],
+      },
+      {
+        h: "Then read the search terms report",
+        p: [
+          "In this category it is always worse than expected, because of how much motor-trade traffic slips through even a careful setup.",
+          "Weekly for the first month. It will pay for itself in the first fortnight.",
+        ],
+      },
+    ],
+    related: ["garage-conversions", "attic-conversions", "builders-and-extensions"],
+  },
+  {
+    slug: "one-street-at-a-time",
+    title: "Convert one house and quote the whole road",
+    description:
+      "Irish estates repeat the same house type for hundreds of homes. That makes this the most geographically concentrated trade there is.",
+    date: "2026-09-30",
+    minutes: 5,
+    intro:
+      "A garage conversion specialist working in an Irish housing estate is solving the same problem, in the same house, with the same garage, over and over. That is unusual and it is a considerable advantage — in quoting, in building, and above all in marketing, because the neighbours have exactly the same house and increasingly the same problem.",
+    sections: [
+      {
+        h: "The second quote on a road takes minutes",
+        p: [
+          "Same footprint, same construction, same obstacles. You already know what is behind the wall and what the floor is doing.",
+          "That is a margin advantage no bespoke job gives you, and it compounds the more you do on one estate.",
+        ],
+      },
+      {
+        h: "The neighbours are the campaign",
+        p: [
+          "A conversion is visible from the road for the duration of the work and permanently afterwards. Everyone on that street with the same house sees it.",
+          "Be tidy, be there when you said, and make it easy for somebody to ask what you did. A card through the doors on the road while the scaffolding is up converts unusually well, because they have watched the whole thing.",
+        ],
+      },
+      {
+        h: "Target the estate, not the county",
+        p: [
+          "Advertising platforms will target an area the size of a housing estate. A message naming the estate and the house type converts at a rate county-level targeting never approaches.",
+          "It is also far cheaper, because you are not paying to reach people in houses that do not have an attached garage.",
+        ],
+      },
+      {
+        h: "Photograph the house type, not just the room",
+        p: [
+          "Somebody scrolling past recognises their own frontage before they read a word. That recognition is what stops them.",
+          "A portfolio organised by house type and estate is more useful to a customer than one organised by date, and almost nobody does it.",
+        ],
+      },
+      {
+        h: "Keep a record of what you have done where",
+        p: [
+          "Which estates, which house types, how long each took. It tells you where to advertise next and lets you quote the next one accurately.",
+          "Most firms in this trade could not say which estate produced the most work last year, which means they cannot repeat it deliberately.",
+        ],
+      },
+    ],
+    related: ["garage-conversions", "attic-conversions", "insulation"],
+  },
+  {
+    slug: "the-six-month-conversion-enquiry",
+    title: "This enquiry converts in six months, not six days",
+    description:
+      "Garage conversions are decided slowly around a kitchen table. Most Irish specialists give up after two calls and lose what they paid for.",
+    date: "2026-09-30",
+    minutes: 5,
+    intro:
+      "Somebody enquiring about a garage conversion has usually been thinking about it for a year and will take several more months to commit. They are discussing it with a partner, looking at what it costs, and weighing it against moving. A specialist who treats that enquiry as hot, rings twice and writes it off has thrown away almost everything they paid to generate.",
+    sections: [
+      {
+        h: "The enquiry is the start of a conversation",
+        p: [
+          "It is rarely a decision. It is somebody gathering information, frequently before they have fully agreed with their partner that they are doing it at all.",
+          "Pushing produces a polite no. Treating it as the opening of a months-long conversation produces a job, often in the next quarter.",
+        ],
+      },
+      {
+        h: "Two calls is not a follow-up",
+        p: [
+          "Most specialists ring, ring again, and stop. The customer who was busy both times is gone, along with the cost of acquiring them.",
+          "A sequence that runs over weeks — a call, a message, something useful to read, another call a fortnight later — recovers a real share of them. None of it is clever, which is exactly why so few do it.",
+        ],
+      },
+      {
+        h: "Give them something for the kitchen table",
+        p: [
+          "The person you spoke to has to convince somebody else. A short document with photographs of a similar house, the stages and the timeline is far more persuasive in that conversation than a remembered phone call.",
+          "It also keeps your name in the discussion rather than the competitor who sent a price and nothing else.",
+        ],
+      },
+      {
+        h: "The seasonal pattern is real",
+        p: [
+          "Enquiries cluster when people are indoors and aware of the space: after Christmas, and again when the evenings close in.",
+          "An enquiry that goes quiet in March is frequently a job in September. The list of unconverted enquiries from last winter is one of the most valuable things a specialist owns and it is usually sitting unused in an inbox.",
+        ],
+      },
+      {
+        h: "Keep track of them",
+        p: [
+          "Name, date, what stage, when to make contact again. A spreadsheet is enough.",
+          "Without it, follow-up depends on remembering, and nobody remembers in October what they quoted in April.",
+        ],
+      },
+    ],
+    related: ["garage-conversions", "attic-conversions", "sunrooms-and-conservatories"],
+  },
 ];
 
 export const postBySlug = (slug: string) => posts.find((p) => p.slug === slug);
