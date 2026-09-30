@@ -189,7 +189,13 @@
     "solar-installers/galway": "2026-09-28",
     "solar-installers/kildare": "2026-09-28",
     "solar-installers/tipperary": "2026-09-28",
-    "solar-installers/wexford": "2026-09-28"
+    "solar-installers/wexford": "2026-09-28",
+    "solicitors/cork": "2026-09-30",
+    "solicitors/donegal": "2026-09-30",
+    "solicitors/dublin": "2026-09-30",
+    "solicitors/galway": "2026-09-30",
+    "solicitors/kildare": "2026-09-30",
+    "solicitors/mayo": "2026-09-30"
   },
   "industrySeo": {
     "accountants": "2026-09-25",
