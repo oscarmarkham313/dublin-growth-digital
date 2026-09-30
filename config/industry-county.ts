@@ -2665,6 +2665,445 @@ export const industryCounty: IndustryCounty[] = [
       PRICE_FAQ,
     ],
   },
+  {
+    industry: "dentists",
+    county: "dublin",
+    industryLabel: "dental practices",
+    countyName: "Dublin",
+    title: "Dental Marketing Dublin | Patient Leads for Dublin Dentists",
+    description:
+      "Marketing for Dublin dental practices: the most contested market in Ireland, high-value cosmetic work, and appointment times that decide who books.",
+    h1: "Dental marketing in Dublin, where the list is the asset.",
+    intro: [
+      "Dublin has more dental practices competing for the same patients than anywhere else in Ireland, the highest treatment values, and patients who will genuinely travel across the city for implants or orthodontics but not for a check-up.",
+      "That split runs through everything. Routine work is won on convenience and proximity. High-value work is won on evidence, and the two should never share a campaign.",
+    ],
+    sections: [
+    {
+      heading: "Routine and cosmetic are different businesses",
+      body: [
+        "A check-up patient chooses on location, opening hours and whether the phone gets answered. An implant or veneer patient researches for weeks, compares practices across the city and decides on the clinician.",
+        "Running one campaign for both means the cosmetic message wastes money on people who want a scale and polish, and the routine message fails to convince anyone considering several thousand euro of work.",
+        "Split them, and the cost per booked consultation on the high-value side usually improves immediately.",
+      ],
+    },
+    {
+      heading: "Appointment times decide more than price",
+      body: [
+        "Dublin patients work. An early morning, late evening or Saturday slot is worth more to them than a discount, and most practice websites bury the opening hours somewhere near the footer.",
+        "If you have hours your competitors do not, that is the headline. It is the single most common under-used advantage in Dublin dentistry.",
+      ],
+    },
+    {
+      heading: "The recall list is the practice's real asset",
+      body: [
+        "A practice with a well-run recall system has predictable revenue and does not need to buy every patient. One without it is permanently advertising to replace people who drifted away.",
+        "Before spending more on acquisition, it is almost always worth auditing what happens to a patient who misses a recall. In most practices the answer is nothing, and that is cheaper to fix than a campaign.",
+      ],
+    },
+    {
+      heading: "The dearest clicks in Irish healthcare",
+      body: [
+        "Dublin dental search terms are among the most expensive in the country, and cosmetic terms are dearer still.",
+        "That makes negatives, tight location settings and call tracking essential rather than optional. A campaign that cannot tell you which searches produced booked appointments is guessing with expensive clicks.",
+      ],
+    },
+    ],
+    towns: [
+      "Dublin city",
+      "Rathmines",
+      "Ranelagh",
+      "Clontarf",
+      "Blackrock",
+      "Dún Laoghaire",
+      "Swords",
+      "Castleknock",
+      "Tallaght",
+      "Malahide",
+      "Terenure",
+      "Lucan",
+    ],
+    faqs: [
+      {
+        q: "Should routine and cosmetic work share a campaign?",
+        a: "No. A check-up patient decides on convenience; an implant patient researches for weeks and decides on the clinician. One campaign serves neither well.",
+      },
+      {
+        q: "What matters most to Dublin patients?",
+        a: "Appointment times. Early, late or Saturday slots are worth more than a discount to people who work, and most practices bury their hours near the footer.",
+      },
+      {
+        q: "Where should we look before increasing budget?",
+        a: "The recall system. A practice that lets patients drift is permanently buying replacements, and fixing that is cheaper than any campaign.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "dentists",
+    county: "donegal",
+    industryLabel: "dental practices",
+    countyName: "Donegal",
+    title: "Dental Marketing Donegal | Patient Leads for Donegal Dentists",
+    description:
+      "Marketing for Donegal dental practices: patients crossing the border for treatment, long distances, and the work worth keeping at home.",
+    h1: "Dental marketing in Donegal, with the border in the room.",
+    intro: [
+      "Donegal practices compete with somewhere most Irish dentists never think about: across the border. Patients in the north of the county can reach Derry or Strabane more easily than they can reach much of their own county, and for larger treatments a good number travel further still.",
+      "Pretending that is not happening does not help. Addressing it directly is one of the strongest positions a Donegal practice can take.",
+    ],
+    sections: [
+    {
+      heading: "Say what staying local actually gets them",
+      body: [
+        "Aftercare is the argument. A patient who has implants or extensive cosmetic work done far from home has no straightforward route back if something needs adjusting, and adjustments are normal rather than a sign of failure.",
+        "Set that out plainly on the site: what happens at six months, at two years, who they ring, and what it costs. That is a real and checkable difference, and it is more persuasive than any claim about quality.",
+      ],
+    },
+    {
+      heading: "Do not compete on price with somewhere cheaper",
+      body: [
+        "You will not win that, and trying attracts precisely the patients most likely to leave for the next cheaper option.",
+        "Compete on continuity, on knowing the patient's history, and on being reachable. Those are worth more to most people than they realise until something goes wrong.",
+      ],
+    },
+    {
+      heading: "Distance shapes the catchment more than the county line",
+      body: [
+        "Letterkenny, the Inishowen peninsula and the southwest of the county are effectively separate catchments, and people choose a practice they can reach on a wet Tuesday in January.",
+        "Name the towns you actually serve. A county-wide campaign in Donegal spends most of its budget on people who will never drive to you.",
+      ],
+    },
+    {
+      heading: "The recall system matters more where patients are scattered",
+      body: [
+        "A patient who has to plan a journey is a patient who lets it slide. Gentle, reliable recall is the difference between a list that holds and one that quietly empties.",
+        "It is also the cheapest marketing available, because these are people who already chose you once.",
+      ],
+    },
+    ],
+    towns: [
+      "Letterkenny",
+      "Buncrana",
+      "Ballybofey",
+      "Donegal town",
+      "Bundoran",
+      "Carndonagh",
+      "Killybegs",
+      "Moville",
+      "Dungloe",
+      "Ballyshannon",
+      "Lifford",
+      "Gweedore",
+    ],
+    faqs: [
+      {
+        q: "How do we compete with treatment across the border?",
+        a: "On aftercare and continuity, not price. A patient treated far from home has no easy route back when something needs adjusting, and adjustments are normal.",
+      },
+      {
+        q: "Should we advertise across the whole county?",
+        a: "No. Letterkenny, Inishowen and the southwest are separate catchments. People choose a practice they can reach on a wet Tuesday in January.",
+      },
+      {
+        q: "What is the cheapest thing we can fix?",
+        a: "Recall. Patients who have to plan a journey let it slide, and a reliable recall system holds a list together better than any campaign.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "dentists",
+    county: "cork",
+    industryLabel: "dental practices",
+    countyName: "Cork",
+    title: "Dental Marketing Cork | Patient Leads for Cork Dental Practices",
+    description:
+      "Marketing for Cork dental practices: a second-city market with its own loyalties, a dental school in town, and a county that empties westwards.",
+    h1: "Dental marketing in Cork, a city that chooses its own.",
+    intro: [
+      "Cork is a genuinely separate healthcare market rather than a smaller Dublin. Patients here are loyal, they ask people they know, and a practice with a long local reputation is very hard to displace on advertising alone.",
+      "That cuts both ways. It is difficult to break in, and once you are established the same loyalty protects you.",
+    ],
+    sections: [
+    {
+      heading: "Reputation travels differently here",
+      body: [
+        "Word of mouth carries more weight in Cork than in Dublin, and the corollary is that reviews matter more than usual because they are the online form of the same thing.",
+        "A practice with a steady flow of recent, specific Cork reviews is doing the thing this market actually responds to. One with a handful from three years ago is invisible in the way that counts.",
+      ],
+    },
+    {
+      heading: "The city, the harbour towns and west Cork are three catchments",
+      body: [
+        "City practices compete on convenience and hours. The harbour towns are commuter families choosing on school-run practicality. West Cork is scattered, with long drives and far fewer options.",
+        "West Cork patients will travel for treatment that is not available locally, which makes it a genuine catchment for higher-value work if the site gives them a reason to make the journey.",
+      ],
+    },
+    {
+      heading: "A teaching presence changes patient expectations",
+      body: [
+        "Cork has a dental teaching hospital, and a proportion of the population has been treated there or knows someone who has. They arrive better informed and more comfortable asking clinical questions.",
+        "That suits a practice willing to explain things properly, and content that does so tends to outperform reassurance-led copy in this county.",
+      ],
+    },
+    {
+      heading: "Do not run one campaign for the whole county",
+      body: [
+        "The city is competitive and expensive; the west is uncontested and cheap to reach. Averaging them wastes money on one end and under-serves the other.",
+        "Split by catchment and the cost per booked appointment usually separates sharply, which tells you where to put the next euro.",
+      ],
+    },
+    ],
+    towns: [
+      "Cork city",
+      "Douglas",
+      "Ballincollig",
+      "Carrigaline",
+      "Midleton",
+      "Mallow",
+      "Bandon",
+      "Kinsale",
+      "Clonakilty",
+      "Skibbereen",
+      "Youghal",
+      "Fermoy",
+    ],
+    faqs: [
+      {
+        q: "Why do reviews matter more in Cork?",
+        a: "Because word of mouth carries more weight here, and reviews are the online form of it. Recent, specific, local reviews are what this market responds to.",
+      },
+      {
+        q: "Is west Cork worth targeting?",
+        a: "For higher-value treatment, yes. Patients there have fewer local options and will travel if the site gives them a reason to.",
+      },
+      {
+        q: "Should the county share one campaign?",
+        a: "No. The city is competitive and expensive, the west is uncontested and cheap. Averaging them wastes money at one end and under-serves the other.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "dentists",
+    county: "galway",
+    industryLabel: "dental practices",
+    countyName: "Galway",
+    title: "Dental Marketing Galway | Patient Leads for Galway Dentists",
+    description:
+      "Marketing for Galway dental practices: a large student population that arrives and leaves, plus a rural county with very few options.",
+    h1: "Dental marketing in Galway, where half the city moves out in May.",
+    intro: [
+      "Galway city has a student and young-professional population large enough to change how a practice fills its book. Those patients arrive in September, need routine care, and a good number of them leave again.",
+      "Outside the city the county is rural and thinly served, which means a practice in a market town is frequently the obvious choice for a wide area rather than one option among many.",
+    ],
+    sections: [
+    {
+      heading: "A transient population needs a different rhythm",
+      body: [
+        "Demand around the city spikes with the academic year and softens over summer. A flat twelve-month campaign spends the same in August as in September, which is the wrong shape.",
+        "Concentrate spend before term and around the points where people register somewhere new. Emergency and routine care are what they need, and whoever is visible at the moment they need it usually gets them.",
+      ],
+    },
+    {
+      heading: "Rural practices compete on being reachable, not on price",
+      body: [
+        "Out through east Galway and Connemara, the realistic alternative to your practice is a much longer drive. That is a strong position and most practices in it undersell themselves.",
+        "The website's job there is simply to be findable, to make booking easy, and to answer the practical questions: parking, wheelchair access, whether the practice takes medical card patients, what happens in an emergency at the weekend.",
+      ],
+    },
+    {
+      heading: "The PRSI benefit brings people in who have not been in years",
+      body: [
+        "A lot of working adults do not realise they are entitled to a routine examination and cleaning through their PRSI contributions. Explaining it plainly brings in people who have avoided the dentist partly because they assumed the cost.",
+        "It is also an easy, honest campaign to run, and very few Irish practices build one around it properly.",
+      ],
+    },
+    {
+      heading: "City and county should not share a message",
+      body: [
+        "A student registering near the campus and a family in Loughrea are choosing on completely different criteria.",
+        "Two campaigns, two pages, two sets of opening hours if that is what it takes. The city is cheap to reach and high volume; the county is higher value per patient and far less contested.",
+      ],
+    },
+    ],
+    towns: [
+      "Galway city",
+      "Salthill",
+      "Knocknacarra",
+      "Oranmore",
+      "Tuam",
+      "Ballinasloe",
+      "Loughrea",
+      "Athenry",
+      "Gort",
+      "Clifden",
+      "Moycullen",
+      "Headford",
+    ],
+    faqs: [
+      {
+        q: "How does the student population change things?",
+        a: "It makes demand seasonal. Spend before term and when people register somewhere new, rather than flat across a year where August and September look nothing alike.",
+      },
+      {
+        q: "What should a rural Galway practice emphasise?",
+        a: "Being reachable and easy to book. The realistic alternative is a much longer drive, and most practices in that position undersell it.",
+      },
+      {
+        q: "Is the PRSI benefit worth advertising?",
+        a: "Yes, and almost nobody does it properly. A lot of working adults do not know they are entitled to a routine exam and cleaning, and it brings back people who assumed the cost.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "dentists",
+    county: "kildare",
+    industryLabel: "dental practices",
+    countyName: "Kildare",
+    title: "Dental Marketing Kildare | Patient Leads for Kildare Dentists",
+    description:
+      "Marketing for Kildare dental practices: commuting families who need hours that work, and patients who could just as easily go to Dublin.",
+    h1: "Dental marketing in Kildare, where the appointment has to fit.",
+    intro: [
+      "Kildare households commute. Many of them work in Dublin, leave before eight and get back after six, and their dental appointments have to fit into a gap that barely exists.",
+      "They also have a real alternative: a practice near the office. A Kildare practice is competing not only with the town next door but with everywhere its patients spend the working day.",
+    ],
+    sections: [
+    {
+      heading: "Hours are the whole competitive question",
+      body: [
+        "Early mornings, late evenings, Saturdays, and appointments that can hold a family together in one visit. For this population that matters more than almost anything else on the website.",
+        "If you offer it, it belongs at the top of every page. If you do not, that is worth knowing too, because it explains where the patients are going.",
+      ],
+    },
+    {
+      heading: "Families book as a unit",
+      body: [
+        "A parent arranging check-ups is arranging three or four, usually in one run, usually around school. A practice that can take a family together in consecutive slots is solving a logistics problem, not just a dental one.",
+        "Say so explicitly. Almost no practice website addresses how a family actually books, and it is the thing the person on the other end is trying to work out.",
+      ],
+    },
+    {
+      heading: "You are competing with practices near their office",
+      body: [
+        "A patient who works in Dublin can get treated there at lunchtime. The local advantage is evenings, weekends, continuity and not having to explain their history again.",
+        "That argues for building the relationship rather than chasing the single appointment, and for a recall system that keeps the family on the books once they are on it.",
+      ],
+    },
+    {
+      heading: "New estates arrive without a dentist",
+      body: [
+        "Kildare has a lot of recent housing, and people who have just moved need to find a practice. That is a small, targetable moment with unusually high intent.",
+        "Targeting by estate and by recent-mover signals is cheap and specific, and it is almost entirely uncontested by other practices.",
+      ],
+    },
+    ],
+    towns: [
+      "Naas",
+      "Newbridge",
+      "Maynooth",
+      "Celbridge",
+      "Leixlip",
+      "Clane",
+      "Sallins",
+      "Kildare town",
+      "Athy",
+      "Kilcock",
+      "Monasterevin",
+      "Rathangan",
+    ],
+    faqs: [
+      {
+        q: "What do Kildare patients care about most?",
+        a: "Appointment times. Commuting households need early, late or Saturday slots, and that matters more than almost anything else on the site.",
+      },
+      {
+        q: "How do families book?",
+        a: "As a unit, usually around school. A practice that can take three or four in consecutive slots is solving a logistics problem, and almost no website explains whether it can.",
+      },
+      {
+        q: "Who are we actually competing with?",
+        a: "Practices near where your patients work, not just the town next door. The local advantage is evenings, weekends and continuity.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "dentists",
+    county: "mayo",
+    industryLabel: "dental practices",
+    countyName: "Mayo",
+    title: "Dental Marketing Mayo | Patient Leads for Mayo Dental Practices",
+    description:
+      "Marketing for Mayo dental practices: three towns that do not share patients, long drives, and returning families who need a practice again.",
+    h1: "Dental marketing in Mayo, measured in driving time.",
+    intro: [
+      "Mayo is large, thinly populated and anchored by three towns that do not share patients. Castlebar, Ballina and Westport each serve their own area, and a practice in one has limited pull in the others.",
+      "Patients here accept a drive that a Dublin patient never would, but they still choose the practice that is genuinely nearest unless there is a reason not to.",
+    ],
+    sections: [
+    {
+      heading: "Own your catchment rather than the county",
+      body: [
+        "Search results are decided largely by how close the patient is, and Mayo is far too big to overcome that. Trying to rank across the county wastes the effort that would win your own town outright.",
+        "Being unmistakably the best-reviewed, easiest-to-book practice within your own area is achievable, and very few practices in this county are seriously contesting it.",
+      ],
+    },
+    {
+      heading: "A website has to load on poor coverage",
+      body: [
+        "Mobile signal across much of west Mayo is weak. A heavy site does not load slowly for those patients, it fails, and you never see them in your enquiry numbers.",
+        "For a practice whose patients are frequently looking something up in a car park or a kitchen with one bar, page weight is a practical matter rather than a technical nicety.",
+      ],
+    },
+    {
+      heading: "Returning and emigrant families are a real market",
+      body: [
+        "Mayo has an unusually strong connection with people who left and come back, and with families who return for periods. They need a practice, often at short notice, and they have no current local knowledge.",
+        "They search, they read, and they choose on what they find. Clear information about registering, what to bring and how quickly they can be seen wins those patients before anyone speaks to them.",
+      ],
+    },
+    {
+      heading: "Emergency access is worth saying out loud",
+      body: [
+        "In a county with long distances, knowing who will see you with a broken tooth on a Friday afternoon is genuinely valuable information.",
+        "Practices that state their emergency policy plainly get those calls. Practices that leave it vague get them only from people who already know them.",
+      ],
+    },
+    ],
+    towns: [
+      "Castlebar",
+      "Ballina",
+      "Westport",
+      "Claremorris",
+      "Ballinrobe",
+      "Swinford",
+      "Knock",
+      "Belmullet",
+      "Foxford",
+      "Charlestown",
+      "Newport",
+      "Kiltimagh",
+    ],
+    faqs: [
+      {
+        q: "Can a Mayo practice rank across the county?",
+        a: "No. Proximity decides most of it and the county is too large. Owning your own town's catchment is the achievable and worthwhile goal.",
+      },
+      {
+        q: "Does website speed really matter?",
+        a: "In west Mayo it decides whether the site loads at all. Patients are frequently on one bar of signal, and a heavy site fails silently.",
+      },
+      {
+        q: "Who are the returning families?",
+        a: "People with Mayo connections coming back for periods or for good. They need a practice at short notice with no local knowledge, so clear registration information wins them early.",
+      },
+      PRICE_FAQ,
+    ],
+  },
 ];
 
 export const industryCountyFor = (industry: string) =>

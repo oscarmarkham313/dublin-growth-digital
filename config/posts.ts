@@ -6849,6 +6849,409 @@ export const posts: Post[] = [
     ],
     related: ["landscapers", "tree-surgery", "powerwashing"],
   },
+  {
+    slug: "the-recall-list-is-the-marketing",
+    title: "Your recall list is worth more than your ad budget",
+    description:
+      "Most Irish practices spend to replace patients they already had. Fixing recall is cheaper than acquisition and nearly always comes first.",
+    date: "2026-09-30",
+    minutes: 6,
+    intro:
+      "A dental practice that lets patients drift is permanently buying replacements for people it already won. It is the most expensive habit in the sector and the least visible, because a slowly emptying list looks like a normal quiet month rather than a problem. Before increasing any budget, it is worth finding out what actually happens when somebody misses a recall.",
+    sections: [
+      {
+        h: "Find out what currently happens",
+        p: [
+          "In most practices the honest answer is: a reminder goes out, the patient does not respond, and nothing further happens. They are not called. They are not written to again. They simply stop being a patient without anyone deciding that.",
+          "Ask your practice software how many patients have not attended in eighteen months. The number is usually larger than anyone expects, and every one of them chose you once already.",
+        ],
+      },
+      {
+        h: "A reminder is not a recall system",
+        p: [
+          "One automated text is a notification. A system is a sequence: the reminder, a follow-up if there is no response, a call, and then a different approach some months later.",
+          "None of it is clever. It works because almost nobody does the second and third step, and because the patient's reason for not booking is usually that they were busy rather than that they left.",
+        ],
+      },
+      {
+        h: "Make booking possible without a phone call",
+        p: [
+          "A large share of people will not ring during working hours to make a dental appointment. They will tap a link at nine at night.",
+          "Online booking, or at minimum a form that gets answered first thing, recovers patients who fully intended to come back and never got round to it.",
+        ],
+      },
+      {
+        h: "Reactivation beats acquisition",
+        p: [
+          "A patient who attended two years ago knows where you are, has a record with you, and has already decided you were acceptable. Winning them back costs a fraction of winning a stranger.",
+          "A short, warm message to the lapsed list — not a discount, just a note that they are due and it is easy to book — is the highest-return campaign most practices can run, and it costs almost nothing.",
+        ],
+      },
+      {
+        h: "Then measure the right thing",
+        p: [
+          "Not new patients. Active patients: how many people attended in the last eighteen months, tracked quarterly.",
+          "A practice adding new patients while quietly losing more is busy and going backwards, and only that number shows it.",
+        ],
+      },
+    ],
+    related: ["dentists", "physiotherapy", "opticians"],
+  },
+  {
+    slug: "routine-and-cosmetic-are-two-campaigns",
+    title: "Check-ups and cosmetic work are two different businesses",
+    description:
+      "One patient picks on convenience in five minutes, the other researches for six weeks. Irish practices lose both by advertising them together.",
+    date: "2026-09-30",
+    minutes: 6,
+    intro:
+      "Somebody looking for a check-up wants a practice near them with a free slot. Somebody considering implants or veneers is making a considered, expensive decision and will compare practices across a city. Those are different people with different questions on different timelines, and a single campaign speaking to both convinces neither.",
+    sections: [
+      {
+        h: "The routine patient decides on practicalities",
+        p: [
+          "Where you are, when you are open, whether they can book without ringing, and whether you take their medical card or their PRSI entitlement.",
+          "That is the whole decision. Long copy about clinical philosophy is not read. The practice that answers those four things fastest gets the booking.",
+        ],
+      },
+      {
+        h: "The cosmetic patient decides on the clinician",
+        p: [
+          "They want to know who will actually do the work, how often they do it, what the process involves, how long it takes and what it looks like afterwards on someone who started where they are.",
+          "That needs a proper page of its own: the clinician, the sequence of appointments, what recovery is like, and photographs of the practice's own completed work rather than stock imagery.",
+          "It also needs patience. These enquiries convert over weeks, and a practice that writes off anyone who has not booked within a fortnight is discarding most of what it paid for.",
+        ],
+      },
+      {
+        h: "The searches are completely different",
+        p: [
+          "'Dentist near me' and 'dental implants [city]' should never share a landing page, and in most accounts the cosmetic terms cost several times more per click.",
+          "Running them together means the expensive clicks are judged by the cheap campaign's conversion rate, which usually gets the valuable half switched off.",
+        ],
+      },
+      {
+        h: "Be careful how the claims are worded",
+        p: [
+          "Dentistry in Ireland is a regulated profession and the Dental Council has rules about how practices may advertise. Before-and-after imagery, testimonials and claims of superiority all need care.",
+          "This is not a reason to market timidly. It is a reason to have someone check the wording, and to compete on clarity and evidence rather than on superlatives — which is better marketing in any case.",
+        ],
+      },
+      {
+        h: "Measure them separately or not at all",
+        p: [
+          "Cost per booked check-up and cost per booked consultation are different numbers with different acceptable ranges.",
+          "Averaged together they produce a figure that describes neither and leads to the wrong decision about where the next euro goes.",
+        ],
+      },
+    ],
+    related: ["dentists", "skin-clinics", "med-spas"],
+  },
+  {
+    slug: "prsi-dental-benefit-marketing",
+    title: "Most patients do not know what they are entitled to",
+    description:
+      "The PRSI treatment benefit brings adults back who stopped going because they assumed the cost. Almost no Irish practice markets it properly.",
+    date: "2026-09-30",
+    minutes: 5,
+    intro:
+      "A great many working adults in Ireland have not seen a dentist in years, and a meaningful number of them assume it is because they cannot afford to. Plenty of them are entitled to a routine examination and cleaning through their PRSI contributions and have no idea. Explaining that plainly is one of the easiest and most honest campaigns a practice can run.",
+    sections: [
+      {
+        h: "The entitlement is not well understood",
+        p: [
+          "People know vaguely that something exists. They do not know whether it applies to them, what it covers, or how to claim it, and that uncertainty is enough to stop them booking.",
+          "A single clear page answering who qualifies, what is included and what happens at the appointment removes the barrier. It is also exactly the kind of practical question people type into Google.",
+        ],
+      },
+      {
+        h: "It reaches the patients who have been away longest",
+        p: [
+          "Someone who has not attended in five years is nervous about the cost and frequently nervous about the visit itself. The entitlement gives them a reason to come that does not require them to commit to anything expensive.",
+          "Those patients are valuable well beyond the first appointment, because most of them have work that needs doing and will proceed once they trust the practice.",
+        ],
+      },
+      {
+        h: "Say what happens next, honestly",
+        p: [
+          "If the examination finds work that is not covered, say so upfront rather than letting the patient discover it in the chair. People do not object to paying; they object to being surprised.",
+          "A practice that sets that expectation clearly gets fewer awkward conversations and better reviews.",
+        ],
+      },
+      {
+        h: "The medical card scheme is a separate question",
+        p: [
+          "Patients often confuse the two, and a practice that states plainly whether it takes medical card patients saves everyone time.",
+          "It is one line on the website and it is missing from a surprising number of them.",
+        ],
+      },
+      {
+        h: "Why this works as a campaign",
+        p: [
+          "It is useful rather than promotional, it is checkable, it needs no discounting, and it brings in people who were not otherwise in the market.",
+          "Very few Irish practices build anything around it, which means the ground is largely open.",
+        ],
+      },
+    ],
+    related: ["dentists", "opticians", "audiologists"],
+  },
+  {
+    slug: "competing-with-dental-tourism",
+    title: "How to compete when patients fly out for treatment",
+    description:
+      "Irish patients travel abroad and across the border for implants and cosmetic work. Price is not the argument that keeps them.",
+    date: "2026-09-30",
+    minutes: 6,
+    intro:
+      "An Irish patient quoted for implants or a full set of veneers will frequently look at what the same work costs in Northern Ireland, Hungary or Turkey, and the gap is large enough to be worth a flight. Practices that respond by discounting lose money and still lose the patient. The argument that works is a different one.",
+    sections: [
+      {
+        h: "You will not win on price, so do not try",
+        p: [
+          "The cost difference is structural — different wages, different property costs, different regulation. Matching it is not possible and attempting it signals that your normal price was inflated.",
+          "It also attracts the patients most likely to leave again for the next cheaper offer.",
+        ],
+      },
+      {
+        h: "Aftercare is the honest advantage",
+        p: [
+          "Extensive dental work needs review, and occasionally adjustment. That is normal rather than a sign something went wrong. A patient whose treatment was done two thousand kilometres away has no straightforward route back.",
+          "Set out plainly what your aftercare involves — when they are seen, for how long, what is included. That is concrete, checkable, and genuinely valuable, and most patients have not thought about it.",
+        ],
+      },
+      {
+        h: "Explain the process rather than criticising the alternative",
+        p: [
+          "Running down overseas clinics reads as defensive and is the wrong tone for a regulated profession. It also insults patients who have already gone.",
+          "Explaining how your own treatment runs — the assessment, the stages, the time between them, who does what — makes the comparison for the reader without you having to make it.",
+        ],
+      },
+      {
+        h: "Phasing keeps the patient in Ireland",
+        p: [
+          "A large part of why people travel is the single large bill. Treatment planned in stages over a longer period is a genuine alternative that very few practices present as an option.",
+          "Offering it turns a patient who was about to book a flight into one who books a first appointment.",
+        ],
+      },
+      {
+        h: "Be findable at the research stage",
+        p: [
+          "This decision takes months and starts with reading. A practice with a proper page explaining implant treatment in plain language is in the conversation from the beginning.",
+          "A practice whose website says only that it offers implants is not, and will meet the patient only after they have already decided where they are going.",
+        ],
+      },
+    ],
+    related: ["dentists", "skin-clinics", "med-spas"],
+  },
+  {
+    slug: "what-a-dental-website-must-answer",
+    title: "The six things a dental website has to answer",
+    description:
+      "Nervous patients, opening hours, entitlements and parking decide more Irish dental bookings than any amount of clinical copy.",
+    date: "2026-09-30",
+    minutes: 5,
+    intro:
+      "Most dental practice websites in Ireland are built around what the practice wants to say. The ones that fill appointment books are built around what a person standing in their kitchen with a sore tooth is actually trying to find out. It is a short list and almost none of it is clinical.",
+    sections: [
+      {
+        h: "The six",
+        p: [
+          "If a stranger cannot answer all six within about twenty seconds, the site is costing you bookings.",
+        ],
+        list: [
+          "Where exactly are you, and where do I park",
+          "When are you open, including evenings and Saturdays",
+          "Can I book without ringing during work hours",
+          "Do you take medical card patients, and what about PRSI",
+          "What happens if I am nervous",
+          "What do I do if something breaks at the weekend",
+        ],
+      },
+      {
+        h: "Nervous patients are a larger group than practices assume",
+        p: [
+          "A significant proportion of adults avoid dentistry out of anxiety rather than cost, and they are looking for a signal that it will be handled gently.",
+          "A short, plain page about how the practice deals with anxious patients — what you do differently, that they can stop at any point, that they can come in just to talk first — converts unusually well, because almost nobody addresses it and the people who need it are searching for exactly that.",
+        ],
+      },
+      {
+        h: "Photographs of the actual practice",
+        p: [
+          "Reception, the surgery, the team, the door from the street. People want to know what they are walking into, and stock imagery of a model in a dental chair tells them nothing.",
+          "The exterior shot is the most under-used image in the sector: it is how somebody knows they have found the right door.",
+        ],
+      },
+      {
+        h: "Emergency policy, stated plainly",
+        p: [
+          "Whether you take emergencies, how quickly, and what to do outside hours. It is the highest-intent question anybody asks about a dental practice.",
+          "Practices that leave it vague get those calls only from existing patients. Practices that state it clearly get them from everyone.",
+        ],
+      },
+      {
+        h: "It has to work on a phone, fast",
+        p: [
+          "Nearly all of this is read on a phone, frequently on poor signal and frequently in discomfort.",
+          "A heavy, slow site loses the person who most urgently wanted to find you.",
+        ],
+      },
+    ],
+    related: ["dentists", "physiotherapy", "chiropractors"],
+  },
+  {
+    slug: "google-ads-for-dentists-ireland",
+    title: "Where a dental practice's Google Ads budget goes",
+    description:
+      "Jobs, courses, symptom searches and DIY whitening all cost Irish practices money on a default setup. What to block, and the terms worth paying for.",
+    date: "2026-09-30",
+    minutes: 6,
+    intro:
+      "Dental clicks are among the most expensive in Irish healthcare and the keyword surface is unusually wide, because the same words are used by people looking for treatment, people looking for symptoms, people looking for a job and people looking for a course. On a default campaign you pay the same for all of them.",
+    sections: [
+      {
+        h: "Symptom and self-diagnosis searches",
+        p: [
+          "'Toothache remedy', 'why does my tooth hurt', 'abscess symptoms', 'mouth ulcer'. Very high volume, very high click rate, and most of these people are trying not to visit a dentist.",
+          "Some will convert. Not enough to justify the click price on a normal budget, and they crowd out people already looking for a practice.",
+        ],
+        list: [
+          "remedy, home remedy, relief, painkiller, symptoms, causes, why does",
+          "nhs, hse, free, emergency number, out of hours (unless you provide it)",
+        ],
+      },
+      {
+        h: "Jobs, courses and training",
+        p: [
+          "'Dental nurse jobs', 'dental hygienist course', 'dentistry points', 'dental nursing qualification'. Steady volume and no value whatsoever.",
+          "The university and CAO-adjacent terms are the ones most often missed.",
+        ],
+        list: [
+          "jobs, vacancy, hiring, nurse job, receptionist, salary, wage",
+          "course, cao, points, degree, training, qualification, college, student",
+        ],
+      },
+      {
+        h: "DIY and retail",
+        p: [
+          "'Whitening strips', 'best electric toothbrush', 'teeth whitening kit', 'denture repair kit'. Somebody is buying a product, not booking treatment.",
+          "Whitening in particular attracts a great deal of retail traffic that looks relevant and is not.",
+        ],
+        list: [
+          "kit, strips, at home, diy, toothbrush, amazon, boots, chemist, pen",
+        ],
+      },
+      {
+        h: "The wrong treatment and the wrong place",
+        p: [
+          "If you do not do implants, orthodontics or sedation, block them — they are the dearest clicks in the category and a wasted one costs a lot.",
+          "Set locations to presence rather than presence-or-interest, and keep them to the catchment patients will genuinely travel from. For routine work that is small; for cosmetic work it is much wider, which is another reason to run them separately.",
+        ],
+      },
+      {
+        h: "What is actually worth bidding on",
+        p: [
+          "Terms with a treatment and a place, or clear intent to register. 'Dentist [town]', 'emergency dentist [town]', 'dental implants [city]', 'new patients [town]', 'dentist accepting medical card [town]'.",
+          "Then read the search terms report weekly for the first month. In this sector it is always more revealing than people expect, because of how much symptom traffic finds its way in.",
+        ],
+      },
+    ],
+    related: ["dentists", "opticians", "physiotherapy"],
+  },
+  {
+    slug: "dental-reviews-and-the-trust-problem",
+    title: "Reviews matter more in dentistry than anywhere else",
+    description:
+      "People are choosing someone to put their hands in their mouth. What to ask for, when, and why the reply matters more than the rating.",
+    date: "2026-09-30",
+    minutes: 5,
+    intro:
+      "Choosing a dentist is not like choosing a plumber. The patient is nervous, they cannot assess the clinical work, and they are making a decision about their own body. In that situation other people's experiences carry more weight than anything a practice says about itself, which makes reviews closer to essential here than in any other local trade.",
+    sections: [
+      {
+        h: "Ask at the right moment",
+        p: [
+          "Not at reception while somebody is paying and wants to leave. The moment that works is just after a treatment has gone better than the patient feared — which in dentistry is most of the time.",
+          "A nervous patient who has just had something done painlessly is genuinely grateful, and that is the review that helps the next nervous patient.",
+        ],
+      },
+      {
+        h: "Ask for the specific thing",
+        p: [
+          "'If you found it easier than you expected, it would really help if you said so' produces a review that speaks directly to the fear stopping the next person from booking.",
+          "A generic five stars says nothing. A sentence about not feeling a thing is worth more than a dozen of them.",
+        ],
+      },
+      {
+        h: "The reply is read more than the review",
+        p: [
+          "Answer every one, briefly. On a negative review, never discuss the patient's treatment or even confirm they are a patient — that is a confidentiality issue as much as a marketing one.",
+          "A calm reply offering to deal with it privately reassures far more effectively than a defence, and prospective patients judge the practice on the tone of it.",
+        ],
+      },
+      {
+        h: "Recency matters as much as volume",
+        p: [
+          "Ten reviews from the last six months read better than sixty that stop two years ago, to a patient and to Google both.",
+          "A steady trickle is the goal, which means asking regularly rather than running an occasional push.",
+        ],
+      },
+      {
+        h: "Never incentivise them",
+        p: [
+          "It breaches Google's policy, it risks the profile, and in a regulated profession it invites a complaint.",
+          "It is also unnecessary. Dentistry generates genuine relief and gratitude more reliably than almost any other service; the only thing missing is the asking.",
+        ],
+      },
+    ],
+    related: ["dentists", "physiotherapy", "med-spas"],
+  },
+  {
+    slug: "the-practice-google-profile",
+    title: "The dental profile settings that decide who calls",
+    description:
+      "For a practice, the Google Business Profile outranks the website for new patients. The fields that matter and the ones nobody fills in.",
+    date: "2026-09-30",
+    minutes: 6,
+    intro:
+      "When somebody searches for a dentist, the map results sit above everything else, with stars, distance and a call button. A very large share of new dental enquiries never get past that box. For a practice, the profile is not a supporting asset — it is the front door.",
+    sections: [
+      {
+        h: "Categories and the treatments you list",
+        p: [
+          "The primary category should be the specific one, not a general health category. Add secondary categories for what you genuinely do — emergency dental service, cosmetic dentistry, orthodontics.",
+          "Then list treatments individually in the services section with a description each. Most practices leave this empty, and it is the part that helps you appear for a specific treatment rather than only for the word dentist.",
+        ],
+      },
+      {
+        h: "Hours have to be exact",
+        p: [
+          "'Open now' filters what people see, so an inaccurate closing time costs you calls you never hear about. Set the bank holidays as well.",
+          "If you take emergencies outside normal hours, say so in the description and in the attributes, because that is when the highest-intent calls happen.",
+        ],
+      },
+      {
+        h: "Photographs of the real place",
+        p: [
+          "The front of the building from the street, reception, a surgery, the team. Uploaded steadily rather than in one batch.",
+          "The exterior shot does specific work for a nervous patient: it shows them exactly what they are walking into, which lowers the barrier more than any paragraph.",
+        ],
+      },
+      {
+        h: "Use the Q&A section yourself",
+        p: [
+          "You can ask and answer your own questions, and almost no practice does. Cover the things people ring to ask: medical card, PRSI, parking, emergencies, nervous patients, whether you are taking new patients.",
+          "'Are you taking new patients' is the single most valuable one, because the answer decides whether somebody bothers calling.",
+        ],
+      },
+      {
+        h: "What you cannot change",
+        p: [
+          "Proximity. A patient two streets from a competitor will usually see that competitor first, and no amount of optimisation overrides it.",
+          "Accept it and aim to be unmistakably the strongest option within your own catchment, which is a fight most practices are not seriously having.",
+        ],
+      },
+    ],
+    related: ["dentists", "opticians", "physiotherapy"],
+  },
 ];
 
 export const postBySlug = (slug: string) => posts.find((p) => p.slug === slug);
