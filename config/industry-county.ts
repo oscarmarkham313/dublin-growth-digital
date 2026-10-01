@@ -51,7 +51,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Cork",
     title: "Roofing Leads Cork | Marketing for Cork Roofing Contractors",
     description:
-      "Lead generation for Cork roofing contractors: Atlantic weather, an old city housing stock and west Cork distances all change how the work comes in.",
+      "Leads for Cork roofing contractors: Atlantic weather, an old city housing stock and west Cork distances all change how the work comes in.",
     h1: "Roofing leads in Cork, weather and all.",
     intro: [
       "Cork roofing demand is driven by weather coming off the Atlantic, and it does not arrive evenly. A single bad system can produce a month of call-outs in three days, and the contractors who capture it are the ones already visible when the wind drops.",
@@ -122,7 +122,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Dublin",
     title: "Roofing Leads Dublin | Marketing for Dublin Roofers",
     description:
-      "Lead generation for Dublin roofing contractors: the most expensive clicks in Ireland, a huge pre-1970s housing stock and competition that never sleeps.",
+      "Leads for Dublin roofing contractors: the most expensive clicks in Ireland, a huge pre-1970s housing stock and competition that never sleeps.",
     h1: "Roofing leads in Dublin, where the clicks cost real money.",
     intro: [
       "Dublin is the most expensive place in Ireland to advertise roofing, and it is also where the most roofing work is. A click that costs a euro in Mayo can cost six or seven here for the same search.",
@@ -192,7 +192,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Galway",
     title: "Roofing Leads Galway | Marketing for Galway Roofers",
     description:
-      "Lead generation for Galway roofing contractors: Atlantic exposure, Connemara distances and a city market distorted by students.",
+      "Leads for Galway roofing contractors: Atlantic exposure, Connemara distances and a city market distorted by students.",
     h1: "Roofing leads in Galway, drawn by driving time.",
     intro: [
       "Galway roofing is shaped by two things that have nothing to do with marketing: Atlantic weather and the size of the county. Exposure on the western side produces genuine storm damage, and the distance from the city to Connemara makes a great many enquiries uneconomic before you leave the yard.",
@@ -262,7 +262,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Kildare",
     title: "Roofing Leads Kildare | Marketing for Kildare Roofers",
     description:
-      "Lead generation for Kildare roofing contractors: newer housing, commuter households that pay for certainty, and Dublin firms bidding into your county.",
+      "Leads for Kildare roofing contractors: newer housing, commuter households that pay for certainty, and Dublin firms bidding into your county.",
     h1: "Roofing leads in Kildare, against Dublin competition.",
     intro: [
       "Kildare's housing is newer than Dublin's, which changes the work. Less slate and lead, more felt, tiles and flat-roof extensions, and fewer of the period jobs that carry the best margins in the city.",
@@ -332,7 +332,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Dublin",
     title: "Plumbing Leads Dublin | Marketing for Dublin Plumbers",
     description:
-      "Lead generation for Dublin plumbers and heating engineers: emergency work decided in minutes, heat pump work researched over weeks.",
+      "Leads for Dublin plumbers and heating engineers: emergency work decided in minutes, heat pump work researched over weeks.",
     h1: "Plumbing leads in Dublin, emergency and planned.",
     intro: [
       "Dublin plumbing is two businesses at once. An emergency — a burst pipe, no heat, a leak through a ceiling — is decided in minutes from the map results. A boiler replacement or a heat pump is researched for weeks.",
@@ -402,7 +402,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Kildare",
     title: "Landscaping Leads Kildare | Marketing for Kildare Landscapers",
     description:
-      "Lead generation for Kildare landscapers: large commuter gardens, real budgets, and a season that is decided months before anybody rings.",
+      "Leads for Kildare landscapers: large commuter gardens, real budgets, and a season that is decided months before anybody rings.",
     h1: "Landscaping leads in Kildare, where the gardens are big.",
     intro: [
       "Kildare has something most of Dublin does not: space. The estates built around Naas, Newbridge, Maynooth, Celbridge and Ratoath came with gardens large enough to be worth spending real money on, and households with Dublin incomes to spend it.",
@@ -472,7 +472,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Donegal",
     title: "Roofing Leads Donegal | Marketing for Donegal Roofers",
     description:
-      "Lead generation for Donegal roofing contractors: the worst Atlantic weather in Ireland, distances that eat a morning, and Derry firms in your results.",
+      "Leads for Donegal roofing contractors: the worst Atlantic weather in Ireland, distances that eat a morning, and Derry firms in your results.",
     h1: "Roofing leads in Donegal, where the weather does the selling.",
     intro: [
       "Donegal takes weather that most Irish roofers never see. Atlantic systems arrive here first and hardest, and a single winter storm can produce more call-outs in three days than a quiet month produces in four weeks.",
@@ -545,7 +545,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Mayo",
     title: "Roofing Leads Mayo | Marketing for Mayo Roofers",
     description:
-      "Lead generation for Mayo roofing contractors: Atlantic exposure, three towns that do not overlap, and coverage so poor a heavy website simply fails.",
+      "Leads for Mayo roofing contractors: Atlantic exposure, three towns that do not overlap, and coverage so poor a heavy website simply fails.",
     h1: "Roofing leads in Mayo, measured in driving time.",
     intro: [
       "Mayo is large, thinly populated and served by three towns that do not share customers. Castlebar, Ballina and Westport each anchor their own area, and a roofer in one is close to invisible in the others.",
@@ -618,7 +618,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Kerry",
     title: "Roofing Leads Kerry | Marketing for Kerry Roofers",
     description:
-      "Lead generation for Kerry roofing contractors: Atlantic exposure, second homes nobody checks for ten months, and roads that make a radius meaningless.",
+      "Leads for Kerry roofing contractors: Atlantic exposure, second homes nobody checks for ten months, and roads that make a radius meaningless.",
     h1: "Roofing leads in Kerry, including the houses nobody is in.",
     intro: [
       "Kerry has a large stock of holiday homes and second properties that are empty for most of the year, and roof problems in them are discovered late — usually in spring, by an owner arriving from Dublin or abroad to find a stain on a ceiling.",
@@ -691,7 +691,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Wicklow",
     title: "Roofing Leads Wicklow | Marketing for Wicklow Roofers",
     description:
-      "Lead generation for Wicklow roofing contractors: a county split by mountains, Dublin prices in the north and almost no competition in the south.",
+      "Leads for Wicklow roofing contractors: a county split by mountains, Dublin prices in the north and almost no competition in the south.",
     h1: "Roofing leads in Wicklow, on whichever side of the mountains you are.",
     intro: [
       "Wicklow is two roofing markets with a mountain range in between. Bray and Greystones sit inside the Dublin advertising economy, with Dublin click prices and Dublin competitors. Rathdrum, Tinahely and Arklow are rural, cheap and barely contested.",
@@ -764,7 +764,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Wexford",
     title: "Roofing Leads Wexford | Marketing for Wexford Roofers",
     description:
-      "Lead generation for Wexford roofing contractors: a coast whose population triples in summer, and a commuter end that prices like Wicklow.",
+      "Leads for Wexford roofing contractors: a coast whose population triples in summer, and a commuter end that prices like Wicklow.",
     h1: "Roofing leads in Wexford, for a county with two populations.",
     intro: [
       "The Wexford coast from Courtown down to Rosslare fills in summer and empties in winter, and a great deal of its housing stock is holiday property occupied for a few months a year.",
@@ -837,7 +837,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Limerick",
     title: "Roofing Leads Limerick | Marketing for Limerick Roofers",
     description:
-      "Lead generation for Limerick roofing contractors: an under-contested city, a Clare catchment most roofers ignore, and cheap clicks that hide waste.",
+      "Leads for Limerick roofing contractors: an under-contested city, a Clare catchment most roofers ignore, and cheap clicks that hide waste.",
     h1: "Roofing leads in Limerick, and the Clare work you are missing.",
     intro: [
       "Limerick is one of the least contested city markets in Ireland for roofing. Relatively few contractors compete seriously online, competitor websites are frequently poor, and the standard you need to beat is genuinely low.",
@@ -910,7 +910,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Wexford",
     title: "Solar Leads Wexford | Marketing for Wexford Solar Installers",
     description:
-      "Lead generation for Wexford solar installers: the sunniest corner of Ireland, a genuine payback argument, and large tillage roofs nobody is selling to.",
+      "Leads for Wexford solar installers: the sunniest corner of Ireland, a genuine payback argument, and large tillage roofs nobody is selling to.",
     h1: "Solar leads in Wexford, where the numbers actually work best.",
     intro: [
       "The southeast gets more sunshine than anywhere else in Ireland, and Wexford sits at the middle of it. That is not a marketing line — it is the reason a system here generates meaningfully more over a year than the same system in the northwest.",
@@ -984,7 +984,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Galway",
     title: "Solar Leads Galway | Marketing for Galway Solar Installers",
     description:
-      "Lead generation for Galway solar installers: lower yield than the southeast, long rural drives, and a city market that behaves nothing like the county.",
+      "Leads for Galway solar installers: lower yield than the southeast, long rural drives, and a city market that behaves nothing like the county.",
     h1: "Solar leads in Galway, with the payback argument done honestly.",
     intro: [
       "Galway gets less sun than the southeast. Pretending otherwise in a quote is how an installer ends up in a difficult conversation two years later when the generation figures do not match what was promised.",
@@ -1057,7 +1057,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Cork",
     title: "Solar Leads Cork | Marketing for Cork Solar Installers",
     description:
-      "Lead generation for Cork solar installers: the dairy daytime load that makes farm solar unarguable, plus a city market with its own constraints.",
+      "Leads for Cork solar installers: the dairy daytime load that makes farm solar unarguable, plus a city market with its own constraints.",
     h1: "Solar leads in Cork, where the farm case sells itself.",
     intro: [
       "Cork is the largest county in Ireland and the centre of its dairy industry, and dairy has the single best electricity profile for solar in the country — bulk tank cooling, water heating and vacuum pumps all drawing hard during daylight.",
@@ -1131,7 +1131,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Tipperary",
     title: "Solar Leads Tipperary | Marketing for Tipperary Solar Installers",
     description:
-      "Lead generation for Tipperary solar installers: a farm-first county with almost no urban market, where the domestic playbook simply does not fit.",
+      "Leads for Tipperary solar installers: a farm-first county with almost no urban market, where the domestic playbook simply does not fit.",
     h1: "Solar leads in Tipperary, where the customer is usually a farm.",
     intro: [
       "Tipperary has no city and a great deal of farmland. An installer running the standard domestic grant-and-savings campaign here is advertising to a small slice of the county and ignoring the rest.",
@@ -1204,7 +1204,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Dublin",
     title: "Solar Leads Dublin | Marketing for Dublin Solar Installers",
     description:
-      "Lead generation for Dublin solar installers: the dearest clicks in Ireland, a lot of unsuitable roofs, and why qualifying early is the whole game.",
+      "Leads for Dublin solar installers: the dearest clicks in Ireland, a lot of unsuitable roofs, and why qualifying early is the whole game.",
     h1: "Solar leads in Dublin, where the wrong lead costs the most.",
     intro: [
       "Dublin has the highest click prices in the country, the most installers competing and a housing stock where a meaningful share of roofs are too small, too shaded or facing the wrong way.",
@@ -1278,7 +1278,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Kildare",
     title: "Solar Leads Kildare | Marketing for Kildare Solar Installers",
     description:
-      "Lead generation for Kildare solar installers: commuter houses empty all day, new estates already fitted, and why the battery is the real product.",
+      "Leads for Kildare solar installers: commuter houses empty all day, new estates already fitted, and why the battery is the real product.",
     h1: "Solar leads in Kildare, where nobody is home at noon.",
     intro: [
       "Kildare is commuter country. The households with the biggest roofs and the best incomes are also the households with nobody in them between eight and six, which is precisely when the panels are producing.",
@@ -1795,7 +1795,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Donegal",
     title: "Heating Leads Donegal | Marketing for Donegal Plumbers",
     description:
-      "Lead generation for Donegal plumbers: no mains gas anywhere in the county, an oil and solid fuel market, and cold snaps that decide the year.",
+      "Leads for Donegal plumbers: no mains gas anywhere in the county, an oil and solid fuel market, and cold snaps that decide the year.",
     h1: "Heating leads in Donegal, where there is no gas to service.",
     intro: [
       "Donegal has no natural gas network. Not a limited one — none. Every heating system in the county runs on oil, LPG, solid fuel, electricity or a heat pump, and a plumber marketing gas boiler services here is advertising a service nobody can buy.",
@@ -1868,7 +1868,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Cork",
     title: "Heating Leads Cork | Marketing for Cork Plumbers",
     description:
-      "Lead generation for Cork plumbers: mains gas in the city, oil across the county, and two different trades run under one campaign.",
+      "Leads for Cork plumbers: mains gas in the city, oil across the county, and two different trades run under one campaign.",
     h1: "Heating leads in Cork, for a county running on two fuels.",
     intro: [
       "Cork city and its suburbs are on the gas network. Most of the rest of the county is not, and runs on oil and solid fuel.",
@@ -1941,7 +1941,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Galway",
     title: "Heating Leads Galway | Marketing for Galway Plumbers",
     description:
-      "Lead generation for Galway plumbers: mains gas in the city only, a rental market that never stops, and rural oil work an hour out.",
+      "Leads for Galway plumbers: mains gas in the city only, a rental market that never stops, and rural oil work an hour out.",
     h1: "Heating leads in Galway, city rental and county oil.",
     intro: [
       "Galway city is on the gas network. Once you are out past the suburbs you are into oil, solid fuel and heat pumps, and the two halves of the county behave nothing alike.",
@@ -2015,7 +2015,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Kildare",
     title: "Heating Leads Kildare | Marketing for Kildare Plumbers",
     description:
-      "Lead generation for Kildare plumbers: new estates with heat pumps rather than boilers, gas in the towns, and commuters who ring at night.",
+      "Leads for Kildare plumbers: new estates with heat pumps rather than boilers, gas in the towns, and commuters who ring at night.",
     h1: "Heating leads in Kildare, where the new houses have no boiler.",
     intro: [
       "A large share of Kildare's recent housing was built under regulations that pushed heating away from gas boilers and towards heat pumps. Those houses do not need a boiler service. They need something else entirely, and most plumbers here are still marketing boilers to them.",
@@ -2088,7 +2088,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Mayo",
     title: "Heating Leads Mayo | Marketing for Mayo Plumbers",
     description:
-      "Lead generation for Mayo plumbers: no mains gas, long drives between jobs, and empty holiday houses that burst in January.",
+      "Leads for Mayo plumbers: no mains gas, long drives between jobs, and empty holiday houses that burst in January.",
     h1: "Heating leads in Mayo, counted in driving time.",
     intro: [
       "Mayo has no mains gas network. It runs on oil, solid fuel, electricity and a growing amount of heat pump retrofit, spread across a large county with three towns that do not share customers.",
@@ -2161,7 +2161,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Kerry",
     title: "Heating Leads Kerry | Marketing for Kerry Plumbers",
     description:
-      "Lead generation for Kerry plumbers: hotel and guesthouse plant with a hard seasonal deadline, no mains gas, and a county that empties in winter.",
+      "Leads for Kerry plumbers: hotel and guesthouse plant with a hard seasonal deadline, no mains gas, and a county that empties in winter.",
     h1: "Heating leads in Kerry, where the plant has to work by Easter.",
     intro: [
       "Kerry runs on tourism, and tourism runs on hot water. Hotels, guesthouses, B&Bs and restaurants all need plant that works from Easter through September, and none of them can afford it failing in August.",
@@ -2234,7 +2234,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Dublin",
     title: "Landscaping Leads Dublin | Marketing for Dublin Landscapers",
     description:
-      "Lead generation for Dublin landscapers: small high-value gardens, access that decides the price, and the dearest clicks in the trade.",
+      "Leads for Dublin landscapers: small high-value gardens, access that decides the price, and the dearest clicks in the trade.",
     h1: "Landscaping leads in Dublin, where access decides the job.",
     intro: [
       "Dublin gardens are small, valuable and awkward to reach. A great many of them have no side entrance, which means every bag of gravel and every slab goes through the house, and that single fact changes the price more than the design does.",
@@ -2307,7 +2307,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Wicklow",
     title: "Landscaping Leads Wicklow | Marketing for Wicklow Landscapers",
     description:
-      "Lead generation for Wicklow landscapers: a county with a gardening reputation, acid upland soil, and clients who research before they ring.",
+      "Leads for Wicklow landscapers: a county with a gardening reputation, acid upland soil, and clients who research before they ring.",
     h1: "Landscaping leads in Wicklow, where people know their gardens.",
     intro: [
       "Wicklow has a gardening reputation that nowhere else in Ireland has, and it changes the customer. People here are more likely to know what they want, to have visited gardens, and to judge a landscaper on planting knowledge rather than on price alone.",
@@ -2380,7 +2380,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Galway",
     title: "Landscaping Leads Galway | Marketing for Galway Landscapers",
     description:
-      "Lead generation for Galway landscapers: ground that does not drain, a short working window, and drainage jobs nobody markets.",
+      "Leads for Galway landscapers: ground that does not drain, a short working window, and drainage jobs nobody markets.",
     h1: "Landscaping leads in Galway, where drainage is the job.",
     intro: [
       "A great deal of landscaping work in Galway is really drainage work wearing a different name. Lawns that sit wet from October to April, patios that green over, gardens that cannot be walked on for half the year.",
@@ -2453,7 +2453,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Cork",
     title: "Landscaping Leads Cork | Marketing for Cork Landscapers",
     description:
-      "Lead generation for Cork landscapers: a mild climate that grows what fails elsewhere, city courtyards, and exposed west Cork coast.",
+      "Leads for Cork landscapers: a mild climate that grows what fails elsewhere, city courtyards, and exposed west Cork coast.",
     h1: "Landscaping leads in Cork, in the mildest corner of the country.",
     intro: [
       "Cork's climate is mild enough that planting which struggles in the midlands or the north will thrive here, and the county has a long tradition of gardens that show it off.",
@@ -2526,7 +2526,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Kerry",
     title: "Landscaping Leads Kerry | Marketing for Kerry Landscapers",
     description:
-      "Lead generation for Kerry landscapers: hotel and guesthouse grounds with a hard seasonal deadline, plus holiday homes nobody maintains.",
+      "Leads for Kerry landscapers: hotel and guesthouse grounds with a hard seasonal deadline, plus holiday homes nobody maintains.",
     h1: "Landscaping leads in Kerry, where the season is the deadline.",
     intro: [
       "Kerry runs on tourism, and tourism is judged from the car park. Hotels, guesthouses, restaurants and self-catering properties all need their grounds to look right from Easter through September, and none of them can afford them looking neglected in July.",
@@ -2599,7 +2599,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Donegal",
     title: "Landscaping Leads Donegal | Marketing for Donegal Landscapers",
     description:
-      "Lead generation for Donegal landscapers: wind and salt that kill the wrong planting, a short season, and long drives between jobs.",
+      "Leads for Donegal landscapers: wind and salt that kill the wrong planting, a short season, and long drives between jobs.",
     h1: "Landscaping leads in Donegal, where shelter comes first.",
     intro: [
       "Donegal takes weather off the Atlantic that most Irish landscapers never design for. Wind and salt kill planting that would be unremarkable inland, and a scheme that ignores it looks tired inside two seasons.",
@@ -3554,7 +3554,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Dublin",
     title: "Garage Conversion Leads Dublin | Marketing That Gets Surveys",
     description:
-      "Lead generation for Dublin garage conversion specialists: families who cannot extend and cannot afford to move, in the country's densest housing stock.",
+      "Leads for Dublin garage conversion specialists: families who cannot extend and cannot afford to move, in the country's densest housing stock.",
     h1: "Garage conversion leads in Dublin, where moving is not an option.",
     intro: [
       "Dublin is the core market for this work in Ireland and the reason is arithmetic. Families outgrow houses they cannot afford to trade up from, gardens are too small to extend into, and there is an attached garage sitting there holding bicycles.",
@@ -3628,7 +3628,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Kildare",
     title: "Garage Conversion Leads Kildare | Marketing for Conversions",
     description:
-      "Lead generation for Kildare garage conversion specialists: commuter estates where the garage never held a car and the home office is the job.",
+      "Leads for Kildare garage conversion specialists: commuter estates where the garage never held a car and the home office is the job.",
     h1: "Garage conversion leads in Kildare, where the office is the job.",
     intro: [
       "Kildare is full of estate houses built with an attached garage that has never once had a car in it. It holds a freezer, a lawnmower and the things that came out of the last house.",
@@ -3701,7 +3701,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Cork",
     title: "Garage Conversion Leads Cork | Marketing for Cork Conversions",
     description:
-      "Lead generation for Cork garage conversion specialists: suburban stock with the space to convert, and economics that differ from Dublin's.",
+      "Leads for Cork garage conversion specialists: suburban stock with the space to convert, and economics that differ from Dublin's.",
     h1: "Garage conversion leads in Cork, where the sums work differently.",
     intro: [
       "Cork has the second-largest suburban housing stock in the country and plenty of attached garages sitting unused. What it does not have is Dublin's property prices, and that changes the decision.",
@@ -3775,7 +3775,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Galway",
     title: "Garage Conversion Leads Galway | Marketing for Conversions",
     description:
-      "Lead generation for Galway garage conversion specialists: a rental-squeezed city where conversions create lettable rooms, not just family space.",
+      "Leads for Galway garage conversion specialists: a rental-squeezed city where conversions create lettable rooms, not just family space.",
     h1: "Garage conversion leads in Galway, where a room can pay for itself.",
     intro: [
       "Galway city has sustained pressure on rental accommodation and a large student and young-professional population competing for it. That gives garage conversion a second motive that barely exists elsewhere: the room can generate income.",
@@ -3848,7 +3848,7 @@ export const industryCounty: IndustryCounty[] = [
     countyName: "Limerick",
     title: "Garage Conversion Leads Limerick | Marketing for Conversions",
     description:
-      "Lead generation for Limerick garage conversion specialists: an under-contested market where the conversion has to earn its place against moving.",
+      "Leads for Limerick garage conversion specialists: an under-contested market where the conversion has to earn its place against moving.",
     h1: "Garage conversion leads in Limerick, where you argue the value.",
     intro: [
       "Limerick has plenty of suburban housing with attached garages and very few firms marketing this work seriously. The field is unusually quiet.",

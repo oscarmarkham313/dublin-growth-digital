@@ -46,7 +46,7 @@ export const industries: Industry[] = [
     label: "Estate agents",
     title: "Estate Agent Marketing Ireland | Vendor Leads for Agencies",
     description:
-      "Vendor lead generation for Irish estate agents. Meta and Google campaigns that reach homeowners before they choose an agent, reported in valuations booked.",
+      "Vendor leads for Irish estate agents. Meta and Google campaigns that reach homeowners before they choose an agent, reported in valuations booked.",
     h1: "Vendor leads for Irish estate agents.",
     intro: [
       "The seller decides which agent to ring in the last week. The agency that wins the instruction is the one that spent the six months before it in the homeowner's feed. We do that work for estate agencies across Ireland: Meta and Google campaigns aimed at people preparing to sell, sent to a form that asks the qualifying questions first, and reported in valuations booked rather than impressions.",
@@ -141,9 +141,9 @@ export const industries: Industry[] = [
   {
     slug: "solar-installers",
     label: "Solar installers",
-    title: "Solar Lead Generation Ireland | Qualified Leads for Installers",
+    title: "Solar Leads Ireland | Lead Generation for Solar Installers",
     description:
-      "Lead generation for SEAI-registered solar installers in Ireland. Meta and Google campaigns with forms that qualify roof, budget and timing first.",
+      "Leads for SEAI-registered solar installers in Ireland. Meta and Google campaigns with forms that qualify roof, budget and timing first.",
     h1: "Qualified solar leads, surveyed and booked.",
     intro: [
       "The homeowner has already decided to go solar. They are choosing who. We put your installs, your reviews and your price in front of them before they ring the first name on Google, then book the survey through a form that asks the qualifying questions first.",
@@ -364,7 +364,7 @@ export const industries: Industry[] = [
     label: "Landscapers",
     title: "Landscaping Leads Ireland | Marketing for Garden Companies",
     description:
-      "Lead generation for Irish landscapers and garden companies. Meta and Google campaigns for the jobs you want, from patios to full garden design.",
+      "Leads for Irish landscapers and garden companies. Meta and Google campaigns for the jobs you want, from patios to full garden design.",
     h1: "Garden jobs worth quoting for.",
     intro: [
       "Landscaping is bought with the eyes. A homeowner sees a finished garden on their phone in March and rings the company that did it. We put your best work in front of homeowners in the towns you cover, on Facebook and Instagram, at the time of year they are planning, and we send every enquiry through a form that asks about the job and the budget before you spend an evening on a site visit.",
@@ -447,7 +447,7 @@ export const industries: Industry[] = [
     label: "Driveways & paving",
     title: "Driveway & Paving Leads Ireland | Tarmac and Paving Marketing",
     description:
-      "Lead generation for driveway, tarmac and paving contractors in Ireland.",
+      "Leads for driveway, tarmac and paving contractors in Ireland. Reported in booked jobs rather than clicks.",
     h1: "Driveway and paving enquiries, qualified before you quote.",
     intro: [
       "A driveway is a big-ticket job that homeowners think about for months and decide on in a weekend. We put your finished driveways in front of homeowners in the towns you cover while they are still thinking, and we catch the ones already searching on Google. Every enquiry comes through a form that asks the size, the surface and the timing first.",
@@ -530,7 +530,7 @@ export const industries: Industry[] = [
     label: "Bathroom renovations",
     title: "Bathroom Renovation Leads Ireland | Marketing for Fitters",
     description:
-      "Lead generation for bathroom fitters and renovation companies in Ireland.",
+      "Leads for bathroom fitters and renovation companies in Ireland. Reported in booked quotes rather than clicks.",
     h1: "Bathroom quotes, booked while you are on the tools.",
     intro: [
       "Homeowners plan a bathroom at nine o'clock at night on Instagram. That is when we book the survey, through a form that asks about the job and the budget before your phone rings. We run Meta and Google campaigns for bathroom fitters, tilers and renovation companies across Ireland, built around the jobs you want and the areas you cover.",
@@ -613,7 +613,7 @@ export const industries: Industry[] = [
     label: "Plumbers & heating",
     title: "Plumbing & Heating Leads Ireland | Marketing for Plumbers",
     description:
-      "Lead generation for Irish plumbing and heating businesses. Google Ads on emergency and installation searches, Meta for heat pumps and boilers.",
+      "Leads for Irish plumbing and heating businesses. Google Ads on emergency and installation searches, Meta for heat pumps and boilers.",
     h1: "Plumbing and heating calls that are worth answering.",
     intro: [
       "Plumbing is searched for, not scrolled for. A burst pipe at seven in the evening turns into a Google search and a phone call within minutes, and the business in the map box gets the job. We run Google Ads on the emergency and installation searches in your area, keep your Google Business Profile at the top of the map, and use Meta for the planned work: boilers, heat pumps, bathrooms.",
@@ -696,7 +696,7 @@ export const industries: Industry[] = [
     label: "Builders & extensions",
     title: "Builder Leads Ireland | Marketing for Extensions & Renovations",
     description:
-      "Lead generation for builders, extension specialists and renovation contractors in Ireland.",
+      "Leads for builders, extension specialists and renovation contractors in Ireland.",
     h1: "Extension and renovation leads, budget known before you visit.",
     intro: [
       "Homeowners plan an extension at nine o'clock at night on their phone, months before they ring a builder. The job is to be the name they see then, and to know the budget and the timing before you spend an evening on a site visit. We run Meta and Google campaigns for builders, extension specialists and renovation contractors across Ireland, built around the projects you want.",
@@ -779,7 +779,7 @@ export const industries: Industry[] = [
     label: "Electricians",
     title: "Electrician Leads Ireland | Marketing for Electrical Contractors",
     description:
-      "Lead generation for Irish electricians: rewires, fuse boards, EV chargers and emergency callouts. Campaigns reported in booked jobs, not clicks.",
+      "Leads for Irish electricians: rewires, fuse boards, EV chargers and emergency callouts. Campaigns reported in booked jobs, not clicks.",
     h1: "Electrician leads, booked rather than counted.",
     intro: [
       "An electrician's diary has two halves and they need entirely different marketing. Emergency work — a dead socket ring, a tripping board, no power upstairs — is won on Google within about fifteen minutes of the search, by whoever answers. Planned work — a rewire, a board upgrade, an EV charger, a new build second fix — is decided over days and won on reviews, photographs and whether the quote arrived when it was promised.",
@@ -846,7 +846,7 @@ export const industries: Industry[] = [
     label: "Kitchen fitters",
     title: "Kitchen Leads Ireland | Marketing for Kitchen Companies",
     description:
-      "Lead generation for Irish kitchen showrooms and fitters. Campaigns built around design appointments and real budgets, reported in booked consultations.",
+      "Leads for Irish kitchen showrooms and fitters. Campaigns built around design appointments and real budgets, reported in booked consultations.",
     h1: "Kitchen enquiries from people who have actually budgeted.",
     intro: [
       "A kitchen is one of the largest discretionary purchases a household makes, and the decision takes months. Somebody starts looking in January, visits three showrooms in February and orders in April. The company that wins is rarely the cheapest; it is the one that stayed visible through that whole stretch and made booking a design appointment feel easy rather than committal.",
@@ -913,7 +913,7 @@ export const industries: Industry[] = [
     label: "Attic conversions",
     title: "Attic Conversion Leads Ireland | Marketing for Conversion Firms",
     description:
-      "Lead generation for Irish attic conversion specialists. Campaigns aimed at homeowners needing space, with planning and regulation questions handled.",
+      "Leads for Irish attic conversion specialists. Campaigns aimed at homeowners needing space, with planning and regulation questions handled.",
     h1: "Attic conversion leads from homeowners who need the room.",
     intro: [
       "Attic conversions sell against a specific alarm: a family has outgrown the house and is weighing the cost of moving against the cost of staying. That comparison is the whole pitch. A conversion that costs a fraction of stamp duty, estate agent fees and a mortgage top-up is an easy argument to make, and almost nobody makes it in their advertising.",
@@ -980,7 +980,7 @@ export const industries: Industry[] = [
     label: "Garden rooms",
     title: "Garden Room Leads Ireland | Marketing for Garden Room Builders",
     description:
-      "Lead generation for Irish garden room and garden office builders. Campaigns built around home-office and extra-space demand, reported in booked site visits.",
+      "Leads for Irish garden room and garden office builders. Campaigns built around home-office and extra-space demand, reported in booked site visits.",
     h1: "Garden room leads, from people ready to spend.",
     intro: [
       "Garden rooms are sold on a photograph. More than almost any trade, the decision starts with somebody seeing a finished room that looks like the one they have been picturing, and then working backwards to whether they can afford it. That makes this an unusually good fit for paid social and an unusually bad fit for text-only advertising.",
@@ -1047,7 +1047,7 @@ export const industries: Industry[] = [
     label: "Windows & doors",
     title: "Window & Door Leads Ireland | Marketing for Installers",
     description:
-      "Lead generation for Irish window and door installers. Campaigns built around energy upgrades, grants and full-house replacements, reported in booked surveys.",
+      "Leads for Irish window and door installers. Campaigns built around energy upgrades, grants and full-house replacements, reported in booked surveys.",
     h1: "Window and door leads worth surveying.",
     intro: [
       "Windows are bought for two reasons and they behave completely differently. One is cold and draught — an older house, rising heating bills, condensation on the inside of the glass every winter morning. The other is appearance, usually alongside other work. The first is seasonal and urgent; the second is planned and price-sensitive.",
@@ -1114,7 +1114,7 @@ export const industries: Industry[] = [
     label: "Heat pumps",
     title: "Heat Pump Leads Ireland | Marketing for Heat Pump Installers",
     description:
-      "Lead generation for Irish heat pump installers. Campaigns built around SEAI grants, BER requirements and retrofit-ready homes, reported in booked assessments.",
+      "Leads for Irish heat pump installers. Campaigns built around SEAI grants, BER requirements and retrofit-ready homes, reported in booked assessments.",
     h1: "Heat pump leads from homes that can actually take one.",
     intro: [
       "Heat pumps have the longest and most technical sales cycle of any home energy product in Ireland. A homeowner has to understand grants, BER ratings, insulation requirements and whether their radiators will even work at a lower flow temperature. Most enquiries fail not on price but on suitability, and every unsuitable enquiry costs you an assessment.",
@@ -1181,7 +1181,7 @@ export const industries: Industry[] = [
     label: "Drainage",
     title: "Drainage Leads Ireland | Marketing for Drain & Septic Specialists",
     description:
-      "Lead generation for Irish drainage contractors: blockages, CCTV surveys, septic tanks and emergency callouts. Reported in booked jobs.",
+      "Leads for Irish drainage contractors: blockages, CCTV surveys, septic tanks and emergency callouts. Reported in booked jobs.",
     h1: "Drainage leads, at the moment the phone should ring.",
     intro: [
       "Drainage is the purest emergency trade in the country. Nobody researches a blocked drain. They search, they ring the first two numbers, and they book whoever answers and can come today. The entire competitive question is whether you appear at that moment and whether somebody picks up.",
@@ -1248,7 +1248,7 @@ export const industries: Industry[] = [
     label: "Damp proofing",
     title: "Damp Proofing Leads Ireland | Marketing for Damp Specialists",
     description:
-      "Lead generation for Irish damp proofing and condensation specialists. Campaigns built around surveys for older housing stock and pre-purchase reports.",
+      "Leads for Irish damp proofing and condensation specialists. Campaigns built around surveys for older housing stock and pre-purchase reports.",
     h1: "Damp proofing leads that turn into surveys.",
     intro: [
       "Damp is sold on diagnosis, not on price. A homeowner with a stain spreading on a bedroom wall does not know whether they have rising damp, penetrating damp or condensation, and every one of those has a different fix and a different cost. The firm that wins is the one that explains the difference before asking for anything.",
@@ -1315,7 +1315,7 @@ export const industries: Industry[] = [
     label: "Painters & decorators",
     title: "Painting & Decorating Leads Ireland | Marketing for Decorators",
     description:
-      "Lead generation for Irish painters and decorators: interior, exterior and commercial. Campaigns built around the season and reported in booked jobs.",
+      "Leads for Irish painters and decorators: interior, exterior and commercial. Campaigns built around the season and reported in booked jobs.",
     h1: "Painting and decorating leads, in the right season.",
     intro: [
       "Decorating is the most seasonal trade we work with, and the firms that do well are the ones that swap what they advertise rather than advertising the same thing all year. Exterior work sells from April to September and is effectively unsellable in December. Interior work is the opposite, with a hard peak in the six weeks before Christmas.",
@@ -1382,7 +1382,7 @@ export const industries: Industry[] = [
     label: "Tilers",
     title: "Tiling Leads Ireland | Marketing for Tilers & Tiling Contractors",
     description:
-      "Lead generation for Irish tilers: bathrooms, kitchens, floors and wetrooms. Campaigns that bring direct homeowner work rather than subcontract rates.",
+      "Leads for Irish tilers: bathrooms, kitchens, floors and wetrooms. Campaigns that bring direct homeowner work rather than subcontract rates.",
     h1: "Tiling leads direct from homeowners, not through a builder.",
     intro: [
       "Most tilers get their work through builders and bathroom firms, and take a subcontract rate for it. The work is steady and the margin is thin, and it disappears the moment the main contractor finds somebody cheaper. Direct homeowner work pays substantially better and belongs to you rather than to whoever passed it on.",
@@ -1449,7 +1449,7 @@ export const industries: Industry[] = [
     label: "Flooring",
     title: "Flooring Leads Ireland | Marketing for Flooring Companies",
     description:
-      "Lead generation for Irish flooring companies and fitters: timber, laminate, LVT and carpet. Campaigns reported in booked measures.",
+      "Leads for Irish flooring companies and fitters: timber, laminate, LVT and carpet. Campaigns reported in booked measures.",
     h1: "Flooring leads measured in booked measures.",
     intro: [
       "Flooring is a supply-and-fit business, which means the enquiry is worthless until somebody knows how many square metres are involved. A hall, stairs and landing and a full ground floor arrive through the same form and are worth completely different amounts, and the measuring visit is where your margin quietly goes.",
@@ -1516,7 +1516,7 @@ export const industries: Industry[] = [
     label: "Fencing & gates",
     title: "Fencing Leads Ireland | Marketing for Fencing & Gate Installers",
     description:
-      "Lead generation for Irish fencing and gate installers: garden fencing, automated gates and post-storm repairs. Reported in booked jobs.",
+      "Leads for Irish fencing and gate installers: garden fencing, automated gates and post-storm repairs. Reported in booked jobs.",
     h1: "Fencing and gate leads, including the week after a storm.",
     intro: [
       "Fencing has two demand patterns and one of them is worth planning for. The steady one is spring and early summer, when gardens get attention and new estates want boundaries finished. The other arrives without warning: a named storm goes through and an entire county needs fence panels replaced in the same fortnight.",
@@ -1784,7 +1784,7 @@ export const industries: Industry[] = [
     label: "Insulation",
     title: "Insulation Leads Ireland | Marketing for Insulation Contractors",
     description:
-      "Lead generation for Irish insulation contractors: attic, cavity wall, external wall and SEAI grant work. Reported in booked surveys.",
+      "Leads for Irish insulation contractors: attic, cavity wall, external wall and SEAI grant work. Reported in booked surveys.",
     h1: "Insulation leads from homes that qualify for the grant.",
     intro: [
       "Insulation in Ireland is a grant business before it is a building business. Most homeowners start from the SEAI grant rather than from the insulation, and the firms that win the work are the ones that answer the grant question first and the technical question second.",
@@ -1867,7 +1867,7 @@ export const industries: Industry[] = [
     label: "Plastering",
     title: "Plastering Leads Ireland | Marketing for Plasterers",
     description:
-      "Lead generation for Irish plasterers and skimming contractors: direct homeowner work rather than subcontract rates. Reported in booked jobs.",
+      "Leads for Irish plasterers and skimming contractors: direct homeowner work rather than subcontract rates. Reported in booked jobs.",
     h1: "Plastering leads direct from homeowners, not through a builder.",
     intro: [
       "Most plasterers work through builders and take a subcontract rate for it. The work is steady, the margin is thin, and it vanishes the moment the main contractor finds someone cheaper or the site finishes.",
@@ -1950,7 +1950,7 @@ export const industries: Industry[] = [
     label: "Stoves & fireplaces",
     title: "Stove & Fireplace Leads Ireland | Marketing for Installers",
     description:
-      "Lead generation for Irish stove and fireplace showrooms and installers. Campaigns timed to the heating season and reported in booked surveys.",
+      "Leads for Irish stove and fireplace showrooms and installers. Campaigns timed to the heating season and reported in booked surveys.",
     h1: "Stove and fireplace leads, timed to the season that sells them.",
     intro: [
       "Stoves sell on a curve so predictable you can plan a year around it. Enquiries rise with the first genuine cold week, peak through October and November, and fall off a cliff in spring. A firm advertising evenly across the year spends half its budget in months when almost nobody is buying.",
@@ -2033,7 +2033,7 @@ export const industries: Industry[] = [
     label: "Sunrooms & conservatories",
     title: "Sunroom & Conservatory Leads Ireland | Marketing for Installers",
     description:
-      "Lead generation for Irish sunroom, conservatory and garden room extension installers. Photograph-led campaigns reported in booked home visits.",
+      "Leads for Irish sunroom, conservatory and garden room extension installers. Photograph-led campaigns reported in booked home visits.",
     h1: "Sunroom and conservatory leads from people ready to spend.",
     intro: [
       "A sunroom is sold on a photograph and bought after months of thinking. Somebody sees a finished room attached to a house like theirs, pictures their own back wall, and starts costing it up. That makes this an unusually good fit for paid social and a poor one for text-only search advertising.",
@@ -2116,7 +2116,7 @@ export const industries: Industry[] = [
     label: "Security & alarms",
     title: "Alarm & CCTV Leads Ireland | Marketing for Security Installers",
     description:
-      "Lead generation for Irish alarm, CCTV and access control installers, domestic and commercial. Reported in booked surveys.",
+      "Leads for Irish alarm, CCTV and access control installers, domestic and commercial. Reported in booked surveys.",
     h1: "Alarm and CCTV leads, domestic and commercial.",
     intro: [
       "Security is bought after something happens. A break-in on the road, a spate in the estate, a story in the local paper — and for about a fortnight afterwards an entire area is in the market at once. The rest of the time demand is steady and low.",
@@ -2199,7 +2199,7 @@ export const industries: Industry[] = [
     label: "Tree surgery",
     title: "Tree Surgery Leads Ireland | Marketing for Arborists",
     description:
-      "Lead generation for Irish tree surgeons and arborists: felling, pruning, storm damage and stump removal. Reported in booked jobs.",
+      "Leads for Irish tree surgeons and arborists: felling, pruning, storm damage and stump removal. Reported in booked jobs.",
     h1: "Tree surgery leads, including the week after a storm.",
     intro: [
       "Tree work has two demand patterns and one of them is worth building for. The steady one runs through autumn and winter, when leaves are down and people can see what needs doing. The other arrives without warning: a storm goes through and an entire county needs the same urgent work in the same three days, from people who are not comparing quotes.",
@@ -2707,7 +2707,7 @@ export const industries: Industry[] = [
     label: "Garages & mechanics",
     title: "Garage Leads Ireland | Marketing for Mechanics & Car Servicing",
     description:
-      "Lead generation for Irish garages and mechanics: servicing, NCT preparation, repairs and tyres. Reported in booked jobs.",
+      "Leads for Irish garages and mechanics: servicing, NCT preparation, repairs and tyres. Reported in booked jobs.",
     h1: "Garage leads built around the NCT and the service calendar.",
     intro: [
       "A garage has the most reliable recurring demand of any local trade, and most never advertise against it. Every car in the country needs an NCT, and every NCT failure creates a repair job with a deadline attached. That is a predictable, searchable, high-intent stream of work that almost nobody competes for.",
@@ -3039,7 +3039,7 @@ export const industries: Industry[] = [
     label: "Pest control",
     title: "Pest Control Leads Ireland | Marketing for Pest Controllers",
     description:
-      "Lead generation for Irish pest control companies: domestic callouts and commercial contracts. Seasonal, urgent, and reported in booked jobs.",
+      "Leads for Irish pest control companies: domestic callouts and commercial contracts. Seasonal, urgent, and reported in booked jobs.",
     h1: "Pest control leads, domestic and commercial.",
     intro: [
       "Pest control has two businesses and they could not be less alike. Domestic work is urgent, emotional and frequently embarrassing — somebody wants the problem gone today and does not want the neighbours to know. Commercial work is contractual, compliance-driven and worth many times more over a year.",
@@ -3122,7 +3122,7 @@ export const industries: Industry[] = [
     label: "Locksmiths",
     title: "Locksmith Leads Ireland | Marketing for Locksmiths",
     description:
-      "Lead generation for Irish locksmiths: emergency lockouts, lock changes and security upgrades. Built for the fifteen minutes that decide the job.",
+      "Leads for Irish locksmiths: emergency lockouts, lock changes and security upgrades. Built for the fifteen minutes that decide the job.",
     h1: "Locksmith leads, at the moment the phone should ring.",
     intro: [
       "Nobody researches a locksmith. They are standing outside a door, they search, they ring the first number that looks local, and the job is gone within about fifteen minutes. There is no consideration phase and no second chance.",
@@ -3205,7 +3205,7 @@ export const industries: Industry[] = [
     label: "Powerwashing",
     title: "Powerwashing Leads Ireland | Marketing for Exterior Cleaning",
     description:
-      "Lead generation for Irish powerwashing and exterior cleaning businesses: driveways, roofs, patios and render. Photograph-led and sharply seasonal.",
+      "Leads for Irish powerwashing and exterior cleaning businesses: driveways, roofs, patios and render. Photograph-led and sharply seasonal.",
     h1: "Powerwashing leads, in the months people actually look outside.",
     intro: [
       "Powerwashing is the most photogenic trade in Ireland. A half-cleaned driveway with a hard line down the middle is among the most persuasive images in home improvement, and it costs nothing to capture.",
@@ -3288,7 +3288,7 @@ export const industries: Industry[] = [
     label: "Carpentry & joinery",
     title: "Joinery Leads Ireland | Marketing for Carpenters",
     description:
-      "Lead generation for Irish carpenters and joinery businesses: fitted wardrobes, bespoke furniture and second-fix work. Reported in booked consultations.",
+      "Leads for Irish carpenters and joinery businesses: fitted wardrobes, bespoke furniture and second-fix work. Reported in booked consultations.",
     h1: "Joinery leads for the work worth making.",
     intro: [
       "Carpentry covers two businesses with very different economics. Second-fix and site work is steady, subcontracted and priced by the day. Fitted wardrobes, bespoke furniture and made-to-measure joinery are direct to homeowner, worth several thousand a job, and chosen on how the finished work looks.",
@@ -3371,7 +3371,7 @@ export const industries: Industry[] = [
     label: "Asbestos removal",
     title: "Asbestos Removal Leads Ireland | Contractor Marketing",
     description:
-      "Lead generation for Irish asbestos surveying and removal contractors, domestic and commercial. Urgent, regulated, and reported in booked surveys.",
+      "Leads for Irish asbestos surveying and removal contractors, domestic and commercial. Urgent, regulated, and reported in booked surveys.",
     h1: "Asbestos leads, from people who have just found it.",
     intro: [
       "Asbestos enquiries are almost always triggered by a discovery. A builder opens a ceiling mid-renovation, a survey flags it before a sale, a demolition is halted. In every case a project has just stopped and somebody needs it moving again quickly.",
@@ -3454,7 +3454,7 @@ export const industries: Industry[] = [
     label: "Skip hire & waste",
     title: "Skip Hire Leads Ireland | Marketing for Waste & Skip Companies",
     description:
-      "Lead generation for Irish skip hire and waste collection companies, domestic and trade. Same-day, price-led and reported in booked deliveries.",
+      "Leads for Irish skip hire and waste collection companies, domestic and trade. Same-day, price-led and reported in booked deliveries.",
     h1: "Skip hire leads, for a decision made in four minutes.",
     intro: [
       "Skip hire is bought faster than almost anything else in this list. Somebody is clearing a house or mid-renovation, they need a skip today or tomorrow, and they will ring two numbers. Price and availability decide it, in that order.",
@@ -3620,7 +3620,7 @@ export const industries: Industry[] = [
     label: "Agricultural contractors",
     title: "Agricultural Contractor Leads Ireland | Ag Marketing",
     description:
-      "Lead generation for Irish agricultural contractors: silage, slurry, reseeding, hedge cutting and tillage. Built around the weeks that matter.",
+      "Leads for Irish agricultural contractors: silage, slurry, reseeding, hedge cutting and tillage. Built around the weeks that matter.",
     h1: "Agricultural contractor marketing built around a very short year.",
     intro: [
       "Agricultural contracting is decided in a handful of weeks. Silage, slurry spreading and tillage all happen inside narrow weather-dependent windows, and a farmer who has not chosen a contractor by then is ringing whoever answers.",
@@ -4533,7 +4533,7 @@ export const industries: Industry[] = [
     label: "Engineers & surveyors",
     title: "Engineer & Surveyor Leads Ireland | Surveys, Snag Lists & Certs",
     description:
-      "Lead generation for Irish engineers and surveyors: pre-purchase surveys, snag lists, certificates of compliance and boundary work.",
+      "Leads for Irish engineers and surveyors: pre-purchase surveys, snag lists, certificates of compliance and boundary work.",
     h1: "Engineer and surveyor leads tied to the property market.",
     intro: [
       "Most of this work is triggered by a transaction. Somebody is buying, selling, building or refinancing, and a survey, a snag list or a certificate is the thing standing between them and the next step.",
@@ -4616,7 +4616,7 @@ export const industries: Industry[] = [
     label: "Shopfitting",
     title: "Shopfitting Leads Ireland | Marketing for Commercial Fit-Out",
     description:
-      "Lead generation for Irish shopfitting and commercial fit-out contractors. Project-based, relationship-led, and reported in site visits.",
+      "Leads for Irish shopfitting and commercial fit-out contractors. Project-based, relationship-led, and reported in site visits.",
     h1: "Shopfitting leads from businesses about to open a door.",
     intro: [
       "Shopfitting is a project business with long gaps and large numbers. One fit-out can be worth a quarter of a year's turnover, and the enquiries arrive from people who have just signed a lease and suddenly have a deadline they cannot move.",
@@ -4699,7 +4699,7 @@ export const industries: Industry[] = [
     label: "Signage & print",
     title: "Signage & Print Leads Ireland | Marketing for Sign Makers",
     description:
-      "Lead generation for Irish signage, vehicle livery and print businesses. Repeat B2B work with fast turnarounds.",
+      "Leads for Irish signage, vehicle livery and print businesses. Repeat B2B work with fast turnarounds.",
     h1: "Signage and print leads that come back.",
     intro: [
       "Signage has an advantage almost no other business has: every job is an advertisement that stays up for years. A well-made shopfront or a liveried van is seen by thousands of people, and a proportion of them will need signage eventually.",
@@ -4782,7 +4782,7 @@ export const industries: Industry[] = [
     label: "Equipment hire",
     title: "Plant & Equipment Hire Leads Ireland | Hire Marketing",
     description:
-      "Lead generation for Irish plant and equipment hire businesses. Utilisation is everything, and trade accounts are worth more than any one-off.",
+      "Leads for Irish plant and equipment hire businesses. Utilisation is everything, and trade accounts are worth more than any one-off.",
     h1: "Equipment hire leads that build utilisation, not just bookings.",
     intro: [
       "A hire business lives or dies on utilisation. A machine sitting in the yard costs exactly what it cost yesterday and earns nothing, and the difference between a good year and a bad one is a handful of percentage points of fleet uptime.",
@@ -4865,7 +4865,7 @@ export const industries: Industry[] = [
     label: "Scaffolding",
     title: "Scaffolding Leads Ireland | Marketing for Scaffolding Contractors",
     description:
-      "Lead generation for Irish scaffolding contractors, domestic and commercial. Hire duration is the revenue, not the erect.",
+      "Leads for Irish scaffolding contractors, domestic and commercial. Hire duration is the revenue, not the erect.",
     h1: "Scaffolding leads where the hire period is the product.",
     intro: [
       "Scaffolding is priced as an erect and a dismantle, and earns its money in the weeks between. A job that stays up for six weeks instead of two is the same labour for three times the revenue, which means the jobs worth winning are the long ones.",
@@ -4948,7 +4948,7 @@ export const industries: Industry[] = [
     label: "Glazing & glass",
     title: "Glazier Leads Ireland | Emergency Boarding & Glass Replacement",
     description:
-      "Lead generation for Irish glaziers: emergency boarding, glass replacement and misted units. Two businesses, one trade.",
+      "Leads for Irish glaziers: emergency boarding, glass replacement and misted units. Two businesses, one trade.",
     h1: "Glazing leads, from the break-in at midnight to the misted unit.",
     intro: [
       "Glazing splits cleanly in two. Emergency work — a break-in, a smashed shopfront, a door panel through — is urgent, unpriced and won by whoever answers the phone at eleven at night. Planned work — misted units, upgrades, new glass — is compared, quoted and decided over days.",
@@ -5031,7 +5031,7 @@ export const industries: Industry[] = [
     label: "Garage conversions",
     title: "Garage Conversion Leads Ireland | Marketing for Specialists",
     description:
-      "Lead generation for Irish garage conversion specialists. The cheapest way to add a room, and the objection is always parking.",
+      "Leads for Irish garage conversion specialists. The cheapest way to add a room, and the objection is always parking.",
     h1: "Garage conversion leads from families who need one more room.",
     intro: [
       "A garage conversion is the cheapest square metre a homeowner can add. The structure exists, the roof exists, and the work is largely internal — which makes it substantially cheaper than an extension for a family who has simply run out of space.",
@@ -5114,7 +5114,7 @@ export const industries: Industry[] = [
     label: "Artificial grass",
     title: "Artificial Grass Leads Ireland | Marketing for Installers",
     description:
-      "Lead generation for Irish artificial grass installers. Visual, seasonal, and sold against three specific objections.",
+      "Leads for Irish artificial grass installers. Visual, seasonal, and sold against three specific objections.",
     h1: "Artificial grass leads, and the three objections that decide them.",
     intro: [
       "Artificial grass sells on a photograph and stalls on three doubts: that it will look fake, that it will be unpleasant in hot weather, and whether it works with dogs. Every enquiry has at least one of them, and most advertising in this trade ignores all three.",
@@ -5197,7 +5197,7 @@ export const industries: Industry[] = [
     label: "Pools & hot tubs",
     title: "Pool & Hot Tub Leads Ireland | Installation & Servicing",
     description:
-      "Lead generation for Irish pool and hot tub companies. The install is the headline, the servicing is the business.",
+      "Leads for Irish pool and hot tub companies. The install is the headline, the servicing is the business.",
     h1: "Pool and hot tub leads, and the servicing that follows them.",
     intro: [
       "An installation is a large, occasional, heavily considered purchase. Servicing, chemicals, covers and repairs are small, frequent and go on for a decade. Most companies in this trade advertise the first and treat the second as an afterthought, which is the wrong way round for a stable business.",
@@ -5280,7 +5280,7 @@ export const industries: Industry[] = [
     label: "Chimney sweeps",
     title: "Chimney Sweep Leads Ireland | Marketing for Sweeps",
     description:
-      "Lead generation for Irish chimney sweeps. Insurance certificates, a hard autumn season, and the stove installers who feed the work.",
+      "Leads for Irish chimney sweeps. Insurance certificates, a hard autumn season, and the stove installers who feed the work.",
     h1: "Chimney sweep leads, concentrated into about ten weeks.",
     intro: [
       "Chimney sweeping in Ireland happens in a narrow window. From late August the phone starts, it peaks through October and November, and by January it is largely over until the following autumn. A year's work is booked in roughly ten weeks.",
@@ -5363,7 +5363,7 @@ export const industries: Industry[] = [
     label: "Gutter cleaning",
     title: "Gutter Cleaning Leads Ireland | Marketing for Gutter Services",
     description:
-      "Lead generation for Irish gutter cleaning and repair businesses. Annual, weather-driven, and the repairs are where the money is.",
+      "Leads for Irish gutter cleaning and repair businesses. Annual, weather-driven, and the repairs are where the money is.",
     h1: "Gutter cleaning leads, and the repairs that come with them.",
     intro: [
       "Gutter work is triggered by two things: leaves coming down in autumn, and water visibly overflowing during heavy rain. Neither is something people plan for, which makes this an intensely reactive trade.",
@@ -5446,7 +5446,7 @@ export const industries: Industry[] = [
     label: "Mobile mechanics",
     title: "Mobile Mechanic Leads Ireland | Marketing for Mobile Servicing",
     description:
-      "Lead generation for Irish mobile mechanics. Convenience is the product, and there is no map pack to win.",
+      "Leads for Irish mobile mechanics. Convenience is the product, and there is no map pack to win.",
     h1: "Mobile mechanic leads, where convenience is the whole pitch.",
     intro: [
       "A mobile mechanic is not competing with garages on price. They are competing on the hour a customer does not have to take off work, the lift they do not have to arrange, and the car they do not have to leave anywhere.",
@@ -5695,7 +5695,7 @@ export const industries: Industry[] = [
     label: "Farm buildings",
     title: "Farm Building Leads Ireland | Marketing for Agri Construction",
     description:
-      "Lead generation for Irish agricultural building contractors: sheds, slatted units, slurry storage and TAMS-funded work.",
+      "Leads for Irish agricultural building contractors: sheds, slatted units, slurry storage and TAMS-funded work.",
     h1: "Farm building leads timed to the grant and the weather.",
     intro: [
       "Agricultural building in Ireland is shaped by two calendars. Grant schemes decide what farmers can afford and when they apply, and the weather decides when anything can actually be built. Both are outside your control and both are predictable.",
@@ -5861,7 +5861,7 @@ export const industries: Industry[] = [
     label: "EV charger installers",
     title: "EV Charger Installation Leads Ireland | Installer Marketing",
     description:
-      "Lead generation for Irish EV charger installers. Meta and Google campaigns aimed at new EV owners claiming the SEAI grant, reported in booked surveys.",
+      "Leads for Irish EV charger installers. Meta and Google campaigns aimed at new EV owners claiming the SEAI grant, reported in booked surveys.",
     h1: "EV charger installation leads, timed to the car purchase.",
     intro: [
       "An EV charger is bought in a narrow window. Somebody orders a car, waits somewhere between a fortnight and four months for delivery, and organises the charger in the last two weeks of that wait. Reach them early and they forget you; reach them late and they have already rung whoever the dealer mentioned.",
@@ -5956,7 +5956,7 @@ export const industries: Industry[] = [
     label: "Septic tank services",
     title: "Septic Tank Leads Ireland | Marketing for Tank Services",
     description:
-      "Lead generation for Irish septic tank desludging, repair and replacement companies. Campaigns built around EPA inspections and the remediation grant.",
+      "Leads for Irish septic tank desludging, repair and replacement companies. Campaigns built around EPA inspections and the remediation grant.",
     h1: "Septic tank leads, from a market driven by inspections.",
     intro: [
       "Roughly half a million Irish homes are on a septic tank, and almost nobody thinks about theirs until something forces them to: a failed EPA inspection, a house sale, a smell, or a tank that has not been desludged in a decade.",
@@ -6065,7 +6065,7 @@ export const industries: Industry[] = [
     label: "Grinds and tutoring",
     title: "Grinds & Tutoring Leads Ireland | Marketing for Tutors",
     description:
-      "Lead generation for Irish grinds schools and tutoring services. Campaigns timed to the Leaving Cert year and aimed at parents, not students.",
+      "Leads for Irish grinds schools and tutoring services. Campaigns timed to the Leaving Cert year and aimed at parents, not students.",
     h1: "Grinds enquiries, timed to the school year.",
     intro: [
       "Tutoring has three buying moments in a year and almost nothing in between. September, when the year starts and resolutions are fresh. January, when the Christmas exam results land. And February into March, when the mocks come back and panic sets in.",
@@ -6173,7 +6173,7 @@ export const industries: Industry[] = [
     label: "Cleaning companies",
     title: "Cleaning Company Leads Ireland | Domestic & Commercial",
     description:
-      "Lead generation for Irish cleaning companies. Campaigns for recurring domestic contracts and commercial accounts, reported in contracts won.",
+      "Leads for Irish cleaning companies. Campaigns for recurring domestic contracts and commercial accounts, reported in contracts won.",
     h1: "Cleaning leads worth keeping, not one-off jobs.",
     intro: [
       "Cleaning is one of the few trades where a single customer can be worth thousands a year, and one of the few where most advertising chases the customers worth the least. A one-off end-of-tenancy clean pays once. A weekly domestic contract pays fifty times.",
@@ -6282,7 +6282,7 @@ export const industries: Industry[] = [
     label: "Removals companies",
     title: "Removals Leads Ireland | Marketing for Moving Companies",
     description:
-      "Lead generation for Irish removals and moving companies. Campaigns timed to property closings and the summer peak, reported in booked moves.",
+      "Leads for Irish removals and moving companies. Campaigns timed to property closings and the summer peak, reported in booked moves.",
     h1: "Removals leads, timed to the closing date.",
     intro: [
       "A removals company's year is decided by somebody else's calendar. Moves cluster around property closings, school holidays and the end of the month, and the summer carries a disproportionate share of the whole year's work.",
@@ -6377,7 +6377,7 @@ export const industries: Industry[] = [
     label: "Audiologists",
     title: "Audiology Leads Ireland | Marketing for Hearing Clinics",
     description:
-      "Lead generation for Irish audiology and hearing clinics. Campaigns built around free hearing tests and the PRSI treatment benefit, reported in appointments.",
+      "Leads for Irish audiology and hearing clinics. Campaigns built around free hearing tests and the PRSI treatment benefit, reported in appointments.",
     h1: "Hearing test bookings, from a slow decision made by families.",
     intro: [
       "Hearing loss is noticed by the family long before it is admitted by the person who has it. The average gap between first noticing and doing something about it runs to years, and most of that time is spent not searching for anything at all.",
@@ -6472,7 +6472,7 @@ export const industries: Industry[] = [
     label: "Stairlifts and mobility",
     title: "Stairlift Leads Ireland | Marketing for Mobility Installers",
     description:
-      "Lead generation for Irish stairlift and mobility installers. Built around the Housing Adaptation Grant and aimed at families, not just patients.",
+      "Leads for Irish stairlift and mobility installers. Built around the Housing Adaptation Grant and aimed at families, not just patients.",
     h1: "Stairlift leads, from families making a hard decision.",
     intro: [
       "A stairlift is rarely bought happily. It is bought after a fall, after a hospital discharge, or after a family finally accepts that the stairs have become the thing keeping a parent from staying in their own home.",
@@ -6581,7 +6581,7 @@ export const industries: Industry[] = [
     label: "Blinds and curtains",
     title: "Blinds & Curtains Leads Ireland | Marketing for Fitters",
     description:
-      "Lead generation for Irish blinds and curtain companies. Meta and Google campaigns aimed at new homeowners and renovators, reported in measures booked.",
+      "Leads for Irish blinds and curtain companies. Meta and Google campaigns aimed at new homeowners and renovators, reported in measures booked.",
     h1: "Blinds and curtain leads, from houses that have just moved.",
     intro: [
       "Window dressing is bought at a moment, not over time. People buy blinds when they move in, when they finish an extension, or when they finally redecorate a room they have hated for years — and then they do not buy again for a decade.",
@@ -6676,7 +6676,7 @@ export const industries: Industry[] = [
     label: "Water treatment",
     title: "Water Treatment Leads Ireland | Well & Filtration Marketing",
     description:
-      "Lead generation for Irish water treatment and filtration companies. Campaigns aimed at private well owners and hard-water households.",
+      "Leads for Irish water treatment and filtration companies. Campaigns aimed at private well owners and hard-water households.",
     h1: "Water treatment leads, from households with a problem they can see.",
     intro: [
       "A very large number of Irish households are on a private well, and a great many more are on mains water hard enough to ruin a kettle in a year. Neither group thinks about water treatment until something visible happens: staining, smell, a failed test, or a new appliance destroyed by limescale.",
@@ -6785,7 +6785,7 @@ export const industries: Industry[] = [
     label: "Interior designers",
     title: "Interior Design Leads Ireland | Marketing for Designers",
     description:
-      "Lead generation for Irish interior designers. Campaigns that reach homeowners during a renovation, filtered for budget before the consultation.",
+      "Leads for Irish interior designers. Campaigns that reach homeowners during a renovation, filtered for budget before the consultation.",
     h1: "Interior design enquiries, filtered for budget before you meet.",
     intro: [
       "Interior design has the worst enquiry-to-client ratio of almost any category we work in, and it is not a marketing problem. It is a filtering problem. Most enquiries come from people who want the outcome and have not understood the cost, and every one of them consumes a consultation.",
@@ -6893,7 +6893,7 @@ export const industries: Industry[] = [
     label: "Health & safety consultants",
     title: "Health & Safety Consultant Leads Ireland | B2B Marketing",
     description:
-      "Lead generation for Irish health and safety consultants. Campaigns aimed at businesses facing HSA inspections, tenders and safety statement obligations.",
+      "Leads for Irish health and safety consultants. Campaigns aimed at businesses facing HSA inspections, tenders and safety statement obligations.",
     h1: "Health and safety leads, from businesses with a deadline.",
     intro: [
       "Nobody buys health and safety consultancy because they want to. They buy it because a main contractor will not let them on site without a safety statement, because a tender requires certification, or because the HSA has been and left a list.",
@@ -6988,7 +6988,7 @@ export const industries: Industry[] = [
     label: "Photographers",
     title: "Photography Leads Ireland | Marketing for Photographers",
     description:
-      "Lead generation for Irish wedding, family and commercial photographers. Campaigns timed to engagement season and booked well ahead.",
+      "Leads for Irish wedding, family and commercial photographers. Campaigns timed to engagement season and booked well ahead.",
     h1: "Photography bookings, made a year before the date.",
     intro: [
       "Wedding photography is booked further in advance than almost anything else people buy, and the booking rush is concentrated into the weeks after Christmas and New Year when most engagements happen.",
@@ -7097,7 +7097,7 @@ export const industries: Industry[] = [
     label: "Windscreen repair",
     title: "Windscreen Repair Leads Ireland | Marketing for Fitters",
     description:
-      "Lead generation for Irish windscreen repair and replacement companies. Campaigns built around insurance cover and same-day mobile fitting.",
+      "Leads for Irish windscreen repair and replacement companies. Campaigns built around insurance cover and same-day mobile fitting.",
     h1: "Windscreen leads, from a job the insurer usually pays for.",
     intro: [
       "Almost nobody budgets for a windscreen. It cracks on a Tuesday, it is an NCT failure and a safety problem, and the driver wants it dealt with before the weekend. The decision is made in under an hour.",
@@ -7185,7 +7185,7 @@ export const industries: Industry[] = [
     label: "Tyre fitting",
     title: "Tyre Leads Ireland | Marketing for Tyre Fitters & Garages",
     description:
-      "Lead generation for Irish tyre fitters and mobile tyre services. Campaigns built around NCT deadlines, winter demand and same-day fitting.",
+      "Leads for Irish tyre fitters and mobile tyre services. Campaigns built around NCT deadlines, winter demand and same-day fitting.",
     h1: "Tyre leads, timed to the deadline that forces the purchase.",
     intro: [
       "Tyres are bought reluctantly and usually under pressure — an NCT coming up, a failure notice already issued, a blowout, or the first cold snap of the year. Almost nobody replaces tyres early.",
@@ -7286,7 +7286,7 @@ export const industries: Industry[] = [
     label: "Appliance repair",
     title: "Appliance Repair Leads Ireland | Marketing for Engineers",
     description:
-      "Lead generation for Irish appliance repair engineers. Campaigns for washing machines, ovens, dishwashers and fridges, reported in booked call-outs.",
+      "Leads for Irish appliance repair engineers. Campaigns for washing machines, ovens, dishwashers and fridges, reported in booked call-outs.",
     h1: "Appliance repair leads, from people whose washing machine died today.",
     intro: [
       "A broken washing machine is an emergency in a way a broken tile is not. The household cannot wait, they ring two or three people, and whoever answers and can come soonest gets the job.",
@@ -7374,7 +7374,7 @@ export const industries: Industry[] = [
     label: "Car valeting & detailing",
     title: "Car Valeting Leads Ireland | Marketing for Detailers",
     description:
-      "Lead generation for Irish car valeting and detailing businesses. Campaigns for mobile valeting, detailing and pre-sale preparation.",
+      "Leads for Irish car valeting and detailing businesses. Campaigns for mobile valeting, detailing and pre-sale preparation.",
     h1: "Valeting leads, from a business that sells on photographs.",
     intro: [
       "Valeting is one of the easiest services in Ireland to advertise and one of the most commonly advertised badly. It produces a dramatic visual result, and most operators post blurry photographs of a clean car in a dark yard.",
@@ -7462,7 +7462,7 @@ export const industries: Industry[] = [
     label: "Dog grooming & pet services",
     title: "Dog Grooming Leads Ireland | Marketing for Groomers",
     description:
-      "Lead generation for Irish dog groomers, pet sitters and boarding kennels. Campaigns that fill a recurring appointment book.",
+      "Leads for Irish dog groomers, pet sitters and boarding kennels. Campaigns that fill a recurring appointment book.",
     h1: "Grooming enquiries that turn into a standing appointment.",
     intro: [
       "A dog groomer does not want customers, they want a diary that refills itself. A dog needs grooming every six to eight weeks for its whole life, so a single new client is worth several hundred euro a year and several thousand over time.",
@@ -7550,7 +7550,7 @@ export const industries: Industry[] = [
     label: "Personal trainers",
     title: "Personal Training Leads Ireland | Marketing for Trainers",
     description:
-      "Lead generation for Irish personal trainers and small studios. Campaigns built around the January spike and retention after it.",
+      "Leads for Irish personal trainers and small studios. Campaigns built around the January spike and retention after it.",
     h1: "Personal training clients, and a plan for when January ends.",
     intro: [
       "Personal training has the most predictable demand curve of any service we work with. January is enormous, September is solid, and the rest of the year is a slow grind that most trainers never solve.",
@@ -7638,7 +7638,7 @@ export const industries: Industry[] = [
     label: "Couriers & delivery",
     title: "Courier Leads Ireland | Marketing for Delivery Companies",
     description:
-      "Lead generation for Irish courier and same-day delivery companies. Campaigns aimed at business accounts rather than one-off parcels.",
+      "Leads for Irish courier and same-day delivery companies. Campaigns aimed at business accounts rather than one-off parcels.",
     h1: "Courier leads worth having, which means accounts not parcels.",
     intro: [
       "A one-off parcel is worth a few euro and a great deal of admin. A business account sending forty items a week is worth thousands a year and almost no acquisition effort after the first month.",
@@ -7726,7 +7726,7 @@ export const industries: Industry[] = [
     label: "Groundworks & site clearance",
     title: "Groundworks Leads Ireland | Marketing for Contractors",
     description:
-      "Lead generation for Irish groundworks, site clearance and excavation contractors. Campaigns aimed at builders, developers and self-builders.",
+      "Leads for Irish groundworks, site clearance and excavation contractors. Campaigns aimed at builders, developers and self-builders.",
     h1: "Groundworks leads, from people who already have planning.",
     intro: [
       "Groundworks is bought at a specific moment: after planning is granted and before the build starts. Reach somebody earlier and there is nothing to quote; reach them later and the contractor is already on site.",
@@ -7814,7 +7814,7 @@ export const industries: Industry[] = [
     label: "Steel fabrication",
     title: "Steel Fabrication Leads Ireland | B2B Marketing",
     description:
-      "Lead generation for Irish steel fabricators and structural steel companies. Campaigns aimed at builders, architects and industrial buyers.",
+      "Leads for Irish steel fabricators and structural steel companies. Campaigns aimed at builders, architects and industrial buyers.",
     h1: "Steel fabrication leads, from buyers with a drawing in hand.",
     intro: [
       "Structural steel is not bought casually. Somebody has a drawing, a programme and a budget, and they are looking for a fabricator who can hit a date without drama.",
@@ -7902,7 +7902,7 @@ export const industries: Industry[] = [
     label: "Stonemasons",
     title: "Stonemason Leads Ireland | Marketing for Stone Masonry",
     description:
-      "Lead generation for Irish stonemasons. Campaigns for stone cladding, walls, restoration and heritage work, reported in surveys booked.",
+      "Leads for Irish stonemasons. Campaigns for stone cladding, walls, restoration and heritage work, reported in surveys booked.",
     h1: "Stonemasonry leads, for work people choose with their eyes.",
     intro: [
       "Stone is never the cheap option. Somebody choosing it has already decided to spend more than the alternative would cost, which makes this one of the few trades where the customer is not primarily price-driven.",
@@ -7990,7 +7990,7 @@ export const industries: Industry[] = [
     label: "Monumental sculptors",
     title: "Headstone & Memorial Leads Ireland | Marketing for Sculptors",
     description:
-      "Lead generation for Irish monumental sculptors and memorial companies. Considerate campaigns for families choosing a headstone.",
+      "Leads for Irish monumental sculptors and memorial companies. Considerate campaigns for families choosing a headstone.",
     h1: "Memorial enquiries, handled with the care the subject deserves.",
     intro: [
       "A family choosing a headstone is doing it months after a death, usually once the ground has settled, and usually while still grieving. They are not shopping, and advertising that treats them as shoppers does real harm and wins nothing.",
@@ -8078,7 +8078,7 @@ export const industries: Industry[] = [
     label: "Fire safety & extinguishers",
     title: "Fire Safety Leads Ireland | Marketing for Servicing Companies",
     description:
-      "Lead generation for Irish fire safety and extinguisher servicing companies. Campaigns built around annual servicing obligations and inspections.",
+      "Leads for Irish fire safety and extinguisher servicing companies. Campaigns built around annual servicing obligations and inspections.",
     h1: "Fire safety leads, from a market with a legal deadline in it.",
     intro: [
       "Fire safety equipment has to be serviced, and the obligation does not go away when a business forgets about it. Extinguishers, emergency lighting, alarms and fire doors all carry servicing requirements, and most premises are somewhere between overdue and unaware.",
@@ -8166,7 +8166,7 @@ export const industries: Industry[] = [
     label: "Counselling & therapy",
     title: "Counselling Practice Marketing Ireland | Client Enquiries",
     description:
-      "Ethical lead generation for Irish counsellors and psychotherapists. Discreet campaigns that fill a caseload without pressure tactics.",
+      "Ethical leads for Irish counsellors and psychotherapists. Discreet campaigns that fill a caseload without pressure tactics.",
     h1: "Counselling enquiries, without any of the usual pressure tactics.",
     intro: [
       "Somebody looking for a therapist has usually been thinking about it for months and has opened and closed the search several times. They are not going to be persuaded by urgency, and attempting it will simply lose them.",
@@ -8254,7 +8254,7 @@ export const industries: Industry[] = [
     label: "Chiropractors",
     title: "Chiropractic Leads Ireland | Marketing for Clinics",
     description:
-      "Lead generation for Irish chiropractic clinics. Campaigns built around pain that has not gone away, reported in new patient appointments.",
+      "Leads for Irish chiropractic clinics. Campaigns built around pain that has not gone away, reported in new patient appointments.",
     h1: "Chiropractic enquiries, from people who have already waited too long.",
     intro: [
       "Almost nobody goes to a chiropractor at the first twinge. They wait, they try painkillers, they wait some more, and they make the appointment when the pain starts affecting sleep or work.",
@@ -8342,7 +8342,7 @@ export const industries: Industry[] = [
     label: "Podiatry & chiropody",
     title: "Podiatry Leads Ireland | Marketing for Foot Clinics",
     description:
-      "Lead generation for Irish podiatrists and chiropodists. Campaigns for routine care, diabetic foot checks and biomechanics.",
+      "Leads for Irish podiatrists and chiropodists. Campaigns for routine care, diabetic foot checks and biomechanics.",
     h1: "Podiatry enquiries, mostly from people who cannot reach their own feet.",
     intro: [
       "Podiatry divides into two businesses that barely resemble each other. Routine nail and skin care is high-volume, recurring, and largely an older population who need it every couple of months for the rest of their lives. Biomechanics and orthotics is a considered clinical purchase at several times the price.",
@@ -8430,7 +8430,7 @@ export const industries: Industry[] = [
     label: "Swimming schools",
     title: "Swimming Lesson Leads Ireland | Marketing for Swim Schools",
     description:
-      "Lead generation for Irish swimming schools. Term-based campaigns aimed at parents, built around waiting lists and safety.",
+      "Leads for Irish swimming schools. Term-based campaigns aimed at parents, built around waiting lists and safety.",
     h1: "Swimming lesson enquiries, timed to the term.",
     intro: [
       "Swimming lessons sell on a term calendar and on one underlying motivation that parents rarely state directly: they do not want their child to drown. Everything else — badges, technique, confidence — sits on top of that.",
@@ -8518,7 +8518,7 @@ export const industries: Industry[] = [
     label: "Music schools & tutors",
     title: "Music Lesson Leads Ireland | Marketing for Music Teachers",
     description:
-      "Lead generation for Irish music schools and private teachers. Term-based campaigns aimed at parents and adult learners.",
+      "Leads for Irish music schools and private teachers. Term-based campaigns aimed at parents and adult learners.",
     h1: "Music lesson enquiries, and students who stay past Christmas.",
     intro: [
       "Music teaching has an enrolment problem and a retention problem, and they are not the same problem. September fills easily. February is when half the students quietly stop coming.",
@@ -8606,7 +8606,7 @@ export const industries: Industry[] = [
     label: "Wedding planners",
     title: "Wedding Planner Leads Ireland | Marketing for Planners",
     description:
-      "Lead generation for Irish wedding planners and on-the-day coordinators. Budget-qualified enquiries, timed to engagement season.",
+      "Leads for Irish wedding planners and on-the-day coordinators. Budget-qualified enquiries, timed to engagement season.",
     h1: "Wedding planning enquiries, filtered for budget before the call.",
     intro: [
       "Wedding planning has a brutal enquiry-to-booking ratio, and it is a filtering problem rather than a marketing one. Most enquiries come from couples who want the outcome and have not costed it, and each one consumes a long emotional conversation.",
@@ -8694,7 +8694,7 @@ export const industries: Industry[] = [
     label: "Celebrants",
     title: "Celebrant Leads Ireland | Marketing for Wedding Celebrants",
     description:
-      "Lead generation for Irish wedding and funeral celebrants. Campaigns built around legal solemnisation and booking a year ahead.",
+      "Leads for Irish wedding and funeral celebrants. Campaigns built around legal solemnisation and booking a year ahead.",
     h1: "Celebrant bookings, from couples who do not know the rules yet.",
     intro: [
       "Most couples planning a non-religious wedding in Ireland do not initially understand the difference between a legally solemnising celebrant and one who performs a ceremony that is not itself the legal marriage.",
@@ -8782,7 +8782,7 @@ export const industries: Industry[] = [
     label: "Catering companies",
     title: "Catering Leads Ireland | Marketing for Caterers",
     description:
-      "Lead generation for Irish catering companies. Campaigns for weddings, corporate and private events, reported in quotes and bookings.",
+      "Leads for Irish catering companies. Campaigns for weddings, corporate and private events, reported in quotes and bookings.",
     h1: "Catering enquiries, split by the three jobs you actually do.",
     intro: [
       "Catering looks like one business and is usually three. Weddings are booked a year ahead at high value. Corporate is repeat, scheduled and invoiced. Private events are short-notice and unpredictable.",
@@ -8870,7 +8870,7 @@ export const industries: Industry[] = [
     label: "Marquee & event hire",
     title: "Marquee Hire Leads Ireland | Marketing for Event Hire",
     description:
-      "Lead generation for Irish marquee and event hire companies. Campaigns timed to a short season, reported in booked dates.",
+      "Leads for Irish marquee and event hire companies. Campaigns timed to a short season, reported in booked dates.",
     h1: "Marquee bookings, for a business with about twenty weekends.",
     intro: [
       "A marquee hire company earns most of its year in roughly twenty weekends, and the weather can take several of them. That concentration means every booked date matters far more than a lead count suggests.",
@@ -8958,7 +8958,7 @@ export const industries: Industry[] = [
     label: "Bike shops & repair",
     title: "Bike Shop Leads Ireland | Marketing for Cycle Retailers",
     description:
-      "Lead generation for Irish bike shops and repair workshops. Campaigns built around the Cycle to Work scheme and the spring surge.",
+      "Leads for Irish bike shops and repair workshops. Campaigns built around the Cycle to Work scheme and the spring surge.",
     h1: "Bike shop enquiries, and the scheme most customers do not understand.",
     intro: [
       "The Cycle to Work scheme is the single biggest driver of bike sales in Ireland and it is also the most confusing thing about buying a bike. Employees do not know their limit, what is included, or how their employer processes it.",
