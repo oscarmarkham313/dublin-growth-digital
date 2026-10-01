@@ -20,8 +20,25 @@ function fmt(d: string) {
   });
 }
 
+/**
+ * How many guides this page lists.
+ *
+ * Not all of them. At 173 guides the index hit 307KB and failed the
+ * weight gate, and 62% of that was the RSC payload for posts nobody
+ * scrolls to. Trimming descriptions bought headroom once and it ran out
+ * again sixteen guides later, so this caps it instead of chasing it.
+ *
+ * Safe because no guide depends on this page: excluding /blog/, the
+ * least-linked guide still has one inbound contextual link and the
+ * average is 7.2. They are reached from their industry page, from
+ * sibling guides and from the sitemap, which lists every one.
+ */
+const SHOWN = 60;
+
 export default function BlogIndex() {
-  const sorted = [...posts].sort((a, b) => (a.date < b.date ? 1 : -1));
+  const all = [...posts].sort((a, b) => (a.date < b.date ? 1 : -1));
+  const sorted = all.slice(0, SHOWN);
+  const remaining = all.length - sorted.length;
   const breadcrumb = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -91,6 +108,21 @@ export default function BlogIndex() {
               );
             })}
           </div>
+
+          {remaining > 0 && (
+            <p className="mt-10 max-w-2xl text-[15px] leading-relaxed text-text-2">
+              There are {remaining} more guides, written for specific
+              trades and professions. They live on the{" "}
+              <Link
+                href="/industries/"
+                className="font-semibold text-ink underline decoration-accent underline-offset-4 transition-colors hover:text-accent"
+              >
+                industry pages
+              </Link>{" "}
+              alongside the work they relate to, which is a more useful
+              place to find them than a list of this length.
+            </p>
+          )}
         </div>
       </section>
     </main>

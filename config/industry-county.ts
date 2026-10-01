@@ -3914,6 +3914,663 @@ export const industryCounty: IndustryCounty[] = [
       PRICE_FAQ,
     ],
   },
+  {
+    industry: "wedding-venues",
+    county: "kerry",
+    industryLabel: "wedding venues",
+    countyName: "Kerry",
+    title: "Wedding Venue Marketing Kerry | Enquiries and Showrounds",
+    description:
+      "Marketing for Kerry wedding venues: a destination county where guests travel, accommodation is part of the product and couples book from abroad.",
+    h1: "Wedding venue marketing in Kerry, where the county is the pitch.",
+    intro: [
+      "Kerry sells a destination before it sells a room. Couples choosing here are asking their guests to travel, stay two nights and treat the wedding as a short break, and that changes everything about how the venue has to be presented.",
+      "It also means a large share of enquiries come from people who cannot easily visit, including couples living in Dublin, Britain or America with a family connection to the county.",
+    ],
+    sections: [
+    {
+      heading: "Sell the weekend, not the day",
+      body: [
+        "A Kerry wedding is rarely one afternoon. It is arrivals on Friday, the day itself, and a recovery on Sunday, and the couple is weighing whether their guests will actually come.",
+        "That means accommodation, what there is to do nearby, how people get here and what happens on the other two days belong on the page, not buried in a brochure. Venues that answer the guest-logistics question remove the main reason couples rule a county out.",
+      ],
+    },
+    {
+      heading: "A lot of your couples cannot come and look",
+      body: [
+        "Somebody planning from London or Boston is choosing on photographs, video and how you communicate. They will not do three showrounds.",
+        "Video walkthroughs, a proper floorplan, honest weather-contingency answers and quick, warm replies do the job the visit would have done. Very few Irish venues are set up for a couple they never meet before the booking.",
+      ],
+    },
+    {
+      heading: "The diaspora wedding is a real segment",
+      body: [
+        "Couples with Kerry roots living abroad, and families returning for a wedding in the home county, are a genuine and well-funded part of this market.",
+        "They search differently, plan further ahead and care more about the story of the place than about the dance floor. Content that leans into the county itself reaches them in a way a feature list does not.",
+      ],
+    },
+    {
+      heading: "Distance is the objection to answer first",
+      body: [
+        "Everyone considering Kerry worries their guests will not travel. Pretending otherwise does not help.",
+        "Address it directly: journey times, where people fly into, what accommodation sits within walking distance, whether you can hold rooms. A venue that has clearly thought about it looks like one that has done this many times.",
+      ],
+    },
+    ],
+    towns: [
+      "Killarney",
+      "Tralee",
+      "Kenmare",
+      "Dingle",
+      "Listowel",
+      "Killorglin",
+      "Sneem",
+      "Waterville",
+      "Caherdaniel",
+      "Castleisland",
+      "Ballybunion",
+      "Cahersiveen",
+    ],
+    faqs: [
+      {
+        q: "What should a Kerry venue lead with?",
+        a: "The weekend rather than the day. Couples are weighing whether guests will travel, so accommodation, journey times and what happens on Friday and Sunday belong on the page.",
+      },
+      {
+        q: "How do we win couples who cannot visit?",
+        a: "Video, floorplans, honest answers and fast warm replies. A good share of Kerry enquiries come from Dublin or abroad and will not do three showrounds.",
+      },
+      {
+        q: "Is the diaspora market worth targeting?",
+        a: "Yes, and it is under-served. Couples with Kerry roots living abroad plan further ahead and care about the place itself rather than the feature list.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "wedding-venues",
+    county: "meath",
+    industryLabel: "wedding venues",
+    countyName: "Meath",
+    title: "Wedding Venue Marketing Meath | Enquiries and Showrounds",
+    description:
+      "Marketing for Meath wedding venues: countryside within an hour of Dublin, where accessibility is the product and midweek is the opportunity.",
+    h1: "Wedding venue marketing in Meath, an hour from most of your guests.",
+    intro: [
+      "Meath's advantage is simple and most venues under-use it: couples get the country wedding they want without asking anyone to travel far. For a Dublin couple with Dublin guests, that solves the single biggest problem in choosing a rural venue.",
+      "It is also a crowded corner of the market. Meath, Kildare and north Wicklow are all selling broadly the same promise to broadly the same couples, which makes the specifics matter.",
+    ],
+    sections: [
+    {
+      heading: "Accessibility is the headline, not a footnote",
+      body: [
+        "Say the journey time from the city, say where the nearest motorway junction is, say how late the last bus or taxi realistically runs.",
+        "Couples are modelling this in their heads for sixty guests. The venue that does the arithmetic for them looks organised, and organised is what people are buying in a wedding venue.",
+      ],
+    },
+    {
+      heading: "Midweek and off-season is where the margin is",
+      body: [
+        "Saturdays in summer sell themselves. The business problem is the rest of the calendar, and it is almost never marketed deliberately.",
+        "Couples who are flexible exist, and they are frequently second weddings, smaller weddings or couples who care more about the place than the date. They need to be told the option exists and given a reason.",
+      ],
+    },
+    {
+      heading: "You are competing with Kildare and Wicklow, not with Kerry",
+      body: [
+        "Your competitive set is a handful of venues offering the same thing within the same drive. Generic country-house language makes you interchangeable with all of them.",
+        "What differentiates is specific: the room that holds exactly your number, what the grounds actually look like in March, whether you do one wedding a day, how late the music can go.",
+      ],
+    },
+    {
+      heading: "Heritage and grounds are the visual argument",
+      body: [
+        "Meath has a concentration of period houses and estates, and couples are choosing this county largely for how the photographs will look.",
+        "That makes real wedding photography, in your actual grounds, in Irish weather, worth more than any amount of description.",
+      ],
+    },
+    ],
+    towns: [
+      "Navan",
+      "Ashbourne",
+      "Trim",
+      "Kells",
+      "Dunboyne",
+      "Ratoath",
+      "Slane",
+      "Dunshaughlin",
+      "Laytown",
+      "Bettystown",
+      "Enfield",
+      "Athboy",
+    ],
+    faqs: [
+      {
+        q: "What is Meath's advantage?",
+        a: "A country wedding that nobody has to travel far for. Spell out journey times and how guests get home late — couples are doing that arithmetic for sixty people.",
+      },
+      {
+        q: "Where is the real opportunity?",
+        a: "Midweek and off-season. Summer Saturdays sell themselves; the rest of the calendar is almost never marketed deliberately.",
+      },
+      {
+        q: "Who are we actually competing with?",
+        a: "Kildare and north Wicklow venues selling the same promise to the same couples. Generic country-house language makes you interchangeable with them.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "wedding-venues",
+    county: "galway",
+    industryLabel: "wedding venues",
+    countyName: "Galway",
+    title: "Wedding Venue Marketing Galway | Enquiries and Showrounds",
+    description:
+      "Marketing for Galway wedding venues: a county couples choose for scenery and a city they want the afterparty in.",
+    h1: "Wedding venue marketing in Galway, scenery plus somewhere to go after.",
+    intro: [
+      "Galway is unusual among the scenic counties because it has a city couples genuinely want their guests in. That combination — a wedding somewhere beautiful and a second night out somewhere lively — is the county's real selling point and it is rarely articulated.",
+      "The county splits between Connemara and the coast, which sell the view, and the city and its edges, which sell convenience and atmosphere.",
+    ],
+    sections: [
+    {
+      heading: "Name what happens the night after",
+      body: [
+        "Couples planning a destination wedding worry about the second day. In Galway the answer is obvious to a local and invisible to a couple from Dublin or abroad.",
+        "Say it: where people go, how far it is, whether you can arrange transport. It converts an objection into a reason to choose you.",
+      ],
+    },
+    {
+      heading: "Connemara sells the view and the view sells itself badly",
+      body: [
+        "Every coastal venue uses the same sunset photograph. What differentiates is the specific experience: what the approach looks like, where the ceremony happens if it rains, what guests see from the room they wake up in.",
+        "Honest weather-contingency content is a genuine differentiator here and almost nobody does it, because it feels like admitting a weakness. It reads as competence.",
+      ],
+    },
+    {
+      heading: "Accommodation decides whether a rural venue is viable",
+      body: [
+        "A venue an hour from a town with no rooms is a logistics problem. Couples know it and will rule you out silently.",
+        "Set out exactly what is on site, what is walkable, what is a short taxi ride, and whether you hold rooms. This single question kills more enquiries than price does.",
+      ],
+    },
+    {
+      heading: "The city venues compete on something else entirely",
+      body: [
+        "Galway city venues are not selling scenery. They are selling that everything is walkable, that guests can arrive by train, and that the night does not end when the bar closes.",
+        "Two different products. They should not be marketed with the same photographs or the same language.",
+      ],
+    },
+    ],
+    towns: [
+      "Galway city",
+      "Salthill",
+      "Oughterard",
+      "Clifden",
+      "Spiddal",
+      "Oranmore",
+      "Moycullen",
+      "Athenry",
+      "Loughrea",
+      "Ballinasloe",
+      "Roundstone",
+      "Cashel",
+    ],
+    faqs: [
+      {
+        q: "What does Galway offer that other scenic counties do not?",
+        a: "A city guests actually want to be in afterwards. Say where people go on the second night and how they get there — it turns an objection into a reason.",
+      },
+      {
+        q: "How do coastal venues stand out?",
+        a: "Not with the sunset photograph everyone has. With the specifics: the approach, where the ceremony goes if it rains, what guests see when they wake up.",
+      },
+      {
+        q: "What silently loses enquiries?",
+        a: "Accommodation. A rural venue with no clear answer on where sixty guests sleep gets ruled out without anyone telling you.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "wedding-venues",
+    county: "cork",
+    industryLabel: "wedding venues",
+    countyName: "Cork",
+    title: "Wedding Venue Marketing Cork | Enquiries and Showrounds",
+    description:
+      "Marketing for Cork wedding venues: a county whose couples mostly stay in Munster, with coast, country houses and a city all competing.",
+    h1: "Wedding venue marketing in Cork, for couples who are staying put.",
+    intro: [
+      "Cork largely keeps its own couples. Unlike Meath or Kildare, which draw heavily on Dublin, a Cork venue is mostly marketing to people already in Munster who are choosing between a coastal venue, a country house and a city hotel.",
+      "That makes the competitive set local and the differentiation specific. Being the nicest country house in Ireland is not the pitch; being the right one for this couple's hundred and twenty guests from Cork and Kerry is.",
+    ],
+    sections: [
+    {
+      heading: "Your competitors are a short list and you should know it",
+      body: [
+        "In a regional market the couple is comparing four or five venues, often in one weekend of viewings. Everything you publish is read against the others.",
+        "That rewards precision: exact capacities, whether you host one wedding a day, what is included and what is not, what the room looks like at the number they are actually bringing. Vagueness loses to the venue that answered the question.",
+      ],
+    },
+    {
+      heading: "Three products in one county",
+      body: [
+        "West Cork coastal venues sell a destination even to Cork people. The country houses sell grounds and photographs. City hotels sell convenience, accommodation and the afterparty.",
+        "They attract different couples and should not be using the same language. A city hotel competing on scenery loses; one competing on everything being walkable wins.",
+      ],
+    },
+    {
+      heading: "West Cork is far, even from Cork",
+      body: [
+        "A venue beyond Clonakilty is a real journey for guests from the city, and that is the objection to answer rather than ignore.",
+        "Journey times, accommodation, transport options. Couples will not ask — they will just choose somewhere closer.",
+      ],
+    },
+    {
+      heading: "Local reputation does most of the work",
+      body: [
+        "Cork runs on word of mouth more than most counties, and in weddings that means guests who were at a wedding at your venue and remembered it.",
+        "Reviews are the online form of that and matter here more than they do in a destination market, because the people reading them know the people writing them.",
+      ],
+    },
+    ],
+    towns: [
+      "Cork city",
+      "Kinsale",
+      "Clonakilty",
+      "Skibbereen",
+      "Bantry",
+      "Midleton",
+      "Mallow",
+      "Fermoy",
+      "Youghal",
+      "Bandon",
+      "Macroom",
+      "Baltimore",
+    ],
+    faqs: [
+      {
+        q: "Who is a Cork venue competing with?",
+        a: "Four or five local venues the couple is viewing in one weekend. Everything you publish is read against them, so precision beats atmosphere.",
+      },
+      {
+        q: "Do the three venue types need different marketing?",
+        a: "Yes. Coastal sells a destination, country houses sell grounds and photographs, city hotels sell walkability and the afterparty. Same language for all three fails.",
+      },
+      {
+        q: "How much do reviews matter here?",
+        a: "More than in a destination county. Cork runs on word of mouth, and the people reading reviews often know the people writing them.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "wedding-venues",
+    county: "wicklow",
+    industryLabel: "wedding venues",
+    countyName: "Wicklow",
+    title: "Wedding Venue Marketing Wicklow | Enquiries and Showrounds",
+    description:
+      "Marketing for Wicklow wedding venues: the closest real countryside to Dublin, sold almost entirely on how the photographs will look.",
+    h1: "Wedding venue marketing in Wicklow, decided on the photographs.",
+    intro: [
+      "Wicklow is the garden county and wedding venues here are chosen overwhelmingly on appearance. Gardens, mountains, estates and the sea are the product, and the couple is picturing their photographs before they have read a word.",
+      "It is also the closest genuine countryside to Dublin, which means it competes on accessibility as well as looks and should say so.",
+    ],
+    sections: [
+    {
+      heading: "Lead with the grounds, in real conditions",
+      body: [
+        "Every venue has a photograph taken on a perfect June evening. Couples getting married in April or October know that is not what they will get.",
+        "Showing the grounds across seasons, and showing where the ceremony and the photographs happen when it is raining, is reassuring rather than off-putting. In a county sold on appearance, being honest about the weather is the differentiator.",
+      ],
+    },
+    {
+      heading: "Say how close you actually are",
+      body: [
+        "A Dublin couple assumes Wicklow means a long drive for guests. For much of the county it does not.",
+        "Journey time from the city, the route, and how guests get home are the practical questions sitting under the romantic decision.",
+      ],
+    },
+    {
+      heading: "The north and the south of the county are different markets",
+      body: [
+        "North Wicklow venues are effectively Dublin-accessible and compete on convenience and prestige. South and west Wicklow are further, quieter and sell a genuine getaway.",
+        "The second group needs to answer accommodation properly; the first group needs to answer parking and taxis.",
+      ],
+    },
+    {
+      heading: "Real weddings are the whole portfolio",
+      body: [
+        "In a visual market, photographs of other people's actual weddings at your venue do more than any styled shoot.",
+        "Credit the photographers, ask couples for permission, and organise them by season and by guest number so a couple can find the one that looks like theirs.",
+      ],
+    },
+    ],
+    towns: [
+      "Enniskerry",
+      "Bray",
+      "Greystones",
+      "Rathdrum",
+      "Wicklow town",
+      "Delgany",
+      "Ashford",
+      "Aughrim",
+      "Roundwood",
+      "Blessington",
+      "Avoca",
+      "Arklow",
+    ],
+    faqs: [
+      {
+        q: "What sells a Wicklow venue?",
+        a: "The grounds, shown honestly across seasons. Couples marrying in April know the perfect June photograph is not what they will get, and candour reads as competence.",
+      },
+      {
+        q: "Should we emphasise the distance from Dublin?",
+        a: "Yes. Couples assume Wicklow means a long drive for guests, and for much of the county it does not. Give the journey time and the route.",
+      },
+      {
+        q: "What portfolio works best?",
+        a: "Real weddings at your venue, credited to the photographers and organised by season and guest number so couples find the one that looks like theirs.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "kitchens",
+    county: "dublin",
+    industryLabel: "kitchen companies",
+    countyName: "Dublin",
+    title: "Kitchen Marketing Dublin | Showroom Visits and Design Leads",
+    description:
+      "Marketing for Dublin kitchen companies: the most showrooms in Ireland, smaller rooms, bigger budgets, and a visit that decides everything.",
+    h1: "Kitchen marketing in Dublin, judged on showroom visits.",
+    intro: [
+      "Dublin has more kitchen showrooms competing for the same customers than anywhere else in Ireland, and the rooms themselves are smaller than the national average while the budgets are higher.",
+      "That combination rewards design ability over square footage. A Dublin customer is frequently trying to make an awkward galley or a knocked-through terrace work, and the company that shows it has solved that exact problem wins the visit.",
+    ],
+    sections: [
+    {
+      heading: "Everything is aimed at one outcome: the visit",
+      body: [
+        "Nobody buys a kitchen online. The website, the ads and the photographs all exist to get somebody into the showroom, and the business should be measured on visits booked rather than enquiries received.",
+        "Most Dublin kitchen companies cannot say how many visits their marketing produced last month, which means they cannot tell which half of it works.",
+      ],
+    },
+    {
+      heading: "Show small and awkward, not just large and open-plan",
+      body: [
+        "Every showroom portfolio leads with a huge island in a bright extension. A great many Dublin customers do not have that room and never will.",
+        "Galley kitchens, terraced houses, apartments, period houses with chimney breasts in the wrong place. Showing those wins the customers who assumed you were not for them.",
+      ],
+    },
+    {
+      heading: "Access and installation are real objections here",
+      body: [
+        "Narrow hallways, no side entrance, apartment lifts, parking for a delivery lorry, permits on some streets.",
+        "A company that raises this before the customer does sounds like one that has fitted in Dublin for years. It also prevents the uncomfortable conversation on delivery day.",
+      ],
+    },
+    {
+      heading: "The dearest clicks and the longest decision",
+      body: [
+        "Kitchen search terms in Dublin are expensive and the purchase takes months. Paying for a click and then not following up past one call is the most common waste in this trade.",
+        "Budget should follow visits booked, not leads collected, and the follow-up has to run for months rather than days.",
+      ],
+    },
+    ],
+    towns: [
+      "Rathmines",
+      "Ranelagh",
+      "Terenure",
+      "Clontarf",
+      "Blackrock",
+      "Dún Laoghaire",
+      "Castleknock",
+      "Swords",
+      "Malahide",
+      "Lucan",
+      "Rathfarnham",
+      "Dundrum",
+    ],
+    faqs: [
+      {
+        q: "What should we measure?",
+        a: "Showroom visits booked, not enquiries. Nobody buys a kitchen online, so every part of the marketing exists to produce a visit.",
+      },
+      {
+        q: "What is missing from most Dublin portfolios?",
+        a: "Small and awkward rooms. Everyone shows a large island in an extension, and a great many Dublin customers have a galley or a terrace and assume you are not for them.",
+      },
+      {
+        q: "Which objection gets missed?",
+        a: "Access. Narrow halls, no side entrance, apartment lifts, parking for the lorry. Raising it first sounds like experience.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "kitchens",
+    county: "kildare",
+    industryLabel: "kitchen companies",
+    countyName: "Kildare",
+    title: "Kitchen Marketing Kildare | Showroom Visits and Design Leads",
+    description:
+      "Marketing for Kildare kitchen companies: new-build estates replacing builder-standard kitchens, and extensions creating the room first.",
+    h1: "Kitchen marketing in Kildare, where the builder's kitchen comes out.",
+    intro: [
+      "Kildare has had sustained house building, and a developer kitchen is the thing people replace once they have lived with it. That produces a predictable wave of work several years behind each estate being finished.",
+      "The other half of the county's demand comes from extensions. The kitchen is the reason people build the extension, and the kitchen company that is present during that decision is in a much stronger position than one that arrives at the end.",
+    ],
+    sections: [
+    {
+      heading: "Target by estate and by age",
+      body: [
+        "Kildare's housing repeats in large estates finished within a year or two of each other, which means the replacement cycle arrives for whole roads at once.",
+        "Advertising platforms will target an area that size. A message naming the estate and the house type converts at a rate county-level targeting never approaches, and it is cheap because you are not paying to reach people who replaced theirs last year.",
+      ],
+    },
+    {
+      heading: "Get into the extension conversation early",
+      body: [
+        "The kitchen is usually decided after the builder is appointed and the layout is already fixed, which is the worst order for everyone.",
+        "Content aimed at people planning an extension — what to think about before the walls go up, where services need to run, how the layout constrains the design — reaches them months earlier and makes you the company they bring in first.",
+      ],
+    },
+    {
+      heading: "Relationships with builders are worth more than ads",
+      body: [
+        "Builders and architects get asked who to use, and they recommend whoever makes the job run smoothly.",
+        "In a county with this much construction, those relationships are the steadiest source of work available and almost nobody pursues them deliberately.",
+      ],
+    },
+    {
+      heading: "Commuters research at night and decide slowly",
+      body: [
+        "Nobody is visiting a showroom on a Tuesday afternoon. Saturday opening, evening appointments and a site that answers properly at eleven at night matter more here than price does.",
+        "The decision itself takes months, which means the follow-up has to outlast the enthusiasm.",
+      ],
+    },
+    ],
+    towns: [
+      "Naas",
+      "Newbridge",
+      "Maynooth",
+      "Celbridge",
+      "Leixlip",
+      "Clane",
+      "Sallins",
+      "Kildare town",
+      "Kilcock",
+      "Athy",
+      "Monasterevin",
+      "Rathangan",
+    ],
+    faqs: [
+      {
+        q: "Where does Kildare demand come from?",
+        a: "Replacing builder-standard kitchens in estates a few years after completion, and extensions where the kitchen is the reason for building.",
+      },
+      {
+        q: "How small should targeting be?",
+        a: "Estate level. Kildare's housing repeats in large estates finished at the same time, so the replacement cycle arrives for whole roads at once.",
+      },
+      {
+        q: "What is worth more than advertising?",
+        a: "Builders and architects. They get asked who to use and recommend whoever makes the job run smoothly, and almost nobody pursues that deliberately.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "kitchens",
+    county: "cork",
+    industryLabel: "kitchen companies",
+    countyName: "Cork",
+    title: "Kitchen Marketing Cork | Showroom Visits and Design Leads",
+    description:
+      "Marketing for Cork kitchen companies: a regional market with its own showrooms and customers who buy on local reputation.",
+    h1: "Kitchen marketing in Cork, where reputation travels fast.",
+    intro: [
+      "Cork customers largely buy from Cork showrooms. The market is regional, the showrooms are known, and a recommendation from somebody who had their kitchen done last year carries more weight here than anywhere else.",
+      "That makes reviews and real local work the whole ballgame, and it makes a company with no visible recent jobs effectively invisible regardless of how good the kitchens are.",
+    ],
+    sections: [
+    {
+      heading: "Reviews are the online form of word of mouth",
+      body: [
+        "In a market this referral-driven, a steady flow of recent reviews is doing the thing the market actually responds to. A handful from three years ago is not.",
+        "Ask on completion, in the kitchen, while the customer is still delighted. It is the single cheapest marketing available in this trade and most showrooms never do it.",
+      ],
+    },
+    {
+      heading: "Show Cork kitchens in Cork houses",
+      body: [
+        "A customer in Douglas or Carrigaline wants to see a room they recognise. A portfolio of Dublin extensions does not do that.",
+        "Local work, named by area where the customer allows it, is more persuasive than a better-photographed kitchen from somewhere else.",
+      ],
+    },
+    {
+      heading: "The county is three markets",
+      body: [
+        "City and suburbs are competitive and showroom-rich. The harbour towns are newer houses and extensions. West Cork is scattered, second-home heavy and willing to travel for the right company.",
+        "West Cork customers will drive to the city for a showroom they have a reason to visit, which makes content and photographs do the work proximity usually does.",
+      ],
+    },
+    {
+      heading: "Be findable for renovation, not just kitchens",
+      body: [
+        "People start by thinking about the room rather than the units. Searches about open plan, knocking through, and extension layouts come months before anyone searches for a kitchen company.",
+        "Being present at that stage is how you avoid competing with four showrooms at the end of the process.",
+      ],
+    },
+    ],
+    towns: [
+      "Cork city",
+      "Douglas",
+      "Ballincollig",
+      "Carrigaline",
+      "Midleton",
+      "Glanmire",
+      "Bishopstown",
+      "Blarney",
+      "Mallow",
+      "Bandon",
+      "Kinsale",
+      "Cobh",
+    ],
+    faqs: [
+      {
+        q: "What matters most in Cork?",
+        a: "Recent reviews and visible local work. The market is referral-driven, and a company with no recent jobs on show is effectively invisible.",
+      },
+      {
+        q: "Will west Cork customers travel?",
+        a: "To the city, for a showroom they have a reason to visit. Content and photographs do the work that proximity usually does.",
+      },
+      {
+        q: "When should we be visible?",
+        a: "Earlier than the kitchen search. People think about the room first — open plan, knocking through, extension layouts — months before they look for a kitchen company.",
+      },
+      PRICE_FAQ,
+    ],
+  },
+  {
+    industry: "kitchens",
+    county: "galway",
+    industryLabel: "kitchen companies",
+    countyName: "Galway",
+    title: "Kitchen Marketing Galway | Showroom Visits and Design Leads",
+    description:
+      "Marketing for Galway kitchen companies: a smaller market with less showroom competition and customers spread across a large county.",
+    h1: "Kitchen marketing in Galway, where one showroom serves a county.",
+    intro: [
+      "Galway has far fewer kitchen showrooms than Dublin or Cork and a customer base spread over a large and partly remote county. That is an advantage: the competitive set is short and a good company can become the obvious choice.",
+      "It is also a logistical reality. A customer in Connemara or east Galway is making a deliberate journey to visit you, which means the visit has to be worth making and the website has to earn it first.",
+    ],
+    sections: [
+    {
+      heading: "The journey has to be justified before they set off",
+      body: [
+        "Somebody driving an hour to a showroom has decided in advance that it is worth the trip. That decision happens on your website.",
+        "Enough photographs of real finished kitchens, a clear sense of the range and style you work in, and practical detail about what happens at a first visit. A thin site means the journey never gets made.",
+      ],
+    },
+    {
+      heading: "Less competition, so own the search outright",
+      body: [
+        "With a short competitive set, the generic terms are genuinely winnable here in a way they are not in Dublin.",
+        "That is worth doing properly now rather than when somebody else notices. Local search, the Business Profile and a steady flow of reviews will do most of it.",
+      ],
+    },
+    {
+      heading: "City and county want different things",
+      body: [
+        "Galway city has smaller properties, apartments and a substantial rental sector. The county has larger rural houses with the room for the open-plan kitchen most people are picturing.",
+        "Same showroom, two different conversations, and the portfolio should show both rather than only the large rural kitchens that photograph best.",
+      ],
+    },
+    {
+      heading: "Make the first visit easy to book",
+      body: [
+        "Appointments rather than drop-in, evenings and Saturdays, and a clear answer on what to bring.",
+        "For a customer travelling a distance, uncertainty about whether anyone will be free is enough to postpone the trip indefinitely.",
+      ],
+    },
+    ],
+    towns: [
+      "Galway city",
+      "Salthill",
+      "Knocknacarra",
+      "Oranmore",
+      "Tuam",
+      "Ballinasloe",
+      "Loughrea",
+      "Athenry",
+      "Gort",
+      "Clifden",
+      "Moycullen",
+      "Headford",
+    ],
+    faqs: [
+      {
+        q: "What does the website have to do in Galway?",
+        a: "Justify a journey. Customers are driving an hour to visit, and that decision is made on your site before they set off.",
+      },
+      {
+        q: "Is the market winnable?",
+        a: "More so than Dublin or Cork. The competitive set is short, so the generic search terms are genuinely available if you do the local search work properly.",
+      },
+      {
+        q: "Should the portfolio show rural kitchens only?",
+        a: "No. The city has smaller properties and apartments, and showing only large rural kitchens tells half your market you are not for them.",
+      },
+      PRICE_FAQ,
+    ],
+  },
 ];
 
 export const industryCountyFor = (industry: string) =>

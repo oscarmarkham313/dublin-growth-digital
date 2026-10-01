@@ -8049,6 +8049,803 @@ export const posts: Post[] = [
     ],
     related: ["garage-conversions", "attic-conversions", "sunrooms-and-conservatories"],
   },
+  {
+    slug: "the-showround-wins-the-booking",
+    title: "The showround is where the booking is actually won",
+    description:
+      "Everything before the visit exists to get a couple through the door. What happens in that hour decides it, and most venues wing it.",
+    date: "2026-10-01",
+    minutes: 6,
+    intro:
+      "A wedding venue's entire marketing budget exists to produce one thing: a couple standing in the room. After that, the website, the photographs and the advertising stop mattering and the visit decides everything. Venues that treat the showround as a tour rather than as the most important hour in the sales process lose bookings they had already paid to win.",
+    sections: [
+      {
+        h: "Know what they want before they arrive",
+        p: [
+          "Date, rough numbers, whether the ceremony is on site, what matters most to them. Five questions on the enquiry form and a two-minute call beforehand.",
+          "A showround built around their wedding beats a standard tour every time, and the couple notices immediately that you listened.",
+        ],
+      },
+      {
+        h: "Show the room set for their number",
+        p: [
+          "An empty function room is a hard thing to imagine filled. A couple bringing a hundred and twenty people cannot picture it from a room laid for two hundred.",
+          "If you cannot set it, show photographs of a real wedding at their number in that room. It is the single most common gap between what the venue shows and what the couple is trying to decide.",
+        ],
+      },
+      {
+        h: "Walk the day in order",
+        p: [
+          "Arrival, drinks, where photographs happen, where they go if it rains, the meal, the speeches, the band, where guests sleep.",
+          "Couples are not evaluating a building, they are simulating a day. A tour that follows the running order answers questions they did not know how to ask.",
+        ],
+      },
+      {
+        h: "Answer the awkward things unprompted",
+        p: [
+          "Minimum numbers, what is included, corkage, what happens if the numbers drop, how late the music can go, whether there is another wedding that day.",
+          "Raising these yourself reads as confidence. Letting the couple discover them later reads as something else, and it is the most common reason a booking goes quiet after a good visit.",
+        ],
+      },
+      {
+        h: "Follow up the same evening",
+        p: [
+          "A short message that night, referring to something specific they said, while the visit is still vivid.",
+          "Most venues send a generic brochure two days later. The one that follows up personally the same evening is the one still in the conversation a week on.",
+        ],
+      },
+    ],
+    related: ["wedding-venues", "hotels-and-guesthouses", "wedding-planners"],
+  },
+  {
+    slug: "midweek-and-off-season-weddings",
+    title: "The calendar nobody markets: midweek and winter",
+    description:
+      "Summer Saturdays sell themselves. The rest of the year is where an Irish venue's margin actually sits, and almost nobody advertises it.",
+    date: "2026-10-01",
+    minutes: 6,
+    intro:
+      "Every wedding venue in Ireland has the same shape of problem. A handful of dates sell instantly and the rest of the calendar is a worry. Yet almost all wedding marketing is aimed at the couple who wants a July Saturday, which is the one couple you do not need to persuade.",
+    sections: [
+      {
+        h: "There is a real audience for the other dates",
+        p: [
+          "Second weddings, smaller weddings, couples who care more about the place than the date, couples with guests travelling who would rather avoid peak prices, and couples who simply do not want to wait two years.",
+          "None of them know the option exists unless you tell them, because every venue's marketing is a photograph of a summer evening.",
+        ],
+      },
+      {
+        h: "Sell what the date actually gives them",
+        p: [
+          "Not a discount — lead with what improves. More of your attention, the venue to themselves, better availability from the photographer and band they wanted, and usually a shorter wait.",
+          "A winter wedding sold as a cheap wedding attracts people who will haggle over everything. Sold as an intimate one, it attracts people who wanted that anyway.",
+        ],
+      },
+      {
+        h: "Show the venue in that season",
+        p: [
+          "A couple considering November needs to see November. Fires lit, dark outside, candles, the grounds bare.",
+          "Venues avoid publishing these because they look less impressive than June. They convert better, because they answer the exact doubt the couple has.",
+        ],
+      },
+      {
+        h: "Give it its own page",
+        p: [
+          "Not a line on the pricing page. A page about getting married midweek or off-season, written for somebody considering it, that will rank for exactly those searches.",
+          "It is one of the few genuinely uncontested search opportunities left in this sector.",
+        ],
+      },
+      {
+        h: "Target couples already being told no",
+        p: [
+          "A couple whose first-choice date is gone everywhere is the most receptive audience for a different date.",
+          "That is a timing problem, not an audience problem, and it is solved by being visible when people are deep in planning rather than only at the start.",
+        ],
+      },
+    ],
+    related: ["wedding-venues", "hotels-and-guesthouses", "marquee-hire"],
+  },
+  {
+    slug: "wedding-venue-photography-that-books",
+    title: "What couples are actually looking for in your photos",
+    description:
+      "Every Irish venue has the same perfect summer evening shot. What converts is the picture that answers a doubt.",
+    date: "2026-10-01",
+    minutes: 6,
+    intro:
+      "Wedding venue marketing is almost entirely visual and almost entirely interchangeable. The same golden-hour exterior, the same empty room laid for a hundred and eighty, the same drone shot. Couples scroll past all of it, because none of it answers what they are actually worried about.",
+    sections: [
+      {
+        h: "They are looking for their own wedding",
+        p: [
+          "Their guest number, their season, their style, their weather. A gallery sorted by nothing is a gallery they cannot use.",
+          "Organise by guest count and by season and the same photographs suddenly do work they were not doing before.",
+        ],
+      },
+      {
+        h: "Real weddings beat styled shoots",
+        p: [
+          "A styled shoot shows what is possible with a budget nobody has. A real wedding shows what it looks like with actual guests, actual flowers and actual Irish light.",
+          "Credit the photographer, ask the couple, and use them. They are more persuasive and they cost you nothing to produce.",
+        ],
+      },
+      {
+        h: "Show the wet-weather plan",
+        p: [
+          "Every couple marrying in Ireland has thought about rain and almost no venue shows it.",
+          "A photograph of a genuinely lovely indoor ceremony, or a covered terrace in use in the rain, removes the biggest unspoken doubt in the entire decision.",
+        ],
+      },
+      {
+        h: "Photograph the things that get asked about",
+        p: [
+          "Where people arrive, where the drinks reception happens, the bridal suite, where the band sets up, the view from the accommodation, the walk from the ceremony to the meal.",
+          "These are the questions on every showround. A photograph each is worth more than another exterior.",
+        ],
+        list: [
+          "Arrival and approach",
+          "Drinks reception, inside and out",
+          "The room at a realistic guest number",
+          "Wet-weather ceremony option",
+          "Bridal suite and guest rooms",
+          "The grounds in winter as well as summer",
+        ],
+      },
+      {
+        h: "Video does what photographs cannot",
+        p: [
+          "Scale and flow. A short walkthrough showing how the day moves through the building answers the layout question instantly.",
+          "For couples who cannot visit easily, which in a destination county is a large share, it is the difference between an enquiry and a booking.",
+        ],
+      },
+    ],
+    related: ["wedding-venues", "photographers", "hotels-and-guesthouses"],
+  },
+  {
+    slug: "the-eighteen-month-booking-cycle",
+    title: "Your enquiry today books in eighteen months",
+    description:
+      "Wedding venues have the longest sales cycle of any Irish local business, and most follow up like it is a plumbing job.",
+    date: "2026-10-01",
+    minutes: 5,
+    intro:
+      "A couple enquiring about a wedding venue is frequently eighteen months to two years from the date and several weeks from making any decision at all. They will view three or four venues, go away, discuss it with parents, look at the money, and come back. A venue that treats the enquiry as hot and goes quiet after one brochure is throwing away the longest, most valuable pipeline in local business.",
+    sections: [
+      {
+        h: "Enquiry, visit, decision are three separate moments",
+        p: [
+          "Each needs its own follow-up. Most venues do the first well, the second adequately and the third not at all.",
+          "The gap between the visit and the decision is where bookings are lost, and it is the gap nobody works.",
+        ],
+      },
+      {
+        h: "Keep a record or you will lose them",
+        p: [
+          "Name, date, numbers, what they cared about, when they visited, when to contact next. A spreadsheet is enough.",
+          "Without it, follow-up depends on remembering, and in a business where the decision is three months after the visit, nobody remembers.",
+        ],
+      },
+      {
+        h: "Give them something for the conversation with the parents",
+        p: [
+          "Wedding decisions in Ireland are rarely made by two people alone. Somebody is going to have to explain the choice to a mother.",
+          "A short document with photographs, what is included and the practical answers is far more useful in that conversation than a remembered tour.",
+        ],
+      },
+      {
+        h: "A quiet enquiry is not a lost one",
+        p: [
+          "Couples go quiet because planning is overwhelming, not because they chose elsewhere. A warm message a month later asking how it is going recovers a real share of them.",
+          "It is not pushy. It is the only contact they have had from anyone in weeks.",
+        ],
+      },
+      {
+        h: "Last year's unbooked list is this year's business",
+        p: [
+          "Couples who postponed, lengthened their engagement or lost their date are all still getting married.",
+          "That list is one of the most valuable things a venue owns and it is almost always sitting unused in an inbox.",
+        ],
+      },
+    ],
+    related: ["wedding-venues", "wedding-planners", "celebrants"],
+  },
+  {
+    slug: "getting-featured-irish-wedding-blogs",
+    title: "How to get your venue onto Irish wedding blogs",
+    description:
+      "Real wedding features are the most valuable coverage an Irish venue can get, and they are given away free to venues that make it easy.",
+    date: "2026-10-01",
+    minutes: 6,
+    intro:
+      "Irish wedding blogs and magazines publish real weddings constantly and they are always looking for them. A feature puts your venue in front of exactly the audience you want, carries a link, and lasts for years. Venues that get featured repeatedly are not luckier than the rest; they are easier to work with.",
+    sections: [
+      {
+        h: "The photographer is usually the one submitting",
+        p: [
+          "Most real wedding features are submitted by the photographer, not the venue. That makes your relationship with photographers the whole mechanism.",
+          "Be good to work with on the day, give them space and time, credit them everywhere you use their images, and they will submit weddings at your venue rather than someone else's.",
+        ],
+      },
+      {
+        h: "Make it easy to say yes",
+        p: [
+          "Publications want a full set of images, the supplier list, and a couple willing to be named. Having that assembled is most of the work.",
+          "A venue that can hand over the package has a far better hit rate than one that says it would be nice to be featured.",
+        ],
+      },
+      {
+        h: "Ask couples at the right moment",
+        p: [
+          "Shortly after the wedding, when they are still delighted and the photographs have just arrived.",
+          "Asking a year later rarely works. Asking before the day is premature. The window is short and predictable.",
+        ],
+      },
+      {
+        h: "Pitch the thing that is actually unusual",
+        p: [
+          "Editors see a great many country house weddings. What gets picked up is a specific angle: an unusual ceremony, a midweek winter wedding, a small one, a notable restoration, a family connection to the building.",
+          "Generic submissions compete with hundreds. A story competes with few.",
+        ],
+      },
+      {
+        h: "Do not pay for it if you can earn it",
+        p: [
+          "Paid placements exist and are clearly marked, which is exactly why they persuade less.",
+          "An earned feature carries more weight with couples and the link is worth more. Build the photographer relationships first and the features follow.",
+        ],
+      },
+    ],
+    related: ["wedding-venues", "photographers", "wedding-planners"],
+  },
+  {
+    slug: "are-wedding-fairs-worth-it",
+    title: "Are wedding fairs still worth it for a venue?",
+    description:
+      "Sometimes, and almost never in the way venues run them. What they are actually good for, and what to do instead.",
+    date: "2026-10-01",
+    minutes: 5,
+    intro:
+      "Every Irish venue has done wedding fairs and most are quietly unsure whether they work. The honest answer is that they can, but not as a place to book weddings. They are a place to collect couples who are early in planning, and almost nobody treats them that way.",
+    sections: [
+      {
+        h: "Nobody books a venue at a fair",
+        p: [
+          "They collect brochures, talk to twenty suppliers and go home overwhelmed. Expecting a booking on the day is the wrong measure and it is why fairs look like a failure.",
+          "The measure that matters is showrounds booked in the following fortnight.",
+        ],
+      },
+      {
+        h: "Book the visit at the stand",
+        p: [
+          "Not a brochure, not an email later. A date in a diary while you are standing in front of them.",
+          "Venues that do this report completely different results from venues that collect business cards, and it is the only meaningful change most need to make.",
+        ],
+      },
+      {
+        h: "Your own open day usually beats somebody else's fair",
+        p: [
+          "At a fair you are one of forty suppliers in a hall. At your own open day the couple is standing in the building, which is the thing you were trying to achieve anyway.",
+          "It also costs less, and you can invite the enquiries who have gone quiet, which is the list that needs a reason to re-engage.",
+        ],
+      },
+      {
+        h: "If you do go, go where your couples are",
+        p: [
+          "A venue in Meath at a Cork fair is spending a Saturday on people who will not travel. Local and regional fairs convert; national ones mostly do not, unless you genuinely sell a destination.",
+        ],
+      },
+      {
+        h: "Measure it properly",
+        p: [
+          "Showrounds booked, then weddings booked, traced back. Not leads collected.",
+          "Most venues have no idea whether fairs work because they have never traced a single booking back to one.",
+        ],
+      },
+    ],
+    related: ["wedding-venues", "wedding-planners", "marquee-hire"],
+  },
+  {
+    slug: "google-ads-for-wedding-venues",
+    title: "Where a wedding venue's ad budget disappears",
+    description:
+      "Dress shops, guests, jobs and other people's weddings all sit on the same keywords. What to block and what is worth bidding on.",
+    date: "2026-10-01",
+    minutes: 6,
+    intro:
+      "Wedding search is enormous and almost none of it is a couple looking for a venue. Guests looking for outfits, people searching for gifts, suppliers looking for work and students looking for jobs all use the same words. A default campaign pays for every one of them.",
+    sections: [
+      {
+        h: "Guests and suppliers are not customers",
+        p: [
+          "'Wedding guest dress', 'wedding gift ideas', 'wedding speech', 'wedding hashtag'. Vast volume, zero relevance.",
+          "This is the biggest single category of waste and it is simple to remove.",
+        ],
+        list: [
+          "guest, dress, suit, outfit, gift, present, speech, hashtag, favours",
+          "cake, flowers, band, dj, photographer, videographer, planner, celebrant",
+        ],
+      },
+      {
+        h: "Jobs and courses",
+        p: [
+          "'Wedding coordinator jobs', 'event management course', 'hotel jobs'. Steady and worthless.",
+          "Venues miss these because the terms look professionally adjacent.",
+        ],
+        list: [
+          "jobs, vacancy, hiring, course, event management, hospitality degree",
+        ],
+      },
+      {
+        h: "The wrong kind of venue search",
+        p: [
+          "'Wedding venue' alone pulls in people looking for marquees, barns, elopements, registry offices and venues abroad.",
+          "If you are a country house, block barn and marquee unless you offer them. If you have a minimum number, the small-wedding and elopement terms are costing you money.",
+        ],
+        list: [
+          "abroad, destination (unless you are one), elopement, registry office",
+          "marquee, barn, tipi, micro wedding, small wedding (if you have a minimum)",
+        ],
+      },
+      {
+        h: "Bid on intent plus place plus type",
+        p: [
+          "'Wedding venues [county]', 'country house wedding [county]', 'castle wedding ireland', 'wedding venues near [town]', 'exclusive use wedding venue'.",
+          "'Exclusive use' is the under-used one — it is specific, it is searched, and it signals a couple who knows what they want.",
+        ],
+      },
+      {
+        h: "Think about who is searching",
+        p: [
+          "A meaningful share of venue research is done by a parent, not the couple. The messaging that reassures a parent is different from the one that excites a couple.",
+          "That is an argument for a page that covers the practical reassurance properly rather than only the romance.",
+        ],
+      },
+    ],
+    related: ["wedding-venues", "hotels-and-guesthouses", "catering-companies"],
+  },
+  {
+    slug: "who-actually-decides-the-venue",
+    title: "The couple is not the only one you are convincing",
+    description:
+      "Irish wedding venues are chosen by a committee that nobody markets to: the couple, usually a mother, and whoever is paying.",
+    date: "2026-10-01",
+    minutes: 5,
+    intro:
+      "Wedding venue marketing is written as though two people decide. In practice the decision involves parents, frequently a bridesmaid or two, and whoever is contributing financially. Each of them is reassured by completely different things, and a venue that only speaks to the couple is leaving most of the room unconvinced.",
+    sections: [
+      {
+        h: "The couple wants to feel something",
+        p: [
+          "Photographs, atmosphere, the sense that the day will feel like theirs. That is what the gallery and the video are for and most venues do this part well.",
+        ],
+      },
+      {
+        h: "The parents want to know it will be handled",
+        p: [
+          "Whether the food is good, whether there is enough parking, how older guests get around the building, whether there is somewhere to sit away from the music, whether anyone will be stuck for a taxi.",
+          "None of that is romantic and all of it decides whether a parent supports the choice. Almost no venue website answers a single one of those questions.",
+        ],
+      },
+      {
+        h: "Whoever is paying wants no surprises",
+        p: [
+          "What is included, what is not, minimum numbers, what happens if numbers change, when payments fall due.",
+          "Clarity here is not unromantic. It is the thing that lets the person writing the cheque say yes with confidence.",
+        ],
+      },
+      {
+        h: "Give them something to take away",
+        p: [
+          "After a showround, the couple has to re-sell the venue to people who were not there. A document that answers the practical questions does that for them.",
+          "It is the single most useful thing you can hand a couple and most venues hand over a brochure of photographs they have already seen.",
+        ],
+      },
+      {
+        h: "Write for all three on the site",
+        p: [
+          "The gallery for the couple, a practical page for the parents, and a clear what-is-included page for whoever is paying.",
+          "Three pages, three audiences, one booking. Most venues have one page trying to do all three and succeeding at one.",
+        ],
+      },
+    ],
+    related: ["wedding-venues", "wedding-planners", "hotels-and-guesthouses"],
+  },
+  {
+    slug: "the-showroom-visit-is-the-conversion",
+    title: "Your real conversion is a showroom visit",
+    description:
+      "Nobody buys a kitchen from a website. Measuring enquiries instead of visits is why most Irish kitchen marketing cannot be judged.",
+    date: "2026-10-01",
+    minutes: 6,
+    intro:
+      "A kitchen is bought standing in a showroom with a designer, after months of thinking. Everything the marketing does happens before that, and its only job is to produce the visit. Most kitchen companies measure enquiries, spend against enquiries and optimise for enquiries, which is measuring the wrong thing one step too early.",
+    sections: [
+      {
+        h: "Count visits, not forms",
+        p: [
+          "An enquiry that never becomes a visit is worth nothing, and the ratio between the two varies enormously depending on how the enquiry was generated.",
+          "Once you track visits booked per channel, the picture usually changes completely and some of what looked like your best source turns out to be your worst.",
+        ],
+      },
+      {
+        h: "Make booking a visit the main action",
+        p: [
+          "Not 'request a brochure', not 'get a quote'. Book a design appointment, with times, and a clear statement of what happens in it.",
+          "People hesitate because they do not know what they are agreeing to. Saying it takes an hour, there is no obligation and they should bring their measurements removes most of that.",
+        ],
+      },
+      {
+        h: "Tell them what to bring",
+        p: [
+          "Rough measurements, photographs of the room, and any images they have saved. A visit where the customer arrives prepared is a dramatically better visit.",
+          "It also makes the appointment feel like a step in a process rather than a sales meeting, which is the thing people are avoiding.",
+        ],
+      },
+      {
+        h: "Offer evenings and Saturdays, and say so",
+        p: [
+          "Most kitchen customers work. A showroom open only during office hours is asking people to take a half day to look at units.",
+          "If you open late or at weekends, that belongs at the top of the page, not in a footer.",
+        ],
+      },
+      {
+        h: "Follow up on visits that did not buy",
+        p: [
+          "Somebody who travelled to a showroom and spent an hour with a designer is the warmest prospect the business has, and most companies never contact them again.",
+          "A call three weeks later asking whether anything has changed recovers a meaningful share, and it costs nothing.",
+        ],
+      },
+    ],
+    related: ["kitchens", "bathroom-renovations", "interior-designers"],
+  },
+  {
+    slug: "kitchen-photography-that-sells",
+    title: "Photograph the kitchens people actually have",
+    description:
+      "Every Irish showroom leads with a huge island in a bright extension. Most customers do not have that room and quietly rule you out.",
+    date: "2026-10-01",
+    minutes: 6,
+    intro:
+      "Kitchen marketing is almost entirely photographic and almost entirely aspirational, which sounds right and costs work. The portfolio shows large, bright, open-plan rooms with islands. A great many customers have a galley, a terrace, an apartment or an ordinary semi, and they look at that portfolio and conclude the company is not for them.",
+    sections: [
+      {
+        h: "Show the constrained rooms",
+        p: [
+          "Galley kitchens, narrow terraces, apartments, rooms with a chimney breast in the wrong place and a back door that has to stay where it is.",
+          "Solving those is harder than filling a big extension and it is what most customers need. A portfolio that shows it wins people who assumed you only did large projects.",
+        ],
+      },
+      {
+        h: "Before and after, same angle",
+        p: [
+          "The before is what makes the after mean something. A tired kitchen from 1998 beside the finished room tells the story in one image pair.",
+          "Photograph at the survey, from a spot you can return to. Almost nobody does and it is the single most persuasive asset in this trade.",
+        ],
+      },
+      {
+        h: "Real houses beat studio sets",
+        p: [
+          "A showroom display shows what things look like under perfect lighting with no kettle on the counter. A finished installation in a real Irish house shows what the customer will actually get.",
+          "Go back a few weeks after handover, when the family is using it. Ask first, and most will be glad to be asked.",
+        ],
+      },
+      {
+        h: "Caption with the thing people search",
+        p: [
+          "The room type, the house type, the county. 'Galley kitchen, 1970s semi, Rathfarnham' is more useful to a reader and more useful to a search engine than 'Project 14'.",
+          "It also means somebody can find the example that looks like their own house, which is what they are trying to do.",
+        ],
+      },
+      {
+        h: "Show the details that get asked about",
+        p: [
+          "Drawer interiors, corner solutions, the bin arrangement, how the appliances sit, the handle options up close.",
+          "These are the showroom questions. A photograph each answers them before the visit and makes the visit shorter and better.",
+        ],
+      },
+    ],
+    related: ["kitchens", "interior-designers", "photographers"],
+  },
+  {
+    slug: "get-in-before-the-builder",
+    title: "The kitchen is decided too late, and it costs everyone",
+    description:
+      "By the time most Irish customers talk to a kitchen company, the extension layout is fixed. Being in that conversation earlier changes the job.",
+    date: "2026-10-01",
+    minutes: 6,
+    intro:
+      "The usual order is: decide to extend, appoint a builder, agree a layout, build it, then go looking for a kitchen. By then the window is where it is, the services are run, and the room dictates the design rather than the other way round. A kitchen company that gets into the conversation before that is designing instead of accommodating.",
+    sections: [
+      {
+        h: "Write for people planning, not buying",
+        p: [
+          "What to think about before the walls go up, where services want to be, how the door and window positions constrain an island, how much space a corridor route actually needs.",
+          "These are searched months before anybody looks for a kitchen company, and almost nothing useful exists for them in an Irish context.",
+        ],
+      },
+      {
+        h: "It changes who you are to the customer",
+        p: [
+          "Arriving at the end, you are one of four quotes for units. Arriving at the start, you are the person who helped them avoid an expensive mistake.",
+          "That is a different relationship and it closes at a much higher rate.",
+        ],
+      },
+      {
+        h: "Builders and architects are the shortcut",
+        p: [
+          "They are in the room at the right moment and they get asked for recommendations. They recommend whoever makes their job easier — accurate drawings, delivery when promised, a fitter who does not create problems.",
+          "Those relationships are slow to build, cost nothing, and produce the steadiest work in this trade.",
+        ],
+      },
+      {
+        h: "Offer something before the commitment",
+        p: [
+          "A conversation about layout before anything is committed is genuinely useful and costs you an hour. It is also the most natural possible route into the project.",
+          "Be clear it is advice rather than a quote, so nobody feels they are being sold to while their house is still a drawing.",
+        ],
+      },
+      {
+        h: "Where this content belongs",
+        p: [
+          "Guides and Meta rather than search campaigns aimed at people ready to buy. You are reaching somebody six months early on purpose.",
+          "That means the follow-up has to run long enough to still be there when they are ready, which is the part most firms skip.",
+        ],
+      },
+    ],
+    related: ["kitchens", "builders-and-extensions", "architects"],
+  },
+  {
+    slug: "why-kitchen-quotes-get-compared-badly",
+    title: "Three kitchen quotes, and no way to compare them",
+    description:
+      "Different companies quote differently on purpose. A customer who cannot compare defaults to the lowest number, and the best quote loses.",
+    date: "2026-10-01",
+    minutes: 6,
+    intro:
+      "A customer with three kitchen quotes is holding three documents that use different language, include different things and arrive at different totals. They have no way to tell whether the cheapest is good value or missing half the job. So they do the only thing available and compare the number at the bottom.",
+    sections: [
+      {
+        h: "Itemise what is actually included",
+        p: [
+          "Carcasses and what they are made of, doors, worktop, sink and tap, appliances or not, handles, lighting, the removal of the old kitchen, making good, fitting, and who does the plumbing and electrics.",
+          "A quote that lists all of it is comprehensible. One that says 'fully fitted kitchen' is not, and it loses to a cheaper one that was never comparing like with like.",
+        ],
+      },
+      {
+        h: "Name the things that are usually excluded",
+        p: [
+          "Tiling, flooring, plastering, moving services, painting after. These are the costs that appear later and turn a happy customer into an angry one.",
+          "Saying upfront what is not included is more reassuring than pretending the question does not exist, and it is the thing the other two quotes will not have done.",
+        ],
+      },
+      {
+        h: "Explain what drives the price",
+        p: [
+          "Size, the door and finish, the worktop material, the appliance spec, how much making good the room needs.",
+          "A customer who understands the levers can make an informed decision about where to spend. One who does not simply asks for the cheapest version of everything.",
+        ],
+      },
+      {
+        h: "Show the design, not just the total",
+        p: [
+          "A rendered layout of their own room does more than any specification list. It proves the quote was made for them rather than taken off a price list.",
+          "It is also the document they will show other people, which means your name stays in the conversation.",
+        ],
+      },
+      {
+        h: "Then follow up once, to clarify",
+        p: [
+          "A call a few days later offering to walk through the quote is not a discount call and should not become one.",
+          "Most customers are confused rather than unconvinced, and the company that resolves the confusion is usually the one that gets the job.",
+        ],
+      },
+    ],
+    related: ["kitchens", "bathroom-renovations", "builders-and-extensions"],
+  },
+  {
+    slug: "the-kitchen-decision-takes-months",
+    title: "A kitchen enquiry is not a hot lead",
+    description:
+      "People think about a kitchen for a year and decide over months. Most Irish companies stop following up after a fortnight.",
+    date: "2026-10-01",
+    minutes: 5,
+    intro:
+      "The gap between first enquiry and signed order in this trade is routinely three to six months, and the thinking started long before the enquiry. A company that treats the enquiry as hot, rings twice and moves on has paid to generate a customer it then abandons two months before they were ready.",
+    sections: [
+      {
+        h: "Why it takes so long",
+        p: [
+          "It is expensive, it is disruptive, it usually needs two people to agree, and it frequently waits on something else — an extension, a bonus, a child finishing school.",
+          "None of that is reluctance. It is a sensible person making a large decision at a sensible pace.",
+        ],
+      },
+      {
+        h: "Keep a list and work it",
+        p: [
+          "Who enquired, what room, what stage, when to contact next. Without it, follow-up depends on memory and nothing is followed up at all.",
+          "The companies that do this consistently look busier than their advertising explains.",
+        ],
+      },
+      {
+        h: "Give them something useful between contacts",
+        p: [
+          "A guide on planning the layout, a piece on what drives the price, photographs of a room like theirs. Useful rather than promotional.",
+          "It keeps you present without pressure and it is read by the partner who was not on the call, which is frequently the person who has not been convinced.",
+        ],
+      },
+      {
+        h: "Seasonality is predictable",
+        p: [
+          "Enquiries cluster after Christmas, when people have had a houseful and noticed everything the kitchen cannot do, and again in late summer.",
+          "An enquiry that goes quiet in March is often an order in September. Writing it off in April is writing off the sale.",
+        ],
+      },
+      {
+        h: "Last year's unconverted list is this year's revenue",
+        p: [
+          "People who were not ready are now ready. They have already met you and already liked you enough to enquire.",
+          "A short, warm message to that list is the highest-return campaign most kitchen companies could run and almost none of them do it.",
+        ],
+      },
+    ],
+    related: ["kitchens", "bathroom-renovations", "flooring"],
+  },
+  {
+    slug: "google-ads-for-kitchen-companies",
+    title: "Where a kitchen company's ad budget goes",
+    description:
+      "Flat-pack, appliances, cleaning, jobs and recipes all sit on kitchen keywords. What to block and what is worth paying for.",
+    date: "2026-10-01",
+    minutes: 6,
+    intro:
+      "The word kitchen is one of the broadest in consumer search and almost none of it is somebody buying a fitted kitchen. Appliances, flat-pack, worktops, cleaning, recipes, jobs and rentals all use it, which makes this an easy category in which to spend a budget and see nothing.",
+    sections: [
+      {
+        h: "Retail and flat-pack",
+        p: [
+          "'Kitchen units', 'flat pack kitchen', 'kitchen doors only', 'ikea kitchen', 'kitchen worktops b&q'. These people are buying a product, not commissioning a fitted kitchen.",
+          "If you do supply-only, keep some of it. If you do not, it is the biggest single leak in the account.",
+        ],
+        list: [
+          "ikea, flat pack, b&q, woodie's, diy, units only, doors only, replacement doors",
+          "worktop offcut, sink only, handles, cheap, budget, second hand",
+        ],
+      },
+      {
+        h: "Appliances and everything that lives in a kitchen",
+        p: [
+          "'Kitchen appliances', 'best dishwasher', 'cooker repair', 'kitchen bin', 'kitchen table'. High volume, no relevance.",
+          "Furniture terms in particular pull a lot of traffic that looks adjacent and is not.",
+        ],
+        list: [
+          "appliance, dishwasher, oven, hob, fridge, washing machine, repair",
+          "table, chairs, stools, bin, accessories, utensils",
+        ],
+      },
+      {
+        h: "Recipes, cleaning and jobs",
+        p: [
+          "'Kitchen porter jobs', 'commercial kitchen hire', 'kitchen cleaning', and an enormous amount of recipe traffic.",
+          "Commercial kitchen terms are the ones most often missed because they sound like trade intent.",
+        ],
+        list: [
+          "porter, chef, jobs, hire, commercial, catering, restaurant",
+          "cleaning, deep clean, recipe, how to cook",
+        ],
+      },
+      {
+        h: "What is worth bidding on",
+        p: [
+          "Fitted and designed intent, plus a place. 'Fitted kitchens [town]', 'kitchen showroom [county]', 'kitchen design [town]', 'handmade kitchens ireland', 'kitchen renovation [town]'.",
+          "'Showroom' is the under-used one. Somebody searching for a showroom has already decided to visit one, which is the exact conversion you want.",
+        ],
+      },
+      {
+        h: "Then read the search terms report",
+        p: [
+          "In this category it is always worse than expected because the word is so broad.",
+          "Weekly for the first month. The savings usually show up within a fortnight.",
+        ],
+      },
+    ],
+    related: ["kitchens", "bathroom-renovations", "flooring"],
+  },
+  {
+    slug: "the-kitchen-customer-is-two-people",
+    title: "You are selling to two people who want different things",
+    description:
+      "Kitchen decisions are made jointly and the two halves are reassured by completely different things. Most marketing speaks to one.",
+    date: "2026-10-01",
+    minutes: 5,
+    intro:
+      "Fitted kitchens are almost always bought by a couple, and in most of them one person is leading on how it will look and the other is leading on what it will cost and how long the house will be upside down. Marketing that addresses only the first leaves the second unconvinced, and the second is frequently the one who says not yet.",
+    sections: [
+      {
+        h: "One is picturing it, the other is pricing it",
+        p: [
+          "The photographs, the finishes and the layout do the first job and most companies do that part well.",
+          "The second job — what it costs, how long it takes, how much mess, whether they can cook during it — is barely addressed anywhere, and it is where the hesitation lives.",
+        ],
+      },
+      {
+        h: "Answer the disruption question properly",
+        p: [
+          "How many days without a kitchen, what happens about meals, whether the old one is taken away, how much dust, whether anyone needs to be home.",
+          "This is the most common unasked question in the trade and the most reassuring thing you can answer unprompted.",
+        ],
+      },
+      {
+        h: "Be clear about the process and the dates",
+        p: [
+          "Design, survey, order, lead time, fitting, snagging. With rough durations.",
+          "People are not frightened of a project; they are frightened of an open-ended one. A timeline turns it into something manageable.",
+        ],
+      },
+      {
+        h: "Give them something to discuss",
+        p: [
+          "After a showroom visit, the two of them go home and talk. A document with the design, what is included and the practical answers is what that conversation is actually based on.",
+          "Most companies send a price. The one that sends something that answers both people's questions is the one that stays in the discussion.",
+        ],
+      },
+      {
+        h: "Write both into the website",
+        p: [
+          "A gallery for the one imagining it and a clear process-and-practicalities page for the one worrying about it.",
+          "Two pages, two people, one order. Most kitchen sites have the first and nothing like the second.",
+        ],
+      },
+    ],
+    related: ["kitchens", "bathroom-renovations", "interior-designers"],
+  },
+  {
+    slug: "kitchen-reviews-and-the-fitting",
+    title: "Your reviews are about the fitting, not the kitchen",
+    description:
+      "Customers cannot judge a carcass. They judge the week the fitters were in the house, and that is what they write about.",
+    date: "2026-10-01",
+    minutes: 5,
+    intro:
+      "Ask somebody about their new kitchen and they will tell you about the design and the finish. Ask them to write a review and they will write about the fitters: whether they turned up, whether they cleaned up, whether anything was damaged, whether the snags got sorted. That is the part of the experience customers can actually assess, and it is what the next customer reads.",
+    sections: [
+      {
+        h: "The fitting week is the product",
+        p: [
+          "It is the only part of the process where the company is physically in somebody's home, and it is what the review will be about.",
+          "A beautifully designed kitchen fitted badly produces a worse review than an ordinary kitchen fitted well, which is uncomfortable and true.",
+        ],
+      },
+      {
+        h: "Snagging decides the rating",
+        p: [
+          "Almost every kitchen has a snag list. What determines whether the customer is happy is how quickly it gets dealt with, not whether it existed.",
+          "A company that returns promptly turns a complaint into the thing the review praises. One that goes quiet after final payment earns the opposite.",
+        ],
+      },
+      {
+        h: "Ask at handover, in the kitchen",
+        p: [
+          "The moment the customer first sees it finished and clean is the moment to ask, in person, with the review page open on your phone.",
+          "A text a fortnight later, after the snag list has been sitting, converts far worse.",
+        ],
+      },
+      {
+        h: "Ask them to mention the specifics",
+        p: [
+          "'If the fitters looked after the house, it would really help if you said so.' That is the sentence the next customer is looking for.",
+          "Generic five-star reviews reassure nobody. A line about the house being left clean reassures everybody.",
+        ],
+      },
+      {
+        h: "Reply to every one",
+        p: [
+          "Briefly, and without arguing on the negative ones. Offer to sort it privately.",
+          "Prospective customers judge the company far more on how it responds to a complaint than on the complaint itself.",
+        ],
+      },
+    ],
+    related: ["kitchens", "bathroom-renovations", "tilers"],
+  },
 ];
 
 export const postBySlug = (slug: string) => posts.find((p) => p.slug === slug);
