@@ -63,6 +63,21 @@ export default async function IndustryPage({
    * guide is to this industry — where this slug sits in its `related`,
    * then how few industries it claims — before taking six.
    */
+  /**
+   * The niche in sentence case, for the audit CTA.
+   *
+   * County pages already say "Get your free Cork audit" while all 106
+   * industry pages said "Get your free growth audit" -- generic agency
+   * wording on the pages where the reader has just told us exactly what
+   * they do. This fixes that.
+   *
+   * Only lowercase the first letter when it is a normal word, so
+   * "IT support" does not become "it support".
+   */
+  const niche = /^[A-Z][a-z]/.test(ind.label)
+    ? ind.label.charAt(0).toLowerCase() + ind.label.slice(1)
+    : ind.label;
+
   const relatedPosts = posts
     .filter((p) => p.related.includes(ind.slug))
     .sort(
@@ -142,7 +157,7 @@ export default async function IndustryPage({
             ))}
           </div>
           <div className="mt-10 flex flex-wrap items-center gap-6">
-            <MagneticButton href="#audit">Get your free growth audit</MagneticButton>
+            <MagneticButton href="#audit">Free audit for {niche}</MagneticButton>
             <Link
               href="/contact"
               className="text-sm font-semibold text-text-2 underline decoration-hairline-dk underline-offset-4 transition-colors hover:text-ink"
@@ -429,12 +444,12 @@ export default async function IndustryPage({
               Find out what you&apos;re missing.
             </h2>
             <p className="mt-6 max-w-md text-[15px] leading-relaxed text-text-2">
-              A free growth audit of your Google map results, reviews, website
-              and the ads running in your county. Sent as a PDF within 24 hours.
-              No call needed.
+              A free audit of your Google map results, your reviews, your
+              website and the ads already running for {niche} in your county.
+              Sent as a PDF within 24 hours. No call needed.
             </p>
             <div className="mt-10">
-              <MagneticButton href="#audit">Get your free growth audit</MagneticButton>
+              <MagneticButton href="#audit">Free audit for {niche}</MagneticButton>
             </div>
           </Reveal>
         </div>
