@@ -41,7 +41,12 @@ ranks is now almost entirely off-site, and almost entirely yours.
 - [x] Viewport, favicon, robots meta
 - [x] `llms.txt` for AI crawlers, kept in parity with the sitemap
 - [x] Breadcrumb structured data (Search Console: 93 valid, 0 invalid)
-- [x] FAQPage, Service, Organization, WebSite, BreadcrumbList schema
+- [x] FAQPage, Service, WebSite, BreadcrumbList schema, and the
+      business itself marked up as `["Organization",
+      "ProfessionalService"]` with telephone, email, founder,
+      address, areaServed, logo and `sameAs` to the social profiles.
+      (An earlier version of this file said this was missing. That
+      was wrong — the grep behind it did not match an array @type.)
 - [x] Median page weight 102KB, heaviest 286KB. The site is almost
       entirely text, which is why it is fast
 - [x] Mobile layout verified at 375px with no horizontal overflow
@@ -81,7 +86,8 @@ ranks is now almost entirely off-site, and almost entirely yours.
 
 ### Off-site. Nothing here can be fixed by writing more pages.
 
-- [ ] **Backlinks: zero.** Searching for the domain returns only
+- [ ] **Backlinks: zero.** Confirmed again 1 Oct: none of your own
+      sites or client sites link to you either. Searching for the domain returns only
       nofollow social posts. No directories, no client credits, no
       press. This is the ceiling on everything above.
       See `docs/backlinks.md`. The first item on that list is client
@@ -98,9 +104,6 @@ ranks is now almost entirely off-site, and almost entirely yours.
 
 ### On-site gaps I can fix when you want
 
-- [ ] **No LocalBusiness or ProfessionalService schema.** The site has
-      Organization markup but not the local-business type that feeds
-      map results. A genuine gap for a business selling local SEO
 - [ ] **GA4 is wired but not firing.** `components/Analytics.tsx` is
       ready and waiting on `NEXT_PUBLIC_GA4_ID`. Nothing on the site is
       being measured beyond Search Console. I need the property ID
@@ -115,6 +118,11 @@ ranks is now almost entirely off-site, and almost entirely yours.
       linking fixes address the cause but Google has to recrawl
 - [ ] `app/terms/` is still a contract for an older product. The
       amounts are gone but it needs your read
+- [ ] **Social handles do not match the business name.** Facebook
+      and Instagram are @dublinsocialagency while the business is
+      Dublin Growth Digital. Google uses name consistency to decide
+      listings belong to the same entity. Decide before creating
+      new profiles — see `docs/backlink-pack.md`
 
 ### Decided against, deliberately
 
