@@ -2,7 +2,7 @@
   "core": {
     "/": "2026-09-28",
     "/about/": "2026-09-24",
-    "/blog/": "2026-09-29",
+    "/blog/": "2026-10-01",
     "/contact/": "2026-09-07",
     "/industries/": "2026-09-24",
     "/locations/": "2026-09-07",
@@ -164,7 +164,11 @@
     "garage-conversions/dublin": "2026-09-30",
     "garage-conversions/galway": "2026-09-30",
     "garage-conversions/kildare": "2026-09-30",
-    "garage-conversions/limerick": "2026-09-30",
+    "garage-conversions/limerick": "2026-10-01",
+    "kitchens/cork": "2026-10-01",
+    "kitchens/dublin": "2026-10-01",
+    "kitchens/galway": "2026-10-01",
+    "kitchens/kildare": "2026-10-01",
     "landscapers/cork": "2026-09-29",
     "landscapers/donegal": "2026-09-30",
     "landscapers/dublin": "2026-09-29",
@@ -200,7 +204,12 @@
     "solicitors/dublin": "2026-09-30",
     "solicitors/galway": "2026-09-30",
     "solicitors/kildare": "2026-09-30",
-    "solicitors/mayo": "2026-09-30"
+    "solicitors/mayo": "2026-09-30",
+    "wedding-venues/cork": "2026-10-01",
+    "wedding-venues/galway": "2026-10-01",
+    "wedding-venues/kerry": "2026-10-01",
+    "wedding-venues/meath": "2026-10-01",
+    "wedding-venues/wicklow": "2026-10-01"
   },
   "industrySeo": {
     "accountants": "2026-09-25",
