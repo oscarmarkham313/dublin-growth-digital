@@ -71,9 +71,18 @@ for b in ind.split('\n  {\n    slug: "')[1:]:
         continue
     label = label.group(1)
     head = title.group(1).split("|")[0].strip()
+    # Take the keyword from the title's first segment, not the label.
+    # The titles were written deliberately and already carry the real
+    # search phrasing: "Roofing Leads Ireland" means the term is
+    # "roofing leads", where the label would have produced the
+    # non-existent "roofers leads".
+    kw = re.sub(r"\s+Ireland$", "", head).strip()
+    # Title Case to search case, leaving acronyms (IT, MSPs, SEO) alone.
+    kw = " ".join(t if t.isupper() or (len(t) > 1 and t[:-1].isupper())
+                  else t.lower() for t in kw.split())
     niche = label[0].lower() + label[1:] if re.match(r"^[A-Z][a-z]", label) else label
     rows.append({
-        "slug": slug, "label": label, "niche": niche, "head": head,
+        "slug": slug, "label": label, "niche": niche, "head": head, "kw": kw,
         "seo": slug in has_seo,
         "counties": counties.get(slug, []),
         "guides": guides[slug],
@@ -111,7 +120,7 @@ w("Money page, guides and county pages. Nothing further needed.\n")
 w("| niche | primary keyword | counties | guides | Search Console |")
 w("|---|---|---|---|---|")
 for r in sorted(built, key=lambda r: -len(r["counties"])):
-    w(f"| {r['label']} | `{r['niche']} leads` | {len(r['counties'])} | {r['guides']} | {r['signal'] or '--'} |")
+    w(f"| {r['label']} | `{r['kw']}` | {len(r['counties'])} | {r['guides']} | {r['signal'] or '--'} |")
 w("")
 w(f"## Tier 2 -- signal, no cluster ({len(signal_no_cluster)} niches)\n")
 w("These earn impressions or clicks already and have no county pages.")
@@ -119,7 +128,7 @@ w("They are the next things worth building.\n")
 w("| niche | primary keyword | Search Console | guides |")
 w("|---|---|---|---|")
 for r in sorted(signal_no_cluster, key=lambda r: -len(r["signal"])):
-    w(f"| {r['label']} | `{r['niche']} leads` | **{r['signal']}** | {r['guides']} |")
+    w(f"| {r['label']} | `{r['kw']}` | **{r['signal']}** | {r['guides']} |")
 w("")
 w(f"## Tier 3 -- no signal yet ({len(quiet)} niches)\n")
 w("Money page only. Leave them. Building county pages for a niche with")
@@ -129,7 +138,7 @@ w("<details><summary>The full list</summary>\n")
 w("| niche | primary keyword | has SEO page | guides |")
 w("|---|---|---|---|")
 for r in sorted(quiet, key=lambda r: r["label"]):
-    w(f"| {r['label']} | `{r['niche']} leads` | {'yes' if r['seo'] else 'no'} | {r['guides']} |")
+    w(f"| {r['label']} | `{r['kw']}` | {'yes' if r['seo'] else 'no'} | {r['guides']} |")
 w("\n</details>\n")
 w("---\n")
 w("## Per-niche target set\n")
