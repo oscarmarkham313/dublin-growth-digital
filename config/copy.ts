@@ -11,8 +11,8 @@ export const site = {
   phoneDisplay: "+353 87 125 7533",
   whatsapp:
     "https://wa.me/353871257533?text=Hi%2C%20I%27d%20like%20to%20talk%20about%20growing%20my%20business.",
-  instagram: "https://www.instagram.com/dublinsocialagency/",
-  facebook: "https://www.facebook.com/dublinsocialagency",
+  instagram: "https://www.instagram.com/dublin.growth.digital/",
+  facebook: "https://www.facebook.com/Dublin.Growth.Digital/",
   formspree: "https://formspree.io/f/meendppv",
   whopCheckout: "https://whop.com/checkout/plan_EeyocfGbLALyC/",
   metaDescription:
