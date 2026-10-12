@@ -242,6 +242,15 @@ export default function Home() {
                 >
                   Every county →
                 </Link>
+                {/* The fourth hub. It was missed when the other three were
+                    wired up, leaving /towns/ with no contextual inbound link
+                    at all and the 24 town pages hanging off boilerplate. */}
+                <Link
+                  href="/towns/"
+                  className="text-sm font-semibold text-ink underline decoration-accent underline-offset-4 transition-colors hover:text-accent"
+                >
+                  Towns we work in →
+                </Link>
               </div>
             </div>
           </Reveal>
