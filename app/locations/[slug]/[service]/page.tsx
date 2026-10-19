@@ -347,7 +347,7 @@ export default async function CountyServicePage({
                     <Link
                       key={i.slug}
                       href={`/industries/${i.slug}/seo/`}
-                      className="text-sm font-semibold underline decoration-hairline-dk underline-offset-4 transition-colors hover:text-accent"
+                      className="text-sm font-semibold underline decoration-hairline-dk underline-offset-4 transition-colors hover:text-accent-ink"
                     >
                       SEO for {i.label}
                     </Link>
@@ -365,14 +365,14 @@ export default async function CountyServicePage({
                   <Link
                     key={s.serviceSlug}
                     href={`/locations/${s.countySlug}/${s.serviceSlug}/`}
-                    className="text-sm font-semibold underline decoration-hairline-dk underline-offset-4 transition-colors hover:text-accent"
+                    className="text-sm font-semibold underline decoration-hairline-dk underline-offset-4 transition-colors hover:text-accent-ink"
                   >
                     {s.service} in {s.county}
                   </Link>
                 ))}
                 <Link
                   href={`/locations/${p.countySlug}/`}
-                  className="text-sm font-semibold underline decoration-hairline-dk underline-offset-4 transition-colors hover:text-accent"
+                  className="text-sm font-semibold underline decoration-hairline-dk underline-offset-4 transition-colors hover:text-accent-ink"
                 >
                   All {p.county} services
                 </Link>

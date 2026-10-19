@@ -181,7 +181,7 @@ export default async function PostPage({
                   <li key={r.slug} className="border-b border-hairline">
                     <Link
                       href={`/industries/${r.slug}/`}
-                      className="flex items-baseline justify-between py-4 text-[15px] font-semibold transition-colors hover:text-accent"
+                      className="flex items-baseline justify-between py-4 text-[15px] font-semibold transition-colors hover:text-accent-ink"
                     >
                       {r.label}
                       <span aria-hidden="true">→</span>
@@ -198,7 +198,7 @@ export default async function PostPage({
                 <li key={p.slug} className="border-b border-hairline">
                   <Link
                     href={`/blog/${p.slug}/`}
-                    className="block py-4 text-[15px] font-semibold transition-colors hover:text-accent"
+                    className="block py-4 text-[15px] font-semibold transition-colors hover:text-accent-ink"
                   >
                     {p.title}
                   </Link>

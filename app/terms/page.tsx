@@ -3,94 +3,111 @@ import { site } from "@/config/copy";
 
 export const metadata: Metadata = {
   title: "Terms & Conditions",
-  description: "Terms for the Dublin Growth Digital Meta Ads package.",
+  description:
+    "Terms for the services provided by Dublin Growth Digital: Google Ads, Meta ads, SEO, web design and social media.",
   robots: { index: false },
 };
 
-/* Legal copy carried over verbatim from the v1 site (July 2026). */
+/* Rewritten 19 October 2026. The previous version described a single
+   Meta Ads package carried over from the v1 site in July 2026, and had
+   stopped matching what is actually sold: Google Ads, Meta ads, SEO, web
+   design and social media. The legal structure below is the same one as
+   before -- obligations, liability cap, governing law -- widened to the
+   real service list, with the account-ownership promise the rest of the
+   site makes added as section 6. Not legal advice: worth ten minutes of
+   a solicitor's time before relying on it. */
 const sections: { heading: string; body: (string | string[])[] }[] = [
   {
-    heading: "1. The Package",
+    heading: "1. The Services",
     body: [
-      'Dublin Growth Digital ("we", "us", "our") provides a Meta Ads management service ("the Package") to Irish businesses ("you", "the client").',
-      "The Package includes:",
+      'Dublin Growth Digital ("we", "us", "our") provides digital marketing services ("the Services") to Irish businesses ("you", "the client").',
+      "Which of the following apply to you is whatever is agreed with you in writing before work begins:",
       [
-        "Campaign strategy, audience research, ad copy, and creative production",
-        "Full campaign setup within your existing or new Meta Ads account",
-        "30 days of active management and optimisation",
-        "Weekly performance reports delivered by email",
-        "Pixel and conversion tracking setup",
-        "Direct WhatsApp access to your campaign manager",
+        "Google Ads: campaign strategy, keyword research, ad copy, setup and ongoing management",
+        "Meta ads: audience research, creative production, setup and ongoing management",
+        "Search engine optimisation: technical work, on-page content and local search",
+        "Web design and build",
+        "Social media management and content",
+        "Conversion tracking and reporting setup",
       ],
-      "The Package does not include the cost of your Meta ad spend, which is paid directly to Meta from your own account.",
+      "The Services do not include advertising spend, which is paid directly to Google, Meta or any other platform from your own account.",
+      "Reporting is in enquiries, cost per enquiry and booked work. We report what the campaign produced; we do not report impressions as results.",
     ],
   },
   {
-    heading: "2. Payment",
+    heading: "2. Fees and Payment",
     body: [
-      "The total fee for the Package is the amount agreed with you in writing before work begins, plus VAT, paid in two instalments:",
-      [
-        "A deposit — due before work begins",
-        "The balance — due at the end of the 30-day campaign period, subject to your satisfaction (see Section 3)",
-      ],
-      "Following the initial 30-day period, ongoing management is available at the monthly rate agreed with you in writing, plus VAT, billed monthly with no minimum term. Either party may cancel the ongoing arrangement with 7 days' notice.",
-      "All payments are processed securely. Invoices are issued on receipt of payment.",
+      "Fees are the amounts agreed with you in writing before work begins, plus VAT.",
+      "Project work, for example a website build, is invoiced as agreed at the outset, typically in two instalments. Ongoing management is billed monthly in advance, with no minimum term.",
+      "Invoices are issued on receipt of payment. Late payment may pause active work until the account is settled.",
     ],
   },
   {
-    heading: "3. The Guarantee",
+    heading: "3. The Initial Engagement",
     body: [
-      "We are confident in the results our campaigns deliver. Our guarantee works as follows:",
+      "For ongoing management, the first 30 days are treated as the initial engagement, and it works as follows:",
       [
-        "After 30 days, if you are satisfied with the results of the campaign, the balance becomes due and payable.",
-        "If you are not satisfied with the results, we will continue working on your campaign for a further 30 days at no additional charge before the balance is due.",
-        "If after the extended period you remain unsatisfied, we will discuss resolution in good faith — which may include a partial refund of the deposit at our discretion.",
+        "After 30 days, if you are satisfied with the results, the arrangement continues on the agreed monthly basis.",
+        "If you are not satisfied, we will continue working for a further 30 days at no additional charge.",
+        "If after the extended period you remain unsatisfied, we will discuss resolution in good faith, which may include a partial refund at our discretion.",
       ],
-      '"Results" means a measurable increase in leads, sales, or bookings attributable to the Meta Ads campaign, as evidenced by campaign data shared with you throughout the period.',
-      "The guarantee does not apply if you have withheld access, failed to respond to our requests, or materially changed your business offering during the campaign period.",
+      '"Results" means a measurable change in enquiries, leads, bookings or sales attributable to the work, evidenced by the campaign and analytics data shared with you throughout.',
+      "This does not apply if you have withheld access, failed to respond to our requests, or materially changed your business offering during the period.",
     ],
   },
   {
-    heading: "4. Deliverables & Timeline",
+    heading: "4. Deliverables and Timeline",
     body: [
-      "We will contact you within 24 hours of receiving your deposit to arrange onboarding. Your campaign will be live within 7 business days of receiving all required access and information.",
-      "You will receive a weekly performance report by email every Monday covering the previous week's results.",
+      "We will contact you within one working day of engagement to arrange onboarding.",
+      "Campaign work goes live within 7 business days of receiving all required access and information. Website builds run to a schedule agreed with you in writing at the outset.",
+      "You will receive a performance report by email on an agreed cadence, covering the period since the last one.",
     ],
   },
   {
     heading: "5. Your Obligations",
     body: [
-      "To deliver the best possible results, you agree to:",
+      "So that the work can actually be delivered, you agree to:",
       [
-        "Grant us Admin access to your Meta Business Manager and/or Ads account",
-        "Provide access to your website or landing page for pixel installation",
+        "Grant admin access to the relevant advertising, analytics and search accounts, or allow us to create them in your name",
+        "Provide access to your website or landing pages for tracking installation and any agreed changes",
         "Respond to our messages within 2 business days",
-        "Maintain sufficient ad spend in your Meta account as agreed during onboarding",
-        "Provide any product images, videos, or brand assets we request within 3 business days",
+        "Maintain the advertising spend agreed during onboarding, where the Services include paid campaigns",
+        "Provide product images, videos, brand assets or copy we request within 3 business days",
+        "Ensure anything you supply is accurate, and that you hold the rights to it",
       ],
-      "Delays caused by failure to provide access or assets will not count against our delivery timeline or the 30-day campaign period.",
+      "Delays caused by access or assets not arriving will not count against our delivery timeline or any period described in section 3.",
     ],
   },
   {
-    heading: "6. Cancellation & Refunds",
+    heading: "6. Ownership of Accounts, Work and Data",
     body: [
-      "The deposit is non-refundable once work has commenced (i.e. once we have begun strategy or campaign setup). If you cancel before any work has begun, a full refund will be issued.",
-      "Ongoing monthly management may be cancelled at any time with 7 days' written notice to dublingrowthdigital@gmail.com. You will not be billed for any period beyond the notice period.",
+      "Your advertising accounts, website, analytics and the data in them are yours, from the first day and after the engagement ends. Where we create an account for you, it is created in your name and under your ownership.",
+      "On completion of a website build, and once fees for it are settled, the site and its content are yours to keep, move or change.",
+      "If the engagement ends, we will transfer or hand back access rather than retain it. We keep copies of work produced for our own records only, and will not publish your name, logo or results as a case study without asking you first.",
     ],
   },
   {
-    heading: "7. Limitation of Liability",
+    heading: "7. Cancellation and Refunds",
     body: [
-      "We cannot guarantee specific outcomes in terms of revenue, profit, or business growth, as results depend on factors outside our control including market conditions, your product or service, and your pricing.",
+      "Ongoing monthly management may be cancelled at any time with 7 days written notice to dublingrowthdigital@gmail.com. You will not be billed beyond the notice period.",
+      "For project work, any deposit is non-refundable once work has commenced, meaning once strategy, design or setup has begun. If you cancel before any work has begun, a full refund is issued.",
+      "We may end an engagement on the same 7 days notice, and will refund any amount paid for work not yet delivered.",
+    ],
+  },
+  {
+    heading: "8. Limitation of Liability",
+    body: [
+      "We cannot guarantee specific outcomes in revenue, profit, ranking position or business growth. Results depend on factors outside our control, including market conditions, platform policy, competitor activity, your pricing and your product or service.",
       "Our total liability to you under these terms shall not exceed the total fees paid by you in the 3 months preceding any claim.",
-      "We are not liable for any indirect, consequential, or incidental losses arising from the use of our services.",
+      "We are not liable for indirect, consequential or incidental losses arising from the use of our services, nor for the acts or decisions of third-party platforms, including account suspensions or policy changes.",
+      "Nothing in these terms limits liability where the law does not allow it to be limited.",
     ],
   },
   {
-    heading: "8. Governing Law",
+    heading: "9. Governing Law",
     body: [
       "These terms are governed by the laws of the Republic of Ireland. Any disputes shall be subject to the exclusive jurisdiction of the Irish courts.",
-      "Last updated: July 2026.",
+      "Last updated: October 2026.",
     ],
   },
 ];
@@ -104,8 +121,9 @@ export default function TermsPage() {
             Terms &amp; Conditions<span className="text-accent">.</span>
           </h1>
           <p className="mt-5 max-w-lg text-[15px] text-text-2">
-            These terms apply to the Meta Ads package offered by Dublin Growth
-            Digital. Please read them before completing your purchase.
+            These terms apply to the services provided by Dublin Growth
+            Digital: Google Ads, Meta ads, SEO, web design and social
+            media. Please read them before we begin.
           </p>
         </div>
       </section>
@@ -137,7 +155,7 @@ export default function TermsPage() {
           ))}
 
           <div className="py-10">
-            <h2 className="text-xl font-extrabold tracking-tight">9. Contact</h2>
+            <h2 className="text-xl font-extrabold tracking-tight">10. Contact</h2>
             <p className="mt-4 text-sm leading-relaxed text-text-2">
               For any questions about these terms: Dublin Growth Digital —{" "}
               <a href={`mailto:${site.email}`} className="font-semibold underline underline-offset-2">

@@ -115,7 +115,7 @@ export default function BlogIndex() {
               trades and professions. They live on the{" "}
               <Link
                 href="/industries/"
-                className="font-semibold text-ink underline decoration-accent underline-offset-4 transition-colors hover:text-accent"
+                className="font-semibold text-ink underline decoration-accent underline-offset-4 transition-colors hover:text-accent-ink"
               >
                 industry pages
               </Link>{" "}

@@ -21,6 +21,11 @@ const defaultTitle =
 
 export const metadata: Metadata = {
   metadataBase: new URL(site.domain),
+  // The only one of the four security headers a static GitHub Pages site
+  // can actually set, because it is the only one with a <meta> equivalent.
+  // HSTS, X-Frame-Options and X-Content-Type-Options are response headers
+  // and Pages will not serve custom ones -- they need a CDN in front.
+  referrer: "strict-origin-when-cross-origin",
   title: {
     default: defaultTitle,
     // No brand suffix. It added 23 characters to every title and pushed

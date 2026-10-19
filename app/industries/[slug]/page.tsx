@@ -232,7 +232,7 @@ export default async function IndustryPage({
             <p className="mt-10 max-w-2xl text-sm leading-relaxed text-inverse/60">
               Every figure comes from a client we can put you in touch with.
               We do not name clients in ads or on this page. See more on the{" "}
-              <Link href="/results/" className="underline underline-offset-4 hover:text-accent">
+              <Link href="/results/" className="underline underline-offset-4 hover:text-accent-ink">
                 results page
               </Link>
               .
@@ -406,7 +406,7 @@ export default async function IndustryPage({
                     <li key={r.slug} className="border-b border-hairline">
                       <Link
                         href={`/industries/${r.slug}/`}
-                        className="flex items-baseline justify-between py-4 text-[15px] font-semibold transition-colors hover:text-accent"
+                        className="flex items-baseline justify-between py-4 text-[15px] font-semibold transition-colors hover:text-accent-ink"
                       >
                         {r.label}
                         <span aria-hidden="true">→</span>
@@ -424,7 +424,7 @@ export default async function IndustryPage({
                     <li key={p.slug} className="border-b border-hairline">
                       <Link
                         href={`/blog/${p.slug}/`}
-                        className="block py-4 text-[15px] font-semibold transition-colors hover:text-accent"
+                        className="block py-4 text-[15px] font-semibold transition-colors hover:text-accent-ink"
                       >
                         {p.title}
                       </Link>

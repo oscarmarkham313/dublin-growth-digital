@@ -52,10 +52,15 @@ export const home = {
     },
   },
   proof: [
-    { value: 52, suffix: "", label: "Irish businesses grown" },
-    { value: 340, suffix: "%", label: "Average increase in online leads" },
-    { value: 15, suffix: "x", label: "Average return on ad spend" },
+    // Every number here has to be one you can show. These four come off
+    // your own pages: 26 counties, the six services on /services/, the
+    // reply time promised on /contact/, and the notice period in the
+    // terms. The old set (52 businesses, 340% leads, 15x ROAS) had
+    // nothing behind it.
     { value: 26, suffix: "", label: "Counties covered" },
+    { value: 6, suffix: "", label: "Services under one roof" },
+    { value: 1, suffix: "", label: "Working day to reply" },
+    { value: 7, suffix: "", label: "Days' notice to cancel" },
   ] as { value: number; suffix: string; label: string; decimals?: number }[],
   services: {
     eyebrow: "What we do",
@@ -121,44 +126,13 @@ export const home = {
   testimonials: {
     eyebrow: "Testimonials",
     heading: "In their own words.",
-    items: [
-      {
-        quote:
-          "Finally a marketing agency that speaks plain English and delivers. Our Google Ads are generating more leads than we can handle.",
-        name: "Ciarán O'Brien",
-        role: "Director, plumbing & heating company",
-      },
-      {
-        quote:
-          "Our bookings tripled in the first two months. The team genuinely cares about your results, not just showing up and collecting a fee.",
-        name: "Siobhán Murphy",
-        role: "Owner, Dublin restaurant",
-      },
-      {
-        quote:
-          "The new website they built for us is absolutely stunning. We went from embarrassed to share our URL to handing it out to everyone.",
-        name: "Aoife Gallagher",
-        role: "Founder, interior design studio",
-      },
-      {
-        quote:
-          "18x ROAS on our e-commerce ads. I genuinely didn't believe it was possible before we started working together.",
-        name: "Róisín Byrne",
-        role: "CEO, activewear brand",
-      },
-      {
-        quote:
-          "From zero online presence to page one on Google in four months. The SEO results have transformed our business completely.",
-        name: "Patrick Walsh",
-        role: "Partner, accountancy firm",
-      },
-      {
-        quote:
-          "Our Instagram grew by 8,000 followers in six months and we're getting direct enquiries from it every single week now.",
-        name: "Niamh Dolan",
-        role: "Owner, Dublin beauty salon",
-      },
-    ],
+    // Emptied 19 Oct 2026. The six quotes here were fabricated --
+    // invented people ("Ciaran O'Brien", "Patrick Walsh") attached to the
+    // invented case studies. Fake endorsements are a banned practice under
+    // the Consumer Protection Act 2007, quite apart from the trust cost.
+    // Replace with real quotes, with the client's permission, and the
+    // homepage section renders itself again.
+    items: [] as { quote: string; name: string; role: string }[],
   },
   closing: {
     heading: "Find out what you're missing.",

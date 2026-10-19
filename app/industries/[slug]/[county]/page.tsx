@@ -298,7 +298,7 @@ export default async function IndustryCountyPage({
                   <li key={g.slug} className="border-b border-hairline">
                     <Link
                       href={`/blog/${g.slug}/`}
-                      className="block py-4 text-[15px] font-semibold transition-colors hover:text-accent"
+                      className="block py-4 text-[15px] font-semibold transition-colors hover:text-accent-ink"
                     >
                       {g.title}
                     </Link>

@@ -56,7 +56,7 @@ export default function LocationsPage() {
                       <li key={c.slug} className="border-b border-hairline">
                         <Link
                           href={`/locations/${c.slug}/`}
-                          className="flex items-baseline justify-between py-3.5 text-[15px] font-semibold transition-colors hover:text-accent"
+                          className="flex items-baseline justify-between py-3.5 text-[15px] font-semibold transition-colors hover:text-accent-ink"
                         >
                           {c.name}
                           <span aria-hidden="true" className="text-text-4">

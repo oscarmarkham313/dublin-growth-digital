@@ -48,7 +48,7 @@ export default function ContactPage() {
                     className="group flex items-baseline justify-between gap-6 py-5"
                   >
                     <span className="text-sm text-text-3">{l.label}</span>
-                    <span className="text-[15px] font-semibold transition-colors duration-200 group-hover:text-accent">
+                    <span className="text-[15px] font-semibold transition-colors duration-200 group-hover:text-accent-ink">
                       {l.value}
                     </span>
                   </a>

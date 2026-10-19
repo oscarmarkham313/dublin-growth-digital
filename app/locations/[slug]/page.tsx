@@ -245,7 +245,7 @@ export default async function CountyPage({
                     className="group flex items-baseline justify-between gap-6 py-5"
                   >
                     <span>
-                      <span className="block font-semibold transition-colors group-hover:text-accent">
+                      <span className="block font-semibold transition-colors group-hover:text-accent-ink">
                         {ind.label} in {c.name}
                       </span>
                       <span className="mt-1 block text-sm leading-relaxed text-text-2">

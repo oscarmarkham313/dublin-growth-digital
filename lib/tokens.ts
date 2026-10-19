@@ -17,6 +17,11 @@ export const colors = {
   text4: "#bbbbbb",
   inverse: "#ffffff",
   accent: "#009040",
+  // Same kelly green, darkened just enough to clear WCAG AA (4.5:1) as
+  // small text on #fafafa: the brand accent is 3.97:1 there, this is
+  // 4.85:1. Use `accent` for fills, rules and display type; use
+  // `accent-ink` wherever the colour carries body-sized words.
+  accentInk: "#00803a",
   hairline: "rgba(0,0,0,0.08)",
   hairlineMd: "rgba(0,0,0,0.12)",
   hairlineDk: "rgba(0,0,0,0.18)",

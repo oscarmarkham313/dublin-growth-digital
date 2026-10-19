@@ -209,7 +209,7 @@ export default function Home() {
                 ))}
                 <Link
                   href="/industries/"
-                  className="text-sm font-semibold text-ink underline decoration-accent underline-offset-4 transition-colors hover:text-accent"
+                  className="text-sm font-semibold text-ink underline decoration-accent underline-offset-4 transition-colors hover:text-accent-ink"
                 >
                   All {industries.length} industries →
                 </Link>
@@ -232,7 +232,7 @@ export default function Home() {
                 ))}
                 <Link
                   href="/locations/"
-                  className="text-sm font-semibold text-ink underline decoration-accent underline-offset-4 transition-colors hover:text-accent"
+                  className="text-sm font-semibold text-ink underline decoration-accent underline-offset-4 transition-colors hover:text-accent-ink"
                 >
                   Every county →
                 </Link>
@@ -241,7 +241,7 @@ export default function Home() {
                     at all and the 24 town pages hanging off boilerplate. */}
                 <Link
                   href="/towns/"
-                  className="text-sm font-semibold text-ink underline decoration-accent underline-offset-4 transition-colors hover:text-accent"
+                  className="text-sm font-semibold text-ink underline decoration-accent underline-offset-4 transition-colors hover:text-accent-ink"
                 >
                   Towns we work in →
                 </Link>
@@ -254,7 +254,7 @@ export default function Home() {
               If you would rather read before you talk to anyone, the{" "}
               <Link
                 href="/blog/"
-                className="font-semibold text-ink underline decoration-accent underline-offset-4 transition-colors hover:text-accent"
+                className="font-semibold text-ink underline decoration-accent underline-offset-4 transition-colors hover:text-accent-ink"
               >
                 guides
               </Link>{" "}
@@ -312,7 +312,12 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ————— TESTIMONIALS ————— */}
+      {/* ————— TESTIMONIALS —————
+          Renders only when config/copy.ts carries real, attributable
+          quotes. The six that used to sit here were invented, names and
+          all, so they are gone; add genuine ones and the section and its
+          carousel come straight back with no further change. */}
+      {testimonials.items.length > 0 && (
       <section className="bg-bg py-24 md:py-36">
         <div className="mx-auto max-w-container px-5 md:px-10">
           <Reveal className="mx-auto max-w-3xl text-center">
@@ -326,6 +331,7 @@ export default function Home() {
           </Reveal>
         </div>
       </section>
+      )}
 
       {/* ————— CLOSING CTA ————— */}
       <section className="border-t border-hairline bg-bg-alt">

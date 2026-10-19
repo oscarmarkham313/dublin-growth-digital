@@ -20,6 +20,7 @@ const config: Config = {
         "text-4": colors.text4,
         inverse: colors.inverse,
         accent: colors.accent,
+        "accent-ink": colors.accentInk,
       },
       borderColor: {
         hairline: colors.hairline,
