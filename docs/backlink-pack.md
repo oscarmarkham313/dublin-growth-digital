@@ -307,3 +307,47 @@ what changed in the last three days.
 
 That completes the on-site work. There is nothing further that can be
 done from inside the site to make an AI name this business.
+
+---
+
+## LocallyIrish, field by field
+
+`locallyirish.ie/listings/create` -- the directory Google's AI cited on
+both county queries. Free. It creates an account, so it has to be you.
+
+**Start with "Auto-fill from Google"** at the top and search *Dublin
+Growth Digital*. It pulls the name, phone, website and address straight
+from the Business Profile, which leaves only a handful of fields.
+
+| field | value |
+|---|---|
+| Business Name | Dublin Growth Digital |
+| Category | **Marketing & Advertising** |
+| Tagline | Lead generation for Irish trades and professional firms |
+| County | Dublin |
+| Town | Dublin |
+| Email | dublingrowthdigital@gmail.com |
+| Phone | +353 87 125 7533 |
+| Website | https://dublingrowthdigital.com |
+| Facebook | https://www.facebook.com/Dublin.Growth.Digital/ |
+| Instagram | https://www.instagram.com/dublin.growth.digital/ |
+| Twitter | leave blank |
+| LinkedIn | leave blank until the company page exists |
+| Your role | Owner |
+| Contact name | Oscar Markham |
+
+**Description** (paste as is):
+
+```
+Dublin Growth Digital is a lead generation agency working with Irish trades and professional firms: roofers, solar installers, plumbers, landscapers, estate agents, dentists and solicitors. Google Ads, Meta ads, SEO, web design and social media, reported in enquiries and booked work.
+```
+
+### One judgement call
+
+The form asks for a street address and eircode. The Google Business
+Profile deliberately hides the address because this is a service-area
+business, and the NAP block above says to publish no street address
+anywhere. If LocallyIrish will accept the listing without one, leave
+both blank. If it insists, that is your call -- but then the same
+address should go on every other listing, or the consistency this file
+is built around breaks.
