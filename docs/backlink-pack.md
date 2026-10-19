@@ -196,3 +196,67 @@ take the domain down with them.
 
 Ahrefs and Semrush both have free backlink checkers that will show new
 links appearing. Give it a few weeks.
+
+---
+
+## Why this is also the AI-recommendation job
+
+Checked 19 October 2026.
+
+Asked for the best marketing agency in Ireland, ChatGPT and the rest do
+not read your website. They read the pages that *list* agencies. These
+are the ones that rank for that question:
+
+| page | |
+|---|---|
+| clutch.co | Top Digital Marketing Agencies in Ireland |
+| bestinireland.com | The 29 Best Digital Marketing Agencies in Ireland [2026] |
+| goodfirms.co | Top Digital Marketing Agencies in Ireland |
+| sortlist.com | The 10 Best Digital Marketing Agencies in Ireland |
+| themanifest.com | Top 100 Digital Marketing Companies in Ireland |
+| designrush.com | Top Digital Marketing Agencies in Ireland |
+| fetch.ie | 81 Best Digital Marketing Agencies in Ireland |
+| agencylist.com | Top Digital Marketing Agencies in Ireland |
+
+You are on none of them.
+
+Four of those eight are already in the Tier 3 list above. The backlink
+job and the "get recommended by AI" job are the same job, which makes
+the directories considerably more worth doing than link equity alone
+would suggest. Add the three Irish ones -- bestinireland.com, fetch.ie
+and agencylist.com -- to the list.
+
+### The on-site side is already done
+
+Nothing on the site is holding this back:
+
+- `robots.txt` allows everything
+- GPTBot, ClaudeBot, PerplexityBot and OAI-SearchBot all fetch pages
+  and get 200
+- `llms.txt` exists, is current, and is kept in parity with the sitemap
+  by a CI gate
+
+There is no technical AI-visibility work left to do. The entire gap is
+that no third party says you exist.
+
+### Where you currently surface
+
+On Bing, which is what ChatGPT Search retrieves from:
+
+- `"dublin growth digital"` -- the site ranks, along with the Facebook
+  and Instagram profiles. The competitor growthdigital.ie also ranks
+  for your name.
+- `lead generation agency ireland trades` -- the site appears, roughly
+  fifth
+- `marketing agency for roofers ireland` -- the site does **not**
+  appear. The page-one results include marketingfortrades.ie, a direct
+  niche-for-niche competitor, plus constructionmarketing.ie, tilt.ie,
+  lmh.agency and brand-depot.com.
+
+### One thing worth knowing about the phrasing
+
+Bing reads "roofing leads" as lead *flashing* -- the metal -- and
+returns builders' merchants. The term is ambiguous to a machine in a
+way it is not to a roofer. Where it matters, "roofing lead generation"
+or "leads for roofing contractors" is less ambiguous, even though
+"<niche> leads" is the stronger term on Google.
