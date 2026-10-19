@@ -16,7 +16,7 @@ export const colors = {
   text3: "#888888",
   text4: "#bbbbbb",
   inverse: "#ffffff",
-  accent: "#16a34a",
+  accent: "#009040",
   hairline: "rgba(0,0,0,0.08)",
   hairlineMd: "rgba(0,0,0,0.12)",
   hairlineDk: "rgba(0,0,0,0.18)",

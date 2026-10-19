@@ -164,7 +164,7 @@ export default async function PostPage({
                 every Friday in enquiries and booked work.
               </p>
               <div className="mt-6">
-                <MagneticButton href="#audit">Get your free growth audit</MagneticButton>
+                <MagneticButton href="/contact/#audit">Get your free growth audit</MagneticButton>
               </div>
             </div>
           </div>

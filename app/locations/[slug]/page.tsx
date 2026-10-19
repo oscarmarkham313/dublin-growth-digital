@@ -142,9 +142,9 @@ export default async function CountyPage({
             ))}
           </div>
           <div className="mt-10 flex flex-wrap items-center gap-6">
-            <MagneticButton href="#audit">Get your free {c.name} growth audit</MagneticButton>
+            <MagneticButton href="/contact/#audit">Get your free {c.name} growth audit</MagneticButton>
             <Link
-              href="/contact"
+              href="/contact/"
               className="text-sm font-semibold text-text-2 underline decoration-hairline-dk underline-offset-4 transition-colors hover:text-ink"
             >
               Or book a 15-minute call
@@ -373,7 +373,7 @@ export default async function CountyPage({
               and the ads running in {c.name}. Sent as a PDF within 24 hours.
             </p>
             <div className="mt-10">
-              <MagneticButton href="#audit">Get your free growth audit</MagneticButton>
+              <MagneticButton href="/contact/#audit">Get your free growth audit</MagneticButton>
             </div>
           </Reveal>
         </div>

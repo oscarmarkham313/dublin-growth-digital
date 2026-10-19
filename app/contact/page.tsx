@@ -30,7 +30,7 @@ export default function ContactPage() {
         </div>
       </section>
 
-      <section className="bg-bg py-20 md:py-28">
+      <section id="audit" className="scroll-mt-24 bg-bg py-20 md:py-28">
         <div className="mx-auto grid max-w-container gap-16 px-5 md:grid-cols-[3fr_2fr] md:gap-24 md:px-10">
           <Reveal>
             <ContactForm />

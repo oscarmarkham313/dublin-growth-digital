@@ -89,12 +89,6 @@ export default function Home() {
           <div className="hl-rule mt-10 h-px w-full max-w-xl bg-ink/20" />
 
           <div className="hl-late mt-6 flex items-center gap-3">
-            <span
-              aria-hidden="true"
-              className="text-[17px] leading-none tracking-[0.18em] text-[#f0a929]"
-            >
-              ★★★★★
-            </span>
             <span className="text-sm font-semibold text-text-2">
               {hero.trust.text}
             </span>

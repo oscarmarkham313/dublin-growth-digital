@@ -21,14 +21,14 @@ export const site = {
 
 export const nav = {
   links: [
-    { label: "Services", href: "/services" },
-    { label: "Industries", href: "/industries" },
-    { label: "Results", href: "/results" },
-    { label: "Blog", href: "/blog" },
-    { label: "About", href: "/about" },
-    { label: "Contact", href: "/contact" },
+    { label: "Services", href: "/services/" },
+    { label: "Industries", href: "/industries/" },
+    { label: "Results", href: "/results/" },
+    { label: "Blog", href: "/blog/" },
+    { label: "About", href: "/about/" },
+    { label: "Contact", href: "/contact/" },
   ],
-  cta: { label: "Book a call", href: "/contact" },
+  cta: { label: "Book a call", href: "/contact/" },
 };
 
 export const home = {
@@ -38,9 +38,9 @@ export const home = {
     // After the load-in, the last word rolls through these.
     rotating: ["customers", "enquiries", "bookings", "clients"],
     sub: "Lead generation for Irish estate agents, solar installers, roofers and trades: Meta ads, Google Ads, SEO and web design, run from Dublin for every county in Ireland and reported in enquiries, not impressions.",
-    trust: { text: "Rated 4.9 by Irish businesses" },
-    cta: { label: "Get your free growth audit", href: "#audit" },
-    secondary: { label: "See the results", href: "/results" },
+    trust: { text: "You own your ad account, website and data" },
+    cta: { label: "Get your free growth audit", href: "/contact/#audit" },
+    secondary: { label: "See the results", href: "/results/" },
     // Empty on purpose: public/hero/ has no files, and pointing at them
     // made every homepage visit fire three 404s. HeroVideo renders nothing
     // when a path is blank. Drop real files into public/hero/ and restore
@@ -55,8 +55,8 @@ export const home = {
     { value: 52, suffix: "", label: "Irish businesses grown" },
     { value: 340, suffix: "%", label: "Average increase in online leads" },
     { value: 15, suffix: "x", label: "Average return on ad spend" },
-    { value: 4.9, suffix: "", label: "Average client rating", decimals: 1 },
-  ],
+    { value: 26, suffix: "", label: "Counties covered" },
+  ] as { value: number; suffix: string; label: string; decimals?: number }[],
   services: {
     eyebrow: "What we do",
     heading: "Six ways in.",
@@ -67,37 +67,37 @@ export const home = {
         number: "01",
         name: "Web Design",
         outcome: "Sites that turn visits into enquiries — designed, written and shipped in weeks.",
-        href: "/services#web-design",
+        href: "/services/#web-design",
       },
       {
         number: "02",
         name: "Google Ads",
         outcome: "Show up the moment someone in your area searches for what you do.",
-        href: "/services#google-ads",
+        href: "/services/#google-ads",
       },
       {
         number: "03",
         name: "Meta Ads",
         outcome: "Facebook and Instagram campaigns that put your work in front of local buyers.",
-        href: "/services#meta-ads",
+        href: "/services/#meta-ads",
       },
       {
         number: "04",
         name: "SEO",
         outcome: "Page one for the searches that pay — and stay there.",
-        href: "/services#seo",
+        href: "/services/#seo",
       },
       {
         number: "05",
         name: "Social Media",
         outcome: "A feed that looks like the business you actually run — managed for you.",
-        href: "/services#social",
+        href: "/services/#social",
       },
       {
         number: "06",
         name: "Ads for Agencies",
         outcome: "You grow everyone else — we grow you. Campaigns that fill your agency's pipeline with qualified client leads.",
-        href: "/services#ads-for-agencies",
+        href: "/services/#ads-for-agencies",
       },
     ],
   },
@@ -116,7 +116,7 @@ export const home = {
   resultsPreview: {
     eyebrow: "Results",
     heading: "Numbers, not adjectives.",
-    cta: { label: "All case studies", href: "/results" },
+    cta: { label: "All case studies", href: "/results/" },
   },
   testimonials: {
     eyebrow: "Testimonials",
@@ -163,7 +163,7 @@ export const home = {
   closing: {
     heading: "Find out what you're missing.",
     sub: "Request a free growth audit — within 24 hours we'll send you exactly where your next customers are going instead of you, and the three fastest ways to fix it. Takes 20 seconds. No call, no obligation.",
-    cta: { label: "Get your free growth audit", href: "#audit" },
+    cta: { label: "Get your free growth audit", href: "/contact/#audit" },
   },
 };
 
@@ -321,7 +321,7 @@ export const about = {
   },
   closing: {
     heading: "See if we fit.",
-    cta: { label: "Book a call", href: "/contact" },
+    cta: { label: "Book a call", href: "/contact/" },
   },
 };
 
@@ -400,7 +400,7 @@ export const leadModal = {
 export const footer = {
   line: "Dublin Growth Digital: lead generation, Meta ads, Google Ads, SEO and web design for Irish businesses. Based in Dublin, working in every county in Ireland.",
   legal: [
-    { label: "Terms", href: "/terms" },
-    { label: "Privacy", href: "/privacy" },
+    { label: "Terms", href: "/terms/" },
+    { label: "Privacy", href: "/privacy/" },
   ],
 };

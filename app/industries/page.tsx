@@ -81,7 +81,7 @@ export default function IndustriesPage() {
               rings. Tell us what you do.
             </p>
             <div className="mt-8">
-              <MagneticButton href="/contact">Book a 15-minute call</MagneticButton>
+              <MagneticButton href="/contact/">Book a 15-minute call</MagneticButton>
             </div>
           </Reveal>
         </div>

@@ -69,7 +69,7 @@ export default function ServicesPage() {
               Not sure where to start?
             </h2>
             <div className="mt-8">
-              <MagneticButton href="/contact">
+              <MagneticButton href="/contact/">
                 Book a free strategy call
               </MagneticButton>
             </div>

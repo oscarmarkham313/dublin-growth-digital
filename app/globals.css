@@ -17,12 +17,12 @@ body {
 }
 
 ::selection {
-  background: #16a34a;
+  background: #009040;
   color: #fafafa;
 }
 
 :focus-visible {
-  outline: 2px solid #16a34a;
+  outline: 2px solid #009040;
   outline-offset: 3px;
 }
 
@@ -59,7 +59,7 @@ body {
 
 .hl-stop {
   display: inline-block;
-  color: #16a34a;
+  color: #009040;
   transform: scale(0);
   transform-origin: 40% 85%;
   animation: hl-stop-pop 0.5s var(--ease-back) both;

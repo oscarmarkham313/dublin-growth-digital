@@ -84,7 +84,7 @@ export default function LocationsPage() {
               in your county.
             </p>
             <div className="mt-8">
-              <MagneticButton href="#audit">Get your free growth audit</MagneticButton>
+              <MagneticButton href="/contact/#audit">Get your free growth audit</MagneticButton>
             </div>
           </Reveal>
         </div>

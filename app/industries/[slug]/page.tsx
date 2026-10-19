@@ -157,9 +157,9 @@ export default async function IndustryPage({
             ))}
           </div>
           <div className="mt-10 flex flex-wrap items-center gap-6">
-            <MagneticButton href="#audit">Free audit for {niche}</MagneticButton>
+            <MagneticButton href="/contact/#audit">Free audit for {niche}</MagneticButton>
             <Link
-              href="/contact"
+              href="/contact/"
               className="text-sm font-semibold text-text-2 underline decoration-hairline-dk underline-offset-4 transition-colors hover:text-ink"
             >
               Or book a 15-minute call
@@ -232,7 +232,7 @@ export default async function IndustryPage({
             <p className="mt-10 max-w-2xl text-sm leading-relaxed text-inverse/60">
               Every figure comes from a client we can put you in touch with.
               We do not name clients in ads or on this page. See more on the{" "}
-              <Link href="/results" className="underline underline-offset-4 hover:text-accent">
+              <Link href="/results/" className="underline underline-offset-4 hover:text-accent">
                 results page
               </Link>
               .
@@ -449,7 +449,7 @@ export default async function IndustryPage({
               Sent as a PDF within 24 hours. No call needed.
             </p>
             <div className="mt-10">
-              <MagneticButton href="#audit">Free audit for {niche}</MagneticButton>
+              <MagneticButton href="/contact/#audit">Free audit for {niche}</MagneticButton>
             </div>
           </Reveal>
         </div>
