@@ -166,7 +166,15 @@ export default async function CountyPage({
                   href={`/towns/${t.slug}/`}
                   className="text-lg font-extrabold tracking-display text-text-2 underline decoration-hairline-dk underline-offset-4 transition-colors hover:text-ink md:text-xl"
                 >
-                  {t.name}
+                  {/* The anchor names the thing the town page is for, not
+                      just the town. This county page currently outranks its
+                      own town pages for their town terms -- "marketing
+                      agency greystones" is served by /locations/wicklow/ at
+                      10.1 while /towns/greystones/, which is indexed and
+                      titled for exactly that query, does not surface. A bare
+                      town name as the anchor tells Google nothing about
+                      which page owns the term. */}
+                  Marketing agency, {t.name}
                 </Link>
               ))}
             </div>
