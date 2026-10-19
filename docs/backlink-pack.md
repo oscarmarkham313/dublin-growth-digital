@@ -260,3 +260,50 @@ returns builders' merchants. The term is ambiguous to a machine in a
 way it is not to a roofer. Where it matters, "roofing lead generation"
 or "leads for roofing contractors" is less ambiguous, even though
 "<niche> leads" is the stronger term on Google.
+
+---
+
+## Ranking fifth is not the same as being named
+
+Tested 19 October 2026, and this is the clearest demonstration of why
+the directories matter more than the site does.
+
+**`marketing agency meath`** -- DGD ranks **5th organically**. It is on
+page one. The AI Overview still does not name it:
+
+> Top Marketing Agencies in County Meath: WHIZZ.ie, Socially,
+> IH Digital Media LTD
+> *cited: locallyirish.ie, countymeathchamber.ie*
+
+**`marketing agency kildare`** -- DGD does not appear at all:
+
+> Prominent Marketing Agencies in Kildare: Brand Depot, Kola Digital,
+> CNS Media Ireland
+> *cited: locallyirish.ie, brand-depot.com*
+
+The AI read a directory and a chamber of commerce. It did not read the
+agency websites, and organic position had no bearing on who it named.
+
+### The two targets this hands you
+
+**locallyirish.ie** -- cited on both counties. 180,000+ Irish
+businesses. Free listing at `locallyirish.ie/listings/create`. This is
+the single most specific, most achievable item in this file.
+
+**Chamber of commerce** -- countymeathchamber.ie was cited directly.
+The county chambers list members, and membership is a normal business
+expense rather than an SEO trick.
+
+For local queries the citation sources are Irish directories and
+chambers. For national "best agency in Ireland" queries they are
+Clutch, Sortlist and the rest listed above. Both sets are third
+parties; neither is your website.
+
+### What was done on the site side, 19 Oct
+
+All 568 pages pushed to IndexNow and accepted, so Bing -- which is what
+ChatGPT Search retrieves from -- holds the full site rather than only
+what changed in the last three days.
+
+That completes the on-site work. There is nothing further that can be
+done from inside the site to make an AI name this business.
