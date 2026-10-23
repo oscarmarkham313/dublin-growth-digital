@@ -105,6 +105,23 @@ export default async function PostPage({
     },
   ];
 
+  /* Mid-article CTA. Until now the only way to act on a guide was a
+     button below the author line, at the foot of 950-1900 words, which
+     most readers never reach. This drops one in around 40% of the way
+     down -- after the second section, or the third on the long ones --
+     and only where there is enough article left after it to be worth
+     reading. The three shortest guides get nothing. */
+  const ctaAfter = post.sections.length >= 4 ? (post.sections.length >= 6 ? 2 : 1) : -1;
+
+  /* Name the trade where the guide has one, so the CTA reads as part of
+     the piece rather than a banner bolted onto it. */
+  const ctaInd = post.related.map((s) => industryBySlug(s)).find(Boolean);
+  const ctaNiche = ctaInd
+    ? /^[A-Z][a-z]/.test(ctaInd.label)
+      ? ctaInd.label.charAt(0).toLowerCase() + ctaInd.label.slice(1)
+      : ctaInd.label
+    : "Irish trades and professional firms";
+
   return (
     <main className="pt-16">
       <JsonLd data={schema} />
@@ -153,6 +170,28 @@ export default async function PostPage({
                       </li>
                     ))}
                   </ul>
+                )}
+
+                {i === ctaAfter && (
+                  <aside className="my-14 border-y border-hairline-md bg-bg-alt px-6 py-9 md:px-9 md:py-10">
+                    <p className="text-xs font-semibold uppercase tracking-[0.18em] text-text-3">
+                      Or have it done for you
+                    </p>
+                    <p className="mt-4 text-lg font-bold leading-snug tracking-tight md:text-xl">
+                      This is the work we do for {ctaNiche} across Ireland,
+                      reported in enquiries and booked work rather than
+                      impressions.
+                    </p>
+                    <div className="mt-7">
+                      <MagneticButton href="/contact/#audit">
+                        Get your free growth audit
+                      </MagneticButton>
+                    </div>
+                    <p className="mt-4 text-[13px] text-text-3">
+                      One email with your audit. No sales call unless you ask
+                      for one.
+                    </p>
+                  </aside>
                 )}
               </section>
             ))}
