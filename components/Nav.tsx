@@ -60,7 +60,7 @@ export default function Nav() {
             <a
               href={`tel:${site.phone}`}
               data-analytics="nav-phone"
-              className="tnum text-[13px] font-semibold text-ink transition-colors duration-200 hover:text-accent"
+              className="tnum text-[13px] font-semibold text-ink transition-colors duration-200 hover:text-accent-ink"
             >
               {site.phoneDisplay}
             </a>
