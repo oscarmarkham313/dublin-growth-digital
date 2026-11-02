@@ -1974,7 +1974,7 @@ export const towns: Town[] = [
     name: "Dunboyne",
     county: "Meath",
     countySlug: "meath",
-    title: "Marketing Agency Dunboyne | Lead Generation for Dunboyne Businesses",
+    title: "Marketing Agency Dunboyne | Lead Generation in Dunboyne",
     description:
       "A marketing agency working with Dunboyne businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
     h1: "A marketing agency for Dunboyne businesses.",
