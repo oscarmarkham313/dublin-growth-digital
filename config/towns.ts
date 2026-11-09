@@ -2077,6 +2077,1464 @@ export const towns: Town[] = [
       },
     ],
   },
+  {
+    slug: "monasterevin",
+    name: "Monasterevin",
+    county: "Kildare",
+    countySlug: "kildare",
+    title: "Marketing Agency Monasterevin | Lead Generation in Kildare",
+    description:
+      "A marketing agency working with Monasterevin businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Monasterevin businesses.",
+    intro: [
+      "A small Kildare town on the Barrow and the M7, far enough from Naas and Portlaoise to keep its own trade but close enough to lose it when people are already driving.",
+      "The businesses that do well here are the ones people do not need to think about: close, known and quick to answer.",
+    ],
+    sections: [
+      {
+        heading: "Caught between Kildare Town and Portlaoise",
+        body: [
+          "Monasterevin sits almost exactly between two larger towns, and both pull trade whenever somebody is already in the car. That is the competitive reality and no amount of advertising changes it.",
+          "What works is owning the short-trip decisions, the jobs where driving twenty minutes is not worth it. For most trades and services that is the majority of the work.",
+        ],
+      },
+      {
+        heading: "A small radius done properly",
+        body: [
+          "A campaign drawn around Monasterevin alone will look thin on volume. Extended to Kildare Town, Rathangan and the Barrow villages it becomes workable.",
+          "The mistake is going the other way and advertising across the county, which puts you in the Naas auction paying Naas prices for customers who will never travel to you.",
+        ],
+      },
+    ],
+    covers: [
+      "Monasterevin",
+      "Kildare Town",
+      "Rathangan",
+      "Portarlington",
+      "Vicarstown",
+      "Nurney",
+      "Ballybrittas",
+      "Emo",
+    ],
+    faqs: [
+      {
+        q: "Is Monasterevin too small to advertise in?",
+        a: "On its own it is thin. With Rathangan, Kildare Town and the surrounding villages included it is a workable catchment for most trades.",
+      },
+      {
+        q: "Do we lose work to Portlaoise?",
+        a: "Routinely, and mostly to habit rather than price. Being findable at the moment someone searches is what recovers it.",
+      },
+      {
+        q: "Should we advertise as far as Naas?",
+        a: "Rarely worth it. Naas is the most contested market in the county and you would be paying its prices for customers unlikely to travel back to you.",
+      },
+    ],
+  },
+  {
+    slug: "prosperous",
+    name: "Prosperous",
+    county: "Kildare",
+    countySlug: "kildare",
+    title: "Marketing Agency Prosperous | Lead Generation in Kildare",
+    description:
+      "A marketing agency working with Prosperous businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Prosperous businesses.",
+    intro: [
+      "Prosperous is a large village that has grown into a commuter settlement without gaining the retail to match, so a good deal of its spending leaves for Clane, Naas and Newbridge.",
+      "For a business based here, that leakage is the opportunity: the customers are local, they just do not know what is on their doorstep.",
+    ],
+    sections: [
+      {
+        heading: "The spending leaves and does not need to",
+        body: [
+          "Households here drive to Clane or Naas for things that exist within a few minutes of them. It is habit formed before the village grew, and it persists because nobody corrects it.",
+          "Correcting it is cheap. Being visible when somebody searches, and being obviously the nearest option, wins back trade that was never really contested.",
+        ],
+      },
+      {
+        heading: "Commuter timing applies here too",
+        body: [
+          "A large share of the working population is out of the village through the day. Enquiries land in the evening, and whoever answers first takes the job.",
+          "That makes a contact form or a message option worth more than an extra euro of budget, because a missed evening call here is usually a lost one.",
+        ],
+      },
+    ],
+    covers: [
+      "Prosperous",
+      "Clane",
+      "Allenwood",
+      "Robertstown",
+      "Coill Dubh",
+      "Derrinturn",
+      "Johnstownbridge",
+      "Naas",
+    ],
+    faqs: [
+      {
+        q: "Is there enough business in Prosperous itself?",
+        a: "Not usually on its own. Including Clane, Allenwood and the Coill Dubh side gives a catchment that works for most trades.",
+      },
+      {
+        q: "Why do people drive to Clane for things we provide?",
+        a: "Habit, almost always. It is the cheapest competitive problem to fix because it is about visibility rather than price or quality.",
+      },
+      {
+        q: "When should our ads run?",
+        a: "Weighted to evenings and weekends. The village commutes, and that is when people actually make decisions.",
+      },
+    ],
+  },
+  {
+    slug: "rathangan",
+    name: "Rathangan",
+    county: "Kildare",
+    countySlug: "kildare",
+    title: "Marketing Agency Rathangan | Lead Generation in Kildare",
+    description:
+      "A marketing agency working with Rathangan businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Rathangan businesses.",
+    intro: [
+      "Rathangan sits on the edge of the Bog of Allen with a wide, thinly populated hinterland and no larger town immediately beside it.",
+      "That isolation is commercially useful. The businesses here that are findable tend to keep their customers, because the alternative is a drive.",
+    ],
+    sections: [
+      {
+        heading: "Distance protects you",
+        body: [
+          "Unlike the commuter towns, Rathangan is not sitting beside a larger rival pulling trade away. The nearest alternatives are far enough that convenience genuinely favours a local business.",
+          "The job is being found at all. Once someone knows you exist and you are the nearest, the decision is usually straightforward.",
+        ],
+      },
+      {
+        heading: "A wide radius for a small population",
+        body: [
+          "The catchment reaches into the bog villages and across towards Edenderry and Monasterevin, covering a lot of ground with few people on it.",
+          "Expect modest search volume and a low cost per enquiry. That combination suits a local business well and suits an agency selling scale badly, which is why this kind of town is often ignored.",
+        ],
+      },
+    ],
+    covers: [
+      "Rathangan",
+      "Monasterevin",
+      "Allenwood",
+      "Lullymore",
+      "Kildare Town",
+      "Edenderry",
+      "Carbury",
+      "Derrinturn",
+    ],
+    faqs: [
+      {
+        q: "Is the population big enough?",
+        a: "Only with a wide radius. The town is small but the hinterland has no nearer alternative, which is what makes it work.",
+      },
+      {
+        q: "Is it cheap to advertise here?",
+        a: "Yes. The auction is thin because larger firms ignore towns this size, so visibility costs very little.",
+      },
+      {
+        q: "How far will customers travel to us?",
+        a: "Further than in a commuter town. Rural customers are used to driving and do not regard twenty minutes as far.",
+      },
+    ],
+  },
+  {
+    slug: "dunshaughlin",
+    name: "Dunshaughlin",
+    county: "Meath",
+    countySlug: "meath",
+    title: "Marketing Agency Dunshaughlin | Lead Generation in Meath",
+    description:
+      "A marketing agency working with Dunshaughlin businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Dunshaughlin businesses.",
+    intro: [
+      "Dunshaughlin is an M3 commuter village that grew quickly and sits close enough to Dublin that a large share of its working population leaves every morning.",
+      "It is also close to Navan, Ashbourne and Ratoath, which means it is surrounded by larger towns competing for the same households.",
+    ],
+    sections: [
+      {
+        heading: "Surrounded by bigger neighbours",
+        body: [
+          "Navan, Ashbourne, Ratoath and Dunboyne are all within a short drive, and each pulls trade from Dunshaughlin. A business here is competing on convenience against four directions at once.",
+          "Being the nearest option only helps if people know it. The advertising job here is less about persuasion and more about simply being present when someone looks.",
+        ],
+      },
+      {
+        heading: "Evening decisions, Dublin wages",
+        body: [
+          "The households here earn Dublin money and have Dublin hours. They decide on local services late, compare two or three, and book whoever responds first.",
+          "Response time beats price in a town like this more reliably than anywhere else in Meath. It is worth checking how fast enquiries are actually answered before spending more on getting them.",
+        ],
+      },
+    ],
+    covers: [
+      "Dunshaughlin",
+      "Ratoath",
+      "Ashbourne",
+      "Dunboyne",
+      "Batterstown",
+      "Culmullen",
+      "Drumree",
+      "Kilcloon",
+    ],
+    faqs: [
+      {
+        q: "Is Dunshaughlin contested?",
+        a: "Yes, by its neighbours rather than by firms inside it. Navan, Ashbourne and Ratoath all pull trade from the same households.",
+      },
+      {
+        q: "Should we advertise into Dublin?",
+        a: "Only if you can serve it and want to pay Dublin prices. Most businesses here do better holding the M3 villages.",
+      },
+      {
+        q: "What matters most here?",
+        a: "Response time. The population commutes and the first business to reply usually gets the work.",
+      },
+    ],
+  },
+  {
+    slug: "enfield",
+    name: "Enfield",
+    county: "Meath",
+    countySlug: "meath",
+    title: "Marketing Agency Enfield | Lead Generation in Meath",
+    description:
+      "A marketing agency working with Enfield businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Enfield businesses.",
+    intro: [
+      "Enfield sits on the M4 at the Meath and Kildare boundary, which puts its trading area across two counties and its traffic on a motorway.",
+      "Businesses here routinely serve Kilcock and Johnstownbridge as readily as they serve Trim, and county-based advertising cuts that in half.",
+    ],
+    sections: [
+      {
+        heading: "A market that ignores the county line",
+        body: [
+          "Kilcock is in Kildare, Trim is in Meath, and Enfield trades with both without anyone thinking about it. Setting a campaign to one county removes customers who are nearer than much of your own.",
+          "We set radius by driving time from the town, which here reaches well into Kildare within minutes.",
+        ],
+      },
+      {
+        heading: "Motorway traffic is not the same as a market",
+        body: [
+          "Volume passes through Enfield daily, which helps anything a driver might stop for and does very little for booked services.",
+          "It also means your own customers reach Kilcock or Maynooth easily. Convenience is weaker here than in an isolated town, so the reason to choose you has to be something more than proximity.",
+        ],
+      },
+    ],
+    covers: [
+      "Enfield",
+      "Kilcock",
+      "Johnstownbridge",
+      "Longwood",
+      "Summerhill",
+      "Moyvalley",
+      "Rathmolyon",
+      "Trim",
+    ],
+    faqs: [
+      {
+        q: "Should we advertise into Kildare?",
+        a: "Almost always. Kilcock and Johnstownbridge are closer than much of Meath and customers there do not consider you out of area.",
+      },
+      {
+        q: "Does being on the M4 bring business?",
+        a: "For passing trade yes, for booked work very little. It is worth less than most owners assume.",
+      },
+      {
+        q: "How competitive is Enfield?",
+        a: "Not very. It is small and the larger firms concentrate on Maynooth and Navan.",
+      },
+    ],
+  },
+  {
+    slug: "athboy",
+    name: "Athboy",
+    county: "Meath",
+    countySlug: "meath",
+    title: "Marketing Agency Athboy | Lead Generation in Meath",
+    description:
+      "A marketing agency working with Athboy businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Athboy businesses.",
+    intro: [
+      "Athboy is a small market town in west Meath with an agricultural catchment and no larger town immediately beside it.",
+      "Trim and Navan are both a drive away, which leaves Athboy businesses with a genuine local market if they are findable.",
+    ],
+    sections: [
+      {
+        heading: "The farm catchment is the market",
+        body: [
+          "The villages and farmland around Athboy have no nearer commercial centre. For agricultural suppliers, trades and services, that hinterland is larger than the town itself.",
+          "Campaigns drawn around the town boundary routinely miss most of the people who would consider Athboy their local town.",
+        ],
+      },
+      {
+        heading: "Quiet enough to be cheap",
+        body: [
+          "Larger firms concentrate on Navan and Trim. The auction in Athboy is thin, which makes visibility inexpensive for a business that bothers.",
+          "The limit is volume rather than cost. The strategy is to take most of a small market rather than a fraction of a larger one.",
+        ],
+      },
+    ],
+    covers: [
+      "Athboy",
+      "Trim",
+      "Rathmolyon",
+      "Ballivor",
+      "Delvin",
+      "Clonmellon",
+      "Kildalkey",
+      "Summerhill",
+    ],
+    faqs: [
+      {
+        q: "Is Athboy worth advertising in?",
+        a: "Yes, cheaply. The auction is thin and the rural catchment is larger than the town suggests.",
+      },
+      {
+        q: "Do we compete with Navan?",
+        a: "For bigger-ticket work, often. For routine jobs the drive usually keeps trade local.",
+      },
+      {
+        q: "How wide should the radius be?",
+        a: "Wide. Ballivor, Rathmolyon and Clonmellon are part of the natural catchment and easily missed.",
+      },
+    ],
+  },
+  {
+    slug: "duleek",
+    name: "Duleek",
+    county: "Meath",
+    countySlug: "meath",
+    title: "Marketing Agency Duleek | Lead Generation in Meath",
+    description:
+      "A marketing agency working with Duleek businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Duleek businesses.",
+    intro: [
+      "Duleek sits between Drogheda and Ashbourne on the east Meath side, close enough to both that it loses trade in two directions.",
+      "It has grown as a commuter village without the retail to match, which leaves local businesses competing with habit more than with each other.",
+    ],
+    sections: [
+      {
+        heading: "Two larger towns, both close",
+        body: [
+          "Drogheda is minutes away and Ashbourne not much further. When somebody is already travelling they buy there, and that is the main competitor.",
+          "Short-trip work is where a Duleek business wins. The jobs people do not want to drive for are the ones worth advertising on.",
+        ],
+      },
+      {
+        heading: "New housing, no fixed habits",
+        body: [
+          "A good share of the housing here is recent, and recently arrived households have no established supplier for anything.",
+          "That makes the moving-in window unusually valuable, and it is a moment almost nobody targets deliberately.",
+        ],
+      },
+    ],
+    covers: [
+      "Duleek",
+      "Drogheda",
+      "Donore",
+      "Stamullen",
+      "Julianstown",
+      "Bellewstown",
+      "Ashbourne",
+      "Slane",
+    ],
+    faqs: [
+      {
+        q: "Do we lose work to Drogheda?",
+        a: "Constantly, mostly to habit. Being visible at the moment of searching is what recovers it.",
+      },
+      {
+        q: "Is Duleek big enough on its own?",
+        a: "Rarely. Including Donore, Julianstown and Stamullen makes the catchment workable.",
+      },
+      {
+        q: "Why does new housing matter?",
+        a: "People who have just moved choose everything from scratch, which is the cheapest moment to win a customer.",
+      },
+    ],
+  },
+  {
+    slug: "rathdrum",
+    name: "Rathdrum",
+    county: "Wicklow",
+    countySlug: "wicklow",
+    title: "Marketing Agency Rathdrum | Lead Generation in Wicklow",
+    description:
+      "A marketing agency working with Rathdrum businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Rathdrum businesses.",
+    intro: [
+      "Rathdrum sits inland in south Wicklow, surrounded by hills and valleys that make driving distances longer than the map suggests.",
+      "That terrain keeps trade local in a way flat geography does not, which is the single most useful commercial fact about the town.",
+    ],
+    sections: [
+      {
+        heading: "The hills do the work",
+        body: [
+          "Distances here are measured in time, not kilometres. A journey that looks short on a map can take twenty minutes, and people factor that in without thinking.",
+          "A business in Rathdrum is therefore protected from larger towns more than its distance suggests, provided people can find it at all.",
+        ],
+      },
+      {
+        heading: "Tourism is seasonal and narrow",
+        body: [
+          "Glendalough and the valley bring visitors, but mostly for hospitality and outdoor services. For trades and home services it is background rather than a market.",
+          "Building a plan around visitor traffic when you serve residents is a common and expensive error in this part of Wicklow.",
+        ],
+      },
+    ],
+    covers: [
+      "Rathdrum",
+      "Avoca",
+      "Laragh",
+      "Glenealy",
+      "Aughrim",
+      "Annamoe",
+      "Ballinaclash",
+      "Greenane",
+    ],
+    faqs: [
+      {
+        q: "Does Glendalough tourism help us?",
+        a: "Only for hospitality and outdoor services. For most trades it brings nothing worth planning around.",
+      },
+      {
+        q: "Are we competing with Wicklow Town?",
+        a: "Less than the distance suggests. The terrain keeps a lot of routine work local.",
+      },
+      {
+        q: "Is the market big enough?",
+        a: "Small but defensible. The surrounding valleys have no nearer alternative, which is what makes it viable.",
+      },
+    ],
+  },
+  {
+    slug: "newtownmountkennedy",
+    name: "Newtownmountkennedy",
+    county: "Wicklow",
+    countySlug: "wicklow",
+    title: "Marketing Agency Newtownmountkennedy | Lead Generation in Wicklow",
+    description:
+      "A marketing agency working with Newtownmountkennedy businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Newtownmountkennedy businesses.",
+    intro: [
+      "Newtownmountkennedy sits on the N11 between Greystones and Wicklow Town, in the band where Dublin's pull is fading but has not gone.",
+      "It has grown substantially, and the commercial infrastructure has not kept pace with the housing.",
+    ],
+    sections: [
+      {
+        heading: "On the edge of the Dublin auction",
+        body: [
+          "North of here, Dublin firms bid routinely. South of here they largely do not. Newtownmountkennedy sits on that line, which makes it cheaper than Greystones and more contested than Wicklow Town.",
+          "Knowing which side of the line you are selling into matters more than the budget, because it decides who you are actually bidding against.",
+        ],
+      },
+      {
+        heading: "Fast growth, thin local trade",
+        body: [
+          "New estates have arrived faster than shops and services. A lot of routine spending leaves for Greystones or Wicklow because there is no local option people know of.",
+          "If you are that local option, the work is almost entirely about being findable. The demand is already here.",
+        ],
+      },
+    ],
+    covers: [
+      "Newtownmountkennedy",
+      "Kilcoole",
+      "Greystones",
+      "Delgany",
+      "Ashford",
+      "Roundwood",
+      "Kilpedder",
+      "Wicklow Town",
+    ],
+    faqs: [
+      {
+        q: "Are we in the Dublin auction here?",
+        a: "Partly. The town sits on the edge of it, which makes it cheaper than Greystones but not as cheap as the south of the county.",
+      },
+      {
+        q: "Where does local spending go?",
+        a: "Mostly to Greystones and Wicklow Town, largely because people do not know what is available locally.",
+      },
+      {
+        q: "Should we target Greystones?",
+        a: "Only with a reason. It is more expensive and more contested, and holding your own patch usually pays better first.",
+      },
+    ],
+  },
+  {
+    slug: "baltinglass",
+    name: "Baltinglass",
+    county: "Wicklow",
+    countySlug: "wicklow",
+    title: "Marketing Agency Baltinglass | Lead Generation in Wicklow",
+    description:
+      "A marketing agency working with Baltinglass businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Baltinglass businesses.",
+    intro: [
+      "Baltinglass is a west Wicklow market town serving a wide agricultural area that reaches into Kildare and Carlow.",
+      "It is about as far from Dublin's influence as Leinster gets, which makes it one of the cheapest places in the province to be visible.",
+    ],
+    sections: [
+      {
+        heading: "A three-county catchment",
+        body: [
+          "The trading area takes in parts of Kildare and Carlow as readily as Wicklow. Castledermot, Hacketstown and Donard all look this way.",
+          "Setting a campaign to County Wicklow alone removes a substantial share of the real market for no reason other than administrative tidiness.",
+        ],
+      },
+      {
+        heading: "No Dublin competition at all",
+        body: [
+          "Dublin firms do not advertise here in any meaningful way. The competition is local and the auction is close to empty.",
+          "That makes page one genuinely cheap. The constraint is the size of the market, which is modest, and the answer is to take most of it.",
+        ],
+      },
+    ],
+    covers: [
+      "Baltinglass",
+      "Donard",
+      "Hacketstown",
+      "Stratford",
+      "Grangecon",
+      "Castledermot",
+      "Dunlavin",
+      "Tullow",
+    ],
+    faqs: [
+      {
+        q: "Is Baltinglass too remote to advertise in?",
+        a: "No. It is one of the cheapest markets in Leinster precisely because larger firms ignore it.",
+      },
+      {
+        q: "Should we advertise into Kildare and Carlow?",
+        a: "Usually yes. The catchment crosses both and customers there are nearer than much of Wicklow.",
+      },
+      {
+        q: "What volume should we expect?",
+        a: "Modest. The aim is a high share of a small market, not a small share of a big one.",
+      },
+    ],
+  },
+  {
+    slug: "moate",
+    name: "Moate",
+    county: "Westmeath",
+    countySlug: "westmeath",
+    title: "Marketing Agency Moate | Lead Generation in Westmeath",
+    description:
+      "A marketing agency working with Moate businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Moate businesses.",
+    intro: [
+      "Moate sits on the old Dublin to Galway road between Athlone and Mullingar, close enough to both that it loses trade in both directions.",
+      "What it keeps is the work people will not drive for, and that is a larger share of local business than most owners credit.",
+    ],
+    sections: [
+      {
+        heading: "Between Athlone and Mullingar",
+        body: [
+          "Both are larger, both are close, and both take trade whenever somebody is already travelling. That is the competitive position and it does not change.",
+          "The winnable work is everything with a short decision cycle: the jobs where a thirty-minute drive is not worth it. For most trades that is the bulk of the diary.",
+        ],
+      },
+      {
+        heading: "A rural catchment that reaches into Offaly",
+        body: [
+          "The villages south and west of Moate look to the town, and some of them are in Offaly. The county boundary is not a commercial boundary here.",
+          "A radius set by driving time rather than by county picks up customers that a Westmeath-only campaign silently excludes.",
+        ],
+      },
+    ],
+    covers: [
+      "Moate",
+      "Athlone",
+      "Horseleap",
+      "Clara",
+      "Kilbeggan",
+      "Ballymore",
+      "Tubber",
+      "Rosemount",
+    ],
+    faqs: [
+      {
+        q: "Do we lose business to Athlone?",
+        a: "For larger purchases, often. For routine work the drive usually keeps trade in Moate.",
+      },
+      {
+        q: "Should we advertise into Offaly?",
+        a: "Where the villages are nearer to you than much of Westmeath, yes. Clara and the southern side are part of the same catchment.",
+      },
+      {
+        q: "Is it expensive to advertise here?",
+        a: "No. The midlands auction is thin and visibility costs little.",
+      },
+    ],
+  },
+  {
+    slug: "kinnegad",
+    name: "Kinnegad",
+    county: "Westmeath",
+    countySlug: "westmeath",
+    title: "Marketing Agency Kinnegad | Lead Generation in Westmeath",
+    description:
+      "A marketing agency working with Kinnegad businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Kinnegad businesses.",
+    intro: [
+      "Kinnegad sits where the M4 and M6 part company, which gives it heavy passing traffic and a position between Mullingar, Enfield and Edenderry.",
+      "It trades across the Westmeath, Meath and Offaly boundaries, and campaigns built around one county miss most of that.",
+    ],
+    sections: [
+      {
+        heading: "Three counties, one small town",
+        body: [
+          "Enfield is in Meath, Edenderry is in Offaly, and Kinnegad sits between them. People move between all three without regard for the boundaries.",
+          "This is a town where county-based targeting is actively wrong. Driving time is the only sensible unit.",
+        ],
+      },
+      {
+        heading: "Passing traffic is a separate business",
+        body: [
+          "The motorway junction brings volume that suits food, fuel and anything a driver stops for, and is irrelevant to booked services.",
+          "Knowing which of those two businesses you are in decides whether the traffic is an asset or a distraction.",
+        ],
+      },
+    ],
+    covers: [
+      "Kinnegad",
+      "Enfield",
+      "Rochfortbridge",
+      "Edenderry",
+      "Milltownpass",
+      "Raharney",
+      "Killucan",
+      "Mullingar",
+    ],
+    faqs: [
+      {
+        q: "Does the motorway traffic help?",
+        a: "Only if you sell something a passing driver stops for. For booked work it is close to irrelevant.",
+      },
+      {
+        q: "Which counties should we target?",
+        a: "All three, set by driving time. Meath and Offaly villages are nearer than much of Westmeath.",
+      },
+      {
+        q: "Is Kinnegad competitive?",
+        a: "Not very. It is small and larger firms focus on Mullingar and Enfield.",
+      },
+    ],
+  },
+  {
+    slug: "castlepollard",
+    name: "Castlepollard",
+    county: "Westmeath",
+    countySlug: "westmeath",
+    title: "Marketing Agency Castlepollard | Lead Generation in Westmeath",
+    description:
+      "A marketing agency working with Castlepollard businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Castlepollard businesses.",
+    intro: [
+      "Castlepollard serves north Westmeath and the lakes, a wide and thinly populated area with Mullingar as its nearest town of any size.",
+      "Distance is the main commercial fact here, and it works in favour of any local business that can be found.",
+    ],
+    sections: [
+      {
+        heading: "Distance keeps trade at home",
+        body: [
+          "Mullingar is far enough that people do not casually drive there for routine services. For a business in Castlepollard that is genuine protection.",
+          "The task is visibility rather than persuasion. Once people know a local option exists, the distance argues for itself.",
+        ],
+      },
+      {
+        heading: "Lakes bring seasonal visitors",
+        body: [
+          "Lough Derravaragh and the surrounding lakes bring angling and holiday traffic through the warmer months, which matters for hospitality and very little for anything else.",
+          "For most trades the market is the resident population and the farms, and that is steady through the year rather than seasonal.",
+        ],
+      },
+    ],
+    covers: [
+      "Castlepollard",
+      "Collinstown",
+      "Fore",
+      "Delvin",
+      "Multyfarnham",
+      "Finea",
+      "Coole",
+      "Oldcastle",
+    ],
+    faqs: [
+      {
+        q: "Is the population big enough?",
+        a: "Small, but the catchment has no nearer alternative, which makes it defensible.",
+      },
+      {
+        q: "Do the lakes bring business?",
+        a: "Seasonally and mainly for hospitality. Not something most trades should plan around.",
+      },
+      {
+        q: "How far do customers travel?",
+        a: "Further than in a commuter town. Rural customers accept a drive as normal.",
+      },
+    ],
+  },
+  {
+    slug: "tullamore",
+    name: "Tullamore",
+    county: "Offaly",
+    countySlug: "offaly",
+    title: "Marketing Agency Tullamore | Lead Generation in Offaly",
+    description:
+      "A marketing agency working with Tullamore businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Tullamore businesses.",
+    intro: [
+      "Tullamore is the county town of Offaly and the commercial centre of a large midlands catchment with no rival of similar size nearby.",
+      "That makes it unusually self-contained: the trade it draws is genuinely its own rather than borrowed from a bigger neighbour.",
+    ],
+    sections: [
+      {
+        heading: "A county town with no close rival",
+        body: [
+          "Athlone and Portlaoise are both a real drive away, which leaves Tullamore serving its catchment without constant leakage. Few midlands towns are in that position.",
+          "For a business here the market is larger and more reliable than the population alone suggests, because the surrounding area has nowhere else convenient to go.",
+        ],
+      },
+      {
+        heading: "Cheap to compete in",
+        body: [
+          "Dublin firms do not advertise into Offaly in any meaningful volume. The competition is local and the cost of visibility is low.",
+          "Positions that would be unreachable in Kildare are straightforward here, which changes what a modest budget can achieve.",
+        ],
+      },
+    ],
+    covers: [
+      "Tullamore",
+      "Clara",
+      "Daingean",
+      "Killeigh",
+      "Rahan",
+      "Blueball",
+      "Kilcormac",
+      "Geashill",
+    ],
+    faqs: [
+      {
+        q: "Is Tullamore competitive?",
+        a: "Locally yes, but the auction is thin compared with the commuter counties and Dublin firms largely ignore it.",
+      },
+      {
+        q: "How wide is the catchment?",
+        a: "Wide. There is no similar-sized town close by, so the surrounding area looks to Tullamore by default.",
+      },
+      {
+        q: "What can a small budget achieve here?",
+        a: "More than in Kildare or Dublin. Low competition means visibility costs considerably less.",
+      },
+    ],
+  },
+  {
+    slug: "birr",
+    name: "Birr",
+    county: "Offaly",
+    countySlug: "offaly",
+    title: "Marketing Agency Birr | Lead Generation in Offaly",
+    description:
+      "A marketing agency working with Birr businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Birr businesses.",
+    intro: [
+      "Birr sits in south Offaly near the Tipperary and Galway boundaries, serving a wide rural area and drawing some heritage tourism.",
+      "It is far from every larger town, which gives local businesses a catchment that is theirs to lose.",
+    ],
+    sections: [
+      {
+        heading: "Isolation is an advantage",
+        body: [
+          "Tullamore, Portumna and Roscrea are all a distance away. Nobody is casually driving out of Birr for routine services.",
+          "That means a findable local business keeps its customers. The competitive pressure here is low by the standards of anywhere in Leinster.",
+        ],
+      },
+      {
+        heading: "A catchment across three counties",
+        body: [
+          "The trading area reaches into Tipperary and Galway. Banagher, Kinnitty and the villages towards Roscrea all look to Birr.",
+          "County-based targeting removes a real part of that market, which is why driving time is the better unit here as everywhere rural.",
+        ],
+      },
+    ],
+    covers: [
+      "Birr",
+      "Banagher",
+      "Kinnitty",
+      "Crinkill",
+      "Riverstown",
+      "Roscrea",
+      "Shinrone",
+      "Cloghan",
+    ],
+    faqs: [
+      {
+        q: "Is Birr too far out to be worth advertising in?",
+        a: "No. The isolation that makes it feel remote also means local businesses keep their customers.",
+      },
+      {
+        q: "Should we target Tipperary and Galway?",
+        a: "Where villages there are nearer to you than much of Offaly, yes. The catchment crosses both.",
+      },
+      {
+        q: "Does the heritage tourism matter?",
+        a: "For hospitality somewhat. For trades and services it is not a market.",
+      },
+    ],
+  },
+  {
+    slug: "edenderry",
+    name: "Edenderry",
+    county: "Offaly",
+    countySlug: "offaly",
+    title: "Marketing Agency Edenderry | Lead Generation in Offaly",
+    description:
+      "A marketing agency working with Edenderry businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Edenderry businesses.",
+    intro: [
+      "Edenderry sits in north Offaly on the Kildare boundary, with the Grand Canal through it and a catchment that reaches well into Kildare.",
+      "It has grown as a commuter town without the local trade to match, which leaves spending leaking towards Kildare and Dublin.",
+    ],
+    sections: [
+      {
+        heading: "More Kildare than Offaly, commercially",
+        body: [
+          "Rathangan, Carbury and Derrinturn are closer to Edenderry than most of Offaly is. The county boundary means nothing to the people living along it.",
+          "Advertising to Offaly alone removes a large share of a business's real market here, and it is among the most common mistakes in the town.",
+        ],
+      },
+      {
+        heading: "A commuter population with Dublin hours",
+        body: [
+          "A significant share of Edenderry works towards Dublin, which puts decisions in the evening and at weekends.",
+          "That makes availability outside working hours worth more than extra budget. Enquiries arrive when the business is usually closed.",
+        ],
+      },
+    ],
+    covers: [
+      "Edenderry",
+      "Rathangan",
+      "Carbury",
+      "Derrinturn",
+      "Daingean",
+      "Rhode",
+      "Clonbullogue",
+      "Johnstownbridge",
+    ],
+    faqs: [
+      {
+        q: "Should we advertise into Kildare?",
+        a: "Almost certainly. Carbury, Derrinturn and Rathangan are nearer than much of Offaly.",
+      },
+      {
+        q: "When do enquiries arrive?",
+        a: "Evenings and weekends, because the town commutes. Responding then matters more than spending more.",
+      },
+      {
+        q: "Is Edenderry contested?",
+        a: "Mildly. It is on the edge of the Kildare auction but nowhere near Naas prices.",
+      },
+    ],
+  },
+  {
+    slug: "portlaoise",
+    name: "Portlaoise",
+    county: "Laois",
+    countySlug: "laois",
+    title: "Marketing Agency Portlaoise | Lead Generation in Laois",
+    description:
+      "A marketing agency working with Portlaoise businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Portlaoise businesses.",
+    intro: [
+      "Portlaoise is the county town of Laois and sits on the M7 at the point where midlands and south-east traffic converges.",
+      "It has grown faster than almost any town of its size in Ireland, and the local trade has not fully caught up with the population.",
+    ],
+    sections: [
+      {
+        heading: "Fast growth, unsettled habits",
+        body: [
+          "A large share of the housing here is recent and a large share of the population arrived in the last fifteen years. Those households have fewer fixed suppliers than an established town would.",
+          "That makes Portlaoise unusually winnable for a business that is visible. People are still choosing, rather than returning to somebody their family always used.",
+        ],
+      },
+      {
+        heading: "Motorway position without motorway competition",
+        body: [
+          "The M7 makes Portlaoise easy to reach from Dublin, but Dublin firms do not advertise into Laois in the way they advertise into Kildare.",
+          "The result is a decent-sized market at midlands prices, which is a better combination than most towns on the corridor offer.",
+        ],
+      },
+    ],
+    covers: [
+      "Portlaoise",
+      "Mountmellick",
+      "Stradbally",
+      "Abbeyleix",
+      "Mountrath",
+      "Ballyroan",
+      "Emo",
+      "Portarlington",
+    ],
+    faqs: [
+      {
+        q: "Is Portlaoise competitive?",
+        a: "Locally yes, but Dublin firms largely ignore Laois, so the auction stays affordable.",
+      },
+      {
+        q: "Why does the growth matter?",
+        a: "Newer households have not settled on suppliers yet, which makes them far easier to win than in an established town.",
+      },
+      {
+        q: "How wide should we target?",
+        a: "The town plus Mountmellick, Stradbally and Abbeyleix covers most of the realistic catchment.",
+      },
+    ],
+  },
+  {
+    slug: "mountmellick",
+    name: "Mountmellick",
+    county: "Laois",
+    countySlug: "laois",
+    title: "Marketing Agency Mountmellick | Lead Generation in Laois",
+    description:
+      "A marketing agency working with Mountmellick businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Mountmellick businesses.",
+    intro: [
+      "Mountmellick is a small Laois town close enough to Portlaoise and Portarlington to lose trade to both, with a rural catchment of its own behind it.",
+      "The businesses that hold their ground here are the ones people can find without thinking about it.",
+    ],
+    sections: [
+      {
+        heading: "Portlaoise is the competitor",
+        body: [
+          "Portlaoise is minutes away and has most things. When somebody is already going there, they buy there, and that is the competition rather than any local rival.",
+          "The defensible work is the short-notice and routine jobs where a drive is not worth the trouble.",
+        ],
+      },
+      {
+        heading: "A rural hinterland worth including",
+        body: [
+          "The villages north and west of the town have no nearer option. Clonaslee, Rosenallis and the Slieve Bloom side all look to Mountmellick.",
+          "That hinterland is often left out of campaigns set tightly around the town, and it is where the least contested customers are.",
+        ],
+      },
+    ],
+    covers: [
+      "Mountmellick",
+      "Portlaoise",
+      "Rosenallis",
+      "Clonaslee",
+      "Portarlington",
+      "Emo",
+      "Ballyfin",
+      "Mountrath",
+    ],
+    faqs: [
+      {
+        q: "Do we lose work to Portlaoise?",
+        a: "Regularly, mostly because people are going there anyway. Short-notice work is what stays local.",
+      },
+      {
+        q: "Is the rural catchment worth targeting?",
+        a: "Yes, and it is usually the cheapest part of the market because nobody else bothers with it.",
+      },
+      {
+        q: "Is Mountmellick big enough alone?",
+        a: "Marginal. With the surrounding villages included it works for most trades.",
+      },
+    ],
+  },
+  {
+    slug: "abbeyleix",
+    name: "Abbeyleix",
+    county: "Laois",
+    countySlug: "laois",
+    title: "Marketing Agency Abbeyleix | Lead Generation in Laois",
+    description:
+      "A marketing agency working with Abbeyleix businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Abbeyleix businesses.",
+    intro: [
+      "Abbeyleix is a small heritage town on the old Dublin to Cork road, bypassed by the motorway and serving a quiet rural catchment in south Laois.",
+      "The bypass took the passing traffic and left the local market, which for most businesses is the part that was worth having.",
+    ],
+    sections: [
+      {
+        heading: "Life after the bypass",
+        body: [
+          "Towns that lose a main road lose impulse trade and keep deliberate trade. For a business selling booked services rather than coffee, that is not much of a loss.",
+          "What it does mean is that being found online matters more than being seen from a car, because almost nobody drives through by accident now.",
+        ],
+      },
+      {
+        heading: "A small, uncontested market",
+        body: [
+          "Portlaoise is the nearest town of size and it is a real drive. South Laois has few alternatives and very little advertising competition.",
+          "Visibility here costs very little. The ceiling is the size of the catchment rather than the price of reaching it.",
+        ],
+      },
+    ],
+    covers: [
+      "Abbeyleix",
+      "Durrow",
+      "Ballinakill",
+      "Rathdowney",
+      "Ballacolla",
+      "Mountrath",
+      "Portlaoise",
+      "Castlecomer",
+    ],
+    faqs: [
+      {
+        q: "Did the bypass hurt local business?",
+        a: "For impulse trade yes. For booked services it mainly means online visibility replaced passing visibility.",
+      },
+      {
+        q: "Is the market big enough?",
+        a: "Small but quiet. Low competition offsets low volume for most trades.",
+      },
+      {
+        q: "Should we target Portlaoise?",
+        a: "Only if you genuinely serve it. Competing there costs more than holding south Laois.",
+      },
+    ],
+  },
+  {
+    slug: "carlow-town",
+    name: "Carlow Town",
+    county: "Carlow",
+    countySlug: "carlow",
+    title: "Marketing Agency Carlow Town | Lead Generation in Carlow",
+    description:
+      "A marketing agency working with Carlow Town businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Carlow Town businesses.",
+    intro: [
+      "Carlow Town is the commercial centre for its county and a good deal of the surrounding area, with a student population and a catchment reaching into Laois, Kildare and Kilkenny.",
+      "It is the largest town in the south-east outside Waterford and Kilkenny, and it trades like it.",
+    ],
+    sections: [
+      {
+        heading: "A catchment across four counties",
+        body: [
+          "Carlow draws from Laois, Kildare and Kilkenny as well as its own county. Athy, Castledermot, Bagenalstown and Tullow all look this way for things their own towns do not have.",
+          "Targeting County Carlow alone removes a substantial share of that. Driving time picks it up; the county boundary does not.",
+        ],
+      },
+      {
+        heading: "Affordable for its size",
+        body: [
+          "Carlow is a decent-sized market without the advertising competition that a comparable Dublin-belt town would carry. Dublin firms do not bid here in volume.",
+          "That combination of reasonable volume and thin competition is rare, and it is the main reason the economics work well in the south-east.",
+        ],
+      },
+    ],
+    covers: [
+      "Carlow Town",
+      "Tullow",
+      "Bagenalstown",
+      "Leighlinbridge",
+      "Athy",
+      "Castledermot",
+      "Graiguecullen",
+      "Tinryland",
+    ],
+    faqs: [
+      {
+        q: "How far does Carlow's catchment reach?",
+        a: "Into four counties. Athy, Castledermot and Bagenalstown are all part of the practical market.",
+      },
+      {
+        q: "Is it expensive to advertise in?",
+        a: "No. It has the volume of a mid-sized town with far less competition than the commuter belt.",
+      },
+      {
+        q: "Does the student population matter?",
+        a: "For hospitality and retail, somewhat. For home and trade services, very little.",
+      },
+    ],
+  },
+  {
+    slug: "tullow",
+    name: "Tullow",
+    county: "Carlow",
+    countySlug: "carlow",
+    title: "Marketing Agency Tullow | Lead Generation in Carlow",
+    description:
+      "A marketing agency working with Tullow businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Tullow businesses.",
+    intro: [
+      "Tullow sits in east Carlow on the Slaney, between Carlow Town and the Wicklow hills, serving a farming catchment with no close rival.",
+      "Carlow is near enough to take the larger purchases and far enough to leave routine work alone.",
+    ],
+    sections: [
+      {
+        heading: "Carlow takes the big jobs",
+        body: [
+          "For anything people will plan a trip around, Carlow Town usually wins. That is not worth fighting and it is not where a Tullow business makes its living.",
+          "The routine and short-notice work stays local, and that is the market worth advertising into.",
+        ],
+      },
+      {
+        heading: "A catchment reaching into Wicklow",
+        body: [
+          "Hacketstown, Shillelagh and the villages towards Baltinglass look to Tullow as readily as to anywhere in Wicklow.",
+          "A campaign stopping at the county boundary gives away a quiet, uncontested part of the market for no good reason.",
+        ],
+      },
+    ],
+    covers: [
+      "Tullow",
+      "Hacketstown",
+      "Rathvilly",
+      "Ardattin",
+      "Clonegal",
+      "Shillelagh",
+      "Bagenalstown",
+      "Carlow Town",
+    ],
+    faqs: [
+      {
+        q: "Do we lose work to Carlow Town?",
+        a: "For larger purchases yes. Routine and urgent work generally stays in Tullow.",
+      },
+      {
+        q: "Should we advertise into Wicklow?",
+        a: "Where the villages are nearer to you than much of Carlow, yes. Hacketstown and Shillelagh are part of the catchment.",
+      },
+      {
+        q: "Is Tullow cheap to advertise in?",
+        a: "Very. There is almost no competition for local terms here.",
+      },
+    ],
+  },
+  {
+    slug: "bagenalstown",
+    name: "Bagenalstown",
+    county: "Carlow",
+    countySlug: "carlow",
+    title: "Marketing Agency Bagenalstown | Lead Generation in Carlow",
+    description:
+      "A marketing agency working with Bagenalstown businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Bagenalstown businesses.",
+    intro: [
+      "Bagenalstown, or Muine Bheag, sits on the Barrow south of Carlow Town, a small market town with a rail line and an agricultural hinterland.",
+      "It is close enough to Carlow to lose trade and far enough to keep the everyday work.",
+    ],
+    sections: [
+      {
+        heading: "Everyday trade stays, big trade goes",
+        body: [
+          "The split here is predictable. People drive to Carlow for anything they would make a trip for and buy locally for everything else.",
+          "A business that accepts that split and advertises into the local half does better than one spending to compete with Carlow on its own ground.",
+        ],
+      },
+      {
+        heading: "The Barrow villages have nowhere nearer",
+        body: [
+          "Goresbridge, Leighlinbridge and the farmland along the river look to Bagenalstown. That catchment is small, quiet and effectively uncontested.",
+          "It is also routinely left out of campaigns drawn tightly around the town itself, which is where the cheapest customers usually are.",
+        ],
+      },
+    ],
+    covers: [
+      "Bagenalstown",
+      "Leighlinbridge",
+      "Goresbridge",
+      "Borris",
+      "Fenagh",
+      "Myshall",
+      "Carlow Town",
+      "Graiguenamanagh",
+    ],
+    faqs: [
+      {
+        q: "Is Bagenalstown too small?",
+        a: "On its own it is thin. With the Barrow villages included it works for most trades.",
+      },
+      {
+        q: "Do we compete with Carlow Town?",
+        a: "For larger jobs. Day-to-day work generally stays local.",
+      },
+      {
+        q: "How competitive is the advertising here?",
+        a: "Barely at all. Local terms are cheap because nobody is bidding on them.",
+      },
+    ],
+  },
+  {
+    slug: "kilkenny-city",
+    name: "Kilkenny City",
+    county: "Kilkenny",
+    countySlug: "kilkenny",
+    title: "Marketing Agency Kilkenny City | Lead Generation in Kilkenny",
+    description:
+      "A marketing agency working with Kilkenny City businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Kilkenny City businesses.",
+    intro: [
+      "Kilkenny is the commercial and tourist centre of the south-east, with a trading catchment reaching into Carlow, Laois, Tipperary and Waterford.",
+      "It has genuine year-round tourism alongside a substantial local economy, which gives businesses here two distinct markets.",
+    ],
+    sections: [
+      {
+        heading: "Two markets in one city",
+        body: [
+          "Visitors and residents behave nothing alike. Tourists decide quickly, never return, and search differently. Residents are the repeat trade that keeps a business going.",
+          "Hospitality and retail need both and should advertise to each separately. Trades and home services should usually ignore the visitor market entirely.",
+        ],
+      },
+      {
+        heading: "The regional centre for four counties",
+        body: [
+          "Thomastown, Callan, Castlecomer and much of south Carlow look to Kilkenny for anything their own towns lack.",
+          "That catchment is large by south-east standards and nothing like as contested as a Dublin-belt market of comparable size.",
+        ],
+      },
+    ],
+    covers: [
+      "Kilkenny City",
+      "Thomastown",
+      "Callan",
+      "Castlecomer",
+      "Bennettsbridge",
+      "Gowran",
+      "Freshford",
+      "Graiguenamanagh",
+    ],
+    faqs: [
+      {
+        q: "Should we target tourists?",
+        a: "Only if you sell to them. For most trades and home services the visitor market is a distraction.",
+      },
+      {
+        q: "How large is the catchment?",
+        a: "Large. Kilkenny serves a good part of four counties as the nearest centre of size.",
+      },
+      {
+        q: "Is it expensive to advertise here?",
+        a: "Moderate. More than rural Carlow, far less than anywhere in the Dublin belt.",
+      },
+    ],
+  },
+  {
+    slug: "thomastown",
+    name: "Thomastown",
+    county: "Kilkenny",
+    countySlug: "kilkenny",
+    title: "Marketing Agency Thomastown | Lead Generation in Kilkenny",
+    description:
+      "A marketing agency working with Thomastown businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Thomastown businesses.",
+    intro: [
+      "Thomastown sits on the Nore south of Kilkenny, a small town with a rail link, a craft and food reputation, and a rural catchment behind it.",
+      "Kilkenny is close enough to dominate the larger purchases and far enough to leave the routine trade alone.",
+    ],
+    sections: [
+      {
+        heading: "In Kilkenny's shadow, usefully",
+        body: [
+          "Being half an hour from a regional centre is not all loss. Thomastown keeps the everyday work and borrows some of Kilkenny's visitor traffic without its costs.",
+          "The error is trying to compete with Kilkenny on its own terms. The local half of the market is both cheaper and more defensible.",
+        ],
+      },
+      {
+        heading: "A visitor economy on a small scale",
+        body: [
+          "The craft, food and hospitality trade here draws people deliberately rather than by accident, which makes it a genuine market for the businesses in it.",
+          "For everyone else it is background, and campaigns built around it waste money that should go to the resident catchment.",
+        ],
+      },
+    ],
+    covers: [
+      "Thomastown",
+      "Inistioge",
+      "Bennettsbridge",
+      "Stoneyford",
+      "Graiguenamanagh",
+      "Kilkenny City",
+      "Gowran",
+      "Mullinavat",
+    ],
+    faqs: [
+      {
+        q: "Do we compete with Kilkenny?",
+        a: "For larger purchases. Routine work mostly stays in Thomastown.",
+      },
+      {
+        q: "Is the visitor trade worth targeting?",
+        a: "Only if you sell to visitors. For most trades it is not a market.",
+      },
+      {
+        q: "Is the catchment big enough?",
+        a: "Small but quiet. Low competition makes it viable for most local businesses.",
+      },
+    ],
+  },
+  {
+    slug: "wexford-town",
+    name: "Wexford Town",
+    county: "Wexford",
+    countySlug: "wexford",
+    title: "Marketing Agency Wexford Town | Lead Generation in Wexford",
+    description:
+      "A marketing agency working with Wexford Town businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Wexford Town businesses.",
+    intro: [
+      "Wexford Town is the county's commercial centre, with a harbour, a genuine tourist season and a catchment covering most of the south of the county.",
+      "It is far enough from Dublin that the capital's firms are simply not part of the competitive picture.",
+    ],
+    sections: [
+      {
+        heading: "No Dublin competition to speak of",
+        body: [
+          "The Dublin auction does not reach Wexford. Competition here is local and regional, which keeps the cost of visibility low for a market of this size.",
+          "For a business with a modest budget, that combination is considerably more favourable than anywhere in the commuter counties.",
+        ],
+      },
+      {
+        heading: "A real season, and a real off-season",
+        body: [
+          "Summer brings visitors in volume and winter does not. Hospitality, retail and anything coastal live with swings that a flat annual budget handles badly.",
+          "For trades and home services the resident market is steady year-round, and seasonality is mostly somebody else's problem.",
+        ],
+      },
+    ],
+    covers: [
+      "Wexford Town",
+      "Rosslare",
+      "Castlebridge",
+      "Murrintown",
+      "Piercestown",
+      "Barntown",
+      "Curracloe",
+      "Taghmon",
+    ],
+    faqs: [
+      {
+        q: "Is Wexford cheap to advertise in?",
+        a: "Relatively, yes. Dublin firms do not bid here, so competition is local.",
+      },
+      {
+        q: "How much does the tourist season matter?",
+        a: "A great deal for hospitality and coastal businesses, very little for trades and home services.",
+      },
+      {
+        q: "How far does the catchment reach?",
+        a: "Most of south Wexford. The town is the nearest centre of size for a wide area.",
+      },
+    ],
+  },
+  {
+    slug: "gorey",
+    name: "Gorey",
+    county: "Wexford",
+    countySlug: "wexford",
+    title: "Marketing Agency Gorey | Lead Generation in Wexford",
+    description:
+      "A marketing agency working with Gorey businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Gorey businesses.",
+    intro: [
+      "Gorey is north Wexford's commercial centre and the point where Dublin's commuter belt finally runs out, with the M11 putting the city within reach.",
+      "It has grown quickly as a result, and it trades across the Wicklow boundary as much as within its own county.",
+    ],
+    sections: [
+      {
+        heading: "The last of the commuter belt",
+        body: [
+          "Gorey is far enough that Dublin firms rarely bid here and close enough that a share of the population works towards the city.",
+          "That gives it commuter incomes without commuter advertising costs, which is an unusually favourable position for a local business.",
+        ],
+      },
+      {
+        heading: "Trading into Wicklow",
+        body: [
+          "Arklow is close, and people move between the two routinely. A campaign stopping at the county line gives away part of a market that is already yours.",
+          "Whether to push further north depends on how well served Arklow already is, which is worth checking rather than assuming.",
+        ],
+      },
+    ],
+    covers: [
+      "Gorey",
+      "Arklow",
+      "Courtown",
+      "Ferns",
+      "Camolin",
+      "Craanford",
+      "Castletown",
+      "Inch",
+    ],
+    faqs: [
+      {
+        q: "Are we in the Dublin auction here?",
+        a: "Barely. Gorey is beyond where Dublin firms bid in any volume, which keeps costs down.",
+      },
+      {
+        q: "Should we advertise into Wicklow?",
+        a: "Often worth it. Arklow is close and people cross the boundary without thinking about it.",
+      },
+      {
+        q: "Does Courtown's season matter?",
+        a: "For hospitality and coastal trades yes, strongly. For other businesses it is background.",
+      },
+    ],
+  },
+  {
+    slug: "enniscorthy",
+    name: "Enniscorthy",
+    county: "Wexford",
+    countySlug: "wexford",
+    title: "Marketing Agency Enniscorthy | Lead Generation in Wexford",
+    description:
+      "A marketing agency working with Enniscorthy businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Enniscorthy businesses.",
+    intro: [
+      "Enniscorthy sits on the Slaney in the middle of County Wexford, serving a wide agricultural catchment with Wexford Town and Gorey at either end of it.",
+      "It is the county's inland centre and its market is farming and small industry rather than tourism.",
+    ],
+    sections: [
+      {
+        heading: "The inland county, not the coast",
+        body: [
+          "Wexford's advertising conversation tends to be about beaches and summer. Enniscorthy's market is agricultural and steady, and it behaves nothing like the coastal towns.",
+          "For most businesses here that is an advantage: demand does not collapse in October the way it does in Courtown or Rosslare.",
+        ],
+      },
+      {
+        heading: "Between two larger towns, serving the middle",
+        body: [
+          "Wexford Town is south, Gorey is north, and both take some trade. The villages in between have no nearer option than Enniscorthy.",
+          "That middle band is the defensible market and it is where a campaign should concentrate before considering either neighbour.",
+        ],
+      },
+    ],
+    covers: [
+      "Enniscorthy",
+      "Ferns",
+      "Bunclody",
+      "Oulart",
+      "Kiltealy",
+      "Clonroche",
+      "Davidstown",
+      "Monageer",
+    ],
+    faqs: [
+      {
+        q: "Is Enniscorthy seasonal?",
+        a: "Far less than the coastal towns. The market is agricultural and steady through the year.",
+      },
+      {
+        q: "Do we compete with Wexford Town?",
+        a: "For larger purchases somewhat. The villages between the two have no nearer option than Enniscorthy.",
+      },
+      {
+        q: "Is it cheap to advertise here?",
+        a: "Yes. Competition is local and thin, as across most of the south-east.",
+      },
+    ],
+  },
 ];
 
 export const townBySlug = (slug: string) => towns.find((t) => t.slug === slug);
