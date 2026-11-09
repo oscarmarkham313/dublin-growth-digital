@@ -55,6 +55,27 @@ Each town carries four viable targets: `marketing agency <town>`,
 | Carlow Town | `marketing agency carlow town` | `/towns/carlow-town/` |
 | Tullow | `marketing agency tullow` | `/towns/tullow/` |
 
+### Clare (3 towns, 12 targets)
+
+| town | primary target | page |
+|---|---|---|
+| Ennis | `marketing agency ennis` | `/towns/ennis/` |
+| Kilrush | `marketing agency kilrush` | `/towns/kilrush/` |
+| Shannon | `marketing agency shannon` | `/towns/shannon/` |
+
+### Cork (8 towns, 32 targets)
+
+| town | primary target | page |
+|---|---|---|
+| Bandon | `marketing agency bandon` | `/towns/bandon/` |
+| Carrigaline | `marketing agency carrigaline` | `/towns/carrigaline/` |
+| Clonakilty | `marketing agency clonakilty` | `/towns/clonakilty/` |
+| Fermoy | `marketing agency fermoy` | `/towns/fermoy/` |
+| Macroom | `marketing agency macroom` | `/towns/macroom/` |
+| Mallow | `marketing agency mallow` | `/towns/mallow/` |
+| Midleton | `marketing agency midleton` | `/towns/midleton/` |
+| Youghal | `marketing agency youghal` | `/towns/youghal/` |
+
 ### Dublin (10 towns, 40 targets)
 
 | town | primary target | page |
@@ -69,6 +90,26 @@ Each town carries four viable targets: `marketing agency <town>`,
 | Rathfarnham | `marketing agency rathfarnham` | `/towns/rathfarnham/` |
 | Swords | `marketing agency swords` | `/towns/swords/` |
 | Tallaght | `marketing agency tallaght` | `/towns/tallaght/` |
+
+### Galway (7 towns, 28 targets)
+
+| town | primary target | page |
+|---|---|---|
+| Athenry | `marketing agency athenry` | `/towns/athenry/` |
+| Ballinasloe | `marketing agency ballinasloe` | `/towns/ballinasloe/` |
+| Clifden | `marketing agency clifden` | `/towns/clifden/` |
+| Galway City | `marketing agency galway city` | `/towns/galway-city/` |
+| Gort | `marketing agency gort` | `/towns/gort/` |
+| Loughrea | `marketing agency loughrea` | `/towns/loughrea/` |
+| Tuam | `marketing agency tuam` | `/towns/tuam/` |
+
+### Kerry (3 towns, 12 targets)
+
+| town | primary target | page |
+|---|---|---|
+| Killarney | `marketing agency killarney` | `/towns/killarney/` |
+| Listowel | `marketing agency listowel` | `/towns/listowel/` |
+| Tralee | `marketing agency tralee` | `/towns/tralee/` |
 
 ### Kildare (13 towns, 52 targets)
 
@@ -103,6 +144,21 @@ Each town carries four viable targets: `marketing agency <town>`,
 | Mountmellick | `marketing agency mountmellick` | `/towns/mountmellick/` |
 | Portlaoise | `marketing agency portlaoise` | `/towns/portlaoise/` |
 
+### Leitrim (2 towns, 8 targets)
+
+| town | primary target | page |
+|---|---|---|
+| Carrick-on-Shannon | `marketing agency carrick-on-shannon` | `/towns/carrick-on-shannon/` |
+| Manorhamilton | `marketing agency manorhamilton` | `/towns/manorhamilton/` |
+
+### Limerick (3 towns, 12 targets)
+
+| town | primary target | page |
+|---|---|---|
+| Adare | `marketing agency adare` | `/towns/adare/` |
+| Kilmallock | `marketing agency kilmallock` | `/towns/kilmallock/` |
+| Newcastle West | `marketing agency newcastle west` | `/towns/newcastle-west/` |
+
 ### Louth (3 towns, 12 targets)
 
 | town | primary target | page |
@@ -110,6 +166,16 @@ Each town carries four viable targets: `marketing agency <town>`,
 | Ardee | `marketing agency ardee` | `/towns/ardee/` |
 | Drogheda | `marketing agency drogheda` | `/towns/drogheda/` |
 | Dundalk | `marketing agency dundalk` | `/towns/dundalk/` |
+
+### Mayo (5 towns, 20 targets)
+
+| town | primary target | page |
+|---|---|---|
+| Ballina | `marketing agency ballina` | `/towns/ballina/` |
+| Ballinrobe | `marketing agency ballinrobe` | `/towns/ballinrobe/` |
+| Castlebar | `marketing agency castlebar` | `/towns/castlebar/` |
+| Claremorris | `marketing agency claremorris` | `/towns/claremorris/` |
+| Westport | `marketing agency westport` | `/towns/westport/` |
 
 ### Meath (10 towns, 40 targets)
 
@@ -133,6 +199,38 @@ Each town carries four viable targets: `marketing agency <town>`,
 | Birr | `marketing agency birr` | `/towns/birr/` |
 | Edenderry | `marketing agency edenderry` | `/towns/edenderry/` |
 | Tullamore | `marketing agency tullamore` | `/towns/tullamore/` |
+
+### Roscommon (3 towns, 12 targets)
+
+| town | primary target | page |
+|---|---|---|
+| Boyle | `marketing agency boyle` | `/towns/boyle/` |
+| Castlerea | `marketing agency castlerea` | `/towns/castlerea/` |
+| Roscommon Town | `marketing agency roscommon town` | `/towns/roscommon-town/` |
+
+### Sligo (2 towns, 8 targets)
+
+| town | primary target | page |
+|---|---|---|
+| Sligo Town | `marketing agency sligo town` | `/towns/sligo-town/` |
+| Tubbercurry | `marketing agency tubbercurry` | `/towns/tubbercurry/` |
+
+### Tipperary (4 towns, 16 targets)
+
+| town | primary target | page |
+|---|---|---|
+| Cashel | `marketing agency cashel` | `/towns/cashel/` |
+| Clonmel | `marketing agency clonmel` | `/towns/clonmel/` |
+| Nenagh | `marketing agency nenagh` | `/towns/nenagh/` |
+| Thurles | `marketing agency thurles` | `/towns/thurles/` |
+
+### Waterford (3 towns, 12 targets)
+
+| town | primary target | page |
+|---|---|---|
+| Dungarvan | `marketing agency dungarvan` | `/towns/dungarvan/` |
+| Tramore | `marketing agency tramore` | `/towns/tramore/` |
+| Waterford City | `marketing agency waterford city` | `/towns/waterford-city/` |
 
 ### Westmeath (5 towns, 20 targets)
 
@@ -171,10 +269,10 @@ Each town carries four viable targets: `marketing agency <town>`,
 
 | | |
 |---|---|
-| towns | 63 |
-| counties covered | 11 |
-| viable keyword targets | **252** |
-| deliberately excluded (`seo <town>`) | 126 |
+| towns | 106 |
+| counties covered | 22 |
+| viable keyword targets | **424** |
+| deliberately excluded (`seo <town>`) | 212 |
 
 Excluded on purpose: Dublin has ten town pages already and every
 Dublin query on the site sits between 73 and 96. No more were added.

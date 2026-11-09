@@ -3535,6 +3535,2328 @@ export const towns: Town[] = [
       },
     ],
   },
+  {
+    slug: "mallow",
+    name: "Mallow",
+    county: "Cork",
+    countySlug: "cork",
+    title: "Marketing Agency Mallow | Lead Generation in Cork",
+    description:
+      "A marketing agency working with Mallow businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Mallow businesses.",
+    intro: [
+      "Mallow is the commercial centre of north Cork, sitting on the Blackwater and the N20 between Cork city and Limerick, with a large agricultural catchment behind it.",
+      "It is a working town rather than a tourist one, and its trade comes from farming, food processing and the villages that have nowhere nearer to go.",
+    ],
+    sections: [
+      {
+        heading: "The north Cork catchment has no rival",
+        body: [
+          "Cork city is an hour south and Limerick an hour north. For most of north Cork, Mallow is simply the town, and that is a stronger commercial position than its population suggests.",
+          "Businesses here routinely underestimate how far their catchment reaches. Doneraile, Buttevant, Kanturk and the farmland between them all look to Mallow by default.",
+        ],
+      },
+      {
+        heading: "A corridor town without corridor competition",
+        body: [
+          "The N20 brings traffic through Mallow daily, but the firms competing for Cork and Limerick searches are not bidding on Mallow ones.",
+          "That leaves a decent-sized market with thin advertising competition, which is close to the ideal combination for a local business with a modest budget.",
+        ],
+      },
+    ],
+    covers: [
+      "Mallow",
+      "Buttevant",
+      "Doneraile",
+      "Kanturk",
+      "Castletownroche",
+      "Killavullen",
+      "Newtwopothouse",
+      "Charleville",
+    ],
+    faqs: [
+      {
+        q: "How far does Mallow's catchment reach?",
+        a: "Further than most owners assume. Much of north Cork has no nearer town of size, so the practical market is well beyond the town boundary.",
+      },
+      {
+        q: "Do we compete with Cork city?",
+        a: "For specialist purchases occasionally. For routine work the hour's drive keeps trade local.",
+      },
+      {
+        q: "Is it expensive to advertise here?",
+        a: "No. Cork city firms bid on city terms, not Mallow ones, so local visibility costs very little.",
+      },
+    ],
+  },
+  {
+    slug: "midleton",
+    name: "Midleton",
+    county: "Cork",
+    countySlug: "cork",
+    title: "Marketing Agency Midleton | Lead Generation in Cork",
+    description:
+      "A marketing agency working with Midleton businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Midleton businesses.",
+    intro: [
+      "Midleton has become east Cork's commercial centre and a substantial Cork city commuter town, growing fast on the back of the rail line and the N25.",
+      "The distillery and the market give it a profile beyond its size, but the everyday trade is driven by households that work in the city and spend locally.",
+    ],
+    sections: [
+      {
+        heading: "Commuter money, local spending",
+        body: [
+          "A large share of Midleton earns in Cork city and buys in Midleton, which is an unusually good position for a local business. The income is urban and the competition is not.",
+          "It also means decisions happen in the evening and at weekends. Response time matters here more than it does in a town that works locally.",
+        ],
+      },
+      {
+        heading: "Growth has outpaced the local trade",
+        body: [
+          "Housing has arrived faster than services, so a share of routine spending still leaves for Cork city out of habit rather than necessity.",
+          "Households that moved recently have no established supplier for anything, which makes them considerably cheaper to win than long-settled ones.",
+        ],
+      },
+    ],
+    covers: [
+      "Midleton",
+      "Carrigtwohill",
+      "Cobh",
+      "Whitegate",
+      "Cloyne",
+      "Castlemartyr",
+      "Killeagh",
+      "Glounthaune",
+    ],
+    faqs: [
+      {
+        q: "Do we lose business to Cork city?",
+        a: "Some, mostly to habit from people already commuting. Routine and urgent work generally stays in Midleton.",
+      },
+      {
+        q: "When do enquiries arrive?",
+        a: "Evenings and weekends. The town commutes, and whoever replies first usually gets the job.",
+      },
+      {
+        q: "Is Midleton competitive?",
+        a: "Growing, but nothing like Cork city. The auction here remains affordable.",
+      },
+    ],
+  },
+  {
+    slug: "carrigaline",
+    name: "Carrigaline",
+    county: "Cork",
+    countySlug: "cork",
+    title: "Marketing Agency Carrigaline | Lead Generation in Cork",
+    description:
+      "A marketing agency working with Carrigaline businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Carrigaline businesses.",
+    intro: [
+      "Carrigaline is one of the largest towns in County Cork and functions almost entirely as a Cork city satellite, with a population far bigger than its commercial centre.",
+      "That mismatch is the whole opportunity: thousands of households within minutes of businesses they have never heard of.",
+    ],
+    sections: [
+      {
+        heading: "A big population and a small high street",
+        body: [
+          "Carrigaline has the population of a substantial town and the retail of a much smaller one. Most of its spending leaves for Cork city or Douglas.",
+          "For a business based here, the customers are already local. The work is being found, not being chosen.",
+        ],
+      },
+      {
+        heading: "Competing with Douglas rather than with Cork",
+        body: [
+          "The real competitor is usually Douglas, which is on the way into the city and catches trade from people already driving.",
+          "Short-notice and routine work is where Carrigaline keeps its own, and that is the half of the market worth advertising into.",
+        ],
+      },
+    ],
+    covers: [
+      "Carrigaline",
+      "Passage West",
+      "Monkstown",
+      "Crosshaven",
+      "Ringaskiddy",
+      "Douglas",
+      "Ballinhassig",
+      "Shanbally",
+    ],
+    faqs: [
+      {
+        q: "Is Carrigaline big enough to advertise in?",
+        a: "Easily. It is one of the largest towns in the county; the issue is that its spending leaks rather than that its population is small.",
+      },
+      {
+        q: "Where does the trade go?",
+        a: "Mostly Douglas and Cork city, largely because people are driving that way already.",
+      },
+      {
+        q: "What wins here?",
+        a: "Being visible and being nearest. For routine work the drive into the city is not worth it if a local option is known.",
+      },
+    ],
+  },
+  {
+    slug: "clonakilty",
+    name: "Clonakilty",
+    county: "Cork",
+    countySlug: "cork",
+    title: "Marketing Agency Clonakilty | Lead Generation in Cork",
+    description:
+      "A marketing agency working with Clonakilty businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Clonakilty businesses.",
+    intro: [
+      "Clonakilty is west Cork's most commercially confident town, with a strong independent retail base, a genuine food reputation and a substantial summer season.",
+      "It is far enough from Cork city to be independent of it, which shapes everything about how businesses here trade.",
+    ],
+    sections: [
+      {
+        heading: "Two seasons, two markets",
+        body: [
+          "Summer brings visitors in volume and winter leaves the resident population and the farming hinterland. Businesses here live with a swing that inland towns do not.",
+          "Hospitality and retail should advertise to each market separately. Trades and home services should largely ignore the visitor half, which does not buy what they sell.",
+        ],
+      },
+      {
+        heading: "Independent retail changes the competition",
+        body: [
+          "Clonakilty has resisted the chain-store pattern better than most Irish towns, which means local competitors are genuine businesses with their own followings rather than branches.",
+          "Competing here is more about distinctiveness than price, and advertising that sounds generic performs noticeably worse than in a commuter town.",
+        ],
+      },
+    ],
+    covers: [
+      "Clonakilty",
+      "Rosscarbery",
+      "Dunmanway",
+      "Timoleague",
+      "Courtmacsherry",
+      "Ballinascarthy",
+      "Leap",
+      "Bandon",
+    ],
+    faqs: [
+      {
+        q: "How seasonal is Clonakilty?",
+        a: "Strongly for hospitality and retail, far less for trades and services, which serve the resident and farming population year-round.",
+      },
+      {
+        q: "Is the local competition strong?",
+        a: "Unusually so. Independent businesses here are well established, which rewards distinctive advertising over generic offers.",
+      },
+      {
+        q: "Do we compete with Cork city?",
+        a: "Rarely. The distance keeps most trade in west Cork.",
+      },
+    ],
+  },
+  {
+    slug: "bandon",
+    name: "Bandon",
+    county: "Cork",
+    countySlug: "cork",
+    title: "Marketing Agency Bandon | Lead Generation in Cork",
+    description:
+      "A marketing agency working with Bandon businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Bandon businesses.",
+    intro: [
+      "Bandon is the gateway to west Cork and a market town for a wide agricultural area, close enough to Cork city for commuting and far enough to keep its own trade.",
+      "It sits on the road everyone takes west, which gives it traffic without making it a destination.",
+    ],
+    sections: [
+      {
+        heading: "The junction for west Cork",
+        body: [
+          "Anyone travelling from Cork towards Clonakilty, Bantry or Skibbereen passes through or around Bandon. That makes it a natural stopping point and a natural service centre.",
+          "For businesses serving the wider west Cork area, Bandon is a more sensible base to advertise from than its own population would suggest.",
+        ],
+      },
+      {
+        heading: "Farming is the steady half",
+        body: [
+          "The agricultural catchment around Bandon is substantial and buys year-round, which cushions the seasonal swing that affects towns further west.",
+          "Businesses that serve both the farming trade and the commuter households have a more stable year than those relying on either alone.",
+        ],
+      },
+    ],
+    covers: [
+      "Bandon",
+      "Innishannon",
+      "Kinsale",
+      "Enniskeane",
+      "Ballineen",
+      "Timoleague",
+      "Crookstown",
+      "Clonakilty",
+    ],
+    faqs: [
+      {
+        q: "Is Bandon a commuter town?",
+        a: "Partly. It commutes to Cork city and also serves a large farming catchment, which makes its trade steadier than either alone.",
+      },
+      {
+        q: "Should we advertise further west?",
+        a: "Often worth it. Bandon is the practical service centre for a lot of west Cork.",
+      },
+      {
+        q: "How competitive is it?",
+        a: "Moderate locally, very light compared with Cork city.",
+      },
+    ],
+  },
+  {
+    slug: "fermoy",
+    name: "Fermoy",
+    county: "Cork",
+    countySlug: "cork",
+    title: "Marketing Agency Fermoy | Lead Generation in Cork",
+    description:
+      "A marketing agency working with Fermoy businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Fermoy businesses.",
+    intro: [
+      "Fermoy sits on the Blackwater in north Cork, bypassed by the M8 and serving an agricultural catchment that reaches towards Tipperary and Waterford.",
+      "The motorway took the through-traffic and left the local market, which for most businesses was the part worth keeping.",
+    ],
+    sections: [
+      {
+        heading: "After the bypass",
+        body: [
+          "Fermoy lost passing trade when the M8 opened and kept deliberate trade. For a business selling booked services rather than coffee and fuel, that is a smaller loss than it sounds.",
+          "What it does mean is that being found online replaced being seen from the road, and the towns that adjusted to that did considerably better than the ones that did not.",
+        ],
+      },
+      {
+        heading: "A catchment across three counties",
+        body: [
+          "The farmland around Fermoy reaches towards Mitchelstown, Lismore and the Tipperary border. Those villages have no nearer town of size.",
+          "County-based targeting removes a real part of that market, which is why driving time is the better unit here as in every rural town.",
+        ],
+      },
+    ],
+    covers: [
+      "Fermoy",
+      "Mitchelstown",
+      "Castlelyons",
+      "Rathcormac",
+      "Glanworth",
+      "Kilworth",
+      "Lismore",
+      "Araglin",
+    ],
+    faqs: [
+      {
+        q: "Did the M8 hurt Fermoy?",
+        a: "For passing trade yes. For booked services it mainly shifted visibility from the roadside to online.",
+      },
+      {
+        q: "How wide is the catchment?",
+        a: "Wide, and it crosses into Waterford and Tipperary. Setting a radius by county removes customers nearer than much of Cork.",
+      },
+      {
+        q: "Is it cheap to advertise here?",
+        a: "Very. North Cork gets almost no attention from city firms.",
+      },
+    ],
+  },
+  {
+    slug: "macroom",
+    name: "Macroom",
+    county: "Cork",
+    countySlug: "cork",
+    title: "Marketing Agency Macroom | Lead Generation in Cork",
+    description:
+      "A marketing agency working with Macroom businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Macroom businesses.",
+    intro: [
+      "Macroom sits on the main road between Cork and Kerry, serving mid-Cork and the Gaeltacht country to its west, with a recently opened bypass.",
+      "It is the last town of any size before the Kerry mountains, which gives it a catchment with genuinely nowhere else to go.",
+    ],
+    sections: [
+      {
+        heading: "The last town before the hills",
+        body: [
+          "West of Macroom the country opens out and the towns get smaller. Ballyvourney, Inchigeelagh and the Gaeltacht villages look to Macroom for anything they cannot get locally.",
+          "That catchment is sparse but loyal, because the alternative is a long drive to Cork city.",
+        ],
+      },
+      {
+        heading: "The bypass changed the traffic, not the market",
+        body: [
+          "Through-traffic to Kerry now passes by rather than through. The resident and farming market is unchanged, and it was always the more valuable half.",
+          "The practical effect is the same as in Fermoy: online visibility now does the job the main road used to do.",
+        ],
+      },
+    ],
+    covers: [
+      "Macroom",
+      "Ballyvourney",
+      "Inchigeelagh",
+      "Coachford",
+      "Dripsey",
+      "Ballymakeera",
+      "Kilnamartyra",
+      "Crookstown",
+    ],
+    faqs: [
+      {
+        q: "Did the bypass hurt local trade?",
+        a: "Impulse and passing trade, yes. The resident and farming market, which is most of the business here, is unchanged.",
+      },
+      {
+        q: "How far west does the catchment reach?",
+        a: "Well into the Gaeltacht. Those villages have no nearer alternative to Macroom.",
+      },
+      {
+        q: "Do we compete with Cork city?",
+        a: "For big purchases occasionally. The drive keeps routine work local.",
+      },
+    ],
+  },
+  {
+    slug: "youghal",
+    name: "Youghal",
+    county: "Cork",
+    countySlug: "cork",
+    title: "Marketing Agency Youghal | Lead Generation in Cork",
+    description:
+      "A marketing agency working with Youghal businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Youghal businesses.",
+    intro: [
+      "Youghal sits on the Blackwater estuary at the Waterford boundary, a historic walled town with a beach, a strong summer season and a quiet winter.",
+      "It is far enough from Cork city to be independent and close enough to Dungarvan to trade across the county line.",
+    ],
+    sections: [
+      {
+        heading: "A seaside town's year",
+        body: [
+          "The summer brings visitors and the winter does not. For hospitality, retail and anything near the beach, the swing is severe and a flat annual budget handles it badly.",
+          "For trades and home services the resident population is steady, and the seasonal story is mostly somebody else's.",
+        ],
+      },
+      {
+        heading: "Trading into Waterford",
+        body: [
+          "Dungarvan is close and the boundary means nothing in practice. People cross it routinely for work and shopping.",
+          "A campaign stopping at the county line gives away part of a market that already regards Youghal as local.",
+        ],
+      },
+    ],
+    covers: [
+      "Youghal",
+      "Killeagh",
+      "Castlemartyr",
+      "Ardmore",
+      "Dungarvan",
+      "Ladysbridge",
+      "Shanagarry",
+      "Clashmore",
+    ],
+    faqs: [
+      {
+        q: "How seasonal is the market?",
+        a: "Very, for anything tourist-facing. Trades and home services see a much steadier year.",
+      },
+      {
+        q: "Should we advertise into Waterford?",
+        a: "Often yes. Ardmore and the Dungarvan side are close and people cross the boundary without thinking.",
+      },
+      {
+        q: "Is Youghal competitive?",
+        a: "Lightly. It is far enough from Cork city that its firms do not bid here.",
+      },
+    ],
+  },
+  {
+    slug: "tralee",
+    name: "Tralee",
+    county: "Kerry",
+    countySlug: "kerry",
+    title: "Marketing Agency Tralee | Lead Generation in Kerry",
+    description:
+      "A marketing agency working with Tralee businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Tralee businesses.",
+    intro: [
+      "Tralee is the county town of Kerry and its administrative and commercial centre, with a catchment covering most of the north and west of the county.",
+      "Unlike Killarney it is not tourism-led, which makes its trade steadier and its businesses less exposed to the season.",
+    ],
+    sections: [
+      {
+        heading: "The working capital of Kerry",
+        body: [
+          "Tralee has the county's administration, its largest hospital and its institute, which gives it a resident professional population that Killarney does not have.",
+          "For businesses selling to residents rather than visitors, Tralee is a considerably more reliable market than the tourist towns an hour away.",
+        ],
+      },
+      {
+        heading: "A catchment with no close rival",
+        body: [
+          "Limerick is well over an hour away and Cork further. North and west Kerry has no alternative centre, so Tralee serves a very wide area by default.",
+          "That reach is the main asset here, and campaigns drawn tightly around the town routinely leave most of it out.",
+        ],
+      },
+    ],
+    covers: [
+      "Tralee",
+      "Castleisland",
+      "Listowel",
+      "Ardfert",
+      "Blennerville",
+      "Fenit",
+      "Abbeydorney",
+      "Killorglin",
+    ],
+    faqs: [
+      {
+        q: "Is Tralee seasonal?",
+        a: "Far less than Killarney. It is an administrative and service town, so resident demand carries the year.",
+      },
+      {
+        q: "How far does the catchment reach?",
+        a: "Across most of north and west Kerry. There is no competing centre of size nearby.",
+      },
+      {
+        q: "Is it cheap to advertise in?",
+        a: "Yes. Kerry gets very little attention from Dublin or Cork firms.",
+      },
+    ],
+  },
+  {
+    slug: "killarney",
+    name: "Killarney",
+    county: "Kerry",
+    countySlug: "kerry",
+    title: "Marketing Agency Killarney | Lead Generation in Kerry",
+    description:
+      "A marketing agency working with Killarney businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Killarney businesses.",
+    intro: [
+      "Killarney is Ireland's most tourism-dependent town of its size, with a visitor economy that dwarfs its resident population for much of the year.",
+      "That makes it unlike anywhere else in Kerry commercially, and the usual local marketing assumptions do not apply.",
+    ],
+    sections: [
+      {
+        heading: "Two completely different customers",
+        body: [
+          "Visitors and residents behave nothing alike. Tourists decide in minutes, never return, and search in English from outside Ireland. Residents are the repeat trade that carries the winter.",
+          "Hospitality and retail need both and must advertise to each separately. Trades and home services should usually ignore the visitor market entirely, because it does not buy what they sell.",
+        ],
+      },
+      {
+        heading: "The off-season is the real test",
+        body: [
+          "A business here that only works between May and September is not a business, it is a season. The ones that last build resident and local-trade demand to carry the rest of the year.",
+          "That means advertising in the quiet months, which is exactly when most Killarney businesses stop. The auction in February is close to empty.",
+        ],
+      },
+    ],
+    covers: [
+      "Killarney",
+      "Kilcummin",
+      "Fossa",
+      "Beaufort",
+      "Kilgarvan",
+      "Barraduff",
+      "Milltown",
+      "Killorglin",
+    ],
+    faqs: [
+      {
+        q: "Should we target tourists?",
+        a: "Only if you sell to them. For trades and home services the visitor market is a distraction that looks like volume.",
+      },
+      {
+        q: "When should we advertise?",
+        a: "If you serve residents, through the quiet months when nobody else is bidding. That is when attention is cheapest.",
+      },
+      {
+        q: "Is Killarney expensive to advertise in?",
+        a: "In season and for hospitality terms, yes by Kerry standards. Outside that it is very cheap.",
+      },
+    ],
+  },
+  {
+    slug: "listowel",
+    name: "Listowel",
+    county: "Kerry",
+    countySlug: "kerry",
+    title: "Marketing Agency Listowel | Lead Generation in Kerry",
+    description:
+      "A marketing agency working with Listowel businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Listowel businesses.",
+    intro: [
+      "Listowel is north Kerry's market town, known for its literary festival and its race week, with an agricultural catchment reaching towards the Shannon estuary.",
+      "Tralee is close enough to take the larger purchases and far enough to leave the everyday trade alone.",
+    ],
+    sections: [
+      {
+        heading: "A market town with two big weeks",
+        body: [
+          "Race week and the writers' week bring concentrated visitor demand into an otherwise local calendar. For hospitality that is a significant share of the year's trade.",
+          "For everyone else it is noise, and building a plan around it means advertising hard when the town is full of people who are not your customers.",
+        ],
+      },
+      {
+        heading: "The north Kerry catchment",
+        body: [
+          "Ballybunion, Tarbert, Ballyduff and the farmland between them look to Listowel. It is a sparse catchment and an uncontested one.",
+          "Tralee takes the bigger-ticket work, which is not worth fighting. The routine and urgent trade stays local if people can find it.",
+        ],
+      },
+    ],
+    covers: [
+      "Listowel",
+      "Ballybunion",
+      "Tarbert",
+      "Ballyduff",
+      "Moyvane",
+      "Abbeyfeale",
+      "Lixnaw",
+      "Duagh",
+    ],
+    faqs: [
+      {
+        q: "Do the festivals matter commercially?",
+        a: "Hugely for hospitality, very little for anything else. Most trades should plan around the ordinary year.",
+      },
+      {
+        q: "Do we lose business to Tralee?",
+        a: "For larger purchases, regularly. Day-to-day work usually stays in Listowel.",
+      },
+      {
+        q: "Should we advertise into Limerick?",
+        a: "Abbeyfeale and the Tarbert side are closer to Listowel than much of Kerry, so often yes.",
+      },
+    ],
+  },
+  {
+    slug: "newcastle-west",
+    name: "Newcastle West",
+    county: "Limerick",
+    countySlug: "limerick",
+    title: "Marketing Agency Newcastle West | Lead Generation in Limerick",
+    description:
+      "A marketing agency working with Newcastle West businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Newcastle West businesses.",
+    intro: [
+      "Newcastle West is the largest town in County Limerick outside the city and the commercial centre for the whole of west Limerick.",
+      "It serves a wide farming catchment that reaches towards Kerry, and it has no rival of similar size anywhere near it.",
+    ],
+    sections: [
+      {
+        heading: "West Limerick has one town",
+        body: [
+          "Abbeyfeale, Rathkeale, Askeaton and the villages between them have no nearer centre. Newcastle West is the default for anything the villages cannot provide.",
+          "That gives a business here a catchment far larger than the town's own population, and it is routinely under-targeted.",
+        ],
+      },
+      {
+        heading: "Far enough from the city to be safe",
+        body: [
+          "Limerick city is a real drive away. For routine services nobody makes that journey, which protects local trade more effectively than any advertising could.",
+          "The competition here is other west Limerick businesses, not city firms, and the cost of being visible reflects that.",
+        ],
+      },
+    ],
+    covers: [
+      "Newcastle West",
+      "Abbeyfeale",
+      "Rathkeale",
+      "Askeaton",
+      "Dromcollogher",
+      "Ardagh",
+      "Templeglantine",
+      "Athea",
+    ],
+    faqs: [
+      {
+        q: "How large is the catchment?",
+        a: "All of west Limerick in practice. There is no competing town of size between here and Tralee.",
+      },
+      {
+        q: "Do we compete with Limerick city?",
+        a: "Rarely for routine work. The distance does the defending.",
+      },
+      {
+        q: "Is advertising here expensive?",
+        a: "No. West Limerick is one of the quieter auctions in Munster.",
+      },
+    ],
+  },
+  {
+    slug: "adare",
+    name: "Adare",
+    county: "Limerick",
+    countySlug: "limerick",
+    title: "Marketing Agency Adare | Lead Generation in Limerick",
+    description:
+      "A marketing agency working with Adare businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Adare businesses.",
+    intro: [
+      "Adare is a small, affluent heritage village on the N21, best known for its manor and golf course, with a visitor economy out of all proportion to its size.",
+      "The 2027 Ryder Cup at Adare Manor makes the next two years unlike anything the village has seen.",
+    ],
+    sections: [
+      {
+        heading: "A village with an international calendar",
+        body: [
+          "Adare already draws coach tourism and golf visitors year-round. The Ryder Cup in September 2027 will bring a concentration of international visitors and media that no Irish village of this size has handled before.",
+          "For hospitality, retail and anything visitor-facing, the preparation window is now rather than then. Businesses that are findable and bookable in advance will take a disproportionate share.",
+        ],
+      },
+      {
+        heading: "The resident market is small and wealthy",
+        body: [
+          "Outside the visitor trade, Adare is a small and affluent commuter village within reach of Limerick city. The resident catchment is limited but spends well.",
+          "For trades and home services that is the real market, and it extends to Croom, Patrickswell and the surrounding countryside rather than stopping at the village.",
+        ],
+      },
+    ],
+    covers: [
+      "Adare",
+      "Croom",
+      "Patrickswell",
+      "Rathkeale",
+      "Ballingarry",
+      "Kildimo",
+      "Fedamore",
+      "Limerick city",
+    ],
+    faqs: [
+      {
+        q: "Does the Ryder Cup change things?",
+        a: "For anything visitor-facing, considerably, and the preparation matters more than the week itself. For trades serving residents it changes very little.",
+      },
+      {
+        q: "Is the resident market big enough?",
+        a: "Small on its own. Including Croom, Patrickswell and the surrounding area makes it workable.",
+      },
+      {
+        q: "Is Adare expensive to advertise in?",
+        a: "Hospitality terms are competitive by Limerick standards. Local service terms are not.",
+      },
+    ],
+  },
+  {
+    slug: "kilmallock",
+    name: "Kilmallock",
+    county: "Limerick",
+    countySlug: "limerick",
+    title: "Marketing Agency Kilmallock | Lead Generation in Limerick",
+    description:
+      "A marketing agency working with Kilmallock businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Kilmallock businesses.",
+    intro: [
+      "Kilmallock is a historic walled town in south Limerick serving a strong dairy farming catchment, with Charleville and Limerick city at either end of it.",
+      "It is a working agricultural town rather than a commuter one, and its trade reflects that.",
+    ],
+    sections: [
+      {
+        heading: "Dairy country",
+        body: [
+          "South Limerick is some of the best dairy land in the country, and the businesses that do well here understand the farming year: when money moves, when work happens and when nobody answers the phone.",
+          "Advertising timed to the agricultural calendar rather than the retail one performs noticeably better in towns like this.",
+        ],
+      },
+      {
+        heading: "Between Charleville and the city",
+        body: [
+          "Charleville is close and Limerick city is reachable, so larger purchases leave. Routine and urgent work stays, and that is the market to advertise into.",
+          "The surrounding villages have no nearer option, which makes the rural half of the catchment the least contested part of it.",
+        ],
+      },
+    ],
+    covers: [
+      "Kilmallock",
+      "Charleville",
+      "Bruff",
+      "Bruree",
+      "Kilfinane",
+      "Hospital",
+      "Knocklong",
+      "Ballylanders",
+    ],
+    faqs: [
+      {
+        q: "Does the farming calendar matter?",
+        a: "A great deal. Timing campaigns to the agricultural year rather than the retail one makes a measurable difference here.",
+      },
+      {
+        q: "Do we lose trade to Charleville?",
+        a: "Some, and to Limerick city for larger purchases. Local work mostly stays.",
+      },
+      {
+        q: "How competitive is it?",
+        a: "Barely. South Limerick gets almost no advertising attention.",
+      },
+    ],
+  },
+  {
+    slug: "ennis",
+    name: "Ennis",
+    county: "Clare",
+    countySlug: "clare",
+    title: "Marketing Agency Ennis | Lead Generation in Clare",
+    description:
+      "A marketing agency working with Ennis businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Ennis businesses.",
+    intro: [
+      "Ennis is the county town of Clare and its commercial centre, serving a catchment that covers most of the county and reaches towards Limerick.",
+      "It has a substantial independent retail base and a traditional music reputation, but its trade is driven by residents rather than visitors.",
+    ],
+    sections: [
+      {
+        heading: "The only centre of size in Clare",
+        body: [
+          "Shannon is industrial, Kilrush is small and the rest of the county is villages. Ennis is where Clare shops, which gives it a catchment covering most of the county.",
+          "Limerick city is close enough to take some larger purchases, but for the bulk of routine trade Ennis has no real competitor inside Clare.",
+        ],
+      },
+      {
+        heading: "Close to Limerick without being in its shadow",
+        body: [
+          "The distance to Limerick is short enough for commuting and long enough that nobody drives there for ordinary services.",
+          "That leaves Ennis with city-adjacent incomes and county-town advertising costs, which is a favourable combination for local businesses.",
+        ],
+      },
+    ],
+    covers: [
+      "Ennis",
+      "Clarecastle",
+      "Barefield",
+      "Quin",
+      "Newmarket-on-Fergus",
+      "Corofin",
+      "Ennistymon",
+      "Shannon",
+    ],
+    faqs: [
+      {
+        q: "How large is Ennis's catchment?",
+        a: "Most of County Clare. There is no competing town of similar size within the county.",
+      },
+      {
+        q: "Do we compete with Limerick?",
+        a: "For specialist and larger purchases. Routine work stays in Ennis.",
+      },
+      {
+        q: "Is it expensive to advertise here?",
+        a: "Moderate by Clare standards, cheap compared with Limerick city or anywhere in Leinster's commuter belt.",
+      },
+    ],
+  },
+  {
+    slug: "shannon",
+    name: "Shannon",
+    county: "Clare",
+    countySlug: "clare",
+    title: "Marketing Agency Shannon | Lead Generation in Clare",
+    description:
+      "A marketing agency working with Shannon businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Shannon businesses.",
+    intro: [
+      "Shannon is a planned town built around the airport and its industrial estate, which makes it unlike any other town in Clare commercially.",
+      "Its population is substantial and its retail centre is small, so a great deal of local spending leaves for Ennis and Limerick.",
+    ],
+    sections: [
+      {
+        heading: "A business town with a residential problem",
+        body: [
+          "The free zone and the airport give Shannon a daytime population of workers who are not residents, and a resident population that shops elsewhere.",
+          "Knowing which of those two you sell to decides everything about how a campaign here should be built, and the two require completely different approaches.",
+        ],
+      },
+      {
+        heading: "Spending leaves for Ennis",
+        body: [
+          "Ennis is close and has the retail Shannon lacks, so routine spending drifts there by habit. That habit is the main competitor for a Shannon business.",
+          "It is also beatable, because the customers already live here. Visibility usually does more than any offer.",
+        ],
+      },
+    ],
+    covers: [
+      "Shannon",
+      "Newmarket-on-Fergus",
+      "Sixmilebridge",
+      "Bunratty",
+      "Cratloe",
+      "Ennis",
+      "Clarecastle",
+      "Quin",
+    ],
+    faqs: [
+      {
+        q: "Who is the customer here, workers or residents?",
+        a: "Both exist and they are not the same market. B2B services should target the free zone; consumer services should target the residential town.",
+      },
+      {
+        q: "Where does local spending go?",
+        a: "Mostly Ennis, out of habit rather than necessity, which makes it recoverable.",
+      },
+      {
+        q: "Does the airport help local business?",
+        a: "For logistics, hospitality and B2B services considerably. For most consumer trades very little.",
+      },
+    ],
+  },
+  {
+    slug: "kilrush",
+    name: "Kilrush",
+    county: "Clare",
+    countySlug: "clare",
+    title: "Marketing Agency Kilrush | Lead Generation in Clare",
+    description:
+      "A marketing agency working with Kilrush businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Kilrush businesses.",
+    intro: [
+      "Kilrush is west Clare's main town, on the Shannon estuary with a marina, serving a sparse coastal catchment towards Loop Head.",
+      "It is a long way from anywhere larger, which is the single most useful commercial fact about it.",
+    ],
+    sections: [
+      {
+        heading: "Remote enough to keep its trade",
+        body: [
+          "Ennis is a real drive and Limerick further still. For west Clare, Kilrush is the practical option and people do not casually go elsewhere.",
+          "A findable business here keeps its customers, because the alternative is an hour in the car.",
+        ],
+      },
+      {
+        heading: "A short but real season",
+        body: [
+          "The marina, Loop Head and the beaches bring summer visitors, which matters a great deal to hospitality and almost nothing to anyone else.",
+          "The resident and farming market is small, steady and uncontested, and for most trades that is the whole business.",
+        ],
+      },
+    ],
+    covers: [
+      "Kilrush",
+      "Kilkee",
+      "Carrigaholt",
+      "Doonbeg",
+      "Cooraclare",
+      "Labasheeda",
+      "Kildysart",
+      "Loop Head",
+    ],
+    faqs: [
+      {
+        q: "Is west Clare too small a market?",
+        a: "Small, but genuinely uncontested. Low volume with almost no competition suits a local business well.",
+      },
+      {
+        q: "How seasonal is it?",
+        a: "Severely for hospitality, barely at all for trades and home services.",
+      },
+      {
+        q: "How far do customers travel?",
+        a: "Considerable distances, because there is no nearer alternative. Rural catchments behave very differently to urban ones.",
+      },
+    ],
+  },
+  {
+    slug: "clonmel",
+    name: "Clonmel",
+    county: "Tipperary",
+    countySlug: "tipperary",
+    title: "Marketing Agency Clonmel | Lead Generation in Tipperary",
+    description:
+      "A marketing agency working with Clonmel businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Clonmel businesses.",
+    intro: [
+      "Clonmel is the largest town in Tipperary, sitting in the Suir valley with a genuine industrial base and a catchment reaching into Waterford.",
+      "It is a working town with its own economy rather than a satellite of anywhere, which is increasingly unusual in Ireland.",
+    ],
+    sections: [
+      {
+        heading: "An independent local economy",
+        body: [
+          "Clonmel has manufacturing, food production and services of its own. Its trade is not borrowed from a larger neighbour, which makes demand here steadier than in commuter towns.",
+          "It also means local businesses compete with each other rather than with city firms, and the advertising auction reflects that.",
+        ],
+      },
+      {
+        heading: "A catchment across the Waterford boundary",
+        body: [
+          "The Suir valley does not stop at the county line. Carrick-on-Suir, Ballymacarbry and the villages south of the river look to Clonmel.",
+          "Setting a campaign to Tipperary alone removes part of a market that already considers Clonmel its town.",
+        ],
+      },
+    ],
+    covers: [
+      "Clonmel",
+      "Carrick-on-Suir",
+      "Cahir",
+      "Fethard",
+      "Ballymacarbry",
+      "Ardfinnan",
+      "Clogheen",
+      "Newcastle",
+    ],
+    faqs: [
+      {
+        q: "Is Clonmel dependent on a larger city?",
+        a: "No, and that is unusual. It has its own industrial and service base, which makes demand steadier.",
+      },
+      {
+        q: "Should we advertise into Waterford?",
+        a: "Where the villages are nearer to you than much of Tipperary, yes. The valley crosses the boundary.",
+      },
+      {
+        q: "How competitive is it?",
+        a: "Locally competitive, but free of city firms bidding in. Costs are reasonable.",
+      },
+    ],
+  },
+  {
+    slug: "thurles",
+    name: "Thurles",
+    county: "Tipperary",
+    countySlug: "tipperary",
+    title: "Marketing Agency Thurles | Lead Generation in Tipperary",
+    description:
+      "A marketing agency working with Thurles businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Thurles businesses.",
+    intro: [
+      "Thurles is mid-Tipperary's market town, at the centre of some of the best dairy land in the country and home to the GAA's spiritual stadium.",
+      "Its trade is agricultural first and everything else second, which shapes when money moves and when it does not.",
+    ],
+    sections: [
+      {
+        heading: "Dairy sets the calendar",
+        body: [
+          "The farming year decides when spending happens in Thurles far more than any retail season does. Milk cheques, calving and silage all move money at predictable times.",
+          "Campaigns timed to that calendar rather than to Christmas and January perform noticeably better in towns like this, and almost nobody does it.",
+        ],
+      },
+      {
+        heading: "Match days are not a market",
+        body: [
+          "Semple Stadium brings large crowds on a handful of days a year. For hospitality near the ground that matters; for everyone else it is congestion rather than custom.",
+          "Building a plan around match days is a common error and usually means advertising hard to people who will never come back.",
+        ],
+      },
+    ],
+    covers: [
+      "Thurles",
+      "Templemore",
+      "Holycross",
+      "Littleton",
+      "Two-Mile-Borris",
+      "Urlingford",
+      "Borrisoleigh",
+      "Cashel",
+    ],
+    faqs: [
+      {
+        q: "Does the farming year really matter?",
+        a: "More than anything else here. Timing to the agricultural calendar is the single easiest improvement available in mid-Tipperary.",
+      },
+      {
+        q: "Do match days bring business?",
+        a: "For hospitality near the stadium, on a handful of days. For most businesses it is traffic rather than trade.",
+      },
+      {
+        q: "Is it cheap to advertise in?",
+        a: "Yes. Mid-Tipperary gets very little attention from larger firms.",
+      },
+    ],
+  },
+  {
+    slug: "nenagh",
+    name: "Nenagh",
+    county: "Tipperary",
+    countySlug: "tipperary",
+    title: "Marketing Agency Nenagh | Lead Generation in Tipperary",
+    description:
+      "A marketing agency working with Nenagh businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Nenagh businesses.",
+    intro: [
+      "Nenagh sits on the M7 in north Tipperary, between Limerick and Dublin, serving a catchment that reaches to Lough Derg and the Offaly border.",
+      "The motorway makes it accessible without making it a satellite of anywhere.",
+    ],
+    sections: [
+      {
+        heading: "On the corridor, not in anyone's shadow",
+        body: [
+          "Limerick is close enough for commuting and far enough that routine trade stays local. Dublin is reachable but irrelevant to day-to-day business.",
+          "That leaves Nenagh with good access and its own market, which is a better position than most towns on a motorway corridor manage.",
+        ],
+      },
+      {
+        heading: "Lough Derg adds a season",
+        body: [
+          "Ballina, Dromineer and the lakeshore bring summer visitors and boating traffic, which matters for hospitality and marine services.",
+          "For the rest of the town the market is residents and the farming catchment, steady through the year.",
+        ],
+      },
+    ],
+    covers: [
+      "Nenagh",
+      "Dromineer",
+      "Portroe",
+      "Borrisokane",
+      "Toomevara",
+      "Newport",
+      "Ballina",
+      "Cloughjordan",
+    ],
+    faqs: [
+      {
+        q: "Do we compete with Limerick?",
+        a: "For larger purchases sometimes. The distance keeps routine work in Nenagh.",
+      },
+      {
+        q: "Does Lough Derg matter commercially?",
+        a: "For hospitality and anything marine, considerably and seasonally. For other trades very little.",
+      },
+      {
+        q: "Is Nenagh expensive to advertise in?",
+        a: "No. North Tipperary is a quiet auction.",
+      },
+    ],
+  },
+  {
+    slug: "cashel",
+    name: "Cashel",
+    county: "Tipperary",
+    countySlug: "tipperary",
+    title: "Marketing Agency Cashel | Lead Generation in Tipperary",
+    description:
+      "A marketing agency working with Cashel businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Cashel businesses.",
+    intro: [
+      "Cashel is a small town with an internationally known monument, which gives it a visitor economy far larger than its population would suggest.",
+      "Away from the Rock it is an ordinary mid-Tipperary market town serving a farming catchment.",
+    ],
+    sections: [
+      {
+        heading: "A monument and a market town",
+        body: [
+          "The Rock brings coach tourism and day visitors in volume. For hospitality, retail and anything on the main street that is a real and seasonal market.",
+          "For trades, home services and agricultural suppliers it is irrelevant, and advertising built around it would reach almost nobody who buys.",
+        ],
+      },
+      {
+        heading: "The ordinary business is agricultural",
+        body: [
+          "The farmland around Cashel is good and the catchment buys year-round. That trade is steadier and more valuable than the visitor economy for most businesses here.",
+          "Knowing which of the two towns you are actually selling into is the first decision, and it changes everything that follows.",
+        ],
+      },
+    ],
+    covers: [
+      "Cashel",
+      "Golden",
+      "Dundrum",
+      "New Inn",
+      "Boherlahan",
+      "Rosegreen",
+      "Tipperary Town",
+      "Thurles",
+    ],
+    faqs: [
+      {
+        q: "Does tourism help local business?",
+        a: "Only for hospitality and main-street retail. For most trades the visitor market buys nothing.",
+      },
+      {
+        q: "What is the real market here?",
+        a: "Residents and the farming catchment, which trade steadily through the year.",
+      },
+      {
+        q: "Is Cashel competitive?",
+        a: "Hospitality terms somewhat, because of the tourism. Local service terms are very quiet.",
+      },
+    ],
+  },
+  {
+    slug: "waterford-city",
+    name: "Waterford City",
+    county: "Waterford",
+    countySlug: "waterford",
+    title: "Marketing Agency Waterford City | Lead Generation in Waterford",
+    description:
+      "A marketing agency working with Waterford City businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Waterford City businesses.",
+    intro: [
+      "Waterford is the south-east's regional centre, with a port, a university and an industrial base, serving a catchment that reaches into Kilkenny and Wexford.",
+      "It is the largest market in the south-east and considerably cheaper to compete in than any city on the east coast.",
+    ],
+    sections: [
+      {
+        heading: "The regional centre for three counties",
+        body: [
+          "South Kilkenny, west Wexford and all of Waterford look to the city for anything their own towns lack. That catchment is substantially larger than the city's own population.",
+          "Tramore, Dunmore East and the villages along the estuary are effectively suburbs in commercial terms, whatever the map says.",
+        ],
+      },
+      {
+        heading: "City scale without Dublin costs",
+        body: [
+          "Waterford has the market size of a city and the advertising competition of a large town. Dublin firms do not bid here and Cork firms rarely do.",
+          "For a business with a modest budget that combination is more favourable than anywhere of comparable size on the east coast.",
+        ],
+      },
+    ],
+    covers: [
+      "Waterford City",
+      "Tramore",
+      "Dunmore East",
+      "Passage East",
+      "Kilmacthomas",
+      "Portlaw",
+      "Ferrybank",
+      "Checkpoint",
+    ],
+    faqs: [
+      {
+        q: "How large is the catchment?",
+        a: "The biggest in the south-east, reaching into Kilkenny and Wexford as well as its own county.",
+      },
+      {
+        q: "Is it expensive to advertise in?",
+        a: "Far less than Dublin or Cork. It has city volume with large-town competition.",
+      },
+      {
+        q: "Does the university matter?",
+        a: "For hospitality, retail and student services yes. For home and trade services very little.",
+      },
+    ],
+  },
+  {
+    slug: "dungarvan",
+    name: "Dungarvan",
+    county: "Waterford",
+    countySlug: "waterford",
+    title: "Marketing Agency Dungarvan | Lead Generation in Waterford",
+    description:
+      "A marketing agency working with Dungarvan businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Dungarvan businesses.",
+    intro: [
+      "Dungarvan sits on the coast in west Waterford, with a harbour, a growing food reputation and the greenway bringing year-round visitors.",
+      "It is far enough from Waterford city to be independent and close enough to Youghal to trade across the Cork boundary.",
+    ],
+    sections: [
+      {
+        heading: "The greenway changed the season",
+        body: [
+          "The Waterford Greenway brought visitors spread across the year rather than concentrated into July and August, which is unusual for a coastal town.",
+          "That has made hospitality and retail here considerably steadier than in a conventional seaside resort, and it rewards advertising outside the summer in a way most coastal towns do not.",
+        ],
+      },
+      {
+        heading: "A west Waterford catchment",
+        body: [
+          "Cappoquin, Lismore, Ardmore and the Comeragh villages look to Dungarvan. Waterford city is far enough that routine trade stays west.",
+          "The catchment also reaches into east Cork, where Youghal is close and the boundary is ignored in practice.",
+        ],
+      },
+    ],
+    covers: [
+      "Dungarvan",
+      "Lismore",
+      "Cappoquin",
+      "Ardmore",
+      "Kilmacthomas",
+      "Ring",
+      "Clashmore",
+      "Youghal",
+    ],
+    faqs: [
+      {
+        q: "Is Dungarvan seasonal?",
+        a: "Less than most coastal towns, because the greenway spreads visitors across the year.",
+      },
+      {
+        q: "Do we compete with Waterford city?",
+        a: "For larger purchases occasionally. The distance keeps routine work in the west of the county.",
+      },
+      {
+        q: "Should we advertise into Cork?",
+        a: "Where Youghal and the border villages are nearer to you than much of Waterford, yes.",
+      },
+    ],
+  },
+  {
+    slug: "tramore",
+    name: "Tramore",
+    county: "Waterford",
+    countySlug: "waterford",
+    title: "Marketing Agency Tramore | Lead Generation in Waterford",
+    description:
+      "A marketing agency working with Tramore businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Tramore businesses.",
+    intro: [
+      "Tramore is a seaside resort that is also a Waterford city commuter town, which gives it two populations and two completely different trading patterns.",
+      "The summer belongs to visitors and the rest of the year belongs to residents who work in the city.",
+    ],
+    sections: [
+      {
+        heading: "Resort in summer, suburb the rest of the year",
+        body: [
+          "Few Irish towns switch character as completely. July and August bring day-trippers and holidaymakers; October to April is a commuter town with a beach.",
+          "A business here needs to know which population it serves. The ones that try to serve both with one message usually do neither well.",
+        ],
+      },
+      {
+        heading: "Commuter households decide in the evening",
+        body: [
+          "The resident half of Tramore works in Waterford city and makes decisions about local services after hours, like any commuter town.",
+          "That makes evening and weekend responsiveness worth more than additional budget, and it is the most common gap we find in towns of this shape.",
+        ],
+      },
+    ],
+    covers: [
+      "Tramore",
+      "Waterford City",
+      "Dunmore East",
+      "Fenor",
+      "Annestown",
+      "Kilmacthomas",
+      "Ferrybank",
+      "Dunhill",
+    ],
+    faqs: [
+      {
+        q: "Which market should we target?",
+        a: "Depends entirely on what you sell. Visitors and resident commuters want different things and respond to different messages.",
+      },
+      {
+        q: "Is the summer the whole business?",
+        a: "For beachfront hospitality largely. For trades and home services the resident population carries the year.",
+      },
+      {
+        q: "Do we compete with Waterford city?",
+        a: "Constantly, since most residents work there. Being the nearer option is the strongest card.",
+      },
+    ],
+  },
+  {
+    slug: "galway-city",
+    name: "Galway City",
+    county: "Galway",
+    countySlug: "galway",
+    title: "Marketing Agency Galway City | Lead Generation in Galway",
+    description:
+      "A marketing agency working with Galway City businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Galway City businesses.",
+    intro: [
+      "Galway is the capital of the west, with a university, a substantial medical technology sector and a tourist economy that runs most of the year.",
+      "It is the only city in Connacht and serves a catchment covering most of the province, which makes it a different proposition to every other town on this list.",
+    ],
+    sections: [
+      {
+        heading: "Three economies in one city",
+        body: [
+          "Galway has a student population, a medtech and tech employment base, and a visitor economy, and they behave nothing alike. A campaign that treats the city as one audience reaches none of them properly.",
+          "For most local service businesses the real market is the resident population and the surrounding county, not the festival crowd that dominates how the city is talked about.",
+        ],
+      },
+      {
+        heading: "Congestion shapes buying behaviour",
+        body: [
+          "Crossing Galway at the wrong time is genuinely slow, and people factor that in. A business on the right side of the city for a customer has an advantage that has nothing to do with price.",
+          "Targeting by side of the city rather than by the city as a whole consistently outperforms, and almost nobody does it.",
+        ],
+      },
+    ],
+    covers: [
+      "Galway City",
+      "Salthill",
+      "Oranmore",
+      "Barna",
+      "Moycullen",
+      "Claregalway",
+      "Bearna",
+      "Knocknacarra",
+    ],
+    faqs: [
+      {
+        q: "Should we target the whole city?",
+        a: "Usually not. Congestion means people buy on their own side of it, so splitting the targeting outperforms a single city-wide campaign.",
+      },
+      {
+        q: "Does the student population matter?",
+        a: "For hospitality, retail and rentals considerably. For home and trade services very little.",
+      },
+      {
+        q: "Is Galway expensive to advertise in?",
+        a: "The most competitive market in Connacht, but still far cheaper than Dublin or Cork.",
+      },
+    ],
+  },
+  {
+    slug: "tuam",
+    name: "Tuam",
+    county: "Galway",
+    countySlug: "galway",
+    title: "Marketing Agency Tuam | Lead Generation in Galway",
+    description:
+      "A marketing agency working with Tuam businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Tuam businesses.",
+    intro: [
+      "Tuam is north Galway's market town, a cathedral town with an agricultural catchment and the M17 now running past it towards Galway city.",
+      "The motorway made the city closer without making Tuam a suburb of it, which is a better outcome than most towns on a new road get.",
+    ],
+    sections: [
+      {
+        heading: "Closer to Galway, still its own town",
+        body: [
+          "The motorway cut the journey to the city substantially. That takes some larger purchases south and leaves the routine trade, which is the bulk of local business.",
+          "North Galway still has no alternative centre. Dunmore, Milltown and the villages between look to Tuam by default.",
+        ],
+      },
+      {
+        heading: "Agricultural trade sets the rhythm",
+        body: [
+          "The mart and the farming year drive more of the local economy than retail seasons do. Money moves when stock moves, and advertising timed to that does better.",
+          "That is true across the western market towns and it is routinely ignored by campaigns built on a Dublin retail calendar.",
+        ],
+      },
+    ],
+    covers: [
+      "Tuam",
+      "Dunmore",
+      "Milltown",
+      "Corofin",
+      "Abbeyknockmoy",
+      "Headford",
+      "Glenamaddy",
+      "Claregalway",
+    ],
+    faqs: [
+      {
+        q: "Did the motorway hurt Tuam?",
+        a: "It took some larger purchases to Galway city and left the routine trade. The net effect on local services has been modest.",
+      },
+      {
+        q: "How wide is the catchment?",
+        a: "All of north Galway in practice. There is no competing town of size.",
+      },
+      {
+        q: "Is it cheap to advertise here?",
+        a: "Very. North Galway gets almost no attention from city firms.",
+      },
+    ],
+  },
+  {
+    slug: "ballinasloe",
+    name: "Ballinasloe",
+    county: "Galway",
+    countySlug: "galway",
+    title: "Marketing Agency Ballinasloe | Lead Generation in Galway",
+    description:
+      "A marketing agency working with Ballinasloe businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Ballinasloe businesses.",
+    intro: [
+      "Ballinasloe sits on the Suck at the Roscommon boundary, on the M6 between Galway and Athlone, with an agricultural catchment spanning two counties.",
+      "Its October horse fair is among the oldest in Europe and brings a week unlike any other in the local calendar.",
+    ],
+    sections: [
+      {
+        heading: "A market that crosses the county line",
+        body: [
+          "The Roscommon side of Ballinasloe is minutes away and part of the same trading area. Campaigns set to County Galway alone remove a real share of the catchment.",
+          "This is the eastern edge of Galway and in practice it trades more with Roscommon and Athlone than with Galway city.",
+        ],
+      },
+      {
+        heading: "One enormous week, and fifty-one ordinary ones",
+        body: [
+          "The October Fair fills the town and matters a great deal to hospitality and anything equine. For most businesses it is a week of congestion rather than custom.",
+          "The sensible plan is built around the ordinary year, with the fair treated as an exception rather than a strategy.",
+        ],
+      },
+    ],
+    covers: [
+      "Ballinasloe",
+      "Aughrim",
+      "Kilconnell",
+      "Ahascragh",
+      "Creagh",
+      "Taughmaconnell",
+      "Athlone",
+      "Moylough",
+    ],
+    faqs: [
+      {
+        q: "Should we advertise into Roscommon?",
+        a: "Almost always. The boundary runs close to the town and the catchment ignores it.",
+      },
+      {
+        q: "Does the October Fair bring business?",
+        a: "For hospitality and equine trades, significantly. For most others it is traffic rather than trade.",
+      },
+      {
+        q: "Do we compete with Galway city?",
+        a: "Rarely. Ballinasloe is closer to Athlone and trades eastward more than west.",
+      },
+    ],
+  },
+  {
+    slug: "loughrea",
+    name: "Loughrea",
+    county: "Galway",
+    countySlug: "galway",
+    title: "Marketing Agency Loughrea | Lead Generation in Galway",
+    description:
+      "A marketing agency working with Loughrea businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Loughrea businesses.",
+    intro: [
+      "Loughrea sits on its lake in south Galway, just off the M6 between Galway city and Ballinasloe, serving a farming catchment towards the Clare boundary.",
+      "The motorway runs past rather than through, which left the town its market and took its passing trade.",
+    ],
+    sections: [
+      {
+        heading: "South Galway's service town",
+        body: [
+          "Gort is south, Ballinasloe east and Galway city west, all a real drive. The villages around Loughrea have no nearer option.",
+          "That catchment is sparse but genuinely uncontested, and it extends further than the town's population suggests.",
+        ],
+      },
+      {
+        heading: "The lake is amenity, not an economy",
+        body: [
+          "Loughrea's lake brings local recreation and some angling rather than a tourist season. Unlike the coastal towns, the market here does not swing with the weather.",
+          "That steadiness suits trades and home services, which can plan a flat year rather than chasing a summer.",
+        ],
+      },
+    ],
+    covers: [
+      "Loughrea",
+      "Bullaun",
+      "Kilchreest",
+      "Craughwell",
+      "Kilrickle",
+      "Woodford",
+      "Portumna",
+      "Athenry",
+    ],
+    faqs: [
+      {
+        q: "Is Loughrea seasonal?",
+        a: "Not materially. The lake is a local amenity rather than a tourist economy, so demand is steady.",
+      },
+      {
+        q: "How far does the catchment reach?",
+        a: "Across south Galway towards Portumna and Woodford, which have no nearer town.",
+      },
+      {
+        q: "Do we lose trade to Galway city?",
+        a: "For larger purchases. The drive keeps routine work local.",
+      },
+    ],
+  },
+  {
+    slug: "gort",
+    name: "Gort",
+    county: "Galway",
+    countySlug: "galway",
+    title: "Marketing Agency Gort | Lead Generation in Galway",
+    description:
+      "A marketing agency working with Gort businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Gort businesses.",
+    intro: [
+      "Gort sits in south Galway on the road between Galway and Ennis, at the edge of the Burren, with a farming catchment and a notably diverse population.",
+      "It is almost equidistant from Galway, Ennis and Limerick, which makes it a town people pass through more than stop in.",
+    ],
+    sections: [
+      {
+        heading: "Between three larger towns",
+        body: [
+          "Galway, Ennis and Loughrea are all a similar distance. Larger purchases scatter in all three directions and there is little point competing for them.",
+          "What stays is the short-notice and routine work, plus the farming trade, and that is a steadier market than it sounds.",
+        ],
+      },
+      {
+        heading: "A small town with an unusual mix",
+        body: [
+          "Gort has a more varied population than most towns its size, following years of migration into the area. That changes what sells and in some cases what language it should be sold in.",
+          "Advertising that assumes a uniform rural audience underperforms here in a way it would not twenty miles away.",
+        ],
+      },
+    ],
+    covers: [
+      "Gort",
+      "Kinvara",
+      "Ardrahan",
+      "Kilcolgan",
+      "Tubber",
+      "Peterswell",
+      "Crusheen",
+      "Corofin",
+    ],
+    faqs: [
+      {
+        q: "Is Gort too small to advertise in?",
+        a: "On its own it is thin. With Kinvara, Ardrahan and the Burren villages included it works.",
+      },
+      {
+        q: "Which larger town takes the trade?",
+        a: "All three, depending on direction. That is why competing for big-ticket work here rarely pays.",
+      },
+      {
+        q: "Does the population mix matter?",
+        a: "More than in most towns this size. It affects what sells and sometimes how it should be advertised.",
+      },
+    ],
+  },
+  {
+    slug: "clifden",
+    name: "Clifden",
+    county: "Galway",
+    countySlug: "galway",
+    title: "Marketing Agency Clifden | Lead Generation in Galway",
+    description:
+      "A marketing agency working with Clifden businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Clifden businesses.",
+    intro: [
+      "Clifden is the capital of Connemara, a small coastal town whose economy is almost entirely built on tourism and the scattered population of a very large rural area.",
+      "It is remote by Irish standards, and that remoteness defines both its market and its advantages.",
+    ],
+    sections: [
+      {
+        heading: "The only town in Connemara",
+        body: [
+          "Galway city is well over an hour away on slow roads. For the whole of Connemara, Clifden is the practical option for anything the villages cannot provide.",
+          "That makes the catchment geographically enormous and thinly populated, and it means a findable business here holds its customers absolutely.",
+        ],
+      },
+      {
+        heading: "A severe season",
+        body: [
+          "Summer brings visitors in volume and winter empties the town. Few places in Ireland swing as hard, and businesses here plan around it or fail.",
+          "For hospitality the summer is the year. For trades and services the resident and holiday-home market carries the rest, and that work is steadier than it appears.",
+        ],
+      },
+    ],
+    covers: [
+      "Clifden",
+      "Roundstone",
+      "Ballyconneely",
+      "Letterfrack",
+      "Cleggan",
+      "Recess",
+      "Renvyle",
+      "Oughterard",
+    ],
+    faqs: [
+      {
+        q: "How seasonal is Clifden?",
+        a: "Severely for hospitality. Trades and home services see steadier demand from residents and holiday homes.",
+      },
+      {
+        q: "How large is the catchment?",
+        a: "Geographically very large and sparsely populated. Clifden is the only town in Connemara.",
+      },
+      {
+        q: "Is advertising here cheap?",
+        a: "Among the cheapest in the country. Almost nobody competes for Connemara terms.",
+      },
+    ],
+  },
+  {
+    slug: "athenry",
+    name: "Athenry",
+    county: "Galway",
+    countySlug: "galway",
+    title: "Marketing Agency Athenry | Lead Generation in Galway",
+    description:
+      "A marketing agency working with Athenry businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Athenry businesses.",
+    intro: [
+      "Athenry is a medieval walled town that has become a Galway city commuter town, with rail and motorway access and housing growth to match.",
+      "Its history draws visitors and its location draws residents, and the two markets barely overlap.",
+    ],
+    sections: [
+      {
+        heading: "A commuter town with walls",
+        body: [
+          "Most of working Athenry travels to Galway city. That puts decisions about local services in the evening and at weekends, as in every commuter town.",
+          "Response time matters here more than budget. The first business to reply after six usually takes the work.",
+        ],
+      },
+      {
+        heading: "Growth without matching trade",
+        body: [
+          "Housing has arrived faster than local services, so a good share of routine spending still goes to Galway or Oranmore out of habit.",
+          "Recently arrived households have no fixed supplier for anything, which makes them cheaper to win than established ones anywhere else.",
+        ],
+      },
+    ],
+    covers: [
+      "Athenry",
+      "Oranmore",
+      "Craughwell",
+      "Loughrea",
+      "Monivea",
+      "Claregalway",
+      "Kiltulla",
+      "Galway City",
+    ],
+    faqs: [
+      {
+        q: "When do enquiries arrive?",
+        a: "Evenings and weekends. The town commutes to Galway and decisions happen after hours.",
+      },
+      {
+        q: "Do we lose trade to Galway city?",
+        a: "Routinely, largely to habit from people already travelling there.",
+      },
+      {
+        q: "Why does new housing matter?",
+        a: "New arrivals choose every supplier from scratch, which is the cheapest moment to win a customer.",
+      },
+    ],
+  },
+  {
+    slug: "castlebar",
+    name: "Castlebar",
+    county: "Mayo",
+    countySlug: "mayo",
+    title: "Marketing Agency Castlebar | Lead Generation in Mayo",
+    description:
+      "A marketing agency working with Castlebar businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Castlebar businesses.",
+    intro: [
+      "Castlebar is the county town of Mayo, its administrative centre and its largest retail market, serving a catchment covering most of the county.",
+      "It is a working town rather than a tourist one, which makes its trade steadier than Westport's an hour west.",
+    ],
+    sections: [
+      {
+        heading: "Mayo's administrative and retail centre",
+        body: [
+          "The county council, the hospital and the main retail are here, which gives Castlebar a resident professional population and year-round footfall that the coastal towns lack.",
+          "For businesses selling to residents rather than visitors, it is the most reliable market in the county.",
+        ],
+      },
+      {
+        heading: "A catchment with no close rival",
+        body: [
+          "Ballina is north, Westport west, and both are a drive. Central Mayo has no alternative to Castlebar, so the practical catchment is much wider than the town.",
+          "Campaigns drawn tightly around the town miss the villages that make up a good share of the real market.",
+        ],
+      },
+    ],
+    covers: [
+      "Castlebar",
+      "Balla",
+      "Turlough",
+      "Islandeady",
+      "Breaffy",
+      "Manulla",
+      "Claremorris",
+      "Westport",
+    ],
+    faqs: [
+      {
+        q: "Is Castlebar seasonal?",
+        a: "Far less than Westport. It is an administrative and retail town, so demand holds through the year.",
+      },
+      {
+        q: "How wide is the catchment?",
+        a: "Most of central Mayo. There is no competing town of size nearby.",
+      },
+      {
+        q: "Is it expensive to advertise in?",
+        a: "No. Mayo gets very little attention from firms outside the county.",
+      },
+    ],
+  },
+  {
+    slug: "westport",
+    name: "Westport",
+    county: "Mayo",
+    countySlug: "mayo",
+    title: "Marketing Agency Westport | Lead Generation in Mayo",
+    description:
+      "A marketing agency working with Westport businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Westport businesses.",
+    intro: [
+      "Westport is Mayo's tourism centre, a planned Georgian town below Croagh Patrick with a greenway, a harbour at Clew Bay and a visitor economy far larger than its population.",
+      "It is consistently among the best-regarded towns in Ireland, which brings visitors and raises local costs.",
+    ],
+    sections: [
+      {
+        heading: "A tourism town that learned to spread its season",
+        body: [
+          "The greenway, the pilgrimage and the festivals have pushed Westport's visitor trade well beyond July and August, which most Irish resorts never manage.",
+          "That makes hospitality here steadier than on the coast generally, and it rewards advertising in the shoulder months when competition for attention drops away.",
+        ],
+      },
+      {
+        heading: "Residents are the quieter half",
+        body: [
+          "Behind the visitor economy is an ordinary town with ordinary needs, and trades and home services sell into that rather than into tourism.",
+          "Those businesses often advertise as though the visitor market matters to them. It does not, and the spend is wasted on people who will never buy.",
+        ],
+      },
+    ],
+    covers: [
+      "Westport",
+      "Louisburgh",
+      "Newport",
+      "Murrisk",
+      "Islandeady",
+      "Kilmeena",
+      "Castlebar",
+      "Clew Bay",
+    ],
+    faqs: [
+      {
+        q: "Should we target tourists?",
+        a: "Only if you sell to them. For trades and home services the visitor market buys nothing.",
+      },
+      {
+        q: "How seasonal is Westport?",
+        a: "Less than most resorts. The greenway and pilgrimage spread demand across more of the year.",
+      },
+      {
+        q: "Is it expensive to advertise in?",
+        a: "Hospitality terms are the most competitive in Mayo. Local service terms are not.",
+      },
+    ],
+  },
+  {
+    slug: "ballina",
+    name: "Ballina",
+    county: "Mayo",
+    countySlug: "mayo",
+    title: "Marketing Agency Ballina | Lead Generation in Mayo",
+    description:
+      "A marketing agency working with Ballina businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Ballina businesses.",
+    intro: [
+      "Ballina is north Mayo's largest town, on the Moy, with a salmon fishery running through the middle of it and a catchment reaching into Sligo.",
+      "It is a working town with industry and agriculture behind it rather than a tourism economy.",
+    ],
+    sections: [
+      {
+        heading: "The north Mayo centre",
+        body: [
+          "Castlebar is a drive south and Sligo a drive east. North Mayo looks to Ballina, and the villages towards Killala and Crossmolina have no nearer option.",
+          "The catchment also crosses into Sligo, where the boundary matters less than the road does.",
+        ],
+      },
+      {
+        heading: "Angling is a niche, not the economy",
+        body: [
+          "The Moy draws anglers and that matters to a specific set of businesses. For everyone else it is scenery.",
+          "The real market is residents, farming and local industry, which trades steadily through the year without a season to plan around.",
+        ],
+      },
+    ],
+    covers: [
+      "Ballina",
+      "Killala",
+      "Crossmolina",
+      "Foxford",
+      "Bonniconlon",
+      "Enniscrone",
+      "Ballycastle",
+      "Ardnaree",
+    ],
+    faqs: [
+      {
+        q: "Does the salmon fishery drive trade?",
+        a: "For tackle, guiding and some hospitality, yes. For most businesses it is not a market.",
+      },
+      {
+        q: "Should we advertise into Sligo?",
+        a: "Where Enniscrone and the border villages are nearer to you than much of Mayo, yes.",
+      },
+      {
+        q: "Is Ballina competitive?",
+        a: "Locally, mildly. There is no outside competition bidding in.",
+      },
+    ],
+  },
+  {
+    slug: "claremorris",
+    name: "Claremorris",
+    county: "Mayo",
+    countySlug: "mayo",
+    title: "Marketing Agency Claremorris | Lead Generation in Mayo",
+    description:
+      "A marketing agency working with Claremorris businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Claremorris businesses.",
+    intro: [
+      "Claremorris sits at the centre of Mayo on the rail line and the N17, with one of the busiest livestock marts in the west behind it.",
+      "It is an agricultural town first, and its trade follows the farming year rather than the retail one.",
+    ],
+    sections: [
+      {
+        heading: "The mart is the local economy",
+        body: [
+          "Mart days move money and bring people into the town on a predictable rhythm. Businesses that understand that calendar do better than ones working off a retail one.",
+          "Advertising timed to the agricultural year is the cheapest improvement available in towns like this, and hardly anyone does it.",
+        ],
+      },
+      {
+        heading: "A junction town",
+        body: [
+          "Castlebar, Galway, Ballina and Tuam are all reachable, which scatters larger purchases in four directions.",
+          "What stays local is routine work and the farming trade, and that is a steadier market than the scattering suggests.",
+        ],
+      },
+    ],
+    covers: [
+      "Claremorris",
+      "Ballindine",
+      "Knock",
+      "Balla",
+      "Ballyhaunis",
+      "Hollymount",
+      "Ballinrobe",
+      "Kiltimagh",
+    ],
+    faqs: [
+      {
+        q: "Does the mart really matter?",
+        a: "A great deal. It sets the rhythm of local spending more reliably than any retail season.",
+      },
+      {
+        q: "Do we lose trade to Castlebar and Galway?",
+        a: "For larger purchases, in several directions. Routine work stays.",
+      },
+      {
+        q: "Does Knock bring business?",
+        a: "For hospitality near the shrine and the airport, yes. For most Claremorris trades very little.",
+      },
+    ],
+  },
+  {
+    slug: "ballinrobe",
+    name: "Ballinrobe",
+    county: "Mayo",
+    countySlug: "mayo",
+    title: "Marketing Agency Ballinrobe | Lead Generation in Mayo",
+    description:
+      "A marketing agency working with Ballinrobe businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Ballinrobe businesses.",
+    intro: [
+      "Ballinrobe sits in south Mayo between Lough Mask and Lough Corrib, with a racecourse, an angling trade and a farming catchment reaching towards Galway.",
+      "It is the last Mayo town before the Galway boundary and trades across it freely.",
+    ],
+    sections: [
+      {
+        heading: "South Mayo and north Galway together",
+        body: [
+          "Cong, Headford and the villages along the lakes look to Ballinrobe as readily as to anywhere in Galway. The county line is not a trading boundary here.",
+          "Setting a campaign to Mayo alone removes a genuine share of the catchment for administrative reasons that no customer recognises.",
+        ],
+      },
+      {
+        heading: "Angling and racing are seasonal extras",
+        body: [
+          "The lakes bring anglers and the racecourse brings crowds on fixed dates. Both matter to specific businesses and to nobody else.",
+          "The steady market is the farming catchment and the resident population, which buys through the year regardless of either.",
+        ],
+      },
+    ],
+    covers: [
+      "Ballinrobe",
+      "Cong",
+      "The Neale",
+      "Partry",
+      "Hollymount",
+      "Headford",
+      "Clonbur",
+      "Shrule",
+    ],
+    faqs: [
+      {
+        q: "Should we advertise into Galway?",
+        a: "Often yes. Headford, Cong and Shrule are part of the same practical catchment.",
+      },
+      {
+        q: "Do the races and angling bring trade?",
+        a: "To hospitality and specific suppliers on specific dates. Most businesses should plan around the ordinary year.",
+      },
+      {
+        q: "Is the market big enough?",
+        a: "Small but quiet. Low competition offsets low volume for most trades.",
+      },
+    ],
+  },
+  {
+    slug: "sligo-town",
+    name: "Sligo Town",
+    county: "Sligo",
+    countySlug: "sligo",
+    title: "Marketing Agency Sligo Town | Lead Generation in Sligo",
+    description:
+      "A marketing agency working with Sligo Town businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Sligo Town businesses.",
+    intro: [
+      "Sligo is the regional centre for the north-west, with a university, a hospital and a retail catchment reaching into Leitrim, Mayo and Donegal.",
+      "It also has a genuine surf and outdoor economy at Strandhill and Rosses Point, which few inland regional towns can claim.",
+    ],
+    sections: [
+      {
+        heading: "The capital of the north-west",
+        body: [
+          "There is no larger town between Sligo and Galway in one direction or Letterkenny in the other. That makes its catchment one of the widest of any town on this site.",
+          "South Donegal, north Mayo and most of Leitrim look to Sligo for anything their own towns lack.",
+        ],
+      },
+      {
+        heading: "Outdoor tourism alongside a working town",
+        body: [
+          "Strandhill and the surf trade bring a visitor economy that runs well beyond summer, and the Yeats connection brings a steadier cultural one.",
+          "Behind both is an ordinary regional town. Most trades and services sell into that, and should ignore the visitor market entirely.",
+        ],
+      },
+    ],
+    covers: [
+      "Sligo Town",
+      "Strandhill",
+      "Rosses Point",
+      "Collooney",
+      "Ballysadare",
+      "Grange",
+      "Drumcliff",
+      "Ballincar",
+    ],
+    faqs: [
+      {
+        q: "How large is the catchment?",
+        a: "Among the widest on this site. Sligo serves parts of four counties as the nearest centre of size.",
+      },
+      {
+        q: "Does the surf and outdoor trade matter?",
+        a: "For hospitality and anything outdoor, considerably and across more of the year than a conventional resort.",
+      },
+      {
+        q: "Is it expensive to advertise in?",
+        a: "No. The north-west is one of the quietest auctions in the country.",
+      },
+    ],
+  },
+  {
+    slug: "tubbercurry",
+    name: "Tubbercurry",
+    county: "Sligo",
+    countySlug: "sligo",
+    title: "Marketing Agency Tubbercurry | Lead Generation in Sligo",
+    description:
+      "A marketing agency working with Tubbercurry businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Tubbercurry businesses.",
+    intro: [
+      "Tubbercurry is south Sligo's market town, on the N17 between Sligo and Charlestown, serving a farming catchment with no nearer centre.",
+      "It is small, rural and almost entirely uncontested commercially.",
+    ],
+    sections: [
+      {
+        heading: "South Sligo has nowhere else",
+        body: [
+          "Sligo town is a real drive north and Charlestown a smaller option south. For south Sligo, Tubbercurry is the practical choice.",
+          "The catchment is sparse, but it is loyal for the straightforward reason that the alternative is forty minutes in the car.",
+        ],
+      },
+      {
+        heading: "Farming, and the road",
+        body: [
+          "The N17 brings passing traffic and the surrounding land brings farming trade. The second is worth considerably more than the first to most businesses here.",
+          "Timing to the agricultural year rather than a retail calendar does more for a Tubbercurry business than any increase in budget.",
+        ],
+      },
+    ],
+    covers: [
+      "Tubbercurry",
+      "Charlestown",
+      "Curry",
+      "Aclare",
+      "Gurteen",
+      "Ballymote",
+      "Coolaney",
+      "Bunninadden",
+    ],
+    faqs: [
+      {
+        q: "Is the market big enough?",
+        a: "Small, but genuinely uncontested. Low volume with almost no competition works for a local business.",
+      },
+      {
+        q: "Do we lose trade to Sligo town?",
+        a: "For larger purchases. The drive keeps routine work local.",
+      },
+      {
+        q: "What should campaigns be timed to?",
+        a: "The farming year. It moves money here far more reliably than retail seasons do.",
+      },
+    ],
+  },
+  {
+    slug: "roscommon-town",
+    name: "Roscommon Town",
+    county: "Roscommon",
+    countySlug: "roscommon",
+    title: "Marketing Agency Roscommon Town | Lead Generation in Roscommon",
+    description:
+      "A marketing agency working with Roscommon Town businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Roscommon Town businesses.",
+    intro: [
+      "Roscommon is the county town, an agricultural market centre in the middle of the country with Athlone to its south and Castlerea to its west.",
+      "It is small for a county town, and its catchment is farming rather than commuter.",
+    ],
+    sections: [
+      {
+        heading: "A county town in a farming county",
+        body: [
+          "Roscommon has the county's administration without a large population behind it. Its trade comes from the surrounding land rather than from a resident urban market.",
+          "That makes the agricultural calendar more relevant than the retail one, and it makes the catchment wider than the town.",
+        ],
+      },
+      {
+        heading: "Athlone takes the larger purchases",
+        body: [
+          "Athlone is close and considerably bigger, and it takes anything people will plan a trip for. That is not worth contesting.",
+          "Routine, urgent and agricultural work stays in Roscommon, and that is the half of the market to advertise into.",
+        ],
+      },
+    ],
+    covers: [
+      "Roscommon Town",
+      "Athleague",
+      "Knockcroghery",
+      "Ballymurray",
+      "Fuerty",
+      "Castlerea",
+      "Strokestown",
+      "Athlone",
+    ],
+    faqs: [
+      {
+        q: "Do we lose business to Athlone?",
+        a: "For larger purchases regularly. Routine and agricultural work stays local.",
+      },
+      {
+        q: "How wide is the catchment?",
+        a: "Wide and sparse. The surrounding villages have no nearer option.",
+      },
+      {
+        q: "Is advertising here cheap?",
+        a: "Among the cheapest anywhere. Roscommon attracts almost no outside competition.",
+      },
+    ],
+  },
+  {
+    slug: "boyle",
+    name: "Boyle",
+    county: "Roscommon",
+    countySlug: "roscommon",
+    title: "Marketing Agency Boyle | Lead Generation in Roscommon",
+    description:
+      "A marketing agency working with Boyle businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Boyle businesses.",
+    intro: [
+      "Boyle sits in north Roscommon below the Curlew Mountains, beside Lough Key, with a heritage town centre and a tourism trade alongside its farming catchment.",
+      "It is closer to Carrick-on-Shannon and Sligo than to Roscommon town, and trades accordingly.",
+    ],
+    sections: [
+      {
+        heading: "North Roscommon looks north",
+        body: [
+          "Carrick-on-Shannon is minutes away and Sligo reachable. Roscommon town is further and less relevant to daily trade here.",
+          "A campaign built around County Roscommon misses that entirely. The practical market runs north and east into Leitrim and Sligo.",
+        ],
+      },
+      {
+        heading: "Lough Key is a real seasonal market",
+        body: [
+          "The forest park draws day visitors and families in volume through the warmer months, which matters to hospitality and retail in the town.",
+          "For trades and services it is irrelevant, and the steady market is the resident and farming population.",
+        ],
+      },
+    ],
+    covers: [
+      "Boyle",
+      "Carrick-on-Shannon",
+      "Ballinafad",
+      "Croghan",
+      "Keadue",
+      "Frenchpark",
+      "Elphin",
+      "Ballyfarnon",
+    ],
+    faqs: [
+      {
+        q: "Should we target Leitrim and Sligo?",
+        a: "Usually yes. Carrick-on-Shannon is closer than Roscommon town and part of the same catchment.",
+      },
+      {
+        q: "Does Lough Key bring business?",
+        a: "To hospitality and retail seasonally. Not to most trades.",
+      },
+      {
+        q: "Is Boyle too small?",
+        a: "On its own, thin. With the surrounding villages and the Carrick side included it works.",
+      },
+    ],
+  },
+  {
+    slug: "castlerea",
+    name: "Castlerea",
+    county: "Roscommon",
+    countySlug: "roscommon",
+    title: "Marketing Agency Castlerea | Lead Generation in Roscommon",
+    description:
+      "A marketing agency working with Castlerea businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Castlerea businesses.",
+    intro: [
+      "Castlerea is west Roscommon's market town, on the rail line between Dublin and Westport, serving a farming catchment towards the Mayo boundary.",
+      "It is remote from every larger town, which is commercially useful for anyone based here.",
+    ],
+    sections: [
+      {
+        heading: "Distance is the advantage",
+        body: [
+          "Roscommon town, Castlebar and Athlone are all a genuine drive. Nobody makes that journey for routine services.",
+          "A business here that is findable keeps its customers, because the alternative costs an afternoon.",
+        ],
+      },
+      {
+        heading: "A catchment across the Mayo line",
+        body: [
+          "Ballyhaunis and the villages west look to Castlerea as readily as to anywhere in Mayo. The boundary is administrative rather than commercial.",
+          "Radius set by driving time picks that up; a county-based campaign silently drops it.",
+        ],
+      },
+    ],
+    covers: [
+      "Castlerea",
+      "Ballyhaunis",
+      "Frenchpark",
+      "Ballinlough",
+      "Loughglynn",
+      "Ballaghaderreen",
+      "Dunmore",
+      "Williamstown",
+    ],
+    faqs: [
+      {
+        q: "Is Castlerea too remote?",
+        a: "The remoteness is the advantage. There is no nearer alternative, so local trade stays local.",
+      },
+      {
+        q: "Should we advertise into Mayo?",
+        a: "Where villages there are nearer to you than much of Roscommon, yes.",
+      },
+      {
+        q: "What volume should we expect?",
+        a: "Modest, at very low cost. The aim is most of a small market.",
+      },
+    ],
+  },
+  {
+    slug: "carrick-on-shannon",
+    name: "Carrick-on-Shannon",
+    county: "Leitrim",
+    countySlug: "leitrim",
+    title: "Marketing Agency Carrick-on-Shannon | Lead Generation in Leitrim",
+    description:
+      "A marketing agency working with Carrick-on-Shannon businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Carrick-on-Shannon businesses.",
+    intro: [
+      "Carrick-on-Shannon is the county town of Leitrim and the Shannon's main boating centre, with a hospitality trade well out of proportion to its size.",
+      "It has grown faster than any other town in the north-west and draws trade from Roscommon and Sligo as well as Leitrim.",
+    ],
+    sections: [
+      {
+        heading: "A small county town with a big weekend economy",
+        body: [
+          "The marina, the restaurants and the party trade give Carrick a weekend economy that most towns of its size could not support.",
+          "For hospitality that is the business. For everyone else it is a Saturday-night crowd that buys nothing, and advertising built around it misses the actual market.",
+        ],
+      },
+      {
+        heading: "Trading into three counties",
+        body: [
+          "The Roscommon side of the bridge is part of the town in practice, and Boyle and Drumshanbo are close. Leitrim alone is too small a target.",
+          "Setting the radius by driving time rather than by county is more important here than almost anywhere, because the county is narrow and the catchment is not.",
+        ],
+      },
+    ],
+    covers: [
+      "Carrick-on-Shannon",
+      "Boyle",
+      "Drumshanbo",
+      "Leitrim village",
+      "Jamestown",
+      "Drumsna",
+      "Mohill",
+      "Keshcarrigan",
+    ],
+    faqs: [
+      {
+        q: "Is Leitrim too small a market?",
+        a: "The county is, which is why the radius should cross into Roscommon and Sligo. The practical catchment is considerably larger.",
+      },
+      {
+        q: "Does the hospitality trade matter to us?",
+        a: "Only if you are in it. For trades and services the weekend crowd buys nothing.",
+      },
+      {
+        q: "Is advertising here cheap?",
+        a: "Among the cheapest in the country, with almost no competition for local terms.",
+      },
+    ],
+  },
+  {
+    slug: "manorhamilton",
+    name: "Manorhamilton",
+    county: "Leitrim",
+    countySlug: "leitrim",
+    title: "Marketing Agency Manorhamilton | Lead Generation in Leitrim",
+    description:
+      "A marketing agency working with Manorhamilton businesses: Google Ads, Meta ads, SEO, web design and social. Reported in enquiries, not impressions.",
+    h1: "A marketing agency for Manorhamilton businesses.",
+    intro: [
+      "Manorhamilton sits in the uplands of north Leitrim, in genuinely remote country between Sligo, Donegal and Fermanagh.",
+      "It is one of the most isolated towns of its size in the country, and that shapes everything about its trade.",
+    ],
+    sections: [
+      {
+        heading: "Remote even by western standards",
+        body: [
+          "Sligo is the nearest town of size and the roads are slow. For north Leitrim, Manorhamilton is effectively the only option.",
+          "That gives a business here almost complete protection from larger competitors, provided people can find it at all.",
+        ],
+      },
+      {
+        heading: "A catchment across the border",
+        body: [
+          "North Leitrim trades with Fermanagh as well as with Sligo and Donegal. The border is close and crossed routinely.",
+          "That adds a dimension few towns on this site have, and it means currency and cross-border logistics are real considerations rather than theoretical ones.",
+        ],
+      },
+    ],
+    covers: [
+      "Manorhamilton",
+      "Kinlough",
+      "Dromahair",
+      "Glenfarne",
+      "Rossinver",
+      "Kiltyclogher",
+      "Ballyshannon",
+      "Sligo Town",
+    ],
+    faqs: [
+      {
+        q: "Is the market big enough?",
+        a: "Small, but entirely uncontested. There is no nearer alternative for north Leitrim.",
+      },
+      {
+        q: "Does the border matter?",
+        a: "It is close and crossed routinely, which adds cross-border considerations most towns do not have.",
+      },
+      {
+        q: "How far will customers travel?",
+        a: "Considerable distances. In country this remote a drive is normal rather than exceptional.",
+      },
+    ],
+  },
 ];
 
 export const townBySlug = (slug: string) => towns.find((t) => t.slug === slug);
